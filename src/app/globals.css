@@ -1,0 +1,76 @@
+@import "tailwindcss";
+
+:root {
+  --navy: #0d1b2a;
+  --navy-light: #1b2e45;
+  --gold: #c9a84c;
+  --gold-light: #e8c97a;
+  --cream: #faf8f4;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-inter), system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Luxury prose styles */
+.prose-luxury h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #0d1b2a;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+.prose-luxury h3 {
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: #1b2e45;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.prose-luxury p {
+  line-height: 1.75;
+  color: #374151;
+  margin-bottom: 1rem;
+}
+
+.prose-luxury ul {
+  list-style: disc;
+  padding-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.prose-luxury li {
+  color: #374151;
+  margin-bottom: 0.35rem;
+  line-height: 1.65;
+}
+
+/* Gold underline decoration */
+.gold-underline {
+  text-decoration: underline;
+  text-decoration-color: #c9a84c;
+  text-underline-offset: 4px;
+  text-decoration-thickness: 2px;
+}
+
+/* Price badge */
+.price-badge {
+  background: linear-gradient(135deg, #c9a84c, #e8c97a);
+  color: #0d1b2a;
+  font-weight: 700;
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px;
+  font-size: 0.85rem;
+}

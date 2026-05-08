@@ -1,6 +1,5 @@
 import { MetadataRoute } from "next";
 
-export const dynamic = "force-static";
 import { cities } from "@/data/cities";
 import { routes } from "@/data/routes";
 import { operators } from "@/data/operators";

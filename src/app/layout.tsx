@@ -142,7 +142,7 @@ function SiteFooter() {
         </div>
         <div className="pt-6 border-t border-slate-700 flex flex-col sm:flex-row justify-between gap-3 text-xs text-slate-500">
           <div>© {new Date().getFullYear()} PrivatjetVergleich.de. Alle Rechte vorbehalten.</div>
-          <div>Unabhängiger Ratgeber — kein Flugbetrieb, kein Charter-Unternehmen.</div>
+          <div>Unabhängiger Ratgeber. Kein Flugbetrieb, kein Charter-Unternehmen.</div>
         </div>
       </div>
     </footer>

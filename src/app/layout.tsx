@@ -50,7 +50,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Analytics />
         <SpeedInsights />
         <Script
-          src="https://plausible.io/js/pa-nzIhZU8l03BvdhXDeFPDb.js"
+          src="https://plausible.io/js/pa-Yvop3GdjshxXyVNci-qaM.js"
           strategy="afterInteractive"
         />
         <Script id="plausible-init" strategy="afterInteractive">{`

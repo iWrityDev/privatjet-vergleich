@@ -38,6 +38,9 @@ export const metadata: Metadata = {
   },
   twitter: { card: "summary_large_image", images: ["/og-default.png"] },
   robots: { index: true, follow: true },
+  verification: {
+    google: "gzyEN8FnB2c_K5x3iI2TzA6QT21Ekolg_Z60hwm7Lo0",
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

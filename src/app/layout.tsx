@@ -88,6 +88,7 @@ function SiteHeader() {
           <Link href="/reiseziele" className="hover:text-amber-700 transition-colors">Reiseziele</Link>
           <Link href="/flugzeuge" className="hover:text-amber-700 transition-colors">Flugzeuge</Link>
           <Link href="/jet-cards" className="hover:text-amber-700 transition-colors">Jet Cards</Link>
+          <Link href="/vergleich" className="hover:text-amber-700 transition-colors">Vergleiche</Link>
           <Link href="/ratgeber" className="hover:text-amber-700 transition-colors">Ratgeber</Link>
         </nav>
         <Link
@@ -143,6 +144,7 @@ function SiteFooter() {
             <div className="font-semibold text-white mb-3 text-sm">Info</div>
             <ul className="space-y-2 text-sm text-slate-400">
               <li><Link href="/ratgeber" className="hover:text-amber-400 transition-colors">Ratgeber</Link></li>
+              <li><Link href="/vergleich" className="hover:text-amber-400 transition-colors">Vergleiche</Link></li>
               <li><Link href="/ueber-uns" className="hover:text-amber-400 transition-colors">Über uns</Link></li>
               <li><Link href="/affiliate-hinweis" className="hover:text-amber-400 transition-colors">Affiliate-Hinweis</Link></li>
               <li><Link href="/datenschutz" className="hover:text-amber-400 transition-colors">Datenschutz</Link></li>

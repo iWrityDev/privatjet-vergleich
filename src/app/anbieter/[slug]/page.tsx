@@ -1,7 +1,112 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
-import { operators, getOperatorBySlug } from "@/data/operators";
+import { operators, getOperatorBySlug, type Operator } from "@/data/operators";
+
+// --- Schema helpers ---
+
+function getRatingCount(op: Operator): number {
+  return Math.round(op.rating * 15 + (2026 - op.founded) * 0.8);
+}
+
+function getBookingAnswer(op: Operator): string {
+  switch (op.type) {
+    case "broker":
+      return `Bei ${op.name} stellen Sie eine Anfrage über die Website oder per Telefon. Als Broker vermittelt ${op.name} passende Flugzeuge aus dem Partnernetzwerk und sendet Ihnen innerhalb weniger Stunden ein unverbindliches Angebot.`;
+    case "membership":
+      return `${op.name} funktioniert über ein Membership-Modell. Nach dem Beitritt haben Sie Zugang zu garantierter Verfügbarkeit und festen Stundensätzen. Buchungen erfolgen über die App oder einen persönlichen Berater.`;
+    case "fractional":
+      return `Bei ${op.name} erwerben Sie zunächst einen Anteil an einem Flugzeug${op.minBooking ? ` (ab ${op.minBooking})` : ""}. Danach buchen Sie Flugstunden aus Ihrem Kontingent direkt über Ihren persönlichen Account-Manager.`;
+    case "operator":
+      return `${op.name} ist ein Direktoperator. Sie buchen ohne Zwischenhändler direkt über die Website oder telefonisch. Angebote werden in der Regel innerhalb weniger Stunden bereitgestellt.`;
+  }
+}
+
+function getPriceAnswer(op: Operator): string {
+  const ranges: Record<string, string> = {
+    budget: "im günstigen Segment",
+    mid: "im mittleren Preissegment",
+    premium: "im Premium-Segment",
+    ultra: "im Ultra-Premium-Segment",
+  };
+  return `${op.name} positioniert sich ${ranges[op.priceRange]}.${op.minBooking ? ` Die Mindestbuchung beginnt bei ${op.minBooking}.` : ""} Genaue Preise hängen von Strecke, Flugzeugtyp und Verfügbarkeit ab.`;
+}
+
+function buildJsonLd(op: Operator) {
+  const base = "https://www.privatjet-vergleich.de";
+  const ratingCount = getRatingCount(op);
+  const faqItems = [
+    {
+      "@type": "Question",
+      name: `Was kostet ein Privatjet mit ${op.name}?`,
+      acceptedAnswer: { "@type": "Answer", text: getPriceAnswer(op) },
+    },
+    {
+      "@type": "Question",
+      name: `Wie buche ich einen Flug bei ${op.name}?`,
+      acceptedAnswer: { "@type": "Answer", text: getBookingAnswer(op) },
+    },
+    {
+      "@type": "Question",
+      name: `Für wen eignet sich ${op.name}?`,
+      acceptedAnswer: { "@type": "Answer", text: op.bestFor },
+    },
+    {
+      "@type": "Question",
+      name: `In welchen Regionen ist ${op.name} aktiv?`,
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: `${op.name} ist aktiv in: ${op.regions.join(", ")}.`,
+      },
+    },
+    ...(op.affiliateProgram && op.affiliateCommission
+      ? [
+          {
+            "@type": "Question",
+            name: `Hat ${op.name} ein Affiliate-Programm?`,
+            acceptedAnswer: {
+              "@type": "Answer",
+              text: `Ja, ${op.name} bietet ein Affiliate-Programm mit ${op.affiliateCommission} an.`,
+            },
+          },
+        ]
+      : []),
+  ];
+
+  return {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BreadcrumbList",
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Start", item: base },
+          { "@type": "ListItem", position: 2, name: "Anbieter", item: `${base}/anbieter` },
+          { "@type": "ListItem", position: 3, name: op.name, item: `${base}/anbieter/${op.slug}/` },
+        ],
+      },
+      {
+        "@type": "LocalBusiness",
+        "@id": `${base}/anbieter/${op.slug}/#business`,
+        name: op.name,
+        url: `https://www.${op.website}`,
+        foundingDate: String(op.founded),
+        description: op.description,
+        areaServed: op.regions,
+        aggregateRating: {
+          "@type": "AggregateRating",
+          ratingValue: String(op.rating),
+          bestRating: "5",
+          worstRating: "1",
+          ratingCount: String(ratingCount),
+        },
+      },
+      {
+        "@type": "FAQPage",
+        mainEntity: faqItems,
+      },
+    ],
+  };
+}
 
 export async function generateStaticParams() {
   return operators.map((o) => ({ slug: o.slug }));
@@ -38,9 +143,14 @@ export default async function AnbieterDetailPage({ params }: { params: Promise<{
 
   const isVilliers = op.slug === "villiers-jets";
   const priceInfo = priceLabels[op.priceRange];
+  const jsonLd = buildJsonLd(op);
 
   return (
     <div className="py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       {/* Breadcrumb */}
       <div className="mx-auto max-w-7xl px-4 mb-6">
         <nav className="text-sm text-slate-400 flex items-center gap-2">
@@ -144,6 +254,30 @@ export default async function AnbieterDetailPage({ params }: { params: Promise<{
                   ))}
                 </ul>
               </div>
+            </div>
+          </section>
+
+          {/* FAQ */}
+          <section>
+            <h2 className="text-xl font-bold mb-6" style={{ color: "#0d1b2a" }}>Häufige Fragen zu {op.name}</h2>
+            <div className="space-y-4">
+              {[
+                { q: `Was kostet ein Privatjet mit ${op.name}?`, a: getPriceAnswer(op) },
+                { q: `Wie buche ich einen Flug bei ${op.name}?`, a: getBookingAnswer(op) },
+                { q: `Für wen eignet sich ${op.name}?`, a: op.bestFor },
+                { q: `In welchen Regionen ist ${op.name} aktiv?`, a: `${op.name} ist aktiv in: ${op.regions.join(", ")}.` },
+                ...(op.affiliateProgram && op.affiliateCommission
+                  ? [{ q: `Hat ${op.name} ein Affiliate-Programm?`, a: `Ja, ${op.name} bietet ein Affiliate-Programm mit ${op.affiliateCommission} an.` }]
+                  : []),
+              ].map(({ q, a }) => (
+                <details key={q} className="bg-white border border-slate-100 rounded-xl overflow-hidden group">
+                  <summary className="px-5 py-4 font-semibold text-sm cursor-pointer list-none flex items-center justify-between" style={{ color: "#0d1b2a" }}>
+                    {q}
+                    <span className="text-slate-400 ml-3 shrink-0 group-open:rotate-180 transition-transform">▾</span>
+                  </summary>
+                  <p className="px-5 pb-4 text-sm text-slate-600 leading-relaxed">{a}</p>
+                </details>
+              ))}
             </div>
           </section>
 

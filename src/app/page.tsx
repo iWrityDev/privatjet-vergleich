@@ -55,8 +55,42 @@ export default function HomePage() {
   const affiliateOps = getAffiliateOperators().slice(0, 3);
   const costArticles = getArticlesByCategory("Kosten").slice(0, 3);
 
+  const homeJsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://www.privatjet-vergleich.de/#website",
+        url: "https://www.privatjet-vergleich.de",
+        name: "Privatjet Vergleich",
+        description: "Unabhängiger Privatjet-Vergleich für den DACH-Raum. Anbieter, Kosten, Routen.",
+        inLanguage: "de-DE",
+        potentialAction: {
+          "@type": "SearchAction",
+          target: {
+            "@type": "EntryPoint",
+            urlTemplate: "https://www.privatjet-vergleich.de/anbieter?q={search_term_string}",
+          },
+          "query-input": "required name=search_term_string",
+        },
+      },
+      {
+        "@type": "Organization",
+        "@id": "https://www.privatjet-vergleich.de/#organization",
+        name: "Privatjet Vergleich",
+        url: "https://www.privatjet-vergleich.de",
+        description: "Unabhängiges Vergleichsportal für Privatjet-Charter im DACH-Raum.",
+        areaServed: ["Deutschland", "Österreich", "Schweiz"],
+      },
+    ],
+  };
+
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(homeJsonLd) }}
+      />
       {/* Hero */}
       <section
         className="relative py-24 md:py-32"

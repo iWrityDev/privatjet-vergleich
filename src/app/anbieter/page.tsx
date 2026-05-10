@@ -28,8 +28,26 @@ export default function AnbieterPage() {
   const fractionals = operators.filter((o) => o.type === "fractional");
   const operatorsList = operators.filter((o) => o.type === "operator");
 
+  const listJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    name: "Privatjet Anbieter Vergleich 2026",
+    description: "Unabhängiger Vergleich von Privatjet-Brokern, Membership-Programmen und Direktoperatoren für den DACH-Raum.",
+    numberOfItems: operators.length,
+    itemListElement: operators.map((op, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      name: op.name,
+      url: `https://www.privatjet-vergleich.de/anbieter/${op.slug}/`,
+    })),
+  };
+
   return (
     <div className="py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(listJsonLd) }}
+      />
       <div className="mx-auto max-w-7xl px-4">
         {/* Header */}
         <div className="text-center mb-12">

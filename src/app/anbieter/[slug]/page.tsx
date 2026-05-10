@@ -82,14 +82,15 @@ export default async function AnbieterDetailPage({ params }: { params: Promise<{
             <span className="text-slate-300 text-sm">Gegründet {op.founded}</span>
           </div>
           <p className="text-slate-300 text-lg max-w-3xl leading-relaxed mb-8">{op.description}</p>
-          {isVilliers && (
+          {op.affiliateUrl && (
             <Link
-              href={`https://www.villiers.ai/?utm_source=privatjet-vergleich`}
+              href={op.affiliateUrl}
               className="inline-flex items-center gap-2 px-8 py-3 rounded-full font-semibold transition-all hover:opacity-90"
               style={{ background: "linear-gradient(135deg, #c9a84c, #a07828)", color: "#0d1b2a" }}
               rel="nofollow sponsored"
+              target="_blank"
             >
-              ✈ Jetzt kostenloses Angebot bei Villiers einholen
+              ✈ Jetzt kostenloses Angebot bei {op.name} einholen
             </Link>
           )}
         </div>
@@ -196,12 +197,13 @@ export default async function AnbieterDetailPage({ params }: { params: Promise<{
                 : `Erhalten Sie ein unverbindliches Angebot von ${op.name}.`}
             </p>
             <Link
-              href={isVilliers ? "https://www.villiers.ai/?utm_source=privatjet-vergleich" : `/anbieter/${op.slug}`}
+              href={op.affiliateUrl ?? `/anbieter/${op.slug}`}
               className="block text-center py-3 px-4 rounded-full text-sm font-semibold transition-all hover:opacity-90"
               style={{ background: "linear-gradient(135deg, #c9a84c, #a07828)", color: "#0d1b2a" }}
-              rel={isVilliers ? "nofollow sponsored" : undefined}
+              rel={op.affiliateUrl ? "nofollow sponsored" : undefined}
+              target={op.affiliateUrl ? "_blank" : undefined}
             >
-              {isVilliers ? "✈ Zu Villiers Jets" : "Mehr erfahren"}
+              {op.affiliateUrl ? `✈ Zu ${op.name}` : "Mehr erfahren"}
             </Link>
             {isVilliers && (
               <div className="text-xs text-slate-400 text-center mt-2">30% Provision · 365 Tage Cookie</div>

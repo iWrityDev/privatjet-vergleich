@@ -13,6 +13,7 @@ export interface Operator {
   priceRange: "budget" | "mid" | "premium" | "ultra";
   minBooking?: string;
   website: string;
+  affiliateUrl?: string;
   description: string;
   pros: string[];
   cons: string[];
@@ -35,6 +36,7 @@ export const operators: Operator[] = [
     priceRange: "premium",
     minBooking: "€1.500",
     website: "villiers.ai",
+    affiliateUrl: "https://www.villiers.ai/?utm_source=privatjet-vergleich",
     description: "Villiers Jets ist einer der führenden Privatjet-Broker Europas mit Zugang zu über 10.000 Flugzeugen weltweit. Das Affiliate-Programm ist mit 30% Marge und 365 Tagen Cookie-Laufzeit das attraktivste im Markt.",
     pros: ["Größtes Partnernetzwerk Europas", "30% Affiliateprovision", "365 Tage Cookie", "Sofortangebote", "Transparente Preisgestaltung"],
     cons: ["Kein eigener Fuhrpark", "Preise variieren je nach Verfügbarkeit"],
@@ -316,6 +318,7 @@ export const operators: Operator[] = [
     priceRange: "mid",
     minBooking: "€1.000",
     website: "privatejetfinder.com",
+    affiliateUrl: "https://www.privatejetfinder.com/?tk=CF6B062284C9",
     description: "PrivateJetFinder ist eine Vergleichsplattform für Privatjet-Angebote. Affiliates erhalten Festprämien je nach Flugzeugkategorie statt prozentualer Provision.",
     pros: ["Feste Provision (kein Provisionsrisiko)", "Gute Vergleichsübersicht", "Seriöse Plattform"],
     cons: ["Niedrigere absolute Provisionen als Villiers", "Kleinere Markenbekanntheit"],

@@ -36,7 +36,7 @@ export const operators: Operator[] = [
     priceRange: "premium",
     minBooking: "€1.500",
     website: "villiers.ai",
-    affiliateUrl: "https://www.villiers.ai/?utm_source=privatjet-vergleich",
+    affiliateUrl: "https://villiers.ai/?id=BTOG3L",
     description: "Villiers Jets ist einer der führenden Privatjet-Broker Europas mit Zugang zu über 10.000 Flugzeugen weltweit. Das Affiliate-Programm ist mit 30% Marge und 365 Tagen Cookie-Laufzeit das attraktivste im Markt.",
     pros: ["Größtes Partnernetzwerk Europas", "30% Affiliateprovision", "365 Tage Cookie", "Sofortangebote", "Transparente Preisgestaltung"],
     cons: ["Kein eigener Fuhrpark", "Preise variieren je nach Verfügbarkeit"],

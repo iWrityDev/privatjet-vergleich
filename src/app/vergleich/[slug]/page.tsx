@@ -202,7 +202,7 @@ export default async function VergleichSlugPage({
             Vergleichen Sie jetzt Angebote aus über 10.000 Flugzeugen und fragen Sie unverbindlich an.
           </p>
           <a
-            href="https://www.villiersjets.com/?utm_source=privatjet-vergleich&utm_medium=referral"
+            href="https://villiers.ai/?id=BTOG3L"
             target="_blank"
             rel="noopener"
             className="inline-block px-8 py-3 rounded-full font-semibold text-sm transition-all hover:opacity-90"

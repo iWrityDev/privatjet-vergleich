@@ -126,14 +126,21 @@ export default async function RatgeberArticlePage({ params }: { params: Promise<
           </div>
 
           {/* Article body */}
-          <div className="prose-luxury">
-            {content.map(([heading, paragraph], i) => (
-              <div key={i}>
-                <h2>{heading}</h2>
-                <p>{paragraph}</p>
-              </div>
-            ))}
-          </div>
+          {article.content && article.content.trim().length > 200 ? (
+            <div
+              className="prose-luxury"
+              dangerouslySetInnerHTML={{ __html: article.content }}
+            />
+          ) : (
+            <div className="prose-luxury">
+              {content.map(([heading, paragraph], i) => (
+                <div key={i}>
+                  <h2>{heading}</h2>
+                  <p>{paragraph}</p>
+                </div>
+              ))}
+            </div>
+          )}
 
           {/* Related */}
           {relatedArticles.length > 0 && (

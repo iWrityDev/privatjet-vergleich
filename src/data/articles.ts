@@ -1299,7 +1299,7 @@ export const articles: Article[] = [
     category: "Städte",
     readingMinutes: 10,
     publishedDate: "2026-05-23",
-    content: `<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Privatjet Genf 2026: Europas Jet-Hub Nr. 2 im Guide","datePublished":"2026-05-23","dateModified":"2026-05-23","author":{"@type":"Organization","name":"Privatjet-Vergleich"},"description":"Privatjet ab Genf: GVA als Europas zweitgrösster Business-Aviation-Flughafen, FBOs, Kosten, Alpen-Transfers und Nachtflugverbot.","url":"https://www.privatjet-vergleich.de/ratgeber/privatjet-genf-luxus","inLanguage":"de-DE"}</script>
+    content: `<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Privatjet Genf 2026: Europas Jet-Hub Nr. 2 im Guide","datePublished":"2026-05-23","dateModified":"2026-05-27","author":{"@type":"Organization","name":"Privatjet-Vergleich"},"description":"Privatjet ab Genf: GVA als Europas zweitgrösster Business-Aviation-Flughafen, FBOs, Kosten, Alpen-Transfers und Nachtflugverbot.","url":"https://www.privatjet-vergleich.de/ratgeber/privatjet-genf-luxus/","inLanguage":"de-DE"}</script>
 <div style="background:#f3f0e6;border-left:4px solid #c9a84c;padding:16px 20px;margin-bottom:24px;border-radius:8px;">
 <strong>Kurzfazit:</strong> Genf (GVA) ist nach Paris Le Bourget der zweitwichtigste Business-Aviation-Flughafen Europas. Der Flughafen ist das Tor zu den Westalpen (Courchevel, Verbier, Megève, Gstaad), zum Genfer Finanzplatz und im Januar zum WEF in Davos. Privatjet-Charter ab Genf kosten je nach Strecke 4.500 € (Kurzstrecke nach Zürich) bis über 14.000 € (Heavy Jet nach London oder Mallorca). Es gilt ein Nachtflugverbot von 22:00 bis 06:00 Uhr, in der Ski-Saison sind Slots knapp.
 </div>
@@ -1323,7 +1323,7 @@ export const articles: Article[] = [
 <tr><td>Genf – London</td><td>1h 30 Min.</td><td>7.500 – 10.500 €</td><td>11.000 – 15.000 €</td><td>bis 8</td></tr>
 <tr><td>Genf – Paris</td><td>1h</td><td>5.500 – 7.500 €</td><td>8.000 – 11.000 €</td><td>bis 8</td></tr>
 <tr><td>Genf – Mallorca</td><td>1h 40 Min.</td><td>8.500 – 12.000 €</td><td>13.000 – 17.000 €</td><td>bis 8</td></tr>
-<tr><td>Genf – Nizza</td><td>45 Min.</td><td>5.000 – 7.000 €</td><td>7.500 – 10.000 €</td><td>bis 8</td></tr>
+<tr><td>Genf – <a href="/ratgeber/privatjet-nizza-kosten">Nizza</a></td><td>45 Min.</td><td>5.000 – 7.000 €</td><td>7.500 – 10.000 €</td><td>bis 8</td></tr>
 </tbody>
 </table>
 <p>In der Ski-Hochsaison (Dezember bis Februar) und während der WEF-Woche liegen die Preise 15 bis 30 Prozent höher, weil Slots und Flugzeuge knapp sind. Wer flexibel ist, findet auf der Rückrichtung häufig günstige Leerflüge, mehr dazu im <a href="/ratgeber/leerflug-guenstig-privatjet">Empty-Leg-Ratgeber</a>. Eine vollständige Übersicht aller Kostenbestandteile bietet die <a href="/ratgeber/privatjet-kosten-uebersicht">Privatjet Kosten Übersicht</a>. Wie sich die Schweizer Charterpreise über alle Städte und Strecken zusammensetzen, vergleicht unser Ratgeber <a href="/ratgeber/privatjet-schweiz-kosten">Privatjet mieten Schweiz Kosten</a>.</p>
@@ -3064,7 +3064,7 @@ export const articles: Article[] = [
     category: "Kosten",
     readingMinutes: 12,
     publishedDate: "2026-05-14",
-    content: `<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Privatjet München Mallorca: Kosten 2026","datePublished":"2026-05-14","dateModified":"2026-05-26","author":{"@type":"Organization","name":"Privatjet-Vergleich"},"description":"Privatjet München nach Mallorca: Light Jet ab 8.800 Euro, Midsize ab 14.500 Euro. Flugzeit 1 Stunde 50 Minuten.","url":"https://www.privatjet-vergleich.de/ratgeber/privatjet-muenchen-mallorca-kosten","inLanguage":"de-DE"}</script>
+    content: `<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Privatjet München Mallorca: Kosten 2026","datePublished":"2026-05-14","dateModified":"2026-05-27","author":{"@type":"Organization","name":"Privatjet-Vergleich"},"description":"Privatjet München nach Mallorca: Light Jet ab 8.800 Euro, Midsize ab 14.500 Euro. Flugzeit 1 Stunde 50 Minuten.","url":"https://www.privatjet-vergleich.de/ratgeber/privatjet-muenchen-mallorca-kosten/","inLanguage":"de-DE"}</script>
 <div style="background:#f3f0e6;border-left:4px solid #c9a84c;padding:16px 20px;margin-bottom:24px;border-radius:8px;">
 <strong>Kurzfazit:</strong> Ein Privatjet von München nach Mallorca kostet 2026 zwischen 8.800 € (Light Jet, one-way) und 28.000 € (Heavy Jet, hin und zurück mit Wartezeit). Die reine Flugzeit beträgt 1 Stunde 50 Minuten. In der Sommer-Hauptsaison (Juni bis September) liegen die Preise rund 20 Prozent über dem Jahresdurchschnitt, und Sie sollten mindestens drei Wochen Vorlauf einplanen.
 </div>
@@ -3084,7 +3084,7 @@ export const articles: Article[] = [
 </tbody>
 </table>
 <p>Diese Preise sind Marktrichtwerte für die Hauptsaison (Juni bis September). In der Nebensaison fallen die Preise um 15 bis 25 Prozent. Bei Last-Minute-Buchungen (unter 48 Stunden) kommen 10 bis 25 Prozent Aufschlag. Wer drei Wochen vorab bucht, kann zwischen 5 und 10 Prozent Rabatt verhandeln.</p>
-<p><strong>Stand Ende Mai 2026:</strong> Mit dem Pfingstwochenende hat die Mallorca-Saison gerade Fahrt aufgenommen, und die Nachfrage auf der Strecke aus Süddeutschland zieht von Woche zu Woche an. Palma de Mallorca (PMI) ist im Sommer slot-koordiniert, freie Zeitfenster an Freitag- und Sonntagnachmittagen sind für Juli und August bereits knapp. Wer in den Schulferien fliegen will, sollte den Slot jetzt sichern und den leeren Rückflug gleich mitkalkulieren, denn die teuren Repositionierungen lassen sich in der Hochsaison oft über ein Empty Leg auffangen. Light Jets liegen aktuell bei rund 8.800 bis 11.500 Euro one-way, Midsize Jets bei 11.500 bis 14.500 Euro, das deckt sich mit den Angeboten der großen Broker für Sommer 2026.</p>
+<p><strong>Stand Ende Mai 2026:</strong> Mit dem Pfingstwochenende hat die Mallorca-Saison gerade Fahrt aufgenommen, und die Nachfrage auf der Strecke aus Süddeutschland zieht von Woche zu Woche an. Palma de Mallorca (PMI) ist im Sommer slot-koordiniert, freie Zeitfenster an Freitag- und Sonntagnachmittagen sind für Juli und August bereits knapp. Wer in den Schulferien fliegen will, sollte den Slot jetzt sichern und den leeren Rückflug gleich mitkalkulieren, denn die teuren Repositionierungen lassen sich in der Hochsaison oft über ein Empty Leg auffangen. Light Jets liegen aktuell bei rund 8.800 bis 11.500 Euro one-way, Midsize Jets bei 11.500 bis 14.500 Euro, das deckt sich mit den Angeboten der großen Broker für Sommer 2026. Wer Alternativen am Mittelmeer abwägt, findet mit <a href="/ratgeber/privatjet-antalya-kosten">Privatjet nach Antalya</a> eine vergleichbare Sommer-Strecke ab München.</p>
 <h3>Welche Faktoren treiben den Preis nach Mallorca?</h3>
 <ul>
 <li><strong>Saison:</strong> In der ersten Augustwoche und am Pfingstwochenende steigen die Preise um bis zu 40 Prozent gegenüber dem Saisonschnitt.</li>
@@ -3365,7 +3365,7 @@ export const articles: Article[] = [
     category: "Reiseziele",
     readingMinutes: 12,
     publishedDate: "2026-05-16",
-    content: `<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Privatjet Ibiza Charter Kosten 2026: ab 9.500 € (Preistabelle)","datePublished":"2026-05-16","dateModified":"2026-05-24","author":{"@type":"Organization","name":"Privatjet-Vergleich"},"description":"Privatjet Ibiza Charter Kosten 2026: Light Jet ab 9.500 Euro, Midsize ab 14.500 Euro.","url":"https://www.privatjet-vergleich.de/ratgeber/privatjet-ibiza-kosten","inLanguage":"de-DE"}</script>
+    content: `<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Privatjet Ibiza Charter Kosten 2026: ab 9.500 € (Preistabelle)","datePublished":"2026-05-16","dateModified":"2026-05-27","author":{"@type":"Organization","name":"Privatjet-Vergleich"},"description":"Privatjet Ibiza Charter Kosten 2026: Light Jet ab 9.500 Euro, Midsize ab 14.500 Euro.","url":"https://www.privatjet-vergleich.de/ratgeber/privatjet-ibiza-kosten/","inLanguage":"de-DE"}</script>
 <div style="background:#f3f0e6;border-left:4px solid #c9a84c;padding:16px 20px;margin-bottom:24px;border-radius:8px;">
 <strong>Kurzfazit:</strong> Ein Privatjet nach Ibiza kostet 2026 je nach Abflugort und Flugzeugklasse zwischen 9.500 € (Light Jet ab Zürich, einfacher Flug) und 32.000 € (Heavy Jet ab Hamburg, hin und zurück). Die reine Flugzeit beträgt ab den DACH-Drehkreuzen 1 Stunde 20 Minuten bis 2 Stunden 30 Minuten. In der Hochsaison von Juni bis September liegen die Preise rund 25 Prozent über dem Jahresschnitt, und ein Vorlauf von mindestens drei Wochen ist Pflicht.
 </div>
@@ -3398,7 +3398,7 @@ export const articles: Article[] = [
 <tr><td>Hamburg – Ibiza</td><td>2h 30 Min.</td><td>15.000 – 19.000 €</td><td>20.000 – 25.500 €</td></tr>
 </tbody>
 </table>
-<p>Wer aus Norddeutschland anreist, zahlt also deutlich mehr als ein Gast aus der Schweiz. Bei einem Aufenthalt von mehr als drei Tagen lohnt es sich zu prüfen, ob der Jet am Zielort wartet oder zwischenzeitlich repositioniert wird. Ein Vergleich mit anderen Mittelmeer-Strecken hilft bei der Einordnung, etwa unsere Übersicht zu <a href="/ratgeber/privatjet-muenchen-mallorca-kosten">Privatjet München Mallorca</a>.</p>
+<p>Wer aus Norddeutschland anreist, zahlt also deutlich mehr als ein Gast aus der Schweiz. Bei einem Aufenthalt von mehr als drei Tagen lohnt es sich zu prüfen, ob der Jet am Zielort wartet oder zwischenzeitlich repositioniert wird. Ein Vergleich mit anderen Mittelmeer-Strecken hilft bei der Einordnung, etwa unsere Übersichten zu <a href="/ratgeber/privatjet-muenchen-mallorca-kosten">Privatjet München Mallorca</a> und <a href="/ratgeber/privatjet-antalya-kosten">Privatjet nach Antalya</a>.</p>
 <h3>Welche Faktoren treiben den Preis nach Ibiza?</h3>
 <ul>
 <li><strong>Saison:</strong> Juli und August sind die teuersten Monate. Im Mai, Juni und September fliegen Sie spürbar günstiger bei nahezu gleichem Wetter.</li>

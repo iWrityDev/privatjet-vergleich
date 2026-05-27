@@ -296,7 +296,51 @@ export const articles: Article[] = [
 </ol>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Ab wann lohnt sich eine Jet Card?","acceptedAnswer":{"@type":"Answer","text":"Eine Jet Card lohnt sich ab etwa 25 Flugstunden pro Jahr. Darunter ist On-Demand-Charter günstiger und flexibler, weil keine fünf- bis sechsstellige Vorauszahlung gebunden wird."}},{"@type":"Question","name":"Was kostet eine Jet Card in Deutschland?","acceptedAnswer":{"@type":"Answer","text":"Ein 25-Stunden-Paket kostet 2026 für einen Light Jet rund 100.000 bis 150.000 Euro, für einen Midsize Jet rund 180.000 bis 250.000 Euro. Der Stundensatz ist dann fixiert."}},{"@type":"Question","name":"Was ist der Unterschied zwischen Jet Card und Charter?","acceptedAnswer":{"@type":"Answer","text":"Bei der Jet Card kaufen Sie Flugstunden im Voraus zu einem Festpreis mit Verfügbarkeitsgarantie. Beim Charter buchen Sie jeden Flug einzeln zu Tagespreisen ohne Kapitalbindung."}},{"@type":"Question","name":"Ist eine Jet Card flexibler als Charter?","acceptedAnswer":{"@type":"Answer","text":"Nein. Die Jet Card bindet Sie an einen Anbieter und ein Servicegebiet. On-Demand-Charter erlaubt freie Anbieter- und Flugzeugwahl bei jeder Buchung, ist aber von Saison und Verfügbarkeit abhängig."}},{"@type":"Question","name":"Gibt es Jet Cards mit weniger als 25 Stunden?","acceptedAnswer":{"@type":"Answer","text":"Einige Anbieter haben Einstiegsprogramme mit kleineren Kontingenten oder Pay-as-you-go-Mitgliedschaften. Diese sind pro Stunde teurer und lohnen sich meist nur, wenn Verfügbarkeitsgarantie wichtiger ist als der Preis."}}]}</script>`,
   },
-  { slug: "privatjet-sicherheit-fakten", title: "Ist Privatjet-Fliegen sicher? Fakten und Statistiken 2026", description: "Privatjets vs. Linienflugzeuge in der Sicherheitsstatistik. Was sagen EASA und FAA-Daten?", category: "Ratgeber", readingMinutes: 9, publishedDate: "2026-03-01", content: "" },
+  {
+    slug: "privatjet-sicherheit-fakten",
+    title: "Ist Privatjet-Fliegen sicher? Fakten und Statistiken 2026",
+    description: "Privatjets vs. Linienflugzeuge in der Sicherheitsstatistik. Was sagen EASA und FAA-Daten? Die wichtigsten Zahlen zur Sicherheit der Privatluftfahrt.",
+    category: "Ratgeber",
+    readingMinutes: 9,
+    publishedDate: "2026-03-01",
+    content: `<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Ist Privatjet-Fliegen sicher? Fakten und Statistiken 2026","datePublished":"2026-03-01","dateModified":"2026-05-27","author":{"@type":"Organization","name":"Privatjet-Vergleich"},"description":"Privatjets vs. Linienflugzeuge in der Sicherheitsstatistik. Was sagen EASA und FAA-Daten?","url":"https://www.privatjet-vergleich.de/ratgeber/privatjet-sicherheit-fakten","inLanguage":"de-DE"}</script>
+<div style="background:#f3f0e6;border-left:4px solid #c9a84c;padding:16px 20px;margin-bottom:24px;border-radius:8px;">
+<strong>Kurzfazit:</strong> Privatjet-Fliegen ist statistisch sicherer als Autofahren, aber weniger sicher als kommerzielle Linienflüge. Die EASA-Daten zeigen: Business Aviation hatte 2023 in Europa etwa 1,2 Unfälle pro 100.000 Flugstunden, verglichen mit 0,08 bei kommerziellen Linienfluggesellschaften. Größere, moderne Turbofan-Jets (z. B. Citation CJ4, Phenom 300E) schneiden deutlich besser ab als ältere Kolbenflugzeuge.
+</div>
+
+<h2>Privatjet-Sicherheit im Vergleich</h2>
+<p>Die häufig gestellte Frage, ob Privatjets sicherer oder gefährlicher sind als Linienflugzeuge, lässt sich nicht pauschal beantworten. Die Antwort hängt stark vom Flugzeugtyp, dem Betreiber und der Wartungsqualität ab.</p>
+<p>Kommerzielle Linienfluggesellschaften operieren unter strengsten EASA/IATA-Vorschriften mit umfangreichem Sicherheitsmanagementsystem. Business Aviation ist heterogener: Vom hochzertifizierten Charter-Betreiber mit IS-BAO-Zertifizierung bis zum privaten Eigentümer mit älterem Flugzeug und minimalem Betrieb reicht die Bandbreite.</p>
+
+<h2>Was sagen die EASA-Statistiken?</h2>
+<p>Laut EASA Annual Safety Review verzeichnete die europäische General Aviation (inkl. Business Aviation) 2023 eine Unfallrate von etwa 1,2 pro 100.000 Flugstunden bei Turbinen-Flugzeugen. Kolbenflugzeuge lagen deutlich höher. Kommerzielle Linienflüge: circa 0,08 Unfälle pro 100.000 Flugstunden. Das entspricht einem Sicherheitsvorteil der Linienflüge von etwa Faktor 15.</p>
+<p>Wichtig zu verstehen: "Unfall" in der EASA-Statistik schließt auch geringe Zwischenfälle (Beschädigungen am Boden, Ausweichmanöver) ein. Tödliche Unfälle sind erheblich seltener.</p>
+
+<h2>Welche Privatjet-Typen sind am sichersten?</h2>
+<p>Moderne Turbofan-Jets wie der Embraer Phenom 300E, die Cessna Citation CJ4, der Bombardier Challenger 350 oder der Gulfstream G700 verfügen über FADEC-Triebwerke, Terrain Awareness Warnsysteme (TAWS), Traffic Collision Avoidance Systems (TCAS II) und moderne Avionik, die mit kommerziellen Flugzeugen vergleichbar ist. Diese Systeme reduzieren das menschliche Fehlerrisiko erheblich.</p>
+<p>Ältere Turboprop-Muster wie die Beechcraft King Air verfügen ebenfalls über gute Sicherheitsbilanz, wenn regelmäßig gewartet. Kritischer sind alte Kolbenmotorflugzeuge und schlecht gewartete Chartermaschinen aus osteuropäischen Märkten.</p>
+
+<h2>Wie wähle ich einen sicheren Charter-Betreiber?</h2>
+<p>Drei Zertifizierungen sind entscheidend:</p>
+<ul>
+<li><strong>IS-BAO (International Standard for Business Aircraft Operations)</strong>: Globaler Standard für Safety Management Systeme in der Business Aviation. Wird von IBAC ausgestellt und ist das wichtigste Qualitätsmerkmal.</li>
+<li><strong>ARGUS Platinum oder ARGUS Gold</strong>: Nordamerikanischer Safety-Audit-Standard, auch in Europa anerkannt. Platinum = höchste Stufe.</li>
+<li><strong>Wyvern Wingman</strong>: Weiterer anerkannter Audit-Standard, vergleichbar mit ARGUS Gold.</li>
+</ul>
+<p>Seriöse Charter-Broker wie <a href="https://www.villiersjets.com/?utm_source=privatjet-vergleich&utm_medium=referral" rel="sponsored">Villiers Jets</a> arbeiten ausschließlich mit Betreibern, die mindestens einen dieser Standards erfüllen. Beim Direktbuchen beim Betreiber sollten Sie aktiv nach dem Sicherheitszertifikat fragen.</p>
+
+<h2>Rolle des Piloten</h2>
+<p>Business Aviation-Piloten in Europa benötigen eine EASA-Berufspilotenlizenz (CPL/ATPL) und Typrating für das jeweilige Flugzeugmuster. Recurrent Training (Simulator alle 6 Monate) ist Pflicht. Viele seriöse Betreiber gehen darüber hinaus und verlangen 3.000+ Stunden Gesamterfahrung für das Linke-Sitz-Kommando.</p>
+<p>Hauptursache für Unfälle in der Business Aviation ist menschliches Versagen, insbesondere CFIT (Controlled Flight into Terrain) und Wetterentscheidungsfehler. IS-BAO-zertifizierte Betreiber haben nachweislich niedrigere CFIT-Raten.</p>
+
+<h2>Sicherheit vs. Komfort-Kompromiss</h2>
+<p>Preiswerte Charter-Angebote kommen oft mit älteren Maschinen ohne moderne Avioniksysteme. Wenn ein Charter-Angebot für eine Europastrecke deutlich unter dem Marktdurchschnitt liegt, ist Skepsis angebracht. Fragen Sie immer nach Flugzeugmuster, Baujahr, letzter Wartung und Betreiberzertifizierung.</p>
+
+<h2>Fazit</h2>
+<p>Privatjet-Charter von seriösen IS-BAO-zertifizierten Betreibern mit modernen Turbofan-Jets ist sicher und vertretbar. Das Risiko liegt nicht im Flugzeugtyp, sondern im Betreiber. Nutzen Sie nur Broker oder Direktanbieter mit überprüfbarer Sicherheitszertifizierung. Für Reisen nach und im Mittelmeerraum empfehlen wir außerdem, auf wetterbedingte Flexibilität zu achten. Mehr zu einzelnen Strecken und Anbietern finden Sie in unserem <a href="/ratgeber/privatjet-preisvergleich-anbieter">Privatjet-Anbieter-Vergleich</a>.</p>
+
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Ist Privatjet-Fliegen gefährlicher als ein Linienflug?","acceptedAnswer":{"@type":"Answer","text":"Statistisch ja: EASA-Daten zeigen etwa 1,2 Unfälle pro 100.000 Flugstunden für Business Aviation-Turbinen vs. 0,08 für kommerzielle Linienflüge. Bei IS-BAO-zertifizierten Charter-Betreibern mit modernen Turbofan-Jets ist der Unterschied jedoch deutlich geringer."}},{"@type":"Question","name":"Welche Privatjet-Typen sind am sichersten?","acceptedAnswer":{"@type":"Answer","text":"Moderne Turbofan-Jets wie Phenom 300E, Citation CJ4 oder Bombardier Challenger 350 mit FADEC-Triebwerken, TCAS II und TAWS sind am sichersten. Sie verfügen über Avioniksysteme auf kommerziellen Airline-Niveau."}},{"@type":"Question","name":"Wie erkenne ich einen seriösen Charter-Anbieter?","acceptedAnswer":{"@type":"Answer","text":"Achten Sie auf IS-BAO-Zertifizierung, ARGUS Platinum/Gold oder Wyvern Wingman. Seriöse Broker wie Villiers Jets arbeiten nur mit zertifizierten Betreibern. Fragen Sie aktiv nach Zertifikat, Flugzeugbaujahr und letzter Wartung."}},{"@type":"Question","name":"Was sind die häufigsten Ursachen für Privatjet-Unfälle?","acceptedAnswer":{"@type":"Answer","text":"Hauptursache ist menschliches Versagen: CFIT (Controlled Flight into Terrain) und Wetter-Entscheidungsfehler. IS-BAO-zertifizierte Betreiber haben durch Safety Management Systeme nachweislich niedrigere CFIT-Raten."}},{"@type":"Question","name":"Ist Privatjet-Fliegen sicherer als Autofahren?","acceptedAnswer":{"@type":"Answer","text":"Ja. Das Todesfallrisiko pro Kilometer ist beim Privatjet statistisch niedriger als beim Pkw-Verkehr. Verglichen mit kommerziellen Linienflügen ist das Risiko jedoch höher, insbesondere bei älteren Maschinen und nicht-zertifizierten Betreibern."}}]}</script>`,
+  },
   {
     slug: "privatjet-fuer-geschaeftsreisen",
     title: "Privatjet für Geschäftsreisen 2026: Der ROI-Rechner",
@@ -396,7 +440,54 @@ export const articles: Article[] = [
 <p>Eine Stundensatz-Rechnung auf eine konkrete Gruppe übertragen liefert der Guide <a href="/ratgeber/privatjet-fuer-6-personen-kosten">Privatjet für 6 Personen Kosten</a>, in dem Light- und Midsize-Jets pro Kopf gerechnet werden.</p>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Was kostet ein Privatjet pro Stunde 2026?","acceptedAnswer":{"@type":"Answer","text":"Der Stundensatz liegt 2026 zwischen 1.800 Euro (Turboprop) und 14.000 Euro (Ultra-Long-Range). Ein Light Jet kostet 3.200 bis 4.500 Euro, ein Midsize Jet 4.500 bis 6.500 Euro und ein Heavy Jet 8.500 bis 11.500 Euro pro Flugstunde."}},{"@type":"Question","name":"Was kostet ein Light Jet pro Stunde?","acceptedAnswer":{"@type":"Answer","text":"Ein Light Jet wie der Phenom 300E oder die Citation CJ3+ kostet 2026 rund 3.200 bis 4.500 Euro pro Flugstunde. Light Jets eignen sich für Strecken bis etwa 3.500 Kilometer und bis zu sieben Passagiere."}},{"@type":"Question","name":"Was kostet ein Heavy Jet pro Stunde?","acceptedAnswer":{"@type":"Answer","text":"Ein Heavy Jet wie die Gulfstream G450 oder Falcon 900LX kostet 2026 rund 8.500 bis 11.500 Euro pro Flugstunde. Damit sind Interkontinentalstrecken bis etwa 8.500 Kilometer ohne Tankstopp möglich."}},{"@type":"Question","name":"Wird die Flugzeit oder die Standzeit berechnet?","acceptedAnswer":{"@type":"Answer","text":"Abgerechnet wird die reine Flugzeit von Start bis Landung. Die Standzeit am Boden zählt nicht zum Stundensatz. Steht das Flugzeug aber mehrere Tage am Zielort, können Crew-Übernachtungen anfallen."}},{"@type":"Question","name":"Sind im Stundensatz alle Kosten enthalten?","acceptedAnswer":{"@type":"Answer","text":"Nein. Der Stundensatz deckt Flugzeug, Crew, Wartung, Versicherung und Treibstoff. Landegebühren, Handling, Repositionierung, Catering und im Winter De-Icing werden zusätzlich abgerechnet."}}]}</script>`,
   },
-  { slug: "privatjet-fuer-familien", title: "Privatjet mit Familie: Kindgerechte Charter erklärt", description: "Privatjet-Reisen mit Kindern und Familie. Welche Flugzeuge eignen sich, was bieten die Betreiber für Familien?", category: "Ratgeber", readingMinutes: 9, publishedDate: "2026-03-20", content: "" },
+  {
+    slug: "privatjet-fuer-familien",
+    title: "Privatjet mit Familie: Kindgerechte Charter erklärt",
+    description: "Privatjet mit Kindern mieten: Welche Flugzeuge sind familienfreundlich, was kostet ein Familienflug 2026, und warum ist der Privatjet für Familien oft die bequemste Option.",
+    category: "Ratgeber",
+    readingMinutes: 9,
+    publishedDate: "2026-03-20",
+    content: `<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Privatjet mit Familie: Kindgerechte Charter erklärt","datePublished":"2026-03-20","dateModified":"2026-05-27","author":{"@type":"Organization","name":"Privatjet-Vergleich"},"description":"Privatjet mit Kindern mieten: Welche Flugzeuge, was kostet es, was bieten die Betreiber?","url":"https://www.privatjet-vergleich.de/ratgeber/privatjet-fuer-familien","inLanguage":"de-DE"}</script>
+<div style="background:#f3f0e6;border-left:4px solid #c9a84c;padding:16px 20px;margin-bottom:24px;border-radius:8px;">
+<strong>Kurzfazit:</strong> Der Privatjet mit Familie lohnt sich besonders ab 4 Personen und Mittelstrecken (Alpen, Mittelmeer). Midsize Jets wie der Cessna Citation XLS+ oder Bombardier Learjet 75 Liberty bieten Platz für 6 bis 8 Personen und genügend Kabinenhöhe für Kinderwagen-Aufbewahrung. Ein Familienflug Frankfurt-Mallorca (4 Personen) kostet ab 12.000 Euro, aufgeteilt 3.000 Euro pro Person - vergleichbar mit vier Business-Class-Tickets.
+</div>
+
+<h2>Warum Familien den Privatjet wählen</h2>
+<p>Wer schon einmal mit drei Kindern durch einen überfüllten Flughafen navigiert hat, versteht die Anziehungskraft des Privatjets für Familien sofort. Kein Check-in, kein langes Warten, kein Schlange-Stehen beim Gate. Die Familie fährt direkt zum FBO-Terminal, geht 15 Minuten vor Abflug an Bord und setzt sich in eine Kabine, die niemand sonst nutzt.</p>
+<p>Für Familien mit kleinen Kindern oder Säuglingen ist der Wegfall des kommerziellen Flughafenstresses allein schon erheblich. Hinzu kommt die Flexibilität: Wenn das Kind krank wird, wird der Abflug verschoben, ohne hohe Umbuchungsgebühren.</p>
+
+<h2>Welche Flugzeuge sind am familienfreundlichsten?</h2>
+<p>Die Wahl des richtigen Flugzeugtyps ist für Familien wichtiger als für andere Reisende. Worauf es ankommt:</p>
+<ul>
+<li><strong>Kabinenhöhe:</strong> Midsize und Super-Midsize Jets bieten Stand-up-Kabinen, in denen Erwachsene aufrecht stehen können. Light Jets (Citation CJ3, Phenom 300) sind beengt für Familien.</li>
+<li><strong>Gepäckraum:</strong> Mit Kinderwagen, Autositzen und Spielzeug brauchen Familien erheblich mehr Gepäckraum. Der Challenger 300 hat das größte Gepäckfach seiner Klasse.</li>
+<li><strong>Toilette:</strong> Nur ab Midsize-Klasse gibt es eine private Toilette in der Kabine. Für Familien mit Kleinkindern unverzichtbar.</li>
+<li><strong>Unterhaltung:</strong> Viele Betreiber bieten auf Anfrage Tablets mit Kinderangeboten, Quiet Zone-Kopfhörer oder spezielle Kindersitzauflagen an.</li>
+</ul>
+
+<h2>Die besten Privatjet-Typen für Familien</h2>
+<p><strong>Cessna Citation XLS+:</strong> Super-Light-Jet, Platz für 8 Passagiere, Stehhöhe 1,73 m, gute Gepäckkapazität. Ideal für Mittelstrecken (Mittelmeer, Alpen) mit 4 bis 6 Personen.</p>
+<p><strong>Bombardier Challenger 350:</strong> Super-Midsize, Platz für 10 Passagiere, 1,83 m Stehhöhe, exzellenter Gepäckraum. Für größere Familien oder Langstrecken (Dubai, Malediven) die beste Wahl.</p>
+<p><strong>Embraer Praetor 500:</strong> Neueres Modell mit moderner Kabine, ruhiger als ältere Muster, WiFi standard. Hervorragend für Familien, die Work-Life-Balance auch im Flieger brauchen.</p>
+
+<h2>Kostenbeispiele für Familienflüge 2026</h2>
+<table style="width:100%;border-collapse:collapse;margin:16px 0;">
+<tr style="background:#c9a84c;color:#fff;"><th style="padding:8px;text-align:left;">Strecke</th><th style="padding:8px;">Flugzeugtyp</th><th style="padding:8px;">Kosten gesamt</th><th style="padding:8px;">Pro Person (4 Pers.)</th></tr>
+<tr style="background:#faf8f0;"><td style="padding:8px;">Frankfurt - Mallorca</td><td style="padding:8px;">Citation XLS+</td><td style="padding:8px;">12.000-16.000 €</td><td style="padding:8px;">3.000-4.000 €</td></tr>
+<tr><td style="padding:8px;">München - Nizza</td><td style="padding:8px;">Citation CJ4</td><td style="padding:8px;">9.000-13.000 €</td><td style="padding:8px;">2.250-3.250 €</td></tr>
+<tr style="background:#faf8f0;"><td style="padding:8px;">Wien - Mykonos</td><td style="padding:8px;">Challenger 300</td><td style="padding:8px;">18.000-24.000 €</td><td style="padding:8px;">4.500-6.000 €</td></tr>
+<tr><td style="padding:8px;">Frankfurt - Dubai</td><td style="padding:8px;">Challenger 350</td><td style="padding:8px;">55.000-75.000 €</td><td style="padding:8px;">13.750-18.750 €</td></tr>
+</table>
+<p>Preise gelten als Richtgrößen one-way. Für die genaue Kalkulation empfehlen wir eine Anfrage bei <a href="https://www.villiersjets.com/?utm_source=privatjet-vergleich&utm_medium=referral" rel="sponsored">Villiers Jets</a>, die mehrere Charter-Betreiber vergleichen und Familienservice koordinieren.</p>
+
+<h2>Praktische Tipps für den Familienflug per Privatjet</h2>
+<p><strong>Kindersitze:</strong> Fragen Sie vorab. Viele Charter-Betreiber stellen auf Anfrage zertifizierte Kindersitze bereit. FAA/EASA-zugelassene Kindersitze müssen am Flugzeugsitz befestigt werden, genau wie im Auto.</p>
+<p><strong>Catering:</strong> Für Babys und Kleinkinder unbedingt im Voraus besprechen: spezielle Babynahrung, Allergien, Kindermenüs. Gute Betreiber stellen das ohne Aufpreis zur Verfügung.</p>
+<p><strong>Kerosinpreise und Sommer-Slots:</strong> Mallorca und Ibiza vergeben im Sommer begrenzte Slots. Buchen Sie Familienurlaube im Juli/August mindestens 4 bis 6 Wochen im Voraus.</p>
+<p><strong>Leerflüge nutzen:</strong> Für feste Reisedaten können <a href="/ratgeber/leerflug-guenstig-privatjet">Leerflüge</a> erhebliche Einsparungen bringen. Das ist besonders attraktiv für Familien, die ein genaues Reisedatum haben und keinen Aufpreis für kurzfristige Buchung zahlen möchten.</p>
+
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Ab wann lohnt sich ein Privatjet für Familien?","acceptedAnswer":{"@type":"Answer","text":"Ab 4 Personen auf Mittelstrecken (Mittelmeer, Alpen). Dann liegt der Preis pro Person oft auf Business-Class-Niveau, aber ohne Stress am Flughafen, mit flexiblem Zeitplan und direktem Zugang zum Zielort."}},{"@type":"Question","name":"Welcher Privatjet ist am besten für Familien mit Kindern?","acceptedAnswer":{"@type":"Answer","text":"Der Cessna Citation XLS+ (bis 8 Personen, Stehhöhe 1,73 m, guter Gepäckraum) ist ideal für Mittelmeer-Strecken. Für größere Familien oder Langstrecken bietet der Bombardier Challenger 350 mehr Platz und Komfort."}},{"@type":"Question","name":"Kann man mit einem Baby Privatjet fliegen?","acceptedAnswer":{"@type":"Answer","text":"Ja. Der Privatjet ist für Babys und Kleinkinder oft angenehmer als ein Linienflug: keine langen Warteschlangen, keine Menschenmassen, kürzere Strecken zum Flugzeug. Klären Sie vorab Kindersitze, Babynahrung und etwaige Sauerstoffversorgung für sehr junge Säuglinge."}},{"@type":"Question","name":"Was kostet ein Familienflug per Privatjet?","acceptedAnswer":{"@type":"Answer","text":"Frankfurt-Mallorca mit Citation XLS+ für 4 Personen kostet etwa 12.000 bis 16.000 Euro one-way, also 3.000 bis 4.000 Euro pro Person. Das liegt auf Business-Class-Niveau mit erheblichem Komfort- und Zeitvorteil."}},{"@type":"Question","name":"Gibt es spezielle Kindersitze im Privatjet?","acceptedAnswer":{"@type":"Answer","text":"Viele Charter-Betreiber bieten auf Anfrage FAA/EASA-zugelassene Kindersitze an. Bestätigen Sie die Verfügbarkeit bei der Buchung. Alternativ können Sie eigene zugelassene Autositze mitbringen."}}]}</script>`,
+  },
   {
     slug: "privatjet-haustiere",
     title: "Privatjet mit Hund 2026: ab 4.500 € nach Mallorca + Regeln",

@@ -365,13 +365,14 @@ export const articles: Article[] = [
 <tbody>
 <tr><td>Frankfurt – London</td><td>5.600 €</td><td>11.000 – 14.000 €</td><td>ca. 20 Std.</td></tr>
 <tr><td>München – Mailand</td><td>3.600 €</td><td>9.000 – 12.000 €</td><td>ca. 16 Std.</td></tr>
+<tr><td>München – Zürich</td><td>2.400 €</td><td>5.500 – 7.500 €</td><td>ca. 12 Std.</td></tr>
 <tr><td>Berlin – Wien</td><td>3.200 €</td><td>9.500 – 12.500 €</td><td>ca. 18 Std.</td></tr>
 <tr><td>Zürich – Paris</td><td>3.800 €</td><td>8.500 – 11.500 €</td><td>ca. 16 Std.</td></tr>
 </tbody>
 </table>
 <p>Die Mehrkosten amortisieren sich, sobald der bewertete Zeitgewinn die Preisdifferenz übersteigt. Genau das ist bei vier bis sechs Reisenden und hohen internen Stundensätzen regelmäßig der Fall. Die Grundlagen der Stundensätze erklären wir in der <a href="/ratgeber/privatjet-kosten-uebersicht">Privatjet Kosten Übersicht</a>. Eine konkrete Rechnung für Sechs-Personen-Teams liefert der Guide <a href="/ratgeber/privatjet-fuer-6-personen-kosten">Privatjet für 6 Personen Kosten</a>.</p>
 <h2>Marktupdate 2026: Was DACH-Unternehmen aktuell zahlen</h2>
-<p>Stand Mai 2026 liegt der Einstieg in eine Jet Card bei NetJets Europe bei rund 212.000 € für 25 Flugstunden (Phenom 300 oder Citation XLS). Brokerpreise für ein Light-Jet-Charter Frankfurt nach London bewegen sich aktuell zwischen 11.000 und 14.000 € one-way, München nach Mailand zwischen 9.000 und 12.000 €. Treibstoffzuschläge sind im Frühjahr 2026 leicht gesunken, FBO-Handling-Gebühren in Egelsbach, Innsbruck und Salzburg dagegen um rund 4 bis 6 % gestiegen. Für die Budgetplanung sollten Unternehmen daher mit denselben Charter-Stundensätzen wie 2025 rechnen, aber etwas höheren Bodenkosten.</p>
+<p>Stand Mai 2026 liegt der Einstieg in eine Jet Card bei NetJets Europe bei rund 212.000 € für 25 Flugstunden (Phenom 300 oder Citation XLS). Brokerpreise für ein Light-Jet-Charter Frankfurt nach London bewegen sich aktuell zwischen 11.000 und 14.000 € one-way, München nach Mailand zwischen 9.000 und 12.000 €. Die kurze Finanzplatz-Verbindung <a href="/ratgeber/privatjet-muenchen-zuerich-kosten">München nach Zürich</a> liegt bei 5.500 bis 7.500 € und ist damit eine der günstigsten DACH-Geschäftsstrecken. Treibstoffzuschläge sind im Frühjahr 2026 leicht gesunken, FBO-Handling-Gebühren in Egelsbach, Innsbruck und Salzburg dagegen um rund 4 bis 6 % gestiegen. Für die Budgetplanung sollten Unternehmen daher mit denselben Charter-Stundensätzen wie 2025 rechnen, aber etwas höheren Bodenkosten.</p>
 <h2>Weitere Vorteile für Unternehmen</h2>
 <p>Neben dem reinen Zeitgewinn nennen Unternehmen drei weitere Faktoren: Erreichbarkeit kleinerer Flughäfen näher am Zielort, vertrauliche Arbeitsumgebung an Bord für sensible Gespräche und planbare Termine ohne Umsteige- und Verspätungsrisiko. Für regelmäßige Geschäftsreisen lohnt zusätzlich der Blick auf <a href="/ratgeber/jet-card-vs-charter-vergleich">Jet Card vs. Charter</a>. Wie sich geschäftliche Flüge in DE, AT und CH steuerlich behandeln lassen, erklärt der Ratgeber <a href="/ratgeber/privatjet-steuerlich-absetzbar">Privatjet steuerlich absetzbar</a>, und eine konkrete Strecken-Kalkulation für eine häufige Inlandsverbindung bietet <a href="/ratgeber/privatjet-berlin-muenchen-charter">Privatjet Berlin München</a>.</p>
 <h2>Bereit für Ihre Privatjet-Anfrage?</h2>
@@ -2318,7 +2319,7 @@ export const articles: Article[] = [
 <tr><td>München – Dubai</td><td>6 Std. 10 Min.</td><td>Heavy Jet</td><td>Langstrecke, Business</td></tr>
 </tbody>
 </table>
-<p>Die Flugzeiten sind Richtwerte und hängen von Wind, Route und Flugzeugmuster ab. Für die Alpen-Verbindungen lohnt der Blick auf kurze Zubringer nach <a href="/ratgeber/privatjet-salzburg-kosten">Salzburg</a> und <a href="/ratgeber/privatjet-linz-kosten">Linz</a>.</p>
+<p>Die Flugzeiten sind Richtwerte und hängen von Wind, Route und Flugzeugmuster ab. Für die Alpen-Verbindungen lohnt der Blick auf kurze Zubringer nach <a href="/ratgeber/privatjet-salzburg-kosten">Salzburg</a> und <a href="/ratgeber/privatjet-linz-kosten">Linz</a>. Für die meistgeflogene Tages-Geschäftsachse aus München liefert der Ratgeber <a href="/ratgeber/privatjet-muenchen-zuerich-kosten">Privatjet München Zürich Kosten</a> die vollständige Preistabelle (Light Jet ab 5.500 €, Flugzeit 40 Minuten) und Slot-Tipps für Banker- und Industrie-Termine.</p>
 <h2>Privatjet ab München für Events und Anlässe</h2>
 <p>München erzeugt rund ums Jahr Nachfrage-Spitzen, die den Privatjet-Markt am Standort prägen. Wer zu diesen Terminen fliegt, sollte früh buchen, weil Flugzeuge und Standplätze knapp werden.</p>
 <ul>
@@ -2381,7 +2382,7 @@ export const articles: Article[] = [
 <tr><td>Berlin – Dubai</td><td>6 Std. 20 Min.</td><td>Heavy Jet</td><td>Langstrecke</td></tr>
 </tbody>
 </table>
-<p>Die Flugzeiten sind Richtwerte und hängen von Wind, Route und Flugzeugmuster ab. Die beliebte Sommer-Verbindung an die Nordsee zeigt unser Ratgeber <a href="/ratgeber/privatjet-sylt-charter">Privatjet nach Sylt</a>.</p>
+<p>Die Flugzeiten sind Richtwerte und hängen von Wind, Route und Flugzeugmuster ab. Die beliebte Sommer-Verbindung an die Nordsee zeigt unser Ratgeber <a href="/ratgeber/privatjet-sylt-charter">Privatjet nach Sylt</a>. Für die meistgefragte Sommer-Achse ab BER liefert der Ratgeber <a href="/ratgeber/privatjet-berlin-mallorca-kosten">Privatjet Berlin Mallorca Kosten</a> die Preistabelle, Slot-Tipps und Leerflug-Hinweise.</p>
 <h2>Privatjet ab Berlin für Politik, Wirtschaft und Events</h2>
 <p>Als Hauptstadt bündelt Berlin Anlässe, die kaum eine andere deutsche Stadt erzeugt. Diese Termine sorgen für wiederkehrende Nachfrage-Spitzen am Standort BER, zu denen Flugzeuge und Standplätze früh ausgebucht sind.</p>
 <ul>
@@ -3403,7 +3404,7 @@ export const articles: Article[] = [
 </tbody>
 </table>
 <p>Diese Preise sind Marktrichtwerte für die Hauptsaison (Juni bis September). In der Nebensaison fallen die Preise um 15 bis 25 Prozent. Bei Last-Minute-Buchungen (unter 48 Stunden) kommen 10 bis 25 Prozent Aufschlag. Wer drei Wochen vorab bucht, kann zwischen 5 und 10 Prozent Rabatt verhandeln.</p>
-<p><strong>Stand Ende Mai 2026:</strong> Mit dem Pfingstwochenende hat die Mallorca-Saison gerade Fahrt aufgenommen, und die Nachfrage auf der Strecke aus Süddeutschland zieht von Woche zu Woche an. Palma de Mallorca (PMI) ist im Sommer slot-koordiniert, freie Zeitfenster an Freitag- und Sonntagnachmittagen sind für Juli und August bereits knapp. Wer in den Schulferien fliegen will, sollte den Slot jetzt sichern und den leeren Rückflug gleich mitkalkulieren, denn die teuren Repositionierungen lassen sich in der Hochsaison oft über ein Empty Leg auffangen. Light Jets liegen aktuell bei rund 8.800 bis 11.500 Euro one-way, Midsize Jets bei 11.500 bis 14.500 Euro, das deckt sich mit den Angeboten der großen Broker für Sommer 2026. Wer Alternativen am Mittelmeer abwägt, findet mit <a href="/ratgeber/privatjet-antalya-kosten">Privatjet nach Antalya</a> eine vergleichbare Sommer-Strecke ab München.</p>
+<p><strong>Stand Ende Mai 2026:</strong> Mit dem Pfingstwochenende hat die Mallorca-Saison gerade Fahrt aufgenommen, und die Nachfrage auf der Strecke aus Süddeutschland zieht von Woche zu Woche an. Palma de Mallorca (PMI) ist im Sommer slot-koordiniert, freie Zeitfenster an Freitag- und Sonntagnachmittagen sind für Juli und August bereits knapp. Wer in den Schulferien fliegen will, sollte den Slot jetzt sichern und den leeren Rückflug gleich mitkalkulieren, denn die teuren Repositionierungen lassen sich in der Hochsaison oft über ein Empty Leg auffangen. Light Jets liegen aktuell bei rund 8.800 bis 11.500 Euro one-way, Midsize Jets bei 11.500 bis 14.500 Euro, das deckt sich mit den Angeboten der großen Broker für Sommer 2026. Wer Alternativen am Mittelmeer abwägt, findet mit <a href="/ratgeber/privatjet-antalya-kosten">Privatjet nach Antalya</a> eine vergleichbare Sommer-Strecke ab München. Wer den Vergleich mit Norddeutschland sucht, prüft den parallelen Sommer-Kurs <a href="/ratgeber/privatjet-berlin-mallorca-kosten">Privatjet Berlin Mallorca Kosten</a>: 2:25 h Flugzeit, Light Jet ab 8.500 €, also auf nahezu identischem Niveau wie ab München.</p>
 <h3>Welche Faktoren treiben den Preis nach Mallorca?</h3>
 <ul>
 <li><strong>Saison:</strong> In der ersten Augustwoche und am Pfingstwochenende steigen die Preise um bis zu 40 Prozent gegenüber dem Saisonschnitt.</li>

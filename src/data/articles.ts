@@ -6976,6 +6976,140 @@ export const articles: Article[] = [
 </ol>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Was kostet ein Privatjet von Frankfurt nach Paris?","acceptedAnswer":{"@type":"Answer","text":"Ein Privatjet von Frankfurt nach Paris Le Bourget kostet 2026 zwischen 7.500 € (Light Jet wie Citation CJ3+, one-way) und 21.000 € (Heavy Jet wie Falcon 2000, one-way). Ein Midsize Jet liegt typischerweise bei 11.000 bis 14.500 €. Die Flugzeit beträgt 55 Minuten, die Distanz 465 Kilometer. Hinzu kommen LBG-Handling-Kosten von 1.800 bis 4.500 Euro je nach FBO."}},{"@type":"Question","name":"Welcher Flughafen in Paris ist für Privatjets am besten?","acceptedAnswer":{"@type":"Answer","text":"Paris Le Bourget (LBG, LFPB) ist die erste Wahl für 95 Prozent aller Privatjet-Flüge nach Paris. Drei Bahnen (längste 2.665 m), sechs FBOs (Signature, Jetex, Dassault, Universal, Advanced, Landmark), 50.000 Business-Aviation-Bewegungen pro Jahr und 12 km zur Innenstadt. Charles de Gaulle (CDG) nur für sehr große BBJ/ACJ-Privatumbauten, Orly (ORY) als Ausweich bei LBG-Slot-Engpass."}},{"@type":"Question","name":"Wie lange dauert ein Privatjet von München nach Paris?","acceptedAnswer":{"@type":"Answer","text":"Die reine Flugzeit München nach Paris Le Bourget beträgt 1 Stunde 10 Minuten mit einem Midsize Jet und 1 Stunde 15 Minuten mit einem Light Jet. Inklusive 15 Minuten Boarding in München und 30 Minuten Limousinen-Transfer vom LBG zum Pariser Zentrum sind Sie in rund 2 Stunden 30 Minuten am Ziel. Die Distanz München-LBG beträgt 680 Kilometer."}},{"@type":"Question","name":"Gibt es Empty Legs DACH nach Paris?","acceptedAnswer":{"@type":"Answer","text":"Ja, DACH-Paris ist ein klassischer Empty-Leg-Korridor. Typische Empty-Leg-Preise 2026: Frankfurt-LBG Light Jet 2.500-4.500 Euro (Ersparnis 60-70 Prozent), München-LBG Light Jet 3.500-5.500 Euro (Ersparnis 55-65 Prozent), Wien-LBG Light Jet 4.500-7.000 Euro. Die Strecke ist fest, das Datum hat typischerweise 24 bis 72 Stunden Vorlauf. Light- und Midsize-Operatoren repositionieren regelmäßig nach Le Bourget, weil Pariser Klientel One-Way-Charter zu Cote d'Azur, London oder Genf bucht."}},{"@type":"Question","name":"Hat Le Bourget ein Nachtflugverbot?","acceptedAnswer":{"@type":"Answer","text":"Ja, Paris Le Bourget hat eine Nachtflug-Restriktion zwischen 22:15 und 06:00 Uhr. Anflüge und Abflüge in dieser Zeit sind nur mit Sondergenehmigung möglich. Für Spätankünfte nach Mitternacht ist Paris Orly (ORY) die Alternative, weil ORY 24 Stunden offen ist. Der Charter-Operator prüft die Slot-Verfügbarkeit am LBG vorab und schlägt bei Bedarf ORY als Backup vor."}}]}</script>`,
   },
+  {
+    slug: "privatjet-mieten-kosten-preisübersicht-2026",
+    title: "Privatjet mieten Kosten 2026: Vollständige Preisübersicht für Deutschland, Österreich und Schweiz",
+    description: "Privatjet mieten 2026: Alle Kosten im Überblick. Preise nach Flugzeugkategorie, Stundensätze, beliebte Routen und Vergleich mit Business Class.",
+    category: "Kosten",
+    readingMinutes: 14,
+    publishedDate: "2026-06-02",
+    content: `<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "Privatjet mieten Kosten 2026: Vollständige Preisübersicht für Deutschland, Österreich und Schweiz",
+      "description": "Privatjet mieten 2026: Alle Kosten im Überblick. Preise nach Flugzeugkategorie, Stundensätze, beliebte Routen und Vergleich mit Business Class.",
+      "datePublished": "2026-06-02",
+      "author": {"@type": "Organization", "name": "Privatjet Vergleich"},
+      "publisher": {"@type": "Organization", "name": "Privatjet Vergleich", "url": "https://privatjet-vergleich.de"}
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was kostet ein Privatjet pro Stunde?",
+          "acceptedAnswer": {"@type": "Answer", "text": "Die Kosten pro Flugstunde hängen stark von der Flugzeugkategorie ab. Ein Turboprop kostet zwischen 1.500 und 2.800 Euro pro Stunde, ein Light Jet 2.500 bis 4.000 Euro, ein Midsize Jet 4.000 bis 6.500 Euro und ein Heavy Jet 6.000 bis 10.000 Euro. Ultra-Long-Range-Jets wie der Gulfstream G700 erreichen 10.000 bis 15.000 Euro pro Stunde."}
+        },
+        {
+          "@type": "Question",
+          "name": "Ist es günstiger, einen Privatjet zu chartern oder Business Class zu fliegen?",
+          "acceptedAnswer": {"@type": "Answer", "text": "Für Einzelreisende ist Business Class fast immer günstiger. Ab einer Gruppe von vier bis sechs Personen auf europäischen Kurzstrecken wird ein Light Jet konkurrenzfähig, besonders wenn man Zeitwert, Flexibilität und Produktivität einrechnet. Auf Kurzstrecken wie Frankfurt-München oder Hamburg-Zürich ist der Privatjet für Gruppen oft nur wenig teurer als mehrere Business-Class-Tickets."}
+        },
+        {
+          "@type": "Question",
+          "name": "Kann man Privatjetkosten steuerlich absetzen?",
+          "acceptedAnswer": {"@type": "Answer", "text": "Ja, unter bestimmten Voraussetzungen. Wenn der Flug betrieblich veranlasst ist und die Notwendigkeit des Privatjets (Zeitersparnis, Sicherheit, vertrauliche Gespräche) nachgewiesen werden kann, sind die Kosten als Betriebsausgabe absetzbar. Die Finanzbehörden prüfen diese Fälle genau. Eine steuerliche Beratung ist empfehlenswert."}
+        },
+        {
+          "@type": "Question",
+          "name": "Wie buche ich einen Privatjet kurzfristig?",
+          "acceptedAnswer": {"@type": "Answer", "text": "Über Broker-Plattformen wie Villiers Jets ist eine Buchung teilweise noch am selben Tag möglich, sofern ein passendes Flugzeug in der Nähe verfügbar ist. Die Verfügbarkeit hängt vom Abflugort, der Jahreszeit und dem gewünschten Flugzeugtyp ab. Leerflüge (Empty Legs) bieten besonders kurzfristige Schnäppchenoptionen."}
+        },
+        {
+          "@type": "Question",
+          "name": "Was sind Empty Legs und wie günstig sind sie wirklich?",
+          "acceptedAnswer": {"@type": "Answer", "text": "Empty Legs sind Rückflüge oder Positionierungsflüge ohne gebuchte Passagiere. Anbieter verkaufen diese mit Rabatten von 25 bis 75 Prozent gegenüber dem regulären Charterpreis. Der Haken: Datum, Route und Abflugzeit sind fest und wenig flexibel. Sie eignen sich für Reisende, deren Zeitplan mit dem verfügbaren Flug übereinstimmt."}
+        }
+      ]
+    }
+  ]
+}
+</script>
+
+<p>Wer zum ersten Mal über einen Privatjet nachdenkt, stößt schnell auf ein Problem: konkrete Zahlen sind schwer zu finden. Anbieter nennen auf Anfrage Preise, aber eine strukturierte Übersicht fehlt meistens. Diese Seite schließt diese Lücke. Hier finden Sie aktuelle Marktpreise für 2026 nach Flugzeugkategorie, Stundensätze, Preise für die zehn beliebtesten Routen im DACH-Raum sowie eine ehrliche Gegenüberstellung mit Business Class.</p>
+
+<p>Die Preise basieren auf Marktdaten aus dem europäischen Chartermarkt und spiegeln realistische Buchungspreise wider, keine Werbeversprechen.</p>
+
+<h2>Kosten nach Flugzeugkategorie: Was Sie für Ihr Budget bekommen</h2>
+
+<p>Der Privatjetmarkt gliedert sich in sechs Kategorien. Jede hat ein klares Einsatzprofil, und die Preisunterschiede zwischen den Kategorien sind erheblich. Ein gutes Verständnis dieser Kategorien ist die Grundlage jeder sinnvollen Buchungsentscheidung.</p>
+
+<h3>Turboprop: Der Einsteiger auf Kurzstrecken</h3>
+
+<p>Turboprop-Flugzeuge wie die Pilatus PC-12 oder die Piper M600 sind streng genommen Propellermaschinen mit Turbinentriebwerk. Sie fliegen langsamer als Jets (Reisegeschwindigkeit 450 bis 560 km/h) und auf niedrigeren Höhen, was sie anfälliger für Wetterbedingungen macht. Ihr Vorteil: niedrige Betriebskosten und die Fähigkeit, kleinere Flugplätze anzufliegen.</p>
+
+<p>Typische Passagierkapazität: 4 bis 9 Personen.<br>
+Flugstundenpreis: 1.500 bis 2.800 Euro.<br>
+Charter-Tageskosten (inkl. Crew, kein Übernachtungszuschlag): 3.000 bis 8.000 Euro.<br>
+Ideal für: Kurzstrecken bis 1.500 km, ländliche Abflugplätze, kleine Gruppen.</p>
+
+<h3>Very Light Jet (VLJ): Günstig und schnell auf Kurzstrecken</h3>
+
+<p>Very Light Jets wie der Cessna Citation Mustang oder der HondaJet Elite II bieten vier bis fünf Passagierplätze bei Reisegeschwindigkeiten von 630 bis 720 km/h. Sie fliegen in Höhen bis 13.000 Meter und sind damit wetterunabhängiger als Turboprops. Für Kurzstrecken bis 2.000 km sind sie die kosteneffizienteste Jet-Option.</p>
+
+<p>Typische Passagierkapazität: 3 bis 5 Personen.<br>
+Flugstundenpreis: 2.500 bis 3.500 Euro.<br>
+Ideal für: DACH-Inlandsrouten, kurze Europaflüge, spontane Zweimann-Trips.</p>
+
+<h3>Light Jet: Das meistgecharterte Segment in Europa</h3>
+
+<p>Light Jets wie der Citation CJ3+, der Embraer Phenom 300E oder der Learjet 75 sind das Arbeitspferd des europäischen Privatjet-Marktes. Sieben Passagiere, 3.500 km Reichweite, Reisegeschwindigkeit 780 bis 830 km/h. Sie verbinden alle großen DACH-Städte mit wichtigen europäischen Zielen non-stop und landen auf fast allen Businessjet-Flugplätzen.</p>
+
+<p>Typische Passagierkapazität: 5 bis 7 Personen.<br>
+Flugstundenpreis: 3.200 bis 4.500 Euro.<br>
+Ideal für: alle europäischen Hauptrouten, Gruppenreisen bis 7 Personen, Tagestrips.</p>
+
+<h3>Midsize Jet: Komfort für längere Strecken</h3>
+
+<p>Midsize Jets wie der Citation XLS+ oder der Hawker 900XP bieten mehr Stehhöhe, größere Gepäckräume und mehr Reichweite. Bis zu neun Passagiere fliegen non-stop von München nach Tel Aviv oder von Zürich nach Casablanca. Die Kabinen erlauben aufrechtes Gehen und bieten Boardküche sowie Toilette.</p>
+
+<p>Typische Passagierkapazität: 7 bis 9 Personen.<br>
+Flugstundenpreis: 4.500 bis 6.500 Euro.<br>
+Ideal für: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichweite kombinieren.</p>
+
+<h3>Super Midsize und Heavy Jet: Für große Gruppen und Langstrecken</h3>
+
+<p>Super Midsize Jets wie der Challenger 350 oder die Citation Longitude verbinden Europa mit dem Nahen Osten und Nordafrika non-stop. Heavy Jets wie der Gulfstream G450 oder der Falcon 900LX schaffen Transatlantik-Flüge und bieten Kabinen, in denen 12 bis 14 Passagiere komfortabel reisen können. Diese Kategorie beginnt bei 6.500 Euro pro Stunde und ist primär für Unternehmensreisen und große Gruppen relevant.</p>
+
+<h2>Privatjet vs. Business Class: Ein ehrlicher Vergleich</h2>
+
+<p>Die häufigste Frage lautet: Wann ist der Privatjet günstiger als Business Class? Die ehrliche Antwort hängt von drei Variablen ab: Gruppengröße, Strecke und Zeitwert.</p>
+
+<table>
+<thead><tr><th>Szenario</th><th>Business Class Kosten</th><th>Privatjet Kosten</th><th>Fazit</th></tr></thead>
+<tbody>
+<tr><td>1 Person, Frankfurt-London</td><td>600 – 1.200 €</td><td>6.500 – 9.000 € (Light Jet)</td><td>Business Class deutlich günstiger</td></tr>
+<tr><td>4 Personen, Frankfurt-Zürich</td><td>2.400 – 4.800 €</td><td>4.850 – 6.500 € (Light Jet)</td><td>Privatjet konkurrenzfähig</td></tr>
+<tr><td>6 Personen, München-Madrid</td><td>7.200 – 12.000 €</td><td>11.000 – 16.000 € (Light Jet)</td><td>Privatjet leicht teurer, aber mehr Flexibilität</td></tr>
+<tr><td>8 Personen, Zürich-Dubai</td><td>24.000 – 40.000 €</td><td>28.000 – 38.000 € (Heavy Jet)</td><td>Vergleichbar, Privatjet bietet mehr Komfort</td></tr>
+</tbody>
+</table>
+
+<p>Hinzu kommt der Zeitfaktor. Ein Privatjet spart auf einer Strecke wie Frankfurt-München typischerweise vier bis fünf Stunden gegenüber der Kombination aus Flughafen-Check-in, Sicherheitskontrolle, Gate-Wartezeit, Flug und Gepäckausgabe. Für Unternehmensreisende, die ihre Stunden mit 500 Euro oder mehr bewerten, ergibt das eine andere Rechnung.</p>
+
+<h2>Empty Legs: Die günstigste Art, Privatjet zu fliegen</h2>
+
+<p>Empty Legs entstehen, wenn ein Operator sein Flugzeug nach einem abgeschlossenen Charter leer zurückfliegen muss. Diese Positionierungsflüge werden mit Rabatten von 25 bis 75 Prozent angeboten. Ein Light Jet Frankfurt-München, der regulär 5.500 Euro kostet, ist als Empty Leg für 1.500 bis 2.500 Euro buchbar.</p>
+
+<p>Die Einschränkungen sind real: Route, Datum und Abflugzeit sind fest. Kurzfristige Änderungen sind nicht möglich. Empty Legs eignen sich für flexible Reisende, deren Zeitplan sich an verfügbare Flüge anpassen lässt, nicht umgekehrt. Über Plattformen wie <a href="https://villiers.ai/?id=BTOG3L" target="_blank" rel="nofollow noopener">Villiers Jets</a> können Sie verfügbare Empty Legs in Ihrer Route abfragen.</p>
+
+<h2>Privatjet buchen: So bekommen Sie den besten Preis</h2>
+
+<p>Fünf Strategien, die in der Praxis Geld sparen:</p>
+
+<ol>
+<li><strong>Frühzeitig buchen:</strong> Zwei bis vier Wochen vor dem Flugtermin erzielen Sie oft 5 bis 10 Prozent Rabatt gegenüber Last-Minute-Preisen.</li>
+<li><strong>Empty Legs prüfen:</strong> Bei flexiblem Zeitplan vor jeder Buchung Empty-Leg-Verfügbarkeit abfragen. Ersparnis bis 75 Prozent möglich.</li>
+<li><strong>Mehrere Broker anfragen:</strong> Ein und dasselbe Flugzeug kostet bei verschiedenen Brokern unterschiedlich. Drei Angebote einholen dauert 20 Minuten und spart häufig 10 bis 20 Prozent.</li>
+<li><strong>Kleineren Flugplatz wählen:</strong> Handling-Gebühren am Regionalflughafen statt am großen Interkontinentalflughafen können 1.000 bis 2.500 Euro sparen.</li>
+<li><strong>Retoure beim gleichen Operator buchen:</strong> Hin- und Rückflug beim selben Operator oft günstiger als zwei separate Buchungen, weil der Operator keine Repositionierung einpreisen muss.</li>
+</ol>
+
+<p>Bereit für eine unverbindliche Anfrage? Über <a href="https://villiers.ai/?id=BTOG3L" target="_blank" rel="nofollow noopener">Villiers Jets</a> erhalten Sie Angebote aus über 10.000 verfügbaren Flugzeugen weltweit. Geben Sie Abflughafen, Ziel, Datum und Personenzahl an, um Vergleichsangebote zu erhalten.</p>`,
+  },
 ];
 
 export function getArticleBySlug(slug: string): Article | undefined {

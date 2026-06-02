@@ -213,15 +213,23 @@ export default async function RoutePage({ params }: { params: Promise<{ slug: st
                 name: `Was kostet ein Privatjet von ${route.from} nach ${route.to}?`,
                 acceptedAnswer: {
                   "@type": "Answer",
-                  text: `Ein Privatjet von ${route.from} nach ${route.to} kostet typischerweise ${route.costRangeEur}. Die genauen Kosten hängen von Flugzeugtyp, Buchungszeitpunkt und Verfügbarkeit ab.`,
+                  text: `Ein Privatjet von ${route.from} nach ${route.to} kostet typischerweise ${route.costRangeEur}. Die genauen Kosten hängen von Flugzeugtyp, Buchungszeitpunkt und Verfügbarkeit von Leerflügen ab.`,
                 },
               },
               {
                 "@type": "Question",
-                name: `Wie lange fliegt man von ${route.from} nach ${route.to}?`,
+                name: `Wie lange dauert der Flug von ${route.from} nach ${route.to} mit dem Privatjet?`,
                 acceptedAnswer: {
                   "@type": "Answer",
                   text: `Die Flugzeit von ${route.from} nach ${route.to} im Privatjet beträgt etwa ${route.flightMinutes} Minuten bei einer Distanz von ${route.distanceKm} km.`,
+                },
+              },
+              {
+                "@type": "Question",
+                name: `Welche Flugzeugkategorie ist für die Strecke ${route.from}-${route.to} empfohlen?`,
+                acceptedAnswer: {
+                  "@type": "Answer",
+                  text: `Für die Strecke ${route.from}-${route.to} empfehlen wir einen ${route.recommendedAircraft}. Diese Kategorie bietet das optimale Gleichgewicht aus Reichweite, Komfort und Kosten für diese Distanz.`,
                 },
               },
             ],

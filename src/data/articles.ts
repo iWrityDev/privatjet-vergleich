@@ -1,4 +1,4 @@
-export interface Article {
+﻿export interface Article {
   slug: string;
   title: string;
   description: string;
@@ -7963,6 +7963,43 @@ Ideal für: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichweit
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Was kostet es einen Privatjet zu mieten in Deutschland?","acceptedAnswer":{"@type":"Answer","text":"Ein Privatjet mieten in Deutschland kostet 2026 ab 2.800 Euro für sehr kurze Inlandsstrecken mit einem Very Light Jet. Populäre Urlaubsstrecken (München nach Mallorca, Frankfurt nach London) liegen zwischen 8.000 und 18.000 Euro one-way. Der Preis gilt für das gesamte Flugzeug, nicht pro Person."}},{"@type":"Question","name":"Wie viel kostet ein Privatjet pro Stunde in Deutschland?","acceptedAnswer":{"@type":"Answer","text":"Die Kosten pro Flugstunde liegen 2026 bei 2.500 bis 3.500 Euro für einen Very Light Jet, 3.500 bis 5.000 Euro für einen Light Jet, 5.000 bis 7.500 Euro für einen Midsize Jet und 9.500 bis 14.000 Euro für einen Heavy Jet. Hinzu kommen fixe Kosten unabhängig von der Flugzeit."}},{"@type":"Question","name":"Wie kann man günstig einen Privatjet mieten?","acceptedAnswer":{"@type":"Answer","text":"Die günstigsten Optionen sind Empty Legs (Leerflüge mit 50-75% Rabatt), frühzeitige Buchungen (4-6 Wochen vorher), mittelwoche Flüge und die Buchung mit mehreren Personen um den Preis pro Person zu senken."}},{"@type":"Question","name":"Welche Anbieter vermieten Privatjets in Deutschland?","acceptedAnswer":{"@type":"Answer","text":"Die wichtigsten Anbieter für Privatjet-Buchungen ab Deutschland sind Villiers Jets (großer Marktplatz, transparent), VistaJet (eigene Flotte, Mitgliedschaft), NetJets (Fractional Ownership für Vielreisende) und Executive Jets (deutschsprachiger Anbieter)."}},{"@type":"Question","name":"Was ist ein Empty Leg Flug?","acceptedAnswer":{"@type":"Answer","text":"Ein Empty Leg ist ein Leerflug, bei dem ein Privatjet ohne Passagiere zu einem Einsatzort oder zur Heimatbasis fliegt. Diese Slots werden zu stark vergünstigten Preisen (50-75% Rabatt) verkauft, sind aber kurzfristig verfügbar und haben feste Routen."}}]}<\/script>`,
   },
 
+  {
+    slug: "privatjet-wien-mallorca-kosten",
+    title: "Privatjet Wien nach Mallorca: Kosten, Flugzeit und Buchung 2026",
+    description: "Was kostet ein Privatjet von Wien nach Mallorca? Flugzeiten, Jetklassen, Preise und der direkteste Buchungsweg im Vergleich.",
+    category: "Reiseziele",
+    readingMinutes: 7,
+    publishedDate: "2026-06-08",
+    content: `<h1>Privatjet Wien nach Mallorca: Kosten 2026</h1>
+<p>Die Strecke Wien nach Mallorca ist eine der beliebtesten Privatjet-Routen aus Osterreich. Die Flugzeit betragt etwa 2 Stunden und 15 Minuten. Linienfluge brauchen mit Stopp oft 4 bis 6 Stunden, wahrend ein Privatjet direkt vom Schwechat-Flughafen (VIE) oder dem privaten Flughafen Voslau (LOAV) startet.</p>
+<h2>Kosten im Uberblick</h2>
+<table><thead><tr><th>Jetklasse</th><th>Passagiere</th><th>Preis one-way</th></tr></thead>
+<tbody>
+<tr><td>Very Light Jet</td><td>bis 4</td><td>ab 8.500 EUR</td></tr>
+<tr><td>Light Jet</td><td>bis 6</td><td>ab 11.000 EUR</td></tr>
+<tr><td>Midsize Jet</td><td>bis 9</td><td>ab 15.500 EUR</td></tr>
+<tr><td>Heavy Jet</td><td>bis 14</td><td>ab 22.000 EUR</td></tr>
+</tbody></table>
+<p>Die Preise gelten fur das gesamte Flugzeug. Bei 8 Personen in einem Midsize Jet sind das rund 1.940 Euro pro Person, vergleichbar mit Business Class auf Linienfluge, aber ohne Zwischenstopp.</p>
+<h2>Abflughaten in und um Wien</h2>
+<ul>
+<li><strong>Wien-Schwechat (VIE):</strong> Grosster Flughafen, eigener FBO-Terminal fur Privatjets, 24/7 geoffnet.</li>
+<li><strong>Wien-Voslau (LOAV):</strong> Kleiner Privatflughafen sudlich von Wien, 35 km vom Stadtzentrum. Gunstiger fur kleinere Jets.</li>
+</ul>
+<h2>Saisonale Preisschwankungen</h2>
+<ul>
+<li><strong>Juli bis August:</strong> Hochste Preise, Buchungen 4 bis 6 Wochen im Voraus empfohlen.</li>
+<li><strong>Mai, Juni, September:</strong> Gute Verfugbarkeit, moderatere Preise.</li>
+<li><strong>Oktober bis April:</strong> Bis zu 25 Prozent gunstiger. Empty Legs haufig verfugbar.</li>
+</ul>
+<h2>Empty Legs Wien-Mallorca</h2>
+<p>Auf dieser Route entstehen regelmasig Empty Legs. Ein Privatjet, der leer von Mallorca zuruckfliegen muss, wird zu 50 bis 75 Prozent Rabatt angeboten.</p>
+<h2>Buchung uber Villiers Jets</h2>
+<p>Villiers vergleicht uber 10.000 akkreditierte Operator und zeigt fur die Strecke Wien-Mallorca typischerweise 3 bis 6 Angebote verschiedener Operator.</p>
+<a href="https://www.villiersjets.com/?utm_source=privatjet-vergleich&amp;utm_medium=ratgeber&amp;utm_campaign=wien-mallorca" rel="sponsored noopener" target="_blank">Angebote Wien-Mallorca vergleichen bei Villiers Jets</a>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Was kostet ein Privatjet von Wien nach Mallorca?","acceptedAnswer":{"@type":"Answer","text":"Ein Privatjet von Wien nach Mallorca kostet 2026 ab 8.500 Euro fur einen Very Light Jet bis zu 22.000 Euro fur einen Heavy Jet."}},{"@type":"Question","name":"Wie lange fliegt man mit dem Privatjet von Wien nach Mallorca?","acceptedAnswer":{"@type":"Answer","text":"Die Flugzeit von Wien nach Mallorca betragt etwa 2 Stunden und 15 Minuten."}}]}<\/script>`,
+  },
+
 ];
 
 export function getArticleBySlug(slug: string): Article | undefined {
@@ -7975,6 +8012,6 @@ export function getArticlesByCategory(category: string): Article[] {
 
 export const articleCategories = [
   "Kosten", "Ratgeber", "Jet Cards", "Business", "Events",
-  "Flugzeuge", "Anbieter", "Reiseziele", "Städte", "Erlebnis",
+  "Flugzeuge", "Anbieter", "Reiseziele", "Stadte", "Erlebnis",
   "Nachhaltigkeit", "Spezial", "Markt", "Zukunft",
 ];

@@ -152,7 +152,7 @@ function SiteFooter() {
           </div>
         </div>
         <div className="pt-6 border-t border-slate-700 flex flex-col sm:flex-row justify-between gap-3 text-xs text-slate-500">
-          <div>Â© {new Date().getFullYear()} PrivatjetVergleich.de. Alle Rechte vorbehalten.</div>
+          <div>© {new Date().getFullYear()} PrivatjetVergleich.de. Alle Rechte vorbehalten.</div>
           <div>UnabhÃ¤ngiger Ratgeber. Kein Flugbetrieb, kein Charter-Unternehmen.</div>
         </div>
       </div>

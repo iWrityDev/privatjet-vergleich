@@ -5,11 +5,39 @@ export const metadata: Metadata = {
   title: "Über uns – PrivatjetVergleich.de",
   description:
     "PrivatjetVergleich.de ist der unabhängige Ratgeber für Privatjet-Charter im DACH-Raum. Unsere Mission, unsere Methodik.",
+  alternates: { canonical: "https://privatjet-vergleich.de/ueber-uns" },
+};
+
+const personJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Person",
+  name: "Auke de Haan",
+  url: "https://privatjet-vergleich.de/ueber-uns",
+  jobTitle: "Founder",
+  nationality: "NL",
+  worksFor: {
+    "@type": "Organization",
+    name: "PrivatjetVergleich.de",
+    url: "https://privatjet-vergleich.de",
+  },
+  sameAs: [
+    "https://privatjet-vergleich.de/ueber-uns",
+    "https://aitoolhub.nl/over",
+    "https://www.skriuwer.com/about",
+    "https://learnfrisian.com/about",
+    "https://kaffeebewertung.de/over",
+    "https://gmcsuspension.com",
+    "https://www.linkedin.com/in/auke-de-haan-91b341406/",
+  ],
 };
 
 export default function UeberUnsPage() {
   return (
     <div className="py-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(personJsonLd) }}
+      />
       <div className="mx-auto max-w-3xl px-4">
         {/* Hero */}
         <div className="rounded-2xl p-8 mb-12 text-center" style={{ background: "linear-gradient(135deg, #0d1b2a, #1b2e45)" }}>
@@ -62,10 +90,34 @@ export default function UeberUnsPage() {
             Netzwerk für DACH-Kunden bieten.
           </p>
 
+          <h2>Wer steckt dahinter</h2>
+          <p>
+            PrivatjetVergleich.de wird betrieben von <strong>Auke de Haan</strong>,
+            einem niederländischen Unternehmer aus Friesland. Auke baut unabhängige
+            Vergleichs- und Informationsseiten in mehreren Sprachen und Märkten.
+            Weitere Projekte:{" "}
+            <a href="https://aitoolhub.nl" rel="noopener" style={{ color: "#c9a84c" }}>aitoolhub.nl</a>,{" "}
+            <a href="https://kaffeebewertung.de" rel="noopener" style={{ color: "#c9a84c" }}>kaffeebewertung.de</a>,{" "}
+            <a href="https://www.skriuwer.com" rel="noopener" style={{ color: "#c9a84c" }}>skriuwer.com</a>.
+          </p>
+          <p>
+            LinkedIn:{" "}
+            <a
+              href="https://www.linkedin.com/in/auke-de-haan-91b341406/"
+              rel="noopener noreferrer"
+              target="_blank"
+              style={{ color: "#c9a84c" }}
+            >
+              linkedin.com/in/auke-de-haan-91b341406
+            </a>
+          </p>
+
           <h2>Kontakt</h2>
           <p>
-            Fragen, Feedback oder Kooperationsanfragen richten Sie bitte an:<br />
-            kontakt@privatjet-vergleich.de
+            Fragen, Feedback oder Kooperationsanfragen richten Sie bitte an{" "}
+            <a href="mailto:kontakt@privatjet-vergleich.de" style={{ color: "#c9a84c" }}>
+              kontakt@privatjet-vergleich.de
+            </a>.
           </p>
         </div>
 

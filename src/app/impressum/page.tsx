@@ -15,10 +15,10 @@ export default function ImpressumPage() {
             <h2>Angaben gemäß § 5 TMG</h2>
             <p>
               PrivatjetVergleich.de<br />
-              Inhaber: [Name des Betreibers]<br />
-              [Straße und Hausnummer]<br />
-              [PLZ Ort]<br />
-              Deutschland
+              Inhaber: Auke de Haan<br />
+              Splitting 1<br />
+              9281 KJ Harkema<br />
+              Niederlande
             </p>
           </section>
           <section>
@@ -30,7 +30,7 @@ export default function ImpressumPage() {
           </section>
           <section>
             <h2>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV</h2>
-            <p>[Name des Verantwortlichen], [Adresse wie oben]</p>
+            <p>Auke de Haan, Splitting 1, 9281 KJ Harkema, Niederlande</p>
           </section>
           <section>
             <h2>Haftung für Inhalte</h2>

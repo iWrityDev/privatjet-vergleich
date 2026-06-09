@@ -8316,6 +8316,42 @@ Ideal für: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichweit
 <li>Bei Kurzfristbuchungen (unter 4 Stunden) pruefen ob der Operator mit der EDDH-Abfertigung vertraut ist, da manche Handler Vorlaufzeit benoetigen.</li>
 </ul>`
   },
+  {
+    slug: "privatjet-berlin-paris-kosten",
+    title: "Privatjet Berlin Paris Kosten 2026: Preise, Flugzeuge und Buchungstipps",
+    description: "Privatjet Berlin Paris 2026: Was kostet ein Charterflight? Flugzeit ca. 2h, Preise ab 7.500 Euro fuer einen Light Jet. Alle Optionen und Spartipps.",
+    category: "Kosten",
+    readingMinutes: 7,
+    publishedDate: "2026-06-09",
+    content: `<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Privatjet Berlin Paris Kosten 2026","datePublished":"2026-06-09","dateModified":"2026-06-09","author":{"@type":"Organization","name":"Privatjet-Vergleich"},"description":"Privatjet Berlin Paris 2026: Flugzeit ca. 2h, Preise ab 7.500 Euro fuer einen Light Jet. Alle Optionen im Vergleich.","url":"https://www.privatjet-vergleich.de/ratgeber/privatjet-berlin-paris-kosten","inLanguage":"de-DE"}</script>
+<div style="background:#f3f0e6;border-left:4px solid #c9a84c;padding:16px 20px;margin-bottom:24px;border-radius:8px;">
+<strong>Kurzfazit:</strong> Ein Privatjet von Berlin nach Paris kostet 2026 zwischen 7.500 und 22.000 Euro je nach Flugzeugklasse und Buchungszeitpunkt. Leerfluge koennen den Preis um 40 bis 60 Prozent reduzieren. Flugzeit: ca. 2 Stunden.
+</div>
+<h2>Berlin Paris per Privatjet: Die Strecke im Ueberblick</h2>
+<p>Die Luftlinie Berlin nach Paris betraegt ca. 1.050 km. Ein Linienflug dauert mit Check-in und Wartezeiten oft laenger als ein Privatjet-Charter, der direkt vom kleinen Flughafen Berlin-Schoenefeld oder Tegel-Nachfolger startet und Paris Le Bourget oder Paris Toussus-le-Noble anfliegt. Zentraler Vorteil: keine langen Sicherheitskontrollen, kein Umsteigen.</p>
+<p>Die Strecke Berlin-Paris ist eine der meistgebuchten Kurz- bis Mittelstrecken im DACH-Raum und bietet deshalb eine gute Verfuegbarkeit. Das erhoert die Chancen auf Leerfluge, die diese Strecke deutlich guenstiger machen koennen.</p>
+<h2>Aktuelle Preise 2026 nach Jet-Klasse</h2>
+<table>
+<thead><tr><th>Klasse</th><th>Beispielmodelle</th><th>Preis Berlin-Paris</th><th>Passagiere</th></tr></thead>
+<tbody>
+<tr><td>Very Light Jet</td><td>Embraer Phenom 100, Cessna CJ1</td><td>7.500 - 10.500 EUR</td><td>3-4</td></tr>
+<tr><td>Light Jet</td><td>Cessna CJ3, Pilatus PC-24</td><td>9.000 - 14.000 EUR</td><td>5-7</td></tr>
+<tr><td>Midsize Jet</td><td>Cessna Citation XLS, Learjet 60</td><td>13.000 - 19.000 EUR</td><td>7-9</td></tr>
+<tr><td>Heavy Jet</td><td>Bombardier Challenger 605</td><td>17.000 - 22.000 EUR</td><td>10-13</td></tr>
+</tbody>
+</table>
+<p>Alle Preise verstehen sich als One-Way-Charter. Im Preis enthalten sind Flugzeug, Crew, Treibstoff und Grundgebuehren. Landegebuehren, Catering und eventuelle Uebernachtungskosten fuer die Crew kommen hinzu.</p>
+<h2>Wie Leerfluge den Preis senken</h2>
+<p>Ein Leerflug (Empty Leg) entsteht, wenn ein Privatjet nach einem Charter-Einsatz ohne Passagiere zurueckfliegen muss. Der Operator bietet diesen Flug zu stark reduzierten Preisen an, oft 40 bis 65 Prozent unter dem normalen Charterwert. Auf der Strecke Berlin-Paris sind Leerfluge regelmaessig verfuegbar, da die Strecke sehr oft gebucht wird.</p>
+<p>Der Nachteil: Leerfluge haben meist feste Zeiten, wenig Flexibilitaet und koennen kurzfristig storniert werden. Fuer Geschaftsreisen mit festem Termin ungeeignet, fuer flexible Reisende ein attraktiver Spartipp.</p>
+<p>Finden Sie aktuelle Leerfluge ueber Plattformen wie Privatefly, Jettly oder Villiers Jets. <a href="https://www.villiersjets.com/?affiliate_id=4007" target="_blank" rel="noopener">Villiers Jets</a> aggregiert Leerfluge aus einem Netz von ueber 10.000 Flugzeugen weltweit.</p>
+<h2>Abflughaefen in der Region Berlin</h2>
+<p>Von Berlin koennen Privatjets von mehreren Kleinstflughaefen starten, die vom Hauptstadtflughafen BER unabhaengig sind. Schoenefeld hatte bis zur BER-Eroeffnung eigene Kapazitaeten, heute nutzen viele Charter-Operatoren die BER General Aviation Facilities. Alternativ: Magdeburg-Cochstedt oder Leipzig-Halle fuer bestimmte Operatoren.</p>
+<p>In Paris landen Privatjets meist auf Le Bourget (nordoestlich des Stadtzentrums, gut erreichbar) oder Toussus-le-Noble (suedwestlich, naeher an der Verteidigungsindustrie). Beide Optionen vermeiden den ueberfuellten CDG.</p>
+<h2>So buchen Sie einen Privatjet Berlin Paris</h2>
+<p>Am einfachsten ueber einen Broker oder eine Online-Vergleichsplattform wie Villiers Jets oder Jettly. Sie geben Datum, Passagierzahl und gewuenschte Flexibilitaet an und erhalten Angebote von mehreren Operatoren. Der Broker koordiniert alle Details inkl. Catering, Transferservice und An-Bord-Service.</p>
+<p>Direktbuchungen beim Operator sind moeglich, setzen aber voraus, dass Sie den richtigen Operator fuer Ihre Strecke kennen. Fuer einmalige Buchungen ist ein Broker effizienter.</p>`,
+  },
 export function getArticleBySlug(slug: string): Article | undefined {
   return articles.find((a) => a.slug === slug);
 }

@@ -9652,4 +9652,13 @@ export const articleCategories = [
   "Kosten", "Ratgeber", "Jet Cards", "Business", "Events",
   "Flugzeuge", "Anbieter", "Reiseziele", "Stadte", "Erlebnis",
   "Nachhaltigkeit", "Spezial", "Markt", "Zukunft",
+,
+  {
+    slug: "privatjet-berlin-amsterdam-kosten",
+    title: "Privatjet Berlin Amsterdam: Kosten und Optionen 2026",
+    description: "Privatjet von Berlin nach Amsterdam chartern: Kosten ab 4.500 Euro, geeignete Flugzeugtypen und Abflugoptionen im Ueberblick.",
+    date: "2026-06-09",
+    readTime: "5 min",
+    content: `<h2>Privatjet von Berlin nach Amsterdam</h2><p>Die Strecke Berlin-Amsterdam ist eine der beliebtesten Kurzstrecken fuer Privatjet-Passagiere in Mitteleuropa. Die Flugzeit betraegt rund 1,5 bis 2 Stunden, je nach Flugzeugtyp und Wetterbedingungen. Im Vergleich zum Linienflug oder zur Bahnreise sparen Sie erheblich Zeit, besonders bei An- und Abreise.</p><h2>Kosten im Ueberblick</h2><p>Die Charterkosten fuer einen Privatjet Berlin-Amsterdam beginnen bei etwa 4.500 Euro fuer ein Turbinenflugzeug der Einstiegsklasse und reichen bis zu 15.000 Euro fuer eine Langstrecken-Business-Kabine. Der Preis haengt stark vom gewahlten Flugzeugtyp, der Buchungsvorlaufzeit und der aktuellen Verfuegbarkeit ab.</p><h2>Geeignete Flugzeugtypen</h2><p>Fuer diese Kurzstrecke empfehlen sich Leichtjets wie der Embraer Phenom 300 oder der Cessna Citation CJ4. Diese Flugzeuge bieten sechs bis acht Sitzplaetze, ausreichend Gepaeckraum und einen wirtschaftlichen Kraftstoffverbrauch. Fuer groessere Gruppen sind Midsize-Jets wie der Hawker 800 oder der Cessna Citation XLS eine gute Wahl.</p><h2>Abflugmoeglichkeiten in Berlin</h2><p>Berlin bietet mehrere Abflugoptionen fuer Privatjet-Passagiere. Der Flughafen Berlin Brandenburg (BER) verfuegt ueber ein separates Terminal fuer die Allgemeine Luftfahrt. Alternativ nutzen viele Privatjet-Passagiere den Flughafen Schoenefeld oder die nahe gelegenen Flugplaetze Strausberg und Eggersdorf fuer noch kuerzerenBodenwege.</p>`
+  }
 ];

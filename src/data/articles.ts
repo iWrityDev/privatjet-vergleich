@@ -1,5 +1,15 @@
 ex,
   {
+    slug: 'privatjet-barcelona-mailand-kosten',
+    title: 'Privatjet Barcelona nach Mailand: Verbindung zwischen zwei Wirtschaftsmetropolen',
+    description: 'Barcelona (BCN) nach Mailand (MXP/LIN) per Privatjet: 760 Kilometer, etwa 1 Stunde 20 Minuten Flugzeit. Kosten, Optionen und Leerflugchancen auf dieser gut frequentierten Suedeuropa-Route.',
+    date: '2026-06-09',
+    category: 'routen',
+    readTime: 4,
+    content: `<h2>Route Barcelona - Mailand</h2><p>Luftlinie Barcelona nach Mailand: 760 Kilometer. Flugzeit per Privatjet: 1 Stunde 20 bis 1 Stunde 35 Minuten. Mailand hat zwei Privatjet-freundliche Airports: Malpensa (MXP) fuer groessere Jets, Linate (LIN) fuer kleinere Maschinen, naeher am Stadtzentrum.</p><h2>Kosten</h2><p>Leichtjet (4 Passagiere): 9.500 bis 13.500 Euro. Midsize Jet (6 Passagiere): 15.000 bis 20.000 Euro. Die Route verbindet zwei Modemetropolen; Flugaufkommen ist um Fashion Week-Termine im Februar und September besonders hoch. In dieser Zeit sind Verfuegbarkeit und Preise angespannt.</p><h2>Leerflüge</h2><p>Zwischen Suedfrankreich und Norditalien gibt es regelmaessig Leerflüge, da viele Jets diese Strecke als Teil laengerer Routenketten fliegen. Plattformen wie JetSmarter oder Victor aggregieren Leerflug-Angebote in Echtzeit.`,
+  },
+,
+  {
     slug: 'privatjet-amsterdam-paris-kosten',
     title: 'Privatjet Amsterdam nach Paris: Die schnellste Verbindung zwischen zwei Wirtschaftszentren',
     description: 'Amsterdam (AMS) nach Paris (LBG/CDG) per Privatjet. Flugzeit unter einer Stunde, Kosten ab 8.000 Euro, Leerflugoptionen und Alternativen zum Linienflug auf dieser gut gebuchten Route.',

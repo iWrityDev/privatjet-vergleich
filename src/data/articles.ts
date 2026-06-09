@@ -1,5 +1,15 @@
 ex,
   {
+    slug: 'privatjet-frankfurt-madrid-kosten',
+    title: 'Privatjet Frankfurt nach Madrid: Kosten und Optionen fuer die Iberische Route',
+    description: 'Von Frankfurt nach Madrid sind es 1.800 Kilometer. Ein Privatjet braucht etwa 2 Stunden 30 Minuten. Welche Flugzeugtypen sind sinnvoll und was kostet der Flug?',
+    date: '2026-06-09',
+    category: 'routen',
+    readTime: 5,
+    content: `<h2>Strecke Frankfurt - Madrid</h2><p>Frankfurt (FRA) nach Madrid (MAD, Barajas) sind knapp 1.800 Kilometer. Die Flugzeit betraegt je nach Flugzeug und Wind 2 Stunden 15 Minuten bis 2 Stunden 45 Minuten. Das ist eine mittlere Entfernung, bei der Midsize-Jets und Super-Midsize-Jets ihre Staerken ausspielen koennen: ausreichend Reichweite, komfortabler Innenraum, schneller als Leichtjets bei vernuenftigem Verbrauch.</p><h2>Kosten fuer Privatjet Frankfurt - Madrid</h2><p>Midsize Jet (6 bis 8 Passagiere): 22.000 bis 30.000 Euro. Super Midsize (8 bis 10 Passagiere): 28.000 bis 38.000 Euro. Heavy Jet (10 bis 14 Passagiere): 40.000 bis 55.000 Euro. Empfehlenswerte Optionen fuer Gruppen von 6 bis 8 Personen: Citation Latitude, Challenger 300 oder Gulfstream G200. Diese Klasse bietet guten Komfort und Kabinenstehhoehe fuer die Flugzeit.</p><h2>Praktische Hinweise</h2><p>Madrid Barajas akzeptiert Privatjets, hat aber zu Stosszeiten Slot-Einschraenkungen. Alternativ bietet Madrid Cuatro Vientos (LECU) fuer kleinere Privatjets weniger Slots-Konkurrenz, liegt aber weiter suedwestlich. Am praegnung fuer Business-Reisende ist Barajas wegen der Naehe zur Innenstadt und der guten Terminal-Infrastruktur.</p>`,
+  },
+,
+  {
     slug: 'privatjet-hamburg-berlin-kosten',
     title: 'Privatjet Hamburg nach Berlin: Kosten und Alternativen fuer die kuerzeste Route',
     description: 'Hamburg nach Berlin sind es 250 Kilometer. Ein Privatjet braucht 40 Minuten, kostet aber 5.000 bis 8.000 Euro. Wann ist das sinnvoll und welche Alternativen gibt es?',

@@ -8271,6 +8271,51 @@ Ideal für: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichweit
 <h3>Braucht man fuer UK ein Visum?</h3>
 <p>EU- und Schweizer Buerger benoetigen seit 2025 die ETA (Electronic Travel Authorisation) fuer die UK-Einreise. Die ETA kostet 10 Pfund und ist online beantragbar. Sie gilt 2 Jahre fuer mehrere Einreisen. Beantragen Sie die ETA vor dem Flug, da Privatjet-Passagiere regulaer zollkontrolliert werden.</p>`
   },
+  {
+    slug: "privatjet-hamburg-london-kosten",
+    title: "Privatjet Hamburg London Kosten 2026: Preise, Flugzeit und Buchungstipps",
+    description: "Privatjet von Hamburg nach London 2026: Kosten ab 9.000 Euro, Flugzeit ca. 90 Minuten. Vergleich aller Jet-Klassen mit Nebenkosten und Buchungsoptionen.",
+    category: "Strecken",
+    readingMinutes: 8,
+    publishedDate: "2026-06-09",
+    content: `<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Privatjet Hamburg London Kosten 2026","datePublished":"2026-06-09","dateModified":"2026-06-09","author":{"@type":"Organization","name":"Privatjet-Vergleich"},"description":"Privatjet von Hamburg nach London 2026: Kosten ab 9.000 Euro. Vergleich Light Jet, Midsize, Heavy Jet.","url":"https://www.privatjet-vergleich.de/ratgeber/privatjet-hamburg-london-kosten","inLanguage":"de-DE"}</script>
+<div style="background:#f3f0e6;border-left:4px solid #c9a84c;padding:16px 20px;margin-bottom:24px;border-radius:8px;">
+<strong>Kurzfazit:</strong> Ein Privatjet von Hamburg (EDDH) nach London kostet 2026 zwischen 9.000 und 23.000 Euro je nach Jet-Klasse. Flugzeit: ca. 90 bis 100 Minuten. Hamburg ist nach Frankfurt und Muenchen der drittgroesste Privatjet-Abflughafen in Deutschland.
+</div>
+<h2>Hamburg als Privatjet-Abflughafen</h2>
+<p>Hamburg Airport (EDDH) verfuegt ueber einen dedizierten Business Aviation Terminal, der taeglich von mehreren Hundert Charter-Passagieren genutzt wird. Die Infrastruktur ist gut: kurze Wege vom Auto zum Flugzeug, effiziente Sicherheitskontrolle, diskreter Ablauf ohne die Massen des Linienflugbetriebs. Fuer Kunden aus dem Hamburger Umland ist zudem Luebeck-Blankensee (EDHL, ca. 60 Kilometer) eine guenstigere Alternative fuer kleine Jets.</p>
+<h2>Preise fuer Privatjet Hamburg nach London 2026</h2>
+<table>
+<thead><tr><th>Jet-Klasse</th><th>Beispielmodell</th><th>Passagiere</th><th>Flugzeit</th><th>Kosten One-Way</th></tr></thead>
+<tbody>
+<tr><td>Very Light Jet</td><td>Phenom 100</td><td>bis 4</td><td>ca. 100 Min.</td><td>7.000 bis 9.500 Euro</td></tr>
+<tr><td>Light Jet</td><td>Phenom 300, CJ3+</td><td>bis 7</td><td>ca. 95 Min.</td><td>9.000 bis 13.500 Euro</td></tr>
+<tr><td>Midsize Jet</td><td>Citation XLS, Hawker 800</td><td>bis 9</td><td>ca. 90 Min.</td><td>13.000 bis 18.000 Euro</td></tr>
+<tr><td>Heavy Jet</td><td>Challenger 604, Falcon 900</td><td>bis 14</td><td>ca. 90 Min.</td><td>18.000 bis 23.000 Euro</td></tr>
+</tbody>
+</table>
+<p>Zusaetzliche Kosten (Landegebuehren, Handling, Overflight): 1.200 bis 2.800 Euro. Fragen Sie immer nach einem All-in-Angebot.</p>
+<h2>Beste Londoner Airports fuer Passagiere aus Hamburg</h2>
+<p><strong>Farnborough (EGLF):</strong> Bester Airport fuer City of London und West End. Ca. 45 Minuten Transferzeit. Hoehere Gebuehren, aber exklusivste Infrastruktur. Die erste Wahl fuer Finanzdienstleistungen und M&A-Termine.</p>
+<p><strong>London Luton (EGGW):</strong> Guenstigere Gebuehren als Farnborough. Guter Anschluss per Zug nach Kings Cross (22 Minuten via Luton Airport Parkway). Praktisch fuer Kunden mit Terminen in Zentrallondon.</p>
+<p><strong>Biggin Hill (EGKB):</strong> Suedoestlich von London, ca. 40 Minuten nach Canary Wharf. Sehr guenstig, wenig Verkehr, schnelle Abfertigung. Empfehlung fuer Reisende mit Terminen im Osten oder Suelosten Londons.</p>
+<h2>Hamburg-London: Business Case fuer den Privatjet</h2>
+<p>Ein Linienflug Hamburg-London kostet in der Business Class 500 bis 1.200 Euro. Der Privatjet kostet das Zehnfache. Fuer wen rechnet sich das?</p>
+<ul>
+<li><strong>Gruppen ab 6 Personen:</strong> Bei 6 Passagieren liegt der Pro-Kopf-Preis eines Light Jets auf Niveau einer Business-Class-Buchung, mit deutlich kuerzerer Gesamtreisezeit (keine langen Check-ins, direkter Transfer).</li>
+<li><strong>Zwei Destinationen an einem Tag:</strong> Hamburg morgens, London mittags, zurueck abends. Mit Linienflug nicht sinnvoll umsetzbar wegen Umsteigezeiten und Fruehbucherpflicht.</li>
+<li><strong>Confidential Meetings:</strong> Konferenzgespaeche im Flugzeug ohne Mithoerer. Relevant fuer Transaktionen, Restrukturierungen und Personalentscheidungen.</li>
+</ul>
+<h2>ETA fuer UK-Einreise: Was Sie wissen muessen</h2>
+<p>EU-Buerger benoetigen seit 2025 die Electronic Travel Authorisation (ETA) fuer UK-Einreise. Kosten: 10 Pfund Sterling. Beantragung online, gilt 2 Jahre fuer mehrere Einreisen. Beantragen Sie die ETA vor dem Flug, da Privatjet-Passagiere regulaer zollkontrolliert werden. Ohne ETA ist die Einreise verweigert.</p>
+<h2>Buchungstipps fuer die Strecke Hamburg-London</h2>
+<ul>
+<li>Immer 3 bis 5 Angebote von verschiedenen Brokern einholen und auf All-in-Basis vergleichen.</li>
+<li>Den Londoner Ankunftsairport nach Zielort in London waehlen, nicht nach Bekanntheit.</li>
+<li>API-Passdaten fuer alle Passagiere mindestens 24 Stunden vor Abflug einreichen.</li>
+<li>Bei Kurzfristbuchungen (unter 4 Stunden) pruefen ob der Operator mit der EDDH-Abfertigung vertraut ist, da manche Handler Vorlaufzeit benoetigen.</li>
+</ul>`
+  },
 export function getArticleBySlug(slug: string): Article | undefined {
   return articles.find((a) => a.slug === slug);
 }

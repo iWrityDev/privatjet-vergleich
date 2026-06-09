@@ -1,5 +1,14 @@
 ex,
   {
+    slug: 'privatjet-duesseldorf-genf-kosten',
+    title: 'Privatjet Duesseldorf-Genf: Kosten und Buchungstipps',
+    description: 'Was kostet ein Privatjet von Duesseldorf nach Genf? Alle Informationen zu Preisen, Flugzeit und den besten Buchungsoptionen fuer die Strecke ins Schweizer Finanzzentrum.',
+    date: '2026-06-09',
+    category: 'strecken',
+    content: `<h2>Die Strecke Duesseldorf-Genf</h2><p>Genf ist eines der wichtigsten Finanzzentren Europas und Sitz zahlreicher internationaler Organisationen. Die Entfernung von Duesseldorf betraegt rund 650 Kilometer, die Flugzeit liegt zwischen 75 und 90 Minuten. Linienfluege mit Umstieg via Zuerich oder Frankfurt benoetigen oft ueber drei Stunden Gesamtreisezeit.</p><h2>Preise nach Flugzeugkategorie</h2><p>Ein Very Light Jet kostet fuer diese Strecke typischerweise 7.000 bis 10.000 Euro. Ein Light Jet wie die HondaJet Elite oder Citation CJ3 liegt zwischen 9.000 und 14.000 Euro. Wer einen Mid-Size Jet bucht, zahlt 15.000 bis 22.000 Euro. Empty-Leg-Angebote koennen die Kosten bei guenstiger Planung auf 3.000 bis 6.000 Euro reduzieren.</p><h2>Flughaefen</h2><p>Duesseldorf International (DUS) hat ein eigenes Business-Aviation-Terminal. Alternativ bietet Duesseldorf Messe (MGL) kuerzere Abfertigungszeiten fuer Privatjets. In Genf ist der Flughafen Geneve-Cointrin (GVA) der einzige kommerzielle Flughafen, hat aber eine separate Privatjet-Terminal-Area mit schneller Abfertigung.</p><h2>Booking-Optionen</h2><p>Villiers Jets vergleicht Angebote von ueber 10.000 Chartergesellschaften weltweit und zeigt Echtzeit-Verfuegbarkeiten fuer diese Strecke. Fuer regelmaessige Genf-Reisen lohnt sich der Vergleich zwischen Charter und einer Jet Card von Luxaviation oder VistaJet.</p>`
+  }
+,
+  {
     slug: 'privatjet-paris-london-kosten',
     title: 'Privatjet Paris-London: Kosten, Flugzeit und Buchung',
     description: 'Was kostet ein Privatjet von Paris nach London? Alle Informationen zu Preisen, Flugzeugkategorien, Flugzeit und der besten Buchungsmethode.',

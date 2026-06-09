@@ -8467,6 +8467,41 @@ Ideal für: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichweit
 <p>Villiers Jets ist ein Broker, der weltweit bei Tausenden von Charterunternehmen anfragt und Ihnen das beste Angebot unterbreitet. Fuer Strecken wie Duesseldorf Ibiza lohnt sich eine Anfrage 3 bis 6 Wochen im Voraus, um Verfuegbarkeit und Preis zu sichern.</p>`,
   },
 
+  {
+    id: "privatjet-koeln-mailand-kosten",
+    slug: "privatjet-koeln-mailand-kosten",
+    title: "Privatjet Koeln Mailand Kosten 2026: Preise und Buchungstipps",
+    description: "Was kostet ein Privatjet von Koeln nach Mailand? Kosten, Flugzeugtypen und Buchungstipps fuer die Strecke Koeln/Bonn nach Mailand Linate oder Malpensa.",
+    category: "strecken",
+    author: "Privatjet Vergleich Redaktion",
+    publishedAt: "2026-06-09",
+    readTime: "5 min",
+    content: `<h2>Koeln nach Mailand per Privatjet</h2>
+<p>Die Strecke von Koeln/Bonn (CGN) nach Mailand ist eine beliebte Geschaftsreiseroute. Entfernung: ca. 850 km Luftlinie. Flugzeit im Privatjet: ca. 1 Stunde 45 Minuten. Im Vergleich zum Linienflug, der mit Transitzeiten und Wartezeiten leicht 4 bis 5 Stunden beansprucht, ein erheblicher Zeitvorteil.</p>
+
+<h2>Mailand: welcher Flughafen?</h2>
+<p>Privatjets nach Mailand koennen drei Flughaefen anfliegen:</p>
+<ul>
+<li><strong>Mailand Linate (LIN)</strong>: Stadtnahe Businessloesung, nur 7 km vom Stadtzentrum. Bevorzugte Wahl fuer Privatjets. Kurze Abfertigung, direkte Taxiverbindung in die Stadt.</li>
+<li><strong>Mailand Malpensa (MXP)</strong>: Groesster Flughafen Mailands, 50 km vom Stadtzentrum. Weniger attraktiv fuer Privatjets ausser bei Verfuegbarkeitsproblemen in Linate.</li>
+<li><strong>Mailand Bergamo Orio al Serio (BGY)</strong>: Oestlich der Stadt, gelegentlich fuer Privatjets bei guenstigen empty-leg-Optionen genutzt.</li>
+</ul>
+
+<h2>Kosten fuer den Privatjet Koeln Mailand</h2>
+<p>Richtwerte fuer One-Way-Buchungen:</p>
+<ul>
+<li><strong>Leichtflugzeug (Phenom 300, Citation CJ3)</strong>: ab 9.000 bis 14.000 EUR. 4 bis 6 Personen.</li>
+<li><strong>Mittelgrosse Kabine (Citation XLS, Hawker 750)</strong>: ab 13.000 bis 20.000 EUR. 6 bis 8 Personen.</li>
+<li><strong>Grossraumige Kabine (Challenger 350, Falcon 2000)</strong>: ab 22.000 bis 32.000 EUR. 8 bis 12 Personen.</li>
+</ul>
+
+<h2>Kostenoptimierung: Hin- und Rueckflug</h2>
+<p>Wenn Sie Hin- und Rueckflug beim selben Anbieter buchen, kann das Flugzeug in Mailand bleiben und die Leerflugskosten werden aufgeteilt. Insgesamt oft 15 bis 25 Prozent guenstiger als zwei separate One-Way-Buchungen. Fragen Sie Ihren Broker explizit nach Paketpreisen fuer die Strecke.</p>
+
+<h2>Buchungsempfehlung</h2>
+<p>Nutzung einer Buchungsplattform wie Villiers Jets ermoeglichst den Preisvergleich zwischen mehreren Anbietern gleichzeitig. Fuer die Route Koeln Mailand gibt es regelmaessig empty-leg-Moeglichkeiten, da viele Geschaeftsreisende auf dieser Strecke unterwegs sind und Flugzeuge oft in eine Richtung leer zurueckfliegen muessen.</p>`,
+  },
+
 export function getArticleBySlug(slug: string): Article | undefined {
   return articles.find((a) => a.slug === slug);
 }

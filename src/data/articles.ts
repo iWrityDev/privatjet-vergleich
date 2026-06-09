@@ -1,5 +1,14 @@
 ex,
   {
+    slug: 'privatjet-hamburg-wien-kosten',
+    title: 'Privatjet Hamburg nach Wien: Kosten und Reisezeit 2026',
+    description: 'Ein Privatjet von Hamburg nach Wien kostet zwischen 7.500 und 18.000 Euro. Hier sind die Optionen und warum diese Strecke fuer Businessreisende attraktiv ist.',
+    date: '2026-06-09',
+    category: 'strecken',
+    readTime: '5 min',
+    content: `<h2>Strecke Hamburg-Wien</h2><p>Hamburg (HAM/EDDH oder Finkenwerder EDHI) nach Wien Schwechat (VIE) oder Wien Voslau (LOAN) sind Luftlinie etwa 1.040 Kilometer. Mit einem Leichtjet betraegt die Flugzeit etwa 1 Stunde 45 Minuten. Mit Linienfluegen sind es inklusive Check-in und Warten mindestens drei bis dreieinhalb Stunden. Fuer eintaegige Geschaeftsreisen oder Wochenendausfluge ist der Privatjet auf dieser Strecke besonders zeiteffizient.</p><h2>Kosten</h2><p>Leichtjets wie der Cessna Citation CJ2+ oder Embraer Phenom 300 kosten fuer diese Strecke zwischen 7.500 und 11.000 Euro fuer bis zu sechs Passagiere. Midsize Jets wie der Hawker 700 oder Citation XLS liegen bei 11.000 bis 16.000 Euro und bieten mehr Kabinenkomfort. Heavy Jets werden fuer diese Distanz kaum gebucht; bei Bedarf ab 18.000 Euro verfuegbar.</p><h2>Abflug ab Hamburg</h2><p>Hamburg Airport (HAM) hat ein eigenes Terminal fuer General Aviation, das separat vom Hauptterminal liegt. Alternativ nutzen manche Charter-Operatoren den Flugplatz Hamburg-Finkenwerder (EDHI), der weniger Kapazitaetsprobleme hat. In Wien ist Schwechat der groesste Privatjet-Knotenpunkt Oesterreichs mit FBO-Services aller grossen Anbieter.</p><h2>Leerfluege nutzen</h2><p>Auf der Strecke Hamburg-Wien und zurueck gibt es regelmaessige Leerfluege. Wenn ein Jet von Wien nach Hamburg zurueck muss oder umgekehrt, wird er oft als Leerflug zu 40 bis 60 Prozent Rabatt angeboten. Apps wie JetSmarter oder Victor aggregieren diese Angebote und koennen die Kosten signifikant senken.</p>`  }
+,
+  {
     slug: 'privatjet-muenchen-london-kosten',
     title: 'Privatjet Muenchen nach London: Kosten und Optionen 2026',
     description: 'Ein Privatjet von Muenchen nach London kostet je nach Flugzeugtyp zwischen 9.000 und 25.000 Euro. Hier sind die Details und welche Option sich lohnt.',

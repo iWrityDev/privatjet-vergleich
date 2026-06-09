@@ -1,5 +1,14 @@
 ex,
   {
+    slug: 'privatjet-kosten-pro-stunde-erklaert',
+    title: 'Privatjet Kosten pro Stunde: Was Sie wirklich zahlen 2026',
+    description: 'Stuendliche Charterkosten, Landegebuehren, Uebernachtung der Crew: Diese Kostenpositionen erklaeren, warum der Endpreis oft hoeher ist als der Stundenpreis.',
+    date: '2026-06-09',
+    category: 'kosten',
+    readTime: '6 min',
+    content: `<h2>Der Stundenpreis ist nur der Anfang</h2><p>Privatjet-Charter werden in Stundenpreisen angegeben, aber der Endpreis eines Fluges enthaelt mehr als nur die geflogene Zeit. Wer nur den Stundenpreis vergleicht, unterschaetzt den Gesamtaufwand. Hier sind alle Kostenpositionen, die ein vollstaendiges Angebot enthalten sollte.</p><h2>Flugzeit und Taxi-Zeit</h2><p>Berechnet wird die gesamte Blockzeit: vom Moment, in dem das Flugzeug die Parkposition verlaesst, bis zum Abstellen auf dem Zielflughafen. Dazu kommt oft eine Mindestflugzeit, die viele Operateure verlangen, typischerweise eine Stunde, auch wenn der Flug kuerzer ist. Kurze Strecken von 30 bis 40 Minuten werden also oft mit einer Stundenpauschale abgerechnet.</p><h2>Positionierungsfluge</h2><p>Wenn das Flugzeug nicht am Abflugort stationiert ist, muss es leer hingeflogen werden (Positionierungsflug). Diese Zeit wird oft zum reduzierten Satz berechnet, aber trotzdem in Rechnung gestellt. Ein Jet aus Frankfurt, der Sie in Stuttgart abholen soll, berechnet die Positionierungszeit Frankfurt-Stuttgart.</p><h2>Landegebuehren und Handling</h2><p>Jeder Flughafen erhebt Lande- und Abfertigungsgebuehren. Auf grossen Privatjet-Hubs wie Farnborough oder Le Bourget koennen diese Gebuehren 500 bis 2.000 Euro pro Landung betragen. Diese Kosten sind im Charterpreis manchmal inbegriffen, manchmal nicht.</p><h2>Crewkosten</h2><p>Fuer laengere Reisen oder Reisen, bei denen die Crew am Zielort uebernachten muss, kommen Hotel- und Verpflegungskosten der Crew hinzu. Einige Operateure berechnen diese separat, andere beziehen sie in den Gesamtpreis ein. Fragen Sie explizit danach.</p><h2>Steuern und Gebuehren</h2><p>In Deutschland und anderen EU-Laendern fallen Luftverkehrsteuer pro Passagier und in manchen Faellen Mehrwertsteuer an. Die genaue Steuerbehandlung von Privatjet-Chartern ist komplex und abhaengig von Strecke, Operator und Nutzungsart.</p><h2>Was ein gutes Angebot enthaelt</h2><p>Ein transparentes Charter-Angebot schlueselt alle diese Positionen auf: Flugzeit, Positionierungsflug, Landegebuehren, Crewkosten und Steuern. Vergleichen Sie immer den All-in-Preis, nicht den Stundenpreis.</p>`  }
+,
+  {
     slug: 'privatjet-frankfurt-amsterdam-kosten',
     title: 'Privatjet Frankfurt nach Amsterdam: Kosten und Alternativen 2026',
     description: 'Frankfurt nach Amsterdam ist eine kurze Strecke. Wann lohnt sich der Privatjet, und wann sind Bahn oder Linienflug die bessere Wahl?',

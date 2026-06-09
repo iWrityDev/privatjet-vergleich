@@ -8622,6 +8622,30 @@ Ideal für: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichweit
 <p>Hamburg - Barcelona ist eine der Strecken, auf der Empty Legs regelmaessig verfuegbar sind. Flugzeuge werden fuer Regatten, Filmfestivals (Sitges liegt nahe Barcelona) und Messen positioniert. Ein Empty-Leg-Alarm bei einem Broker kann die Kosten auf 4.000 bis 8.000 Euro drruecken. Einschraenkungen bleiben: fixes Datum, moeglicher Zwischenstopp.</p>
 <p>Fuer Gruppen von 6 bis 8 Personen lohnt ein Vergleich mit Business Class auf Lufthansa oder Iberia: sechs Rueckflugtickets Business Class kosten um 6.000 bis 10.000 Euro je nach Buchungszeit. Ab diesem Punkt konkurriert der Privatjet preislich, besonders wenn Zeitersparnis durch die Privatjet-Abfertigung einbezogen wird.</p>`,
   },
+  {
+    slug: "privatjet-koeln-madrid-kosten",
+    title: "Privatjet Koeln nach Madrid: Kosten und Streckenanalyse",
+    description: "Was kostet ein Privatjet von Koeln nach Madrid? Flugdauer, Flugzeugtypen und Kostenuebersicht fuer diese beliebte Business- und Freizeitroute nach Spanien.",
+    date: "2026-06-09",
+    category: "Streckenanalyse",
+    readTime: "6 min",
+    content: `<h2>Koeln - Madrid: die Route im Ueberblick</h2>
+<p>Koeln nach Madrid ist eine direkte Strecke von rund 1.850 Kilometern. Die Flugzeit betraegt je nach Flugzeugtyp 2,5 bis 3,5 Stunden. Madrid ist eines der wichtigsten Geschaeftszentren Suedeuropas und ein Ausgangspunkt fuer den iberischen Markt. Fuer Unternehmen mit Aktivitaeten in Spanien oder Portugal ist diese Route regelmaessig gefragt.</p>
+
+<h2>Kosten nach Flugzeugtyp</h2>
+<p>Leichtjets (Citation CJ3+, Phenom 300) schaffen die Strecke nonstop fuer 4 bis 6 Passagiere. Kosten: 13.000 bis 19.000 Euro. Fuer die meisten kleinen Teams ist das die wirtschaftlich optimale Wahl auf dieser Distanz.</p>
+<p>Midsize Jets (Citation Latitude, Learjet 75) bieten mehr Kabinenraum und gehoben Komfort. Kosten: 20.000 bis 30.000 Euro fuer bis zu 8 Passagiere.</p>
+<p>Grosse Kabinen (Challenger 300, Falcon 2000) beginnen ab 40.000 Euro. Fuer diese Streckendistanz selten notwendig, es sei denn die Gruppe besteht aus 9 bis 12 Personen oder ein Boardroom-Setup im Flugzeug ist Pflicht.</p>
+
+<h2>Abflugoptionen in der Region Koeln</h2>
+<p>Koeln-Wahn (Cologne Bonn Airport, CGN) ist der Hauptflughafen mit guter Privatjet-Infrastruktur. Alternativ bieten sich Duesseldorf International (DUS) oder Frankfurt am Main (FRA) an, wenn sich der Abflugort flexibel waehlen laesst. Frankfurt hat die groesste FBO-Auswahl in Deutschland, was kurzfristige Buchungen erleichtert.</p>
+
+<h2>Ankunft in Madrid</h2>
+<p>Madrid Barajas (MAD) hat ein dediziertes Privatjet-Terminal. Die Zollabwicklung fuer EU-interne Fluege dauert unter 15 Minuten. Alternativ bietet Madrid Torrejon (TOJ), ein ehemaliger Militaeraerport noerdlich der Stadt, guenstigere Landegebuehren und oft schnellere Abfertigung. Viele erfahrene Privatjet-Charterer bevorzugen Torrejon, wenn das Ziel im Norden Madrids liegt.</p>
+
+<h2>Kostenvergleich mit Linienfluegen</h2>
+<p>Business-Class-Direktfluege Koeln/Duesseldorf nach Madrid kosten 800 bis 1.600 Euro pro Person je nach Buchungszeitraum. Fuer eine Gruppe von 10 Personen sind das 8.000 bis 16.000 Euro, schon nah an einem Leichtjet-Preis, ohne die Zeitersparnis durch Privatjet-Abfertigung einzurechnen. Ab Gruppengroessen von 6 bis 8 Personen lohnt der direkte Kostenvergleich.</p>`,
+  },
 export function getArticleBySlug(slug: string): Article | undefined {
   return articles.find((a) => a.slug === slug);
 }

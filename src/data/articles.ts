@@ -1,5 +1,14 @@
 ex,
   {
+    slug: 'privatjet-frankfurt-amsterdam-kosten',
+    title: 'Privatjet Frankfurt nach Amsterdam: Kosten und Alternativen 2026',
+    description: 'Frankfurt nach Amsterdam ist eine kurze Strecke. Wann lohnt sich der Privatjet, und wann sind Bahn oder Linienflug die bessere Wahl?',
+    date: '2026-06-09',
+    category: 'strecken',
+    readTime: '5 min',
+    content: `<h2>Die Strecke Frankfurt-Amsterdam</h2><p>Frankfurt (FRA/EDDF oder Egelsbach EDFE) nach Amsterdam Schiphol (AMS) oder Amsterdam Lelystad (EHLE) sind Luftlinie etwa 360 Kilometer. Mit einem Leichtjet dauert der Flug etwa 50 bis 60 Minuten. Diese kurze Strecke ist einer der Grenzfaelle: Ob ein Privatjet hier Sinn ergibt, haengt stark von den Gesamtumstaenden ab.</p><h2>Kostenvergleich</h2><p>Ein Leichtjet fuer diese Strecke kostet zwischen 5.000 und 8.000 Euro fuer bis zu sechs Personen. Ein Midsize Jet liegt bei 8.000 bis 12.000 Euro. Bei guenstigen Linienfluegen in Business Class zahlen sechs Personen zusammen 2.400 bis 4.800 Euro. Die ICE-Verbindung Frankfurt-Amsterdam dauert mit Umstieg knapp vier Stunden, ist aber deutlich guenstiger.</p><h2>Wann sich der Privatjet trotzdem rechnet</h2><p>Auf dieser Strecke rechnet sich ein Privatjet hauptsaechlich bei extremem Zeitdruck, wenn Abfahrts- und Ankunftszeiten von Linienflügen nicht passen, bei grossen Gruppen mit viel Gepaeck (Messematerialien, Produktmuster), oder wenn der Startort nicht Hauptbahnhof Frankfurt ist. Wer von einem Industriepark ausserhalb Frankfurts zu einem Standort ausserhalb Amsterdams muss, spart mit Privatjet oft tatsaechlich mehrere Stunden Gesamtreisezeit.</p><h2>Leerflug-Chancen auf dieser Strecke</h2><p>Zwischen Frankfurt und Amsterdam gibt es regelmaessigen Privatjet-Verkehr fuer Finanzdienstleister und Pharmaunternehmen. Das erzeugt ein gutes Angebot an Leerflügen. Ueber Plattformen wie Victor oder JetSmarter sind Leerflüge auf dieser Strecke gelegentlich fuer 2.000 bis 3.500 Euro verfuegbar, was die Kalkulation deutlich aendert.</p>`  }
+,
+  {
     slug: 'privatjet-hamburg-wien-kosten',
     title: 'Privatjet Hamburg nach Wien: Kosten und Reisezeit 2026',
     description: 'Ein Privatjet von Hamburg nach Wien kostet zwischen 7.500 und 18.000 Euro. Hier sind die Optionen und warum diese Strecke fuer Businessreisende attraktiv ist.',

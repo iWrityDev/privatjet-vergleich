@@ -1,4 +1,14 @@
-export interface Article {
+ex,
+  {
+    slug: 'privatjet-berlin-wien-kosten',
+    title: 'Privatjet Berlin nach Wien: Kosten, Optionen und Buchungshinweise',
+    description: 'Berlin nach Wien mit dem Privatjet dauert etwa 1 Stunde. Welche Flugzeugtypen sind sinnvoll, was kostet der Flug, und wie bucht man am guenstigsten?',
+    date: '2026-06-09',
+    category: 'routen',
+    readTime: 5,
+    content: `<h2>Strecke Berlin - Wien</h2><p>Von Berlin (Schönefeld/BER) nach Wien (Schwechat/VIE) sind es etwa 520 Kilometer Luftlinie. Ein Privatjet benoetigt fuer diese Strecke 55 bis 75 Minuten je nach Flugzeugtyp und Gegenwind. Die Strecke ist sehr gut fuer Leichtjets geeignet, die auf dieser Entfernung ihren Vorteil bei Geschwindigkeit und Treibstoffverbrauch optimal ausspielen.</p><h2>Kosten fuer Privatjet Berlin - Wien</h2><p>Leichtjet (3 bis 4 Passagiere): 6.000 bis 9.000 Euro total. Midsize Jet (5 bis 7 Passagiere): 10.000 bis 15.000 Euro total. Typische Leichtjets auf dieser Strecke: Embraer Phenom 300, Cessna Citation XLS, Pilatus PC-24. Diese Flugzeuge bieten guten Komfort bei vertretbarem Preis fuer Kurzstrecken unter 600 Kilometer.</p><h2>Leere-Bein-Fluege Berlin-Wien</h2><p>Beide Staedte sind Drehscheiben im europaeischen Privatjet-Netzwerk. Leerflüge zwischen Berlin und Wien kommen mehrmals wochentlich vor, besonders nach Wochenenden wenn Maschinen nach Auftraegen zurueckfliegen muessen. Plattformen wie JetSmarter, LunaJets und PrivateFly zeigen diese Optionen an, oft zu 50 bis 70 Prozent des Vollpreises.</p><h2>Alternativen zur Vollcharter</html><p>Fuer einzelne Passagiere gibt es Sitzplatzbuchungen bei Semi-Private-Diensten. Blade und Fly Victor bieten fuer bestimmte Routen Einzelsitze auf Privatjets an, die preislich zwischen Business Class und Vollcharter liegen. Auf der Strecke Berlin-Wien sind solche Angebote gelegentlich verfuegbar, besonders zu Messen und Grossveranstaltungen in Wien.`,
+  },
+port interface Article {
   slug: string;
   title: string;
   description: string;

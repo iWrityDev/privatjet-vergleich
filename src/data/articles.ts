@@ -9337,6 +9337,35 @@ Ideal fÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å
     author: 'Privatjet Vergleich Redaktion',
     readingTime: 5,
     image: '/images/blog/privatjet-berlin-new-york.jpg',
+  },
+  {
+    slug: 'privatjet-hamburg-new-york-kosten',
+    title: 'Privatjet Hamburg nach New York: Kosten, Flugzeugtypen und Tipps 2026',
+    description: 'Preisuebersicht und Tipps fuer den Privatjet-Charter von Hamburg nach New York. Welche Flugzeuge eignen sich und was kostet die Strecke?',
+    date: '2026-06-09',
+    category: 'routen',
+    content: `
+<h2>Privatjet von Hamburg nach New York</h2>
+<p>Hamburg Airport (HAM) ist ein gut erschlossener Privatjet-Abflughafen im Norden Deutschlands. Die Distanz nach New York betraegt rund 6.300 Kilometer, sehr aehnlich wie Frankfurt oder Berlin. Nonstop geht es nur mit Ultra Long Range Jets.</p>
+
+<h2>Flugzeugoptionen</h2>
+<p>Fuer den Nonstop-Flug kommen Ultra Long Range Jets wie Gulfstream G650, Bombardier Global 7500 oder Dassault Falcon 10X infrage. Mit einem Zwischenstopp in Shannon oder Reykjavik sind auch Large Jets einsetzbar, die Hamburg nonstop nach New York technisch nicht schaffen.</p>
+
+<h2>Kostenrahmen</h2>
+<ul>
+<li><strong>Ultra Long Range Jet nonstop:</strong> ca. 100.000 bis 155.000 Euro</li>
+<li><strong>Large Jet mit Zwischenstopp:</strong> ca. 65.000 bis 95.000 Euro</li>
+</ul>
+<p>In Hamburg ist die Verfuegbarkeit an Ultra Long Range Jets geringer als in Frankfurt, was die Positionierungskosten leicht erhoehen kann. Wer regelmaessig auf dieser Route fliegt, sollte Leerpositionierungen im Blick halten.</p>
+
+<h2>Alternativen ab Hamburg</h2>
+<p>Fuer Passagiere in Hamburg ist auch ein Transfer nach Frankfurt moeglichen, wenn dort guenstigere Flugzeuge verfuegbar sind. Bei einer Preisdifferenz von 15.000 Euro oder mehr lohnt sich das. Andernfalls ist der direkte Abflug aus Hamburg die bequemere Option.</p>
+
+<h2>ESTA und Einreise</h2>
+<p>ESTA-Genehmigung mindestens 72 Stunden im Voraus beantragen. Teterboro Airport (TEB) in New Jersey ist fuer Privatjets die angenehmste Einflugsoption in Richtung Manhattan.`,
+    author: 'Privatjet Vergleich Redaktion',
+    readingTime: 5,
+    image: '/images/blog/privatjet-hamburg-new-york.jpg',
   }
 
 ];

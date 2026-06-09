@@ -1,5 +1,14 @@
 ex,
   {
+    slug: 'privatjet-amsterdam-frankfurt-kosten',
+    title: 'Privatjet Amsterdam nach Frankfurt: Kurzstrecke mit maximaler Flexibilität',
+    description: 'Ein Privatjet von Amsterdam Schiphol nach Frankfurt kostet zwischen 7.000 und 13.000 Euro. Für Geschäftsreisende zwischen den zwei größten nordwesteuropäischen Finanzzentren eine beliebte Option.',
+    date: '2026-06-09',
+    category: 'routen',
+    readingTime: '4 min',
+    content: '<h2>Amsterdam-Frankfurt: Zwei Finanzzentren, eine kurze Strecke</h2><p>Die Distanz zwischen Amsterdam Schiphol und Frankfurt liegt bei etwa 380 Kilometern. Mit einem Privatjet sind Sie in 50 bis 60 Minuten am Ziel. Der Hauptvorteil dieser Route ist die Zeitersparnis bei den Abfertigungsprozessen: Privater Terminal, kein langer Check-in, Abflug nach eigenem Zeitplan.</p><h2>Kosten und Flugzeugwahl</h2><p>Very Light Jets (Cessna Citation M2, Embraer Phenom 100) kosten für diese Strecke 7.000 bis 10.000 Euro. Light Jets (Phenom 300, HondaJet Elite) liegen bei 9.000 bis 13.000 Euro mit mehr Komfort. Für die kurze Strecke sind größere Jets unwirtschaftlich, außer bei Gruppen ab 6 Passagieren. Leerflüge zwischen Amsterdam und Frankfurt kommen regelmäßig vor und reduzieren die Kosten um 30 bis 40 Prozent.</p>'\n  }
+,
+  {
     slug: 'privatjet-hamburg-london-kosten',
     title: 'Privatjet Hamburg nach London: Kosten und Abflugoptionen',
     description: 'Ein Privatjet von Hamburg nach London kostet zwischen 12.000 und 22.000 Euro. Die Nordsee-Route ist beliebt bei Hanseaten und internationalen Geschäftsreisenden.',

@@ -1,5 +1,15 @@
 ex,
   {
+    slug: 'privatjet-stockholm-helsinki-kosten',
+    title: 'Privatjet Stockholm nach Helsinki: Nordische Hauptstaedte per Business-Jet verbinden',
+    description: 'Stockholm (ARN/BMA) nach Helsinki (HEL) per Privatjet: 400 Kilometer, unter einer Stunde Flugzeit. Kosten, Flughafen-Optionen und Leerflugchancen auf der wichtigsten nordischen Businessroute.',
+    date: '2026-06-09',
+    category: 'routen',
+    readTime: 4,
+    content: `<h2>Route Stockholm - Helsinki</h2><p>Luftlinie Stockholm nach Helsinki: 400 Kilometer. Flugzeit per Privatjet: 50 bis 60 Minuten. Stockholm hat zwei Business-Aviation-Optionen: Arlanda (ARN) fuer groessere Jets, Bromma (BMA) fuer kleinere Maschinen, naeher am Stadtzentrum. Helsinki Vantaa (HEL) hat gutes FBO-Terminal.</p><h2>Kosten</h2><p>Leichtjet: 7.000 bis 10.000 Euro. Turboprop (wie Pilatus PC-12): ab 4.500 Euro fuer bis zu 8 Passagiere. Die nordischen Laender haben traditionell hohe Privatjet-Nutzung im Techsektor. Helsinki ist der Sitz zahlreicher Tech- und Gaming-Unternehmen (Nokia, Supercell, Rovio), was konstantes Aufkommen auf dieser Route sichert.`,
+  },
+,
+  {
     slug: 'privatjet-lissabon-madrid-kosten',
     title: 'Privatjet Lissabon nach Madrid: Iberische Halbinsel per Privatjet verbinden',
     description: 'Lissabon (LIS) nach Madrid (MAD) per Privatjet: 500 Kilometer, etwa 55 Minuten Flugzeit. Kosten, Alternativen zur guenstigen Linienverbindung und wann ein Privatjet hier Sinn macht.',

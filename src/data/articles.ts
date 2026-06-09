@@ -9307,6 +9307,36 @@ Ideal fÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å
     author: 'Privatjet Vergleich Redaktion',
     readingTime: 5,
     image: '/images/blog/privatjet-frankfurt-new-york.jpg',
+  },
+  {
+    slug: 'privatjet-berlin-new-york-kosten',
+    title: 'Privatjet Berlin nach New York: Kosten, Flugzeit und Optionen 2026',
+    description: 'Was kostet ein Privatjet von Berlin nach New York? Preisspannen, Flugzeugtypen und wichtige Tipps fuer Transatlantikfluege aus Berlin.',
+    date: '2026-06-09',
+    category: 'routen',
+    content: `
+<h2>Berlin nach New York per Privatjet</h2>
+<p>Berlin Brandenburg Airport (BER) hat sich als bedeutender Privatjet-Abflughafen etabliert. Nach New York sind es rund 6.400 Kilometer, praktisch identisch mit der Strecke Frankfurt-New York. Damit gelten dieselben Einschraenkungen: Nonstop ist nur mit Ultra Long Range Jets moeglich.</p>
+
+<h2>Nonstop vs. Zwischenstopp</h2>
+<p>Ultra Long Range Jets (Gulfstream G650, Bombardier Global 7500) fliegen Berlin nach New York nonstop in ca. 8,5 bis 9 Stunden. Mit einem Tankstopp in Shannon, Irland, oder Reykjavik sind auch Large Jets wie der Global 5500 oder der G550 auf dieser Route einsetzbar, bei einer Gesamtreisezeit von ca. 10-11 Stunden.</p>
+
+<h2>Kosten und Preisspannen</h2>
+<ul>
+<li><strong>Nonstop Ultra Long Range Jet:</strong> ca. 100.000 bis 155.000 Euro</li>
+<li><strong>Large Jet mit Zwischenstopp:</strong> ca. 65.000 bis 95.000 Euro</li>
+<li><strong>Leerpositionen:</strong> ab ca. 40.000 bis 55.000 Euro (sehr variabel)</li>
+</ul>
+<p>Die Verfuegbarkeit in Berlin ist gut, aber geringer als in Frankfurt oder Muenchen. Planen Sie bei Buchungen unter 72 Stunden Vorlaufzeit eine gewisse Flexibilitaet beim Abflugzeitpunkt ein.</p>
+
+<h2>Vergleich Berlin vs. Frankfurt fuer Transatlantikfluege</h2>
+<p>Frankfurt hat mehr stationierte Ultra Long Range Jets als Berlin, was kuerzere Positionierungszeiten und haefig guenstigere Preise bedeutet. Fuer Passagiere in Berlin ist der Umweg nach Frankfurt oft nicht lohnenswert, da BER gut erschlossen ist und die Preisdifferenz selten mehr als 5-10% ausmacht.</p>
+
+<h2>Einreise USA und ESTA</h2>
+<p>EU-Buerger benoetigen ein gueltiges ESTA fuer die USA-Einreise (online, mind. 72h vor Abflug beantragen). Bei Privatjet-Einreise ueber Teterboro (TEB) ist die Abwicklung schneller als ueber JFK. Einreiseformalitaeten (Zoll, CBP) werden direkt am FBO-Terminal erledigt.`,
+    author: 'Privatjet Vergleich Redaktion',
+    readingTime: 5,
+    image: '/images/blog/privatjet-berlin-new-york.jpg',
   }
 
 ];

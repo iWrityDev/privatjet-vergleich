@@ -9366,6 +9366,16 @@ Ideal fÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å
     author: 'Privatjet Vergleich Redaktion',
     readingTime: 5,
     image: '/images/blog/privatjet-hamburg-new-york.jpg',
+  },
+  {
+    id: 'privatjet-berlin-dubai-kosten',
+    slug: 'privatjet-berlin-dubai-kosten',
+    title: 'Privatjet von Berlin nach Dubai: Kosten, Routen und Tipps',
+    description: 'Ein Privatjet von Berlin nach Dubai kostet zwischen 80.000 und 150.000 Euro je nach Flugzeugtyp. Hier erfahren Sie alles ueber die Route, Reisezeit und wie Sie den besten Preis finden.',
+    publishedDate: '2026-06-09',
+    readingTimeMinutes: 7,
+    category: 'routen',
+    content: `<h2>Berlin nach Dubai im Privatjet</h2><p>Die Strecke Berlin nach Dubai umfasst etwa 4.900 Kilometer und liegt damit an der Grenze zwischen Mittelstrecke und Langstrecke. Kleinere Privatjets wie der Citation XLS oder Phenom 300 koennen die Strecke nicht nonstop zuruecklegen und benoetigen einen Zwischenstopp, typischerweise in Wien, Zagreb oder Athen. Grosse Kabinenjets wie der Gulfstream G450 oder Bombardier Global 6000 schaffen Berlin-Dubai nonstop in ca. 6,5 bis 7 Stunden.</p><h2>Flugzeugtypen und Preise</h2><p><strong>Mittelgrosser Jet (Citation XLS, Learjet 75):</strong> 80.000 bis 95.000 Euro fuer den Charterflug, mit Zwischenstopp ca. 90 Minuten laenger. <strong>Grosser Kabinenjet (Challenger 350, Falcon 7X):</strong> 95.000 bis 120.000 Euro, nonstop in 6,5 Stunden. <strong>Ultra-Langstreckenjet (Gulfstream G650, Global 7500):</strong> 130.000 bis 150.000 Euro, nonstop in unter 7 Stunden mit maximaler Kabinenkonfiguration fuer 10 bis 16 Passagiere.</p><h2>Abflugoptionen in Berlin</h2><p>Berlin Brandenburg (BER) ist der primaere Abflughafen fuer Privatjets, hat aber keine dedizierte FBO-Einrichtung auf dem Niveau von grossen Hubs. Die meisten Privatjet-Operator nutzen den allgemeinen Luftfahrtbereich des BER. Fuer maximale Diskretion und schnelleres Boarding empfehlen einige Broker den Ausweich nach Leipzig/Halle (LEJ), der weniger Verkehr hat und oft guenstigere Handling-Gebuehren bietet.</p><h2>Dubai: Welches Terminal</h2><p>In Dubai landen Privatjets in der Regel am Dubai International Airport (DXB) im Terminal des Al Majlis FBO, oder am Dubai World Central (DWC) in Al Maktoum, der weniger frequentiert ist und schnellere Abfertigungszeiten bietet. Fuer Gaeste, die in Palm Jumeirah oder auf der Marina uebernachten, ist DWC oft die bessere Wahl wegen der kuerzeren Fahrzeit.</p><h2>Buchung und Verfuegbarkeit</h2><p>Berlin-Dubai-Privatjetcharterpreise schwanken je nach Verfuegbarkeit, Buchungsvorlauf und Leerflugmuster. Buchungen 2 bis 4 Wochen im Voraus sind typischerweise 15 bis 20 Prozent guenstiger als Last-Minute-Buchungen. Anfragen ueber einen Broker, der mehrere Operatoren vergleicht, ergeben in der Regel bessere Preise als die direkte Buchung bei einer einzelnen Fluggesellschaft.</p>`
   }
 
 ];

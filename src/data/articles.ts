@@ -1,4 +1,4 @@
-﻿﻿﻿export interface Article {
+﻿﻿export interface Article {
   slug: string;
   title: string;
   description: string;
@@ -8043,6 +8043,52 @@ Ideal für: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichweit
   },
 
 ];
+  {
+    slug: "privatjet-frankfurt-london-kosten",
+    title: "Privatjet Frankfurt London Kosten 2026: Preise, Flugzeuge und Anbieter",
+    description: "Was kostet ein Privatjet von Frankfurt nach London 2026? Kosten fuer Light Jets, Midsize Jets und Large Cabin Jets auf der Strecke FRA-LCY/LHR. Reisezeit und Anbieter im Vergleich.",
+    category: "Kosten",
+    readingMinutes: 8,
+    publishedDate: "2026-06-09",
+    content: `<article>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Privatjet Frankfurt London Kosten 2026","datePublished":"2026-06-09","publisher":{"@type":"Organization","name":"Privatjet Vergleich","url":"https://privatjet-vergleich.de"}}<\/script>
+<h1>Privatjet Frankfurt London Kosten 2026</h1>
+<p>Frankfurt nach London ist eine der meistgeflogenen Privatjet-Strecken in Europa. Die Distanz betraegt rund 600 Kilometer Luftlinie, die Flugzeit liegt je nach Flugzeugtyp zwischen 1 Stunde 10 Minuten und 1 Stunde 30 Minuten. London City Airport (LCY) ist fuer Privatjets die bevorzugte Option: zentral gelegen, kurze Abfertigungszeiten und direkter Zugang zur Londoner City.</p>
+
+<h2>Kosten Privatjet Frankfurt London im Ueberblick</h2>
+<table>
+<thead><tr><th>Flugzeugtyp</th><th>Kosten (Einweg)</th><th>Passagiere</th><th>Flugzeit</th></tr></thead>
+<tbody>
+<tr><td>Very Light Jet (HondaJet, Phenom 100)</td><td>8.000 bis 12.000 EUR</td><td>3-4</td><td>ca. 1:15 h</td></tr>
+<tr><td>Light Jet (Citation CJ3, Phenom 300)</td><td>10.000 bis 16.000 EUR</td><td>5-7</td><td>ca. 1:15 h</td></tr>
+<tr><td>Midsize Jet (Citation XLS, Learjet 60)</td><td>14.000 bis 22.000 EUR</td><td>7-8</td><td>ca. 1:20 h</td></tr>
+<tr><td>Large Cabin Jet (Challenger 350, Falcon 2000)</td><td>20.000 bis 32.000 EUR</td><td>9-12</td><td>ca. 1:25 h</td></tr>
+</tbody>
+</table>
+<p>Die Preise sind Richtwerte fuer One-Way-Fluege ohne Repositionierungskosten. Tatsaechliche Angebote koennen je nach Verfuegbarkeit, Buchungszeitpunkt und Anbieter abweichen.</p>
+
+<h2>Welcher Flughafen in London?</h2>
+<p><strong>London City (LCY)</strong> ist die erste Wahl fuer Privatjets auf der Strecke Frankfurt-London. Nur 10 Minuten vom Canary Wharf und 25 Minuten von der City entfernt. FBO-Einrichtungen direkt am Terminal. Ideal fuer Tagesgeschaeftsreisen.</p>
+<p><strong>London Luton (LTN)</strong> und <strong>London Biggin Hill (BQH)</strong> sind Alternativen fuer Passagiere, die im Westteil Londons unterwegs sind. Luton hat ausgezeichnete FBO-Einrichtungen und ist weniger ueberlastet als Heathrow-Slot-Bereich.</p>
+<p><strong>Farnborough (FAB)</strong> ist die Premium-Option fuer VHNWI: eigenes Terminal, maximale Diskretion, bevorzugte Slots. Etwas weiter von der City entfernt (40 Minuten), aber keine kommerziellen Fluege.</p>
+
+<h2>Repositionierungskosten beachten</h2>
+<p>Wenn das gebuchte Flugzeug nicht in Frankfurt stationiert ist, kommen Repositionierungskosten dazu. Diese werden als sogenannte "Leerflugkosten" auf den Kunden umgelegt oder durch Empty-Leg-Angebote vermieden. Wer Flexibilitaet bei Abflugzeit hat, findet auf Empty-Leg-Plattformen gelegentlich Angebote auf dieser stark geflogenen Route zu deutlich reduzierten Preisen.</p>
+
+<h2>Warum Frankfurt-London besonders guenstig sein kann</h2>
+<p>Frankfurt ist einer der groessten Privatjet-Hubs Europas. FRA hat eine hohe Flugzeugdichte. Das bedeutet: kurze Positionierungswege, weniger Leerflugkosten, und haeufiger verfuegbare Flugzeuge ohne Repositionierungsaufschlag. Wer flexibel buchst, profitiert von dieser Verfuegbarkeit.</p>
+<p>London ist umgekehrt der groesste Privatjet-Markt Europas. Viele Flugzeuge, die von Frankfurt nach London fliegen, haben dort bereits eine Weiterroutung. Das drueckt den Preis.</p>
+
+<h2>Anbieter fuer Privatjets FRA-LCY</h2>
+<p>Fuer diese Route empfehlen sich Broker mit starker europaeischer Praesenz: Villiers Jets, Air Charter Service, Chapman Freeborn, und NetJets fuer Inhaber von Fractional-Ownership-Anteilen. Villiers Jets hat auf dieser Route eine besonders hohe Verfuegbarkeit und arbeitet mit ueber 10.000 Flugzeugen weltweit.</p>
+<p><a href="https://www.villiersjets.com/?affiliateCode=PRIVATJET" rel="sponsored">Angebot bei Villiers Jets anfragen</a></p>
+
+<h2>Lohnt sich ein Privatjet Frankfurt-London?</h2>
+<p>Fuer eine Gruppe von 4 bis 6 Geschaeftsreisenden ist der Privatjet auf dieser Strecke gegenueber Business Class oft kostenneutral oder sogar guenstiger, wenn man Zeitersparnis (kein Check-in, kein Terminal, direkt ins Zentrum) und Produktivitaet einrechnet. Ein Midsize Jet fuer 20.000 EUR auf 6 Personen aufgeteilt ergibt 3.333 EUR pro Person, vergleichbar mit einer Business-Class-Hin-und-Rueckfahrt inklusive Zeitverlust durch den kommerziellen Flughafen.</p>
+
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Was kostet ein Privatjet von Frankfurt nach London?","acceptedAnswer":{"@type":"Answer","text":"Ein Privatjet von Frankfurt nach London kostet je nach Flugzeugtyp zwischen 8.000 und 32.000 EUR fuer den One-Way-Flug. Ein Light Jet liegt bei 10.000 bis 16.000 EUR, ein Midsize Jet bei 14.000 bis 22.000 EUR."}},{"@type":"Question","name":"Wie lange dauert der Flug Frankfurt London mit Privatjet?","acceptedAnswer":{"@type":"Answer","text":"Die Flugzeit mit einem Privatjet von Frankfurt nach London betraegt je nach Flugzeugtyp zwischen 1 Stunde 10 Minuten und 1 Stunde 30 Minuten. Hinzu kommen die kurzen Abfertigungszeiten am FBO-Terminal."}},{"@type":"Question","name":"Welcher Flughafen in London fuer Privatjets?","acceptedAnswer":{"@type":"Answer","text":"London City Airport (LCY) ist die bevorzugte Option fuer Privatjets auf der Strecke Frankfurt-London. Fuer maximale Diskretion und VHNWI-Klientel ist Farnborough Airport (FAB) die Premium-Wahl."}}]}<\/script>
+</article>`,
+  },
 
 export function getArticleBySlug(slug: string): Article | undefined {
   return articles.find((a) => a.slug === slug);

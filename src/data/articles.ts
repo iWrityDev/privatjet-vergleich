@@ -1,5 +1,14 @@
 ex,
   {
+    slug: 'privatjet-muenchen-mailand-kosten',
+    title: 'Privatjet München nach Mailand: Kosten und Flugoptionen',
+    description: 'Ein Privatjet von München nach Mailand kostet zwischen 8.000 und 18.000 Euro je nach Flugzeugklasse. Eine der meistgefragten Kurzstrecken im Alpenraum.',
+    date: '2026-06-09',
+    category: 'routen',
+    readingTime: '4 min',
+    content: '<h2>Die Strecke München-Mailand</h2><p>München nach Mailand sind gut 300 Kilometer Luftlinie. Mit einem Privatjet dauert der Flug etwa 45 bis 60 Minuten. Die Strecke ist besonders bei Geschäftsreisenden beliebt, die die kommerziellen Verbindungen umgehen und direkt am Abflugort starten möchten.</p><h2>Kosten nach Flugzeugtyp</h2><p>Ein Very Light Jet wie der Cessna Citation M2 ist ideal für diese Kurzstrecke: 8.000 bis 12.000 Euro für den Flug. Ein Light Jet wie der Embraer Phenom 300 liegt bei 10.000 bis 15.000 Euro. Für Gruppen bis zu 8 Personen bietet ein Midsize Jet wie der Hawker 800 Platz und kostet 13.000 bis 18.000 Euro. Leerflüge zwischen Bayern und der Lombardei kommen häufig vor und können den Preis um 25 bis 35 Prozent reduzieren.</p><h2>Abflugoptionen</h2><p>Von München aus fliegen Privatjets vor allem vom Flughafen München (MUC) und vom Flughafen München-Oberpfaffenhofen. Nach Mailand gibt es drei Optionen: Linate (stadtnah), Malpensa und Bergamo. Die Wahl des Zielflughafens beeinflusst den Preis und die Transfer-Zeit in die Stadt.</p>'\n  }
+,
+  {
     slug: 'privatjet-dubai-london-kosten',
     title: 'Privatjet Dubai nach London: Kosten, Flugzeit und Optionen',
     description: 'Ein Privatjet von Dubai nach London kostet zwischen 45.000 und 85.000 Euro, je nach Flugzeugklasse und Buchungszeitpunkt. Wir erklären, worauf es ankommt.',

@@ -1,5 +1,15 @@
 ex,
   {
+    slug: 'privatjet-rom-paris-kosten',
+    title: 'Privatjet Rom nach Paris: Die Verbindung zwischen zwei Kulturhauptstadten Europas',
+    description: 'Rom (Ciampino/Fiumicino) nach Paris (Le Bourget) per Privatjet: 1.100 Kilometer, etwa 1 Stunde 50 Minuten. Kosten, Flugoptionen und Buchungshinweise fuer diese suedeuropaeische Premium-Route.',
+    date: '2026-06-09',
+    category: 'routen',
+    readTime: 4,
+    content: `<h2>Route Rom - Paris</h2><p>Luftlinie Rom nach Paris: 1.105 Kilometer. Flugzeit per Privatjet: 1 Stunde 45 bis 2 Stunden. Rom hat zwei Privatjet-Optionen: Ciampino (CIA) ist der bevorzugte Business-Aviation-Flughafen (naeher am Zentrum), Fiumicino (FCO) hat ebenfalls FBO-Fazilit aeten. Paris: Le Bourget (LBG) ist das Privatjet-Herz von Paris.</p><h2>Kosten</h2><p>Leichtjet: 10.000 bis 14.000 Euro. Midsize Jet: 16.000 bis 22.000 Euro. Auf dieser laengeren Strecke werden auch groessere Midsize Jets und Heavy Jets gebucht. Die Route ist vor allem bei Mode- und Kunst-Industrie-Kunden beliebt sowie bei Politikern und Regierungsvertretern.`,
+  },
+,
+  {
     slug: 'privatjet-london-genf-kosten',
     title: 'Privatjet London nach Genf: Die klassische Finanzroute der Alpen',
     description: 'London (Farnborough/Luton) nach Genf per Privatjet: 730 Kilometer, 1 Stunde 15 Minuten. Die wichtigste Finanzroute zwischen britischem und Schweizer Kapitalmarkt. Kosten, Flugplaetze und Leerflugoptionen.',

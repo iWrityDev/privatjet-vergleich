@@ -1,4 +1,4 @@
-﻿export interface Article {
+export interface Article {
   slug: string;
   title: string;
   description: string;
@@ -8041,8 +8041,6 @@ Ideal für: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichweit
 <a href="https://www.villiersjets.com/?utm_source=privatjet-vergleich&amp;utm_medium=ratgeber&amp;utm_campaign=muenchen-ibiza" rel="sponsored noopener" target="_blank">Angebote Muenchen-Ibiza vergleichen bei Villiers Jets</a>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Was kostet ein Privatjet von Muenchen nach Ibiza?","acceptedAnswer":{"@type":"Answer","text":"Ein Privatjet von Muenchen nach Ibiza kostet 2026 ab 8.000 Euro fuer einen Very Light Jet bis zu 21.000 Euro fuer einen Heavy Jet. Der Preis gilt fuer das gesamte Flugzeug."}},{"@type":"Question","name":"Wie lange fliegt man mit dem Privatjet von Muenchen nach Ibiza?","acceptedAnswer":{"@type":"Answer","text":"Die Flugzeit von Muenchen nach Ibiza betraegt rund 2 Stunden und 10 Minuten."}}]}<\/script>`,
   },
-
-];
   {
     slug: "privatjet-frankfurt-london-kosten",
     title: "Privatjet Frankfurt London Kosten 2026: Preise, Flugzeuge und Anbieter",
@@ -8385,14 +8383,12 @@ Ideal für: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichweit
 <p>Vergleichen Sie mindestens drei Angebote. Unterschiede von 20 bis 30 Prozent zwischen Brokern und Direktoperatoren sind normal, da verfuegbare Flugzeuge tagesaktuell variieren.</p>`,
   },
   {
-    id: "privatjet-hamburg-london-kosten",
     slug: "privatjet-hamburg-london-kosten",
     title: "Privatjet Hamburg London Kosten 2026: Preise, Routen und Alternativen",
     description: "Was kostet ein Privatjet von Hamburg nach London? Vergleich der Kosten, Reisezeiten und Anbieter fuer die Strecke Hamburg Heathrow, City Airport und Biggin Hill.",
     category: "strecken",
-    author: "Privatjet Vergleich Redaktion",
-    publishedAt: "2026-06-09",
-    readTime: "6 min",
+    publishedDate: "2026-06-09",
+    readingMinutes: 6,
     content: `<h2>Privatjet Hamburg nach London: die wichtigsten Fakten</h2>
 <p>Die Strecke Hamburg nach London ist eine der meistgefragten Geschaeftsreiserouten in Nordeuropa. Die Entfernung betraegt etwa 900 km Luftlinie. Flugzeit im Privatjet: ca. 1 Stunde 45 Minuten bis 2 Stunden, je nach Flugzeugtyp und Routing.</p>
 <p>Linienfluge benoetigen mit An- und Abreise zum Flughafen, Check-in und Boardingzeiten oft 5 bis 6 Stunden oder mehr. Ein Privatjet ab Hamburg-Fuhlsbuettel (HAM) oder dem Geschaeftsflughafen Hamburg-Finkenwerder ermoeglicht oft einen direkt nutzbareren Zeitvorteil.</p>
@@ -8433,14 +8429,12 @@ Ideal für: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichweit
   },
 
   {
-    id: "privatjet-duesseldorf-ibiza-kosten",
     slug: "privatjet-duesseldorf-ibiza-kosten",
     title: "Privatjet Duesseldorf Ibiza Kosten 2026: Preise, Anbieter und Buchungstipps",
     description: "Was kostet ein Privatjet von Duesseldorf nach Ibiza? Vergleich der Kosten, Flugzeugtypen und praktische Tipps fuer die Buchung auf dieser Sommerstrecke.",
     category: "strecken",
-    author: "Privatjet Vergleich Redaktion",
-    publishedAt: "2026-06-09",
-    readTime: "6 min",
+    publishedDate: "2026-06-09",
+    readingMinutes: 6,
     content: `<h2>Duesseldorf nach Ibiza per Privatjet</h2>
 <p>Ibiza ist im Sommer eine der meistgefragten Privatjet-Destinationen aus Deutschland. Die Entfernung von Duesseldorf International (DUS) nach Ibiza Airport (IBZ) betraegt etwa 1.800 km Luftlinie. Flugzeit: ca. 2 Stunden 30 Minuten bis 3 Stunden, je nach Flugzeugtyp und Route.</p>
 <p>Linienfluge von Duesseldorf nach Ibiza dauern mit Zwischenstopp und Wartezeit oft 5 bis 7 Stunden. Ein Direktflug per Privatjet ab DUS oder dem Businessjet-Satelliten in Duesseldorf spart erheblich Zeit und Nerven, besonders in der Hochsaison wenn Linienflugzeuge verspaetenbedingt sind.</p>
@@ -8468,14 +8462,12 @@ Ideal für: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichweit
   },
 
   {
-    id: "privatjet-koeln-mailand-kosten",
     slug: "privatjet-koeln-mailand-kosten",
     title: "Privatjet Koeln Mailand Kosten 2026: Preise und Buchungstipps",
     description: "Was kostet ein Privatjet von Koeln nach Mailand? Kosten, Flugzeugtypen und Buchungstipps fuer die Strecke Koeln/Bonn nach Mailand Linate oder Malpensa.",
     category: "strecken",
-    author: "Privatjet Vergleich Redaktion",
-    publishedAt: "2026-06-09",
-    readTime: "5 min",
+    publishedDate: "2026-06-09",
+    readingMinutes: 5,
     content: `<h2>Koeln nach Mailand per Privatjet</h2>
 <p>Die Strecke von Koeln/Bonn (CGN) nach Mailand ist eine beliebte Geschaftsreiseroute. Entfernung: ca. 850 km Luftlinie. Flugzeit im Privatjet: ca. 1 Stunde 45 Minuten. Im Vergleich zum Linienflug, der mit Transitzeiten und Wartezeiten leicht 4 bis 5 Stunden beansprucht, ein erheblicher Zeitvorteil.</p>
 
@@ -8507,8 +8499,8 @@ Ideal für: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichweit
     title: "Privatjet Berlin Wien: Kosten, Dauer und Anbieter 2026",
     description: "Was kostet ein Privatjet von Berlin nach Wien? Kosten ab 8.500 Euro, Flugzeit 1,5 Stunden, Vergleich der besten Anbieter.",
     category: "strecken",
-    publishedAt: "2026-06-09",
-    readTime: 6,
+    publishedDate: "2026-06-09",
+    readingMinutes: 6,
     content: `<h2>Privatjet Berlin nach Wien: Was kostet die Strecke?</h2>
 <p>Ein Privatjet von Berlin (TXL/BER) nach Wien (VIE) kostet je nach Flugzeugtyp zwischen 8.500 und 18.000 Euro fuer den gesamten Flug. Die Strecke betraegt rund 680 Kilometer, die Flugzeit liegt bei etwa 1 Stunde 20 Minuten bis 1 Stunde 45 Minuten.</p>
 
@@ -8531,8 +8523,8 @@ Ideal für: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichweit
     title: "Privatjet Frankfurt Paris: Kosten, Flugzeit und Anbieter 2026",
     description: "Ein Privatjet von Frankfurt nach Paris kostet ab 7.500 Euro. Alles zu Flugzeit, Flughafen-Optionen und den besten Anbietern.",
     category: "strecken",
-    publishedAt: "2026-06-09",
-    readTime: 5,
+    publishedDate: "2026-06-09",
+    readingMinutes: 5,
     content: `<h2>Privatjet Frankfurt nach Paris: Kosten und Flugzeit</h2>
 <p>Ein Privatjet von Frankfurt (FRA/HHN) nach Paris (CDG/LBG) kostet je nach Flugzeugtyp zwischen 7.500 und 14.000 Euro fuer den gesamten Flug. Die Strecke betraegt rund 490 Kilometer Luftlinie, die Flugzeit liegt bei etwa 55 Minuten bis 1 Stunde 15 Minuten.</p>
 
@@ -8554,8 +8546,8 @@ Ideal für: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichweit
     title: "Privatjet Muenchen London: Kosten, Flugzeit und Anbieter 2026",
     description: "Was kostet ein Privatjet von Muenchen nach London? Kosten ab 10.500 Euro, Flugzeit rund 2 Stunden, alle Optionen im Ueberblick.",
     category: "strecken",
-    publishedAt: "2026-06-09",
-    readTime: 5,
+    publishedDate: "2026-06-09",
+    readingMinutes: 5,
     content: `<h2>Privatjet Muenchen nach London: Kosten und Flugzeit</h2>
 <p>Ein Privatjet von Muenchen (MUC) nach London (LCY/LHR/LTN) kostet je nach Flugzeugtyp und Abflugshafen zwischen 10.500 und 20.000 Euro. Die Strecke betraegt rund 1.300 Kilometer, die Flugzeit liegt bei etwa 1 Stunde 55 Minuten bis 2 Stunden 20 Minuten.</p>
 
@@ -8575,9 +8567,9 @@ Ideal für: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichweit
     slug: "privatjet-zuerich-dubai-kosten",
     title: "Privatjet Zuerich nach Dubai: Kosten, Flugzeugtypen und Buchungstipps",
     description: "Was kostet ein Privatjet von Zuerich nach Dubai? Komplette Kostenanalyse fuer Leichtflugzeuge, Midsize Jets und Grossraumjets auf dieser beliebten Businessstrecke.",
-    date: "2026-06-09",
+    publishedDate: "2026-06-09",
     category: "Streckenanalyse",
-    readTime: "7 min",
+    readingMinutes: 7,
     content: `<h2>Die Strecke Zuerich - Dubai im Ueberblick</h2>
 <p>Zuerich nach Dubai ist eine der meistgefragten Privatjet-Strecken zwischen Europa und dem Nahen Osten. Die Flugdistanz betraegt rund 5.100 Kilometer, die Flugzeit liegt je nach Flugzeugtyp zwischen 6 und 7,5 Stunden. Dubai ist ein zentraler Hub fuer Geschaeftsreisen in die MENA-Region, und der DXB-Flughafen bietet exzellente Privatjet-Infrastruktur.</p>
 
@@ -8601,9 +8593,9 @@ Ideal für: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichweit
     slug: "privatjet-hamburg-barcelona-kosten",
     title: "Privatjet Hamburg nach Barcelona: Kosten, Flugzeugtypen und Timing",
     description: "Was kostet ein Privatjet von Hamburg nach Barcelona? Komplette Kosten- und Routenanalyse mit Empfehlungen fuer die optimale Flugzeugwahl auf dieser Freizeitroute.",
-    date: "2026-06-09",
+    publishedDate: "2026-06-09",
     category: "Streckenanalyse",
-    readTime: "6 min",
+    readingMinutes: 6,
     content: `<h2>Hamburg - Barcelona: Freizeit trifft Geschaeft</h2>
 <p>Hamburg nach Barcelona ist eine der beliebtesten Privatjet-Strecken im westeuropaeischen Verkehr. Die Luftlinie betraegt rund 1.750 Kilometer, die Flugzeit liegt bei 2,5 bis 3 Stunden je nach Flugzeugtyp. Diese Entfernung ist ideal fuer Leichtjets, was die Strecke zu einer der kostenguenstigeren Privatjet-Routen in Europa macht.</p>
 
@@ -8626,9 +8618,9 @@ Ideal für: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichweit
     slug: "privatjet-koeln-madrid-kosten",
     title: "Privatjet Koeln nach Madrid: Kosten und Streckenanalyse",
     description: "Was kostet ein Privatjet von Koeln nach Madrid? Flugdauer, Flugzeugtypen und Kostenuebersicht fuer diese beliebte Business- und Freizeitroute nach Spanien.",
-    date: "2026-06-09",
+    publishedDate: "2026-06-09",
     category: "Streckenanalyse",
-    readTime: "6 min",
+    readingMinutes: 6,
     content: `<h2>Koeln - Madrid: die Route im Ueberblick</h2>
 <p>Koeln nach Madrid ist eine direkte Strecke von rund 1.850 Kilometern. Die Flugzeit betraegt je nach Flugzeugtyp 2,5 bis 3,5 Stunden. Madrid ist eines der wichtigsten Geschaeftszentren Suedeuropas und ein Ausgangspunkt fuer den iberischen Markt. Fuer Unternehmen mit Aktivitaeten in Spanien oder Portugal ist diese Route regelmaessig gefragt.</p>
 
@@ -8748,6 +8740,45 @@ Ideal für: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichweit
 <h2>Buchungsempfehlung</h2>
 <p>Fuer regulaere Geschaeftsreisen: 48-72 Stunden Vorlaufzeit ausreichend. Fuer Monday morning Flights (Berlin-Start zwischen 06:00-09:00): 5-7 Tage im Voraus. Fuer Leerflug-Schnappschnuss: Anfragen 24-48 Stunden vorher bei mehreren Brokern gleichzeitig.`
   },
+  {
+    slug: `privatjet-zuerich-london-kosten`,
+    title: `Privatjet Zuerich London Kosten 2026: Preise, Flugzeit und Tipps`,
+    description: `Privatjet Zuerich nach London kostet 2026 zwischen 6.800 und 14.000 Euro je nach Jet-Klasse. Hier sind die realistischen Preise, Flugzeiten und welche Flughafen in London die beste Wahl ist.`,
+    category: `Kosten`,
+    readingMinutes: 8,
+    publishedDate: `2026-06-09`,
+    content: `<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Privatjet Zuerich London Kosten 2026","datePublished":"2026-06-09","author":{"@type":"Organization","name":"Privatjet-Vergleich"},"description":"Privatjet Zuerich London kostet 2026 zwischen 6.800 und 14.000 Euro je nach Jet-Klasse.","url":"https://www.privatjet-vergleich.de/ratgeber/privatjet-zuerich-london-kosten","inLanguage":"de-DE"}</script>
+
+<h2>Was kostet ein Privatjet von Zuerich nach London 2026?</h2>
+<p>Zuerich London ist eine der meistgebuchten Privatjet-Strecken in Europa. Der Flug verbindet zwei der wichtigsten Finanzplaetze des Kontinents, und ein erheblicher Teil der Nachfrage kommt aus dem Finanz- und Vermoegensverwaltungsbereich. Die Flugzeit betraegt je nach Flugzeugklasse und Londoner Zielflughafen 1 Stunde 45 Minuten bis 2 Stunden 15 Minuten.</p>
+
+<h2>Preise nach Jet-Klasse</h2>
+<p>Fuer einen Einwegflug Zuerich nach London gelten 2026 folgende Richtwerte:</p>
+<ul>
+<li><strong>Light Jet (z.B. Citation CJ3+, Phenom 300E):</strong> 6.800 bis 8.500 Euro. Platz fuer 5 bis 7 Personen. Direktflug ohne Zwischenstopp moeglich.</li>
+<li><strong>Midsize Jet (z.B. Citation XLS+, Hawker 900XP):</strong> 9.000 bis 11.500 Euro. Mehr Kabinenkoomfort und etwas mehr Gepaeckkapazitaet.</li>
+<li><strong>Super Midsize (z.B. Challenger 350, Praetor 600):</strong> 11.500 bis 14.000 Euro. Stehoehe in der Kabine, Konferenzbereich moeglich.</li>
+</ul>
+<p>Diese Preise gelten fuer den gesamten Flug, nicht pro Person. Bei vier Passagieren teilen sich die Kosten entsprechend auf. Rueckfluege am gleichen Tag werden oft als "Tagesrunde" gebündelt und koennen 15 bis 20 Prozent guenstiger sein als zwei separate Buchungen.</p>
+
+<h2>Welcher Londoner Flughafen ist die beste Wahl?</h2>
+<p>London hat mehrere Privatjet-geeignete Flughaefen. Die Wahl beeinflusst Preis und Transferzeit erheblich:</p>
+<ul>
+<li><strong>London Luton (LTN):</strong> Beliebtester Privatjet-Flughafen fuer Zuerich-Verbindungen. Signature Aviation FBO. Gute Anbindung nach Central London (45-60 Minuten Fahrt).</li>
+<li><strong>Farnborough (FAB):</strong> Reiner Business-Aviation-Flughafen, keine Linienflugzeuge. Sehr effizienter Ablauf. 55-70 Minuten nach Central London.</li>
+<li><strong>Biggin Hill (BQH):</strong> Suedoestlich von London. Guenstigere Gebuehren als Luton. Gute Wahl, wenn Ihr Ziel in Suedost-London oder Kent liegt. 45-60 Minuten nach Central London.</li>
+<li><strong>London City (LCY):</strong> Teuer und mit Einschraenkungen (steiler Anflug, Laerm-Limiten). Nur fuer kleinere Jets geeignet und mit Vorabbuchung. Dafuer: nur 20-30 Minuten bis zur City of London.</li>
+</ul>
+<p>Heathrow und Gatwick sind fuer Privatjets in der Regel keine praktische Option wegen Slot-Verfuegbarkeit und hoher Gebuehren.</p>
+
+<h2>Leerfluege auf der Strecke Zuerich London</html>
+<p>Diese Strecke hat regelmaessig Leerfluege in beide Richtungen. Montags frueh (Richtung London) und Freitags nachmittags (Richtung Zuerich) sind besonders haeufig, weil viele Geschaeftsreisende die Woche in London beginnen und das Wochenende in der Schweiz verbringen wollen. Mit 24 bis 48 Stunden Vorlauf und Flexibilitaet bei der Abflugzeit sind Preisreduktionen von 30 bis 50 Prozent moeglich.</p>
+
+<h2>Abflugsmoeglichkeiten ab Zuerich</h2>
+<p>Zuerich Flughafen (ZRH) hat ein dediziertes Private Aviation Terminal (PAT). Die meisten Privatjet-Charter ab Zuerich starten von dort. Basel-Mulhouse (BSL/MLH) ist eine Alternative fuer Passagiere aus dem Nordwestschweizer Raum oder aus dem Elsass. Bern-Belp (BRN) eignet sich fuer Passagiere aus dem Mittelland, hat aber eingeschraenkte Hafen-Infrastruktur fuer groessere Jets.</p>`
+  }
+];
+
 export function getArticleBySlug(slug: string): Article | undefined {
   return articles.find((a) => a.slug === slug);
 }

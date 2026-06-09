@@ -1,4 +1,4 @@
-﻿export interface Article {
+﻿﻿﻿export interface Article {
   slug: string;
   title: string;
   description: string;
@@ -7998,6 +7998,48 @@ Ideal für: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichweit
 <p>Villiers vergleicht uber 10.000 akkreditierte Operator und zeigt fur die Strecke Wien-Mallorca typischerweise 3 bis 6 Angebote verschiedener Operator.</p>
 <a href="https://www.villiersjets.com/?utm_source=privatjet-vergleich&amp;utm_medium=ratgeber&amp;utm_campaign=wien-mallorca" rel="sponsored noopener" target="_blank">Angebote Wien-Mallorca vergleichen bei Villiers Jets</a>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Was kostet ein Privatjet von Wien nach Mallorca?","acceptedAnswer":{"@type":"Answer","text":"Ein Privatjet von Wien nach Mallorca kostet 2026 ab 8.500 Euro fur einen Very Light Jet bis zu 22.000 Euro fur einen Heavy Jet."}},{"@type":"Question","name":"Wie lange fliegt man mit dem Privatjet von Wien nach Mallorca?","acceptedAnswer":{"@type":"Answer","text":"Die Flugzeit von Wien nach Mallorca betragt etwa 2 Stunden und 15 Minuten."}}]}<\/script>`,
+  },
+
+
+  {
+    slug: "privatjet-muenchen-ibiza-kosten",
+    title: "Privatjet Muenchen nach Ibiza: Kosten, Flugzeit und Buchung 2026",
+    description: "Was kostet ein Privatjet von Muenchen nach Ibiza? Flugzeiten, Jetklassen und Preise fuer den Partyjet ab MUC im Ueberblick.",
+    category: "Reiseziele",
+    readingMinutes: 6,
+    publishedDate: "2026-06-08",
+    content: `<h1>Privatjet Muenchen nach Ibiza: Kosten 2026</h1>
+<p>Muenchen nach Ibiza ist eine der beliebtesten Sommer-Privatjetrouten aus Bayern. Die Flugzeit betraegt rund 2 Stunden und 10 Minuten. Linienfluge brauchen mit Umstieg in Madrid, Barcelona oder Palma deutlich laenger.</p>
+<h2>Kosten im Ueberblick</h2>
+<table>
+<thead><tr><th>Jetklasse</th><th>Passagiere</th><th>Preis one-way</th></tr></thead>
+<tbody>
+<tr><td>Very Light Jet</td><td>bis 4</td><td>ab 8.000 EUR</td></tr>
+<tr><td>Light Jet</td><td>bis 6</td><td>ab 10.500 EUR</td></tr>
+<tr><td>Midsize Jet</td><td>bis 9</td><td>ab 14.500 EUR</td></tr>
+<tr><td>Heavy Jet</td><td>bis 14</td><td>ab 21.000 EUR</td></tr>
+</tbody>
+</table>
+<p>Bei 8 Personen im Midsize Jet sind das rund 1.800 Euro pro Person. Linienfluge in Business Class kosten aehnlich viel mit erheblich mehr Zeitaufwand.</p>
+<h2>Abflug ab Muenchen</h2>
+<ul>
+<li><strong>Muenchen-Riem (EDDM):</strong> Grosster Flughafen, eigener FBO-Terminal, 24h verfuegbar.</li>
+<li><strong>Oberpfaffenhofen (EDMO):</strong> Kleiner Privatflughafen westlich von Muenchen. Guenstiger fuer kleinere Jets, weniger Verkehr, kuerzere Abfertigungszeiten.</li>
+<li><strong>Muenchen-Schleissheim (EDMS):</strong> Noerich der Stadt, nur fuer Very Light Jets geeignet.</li>
+</ul>
+<h2>Ankunft auf Ibiza</h2>
+<p>Ibiza Airport (LEIB) hat einen eigenen General Aviation Terminal fuer Privatjets. In der Hochsaison (Juli/August) sollte der FBO-Slot mindestens 3 Wochen im Voraus gebucht werden, da die Kapazitaet begrenzt ist.</p>
+<h2>Saisonpreise</h2>
+<ul>
+<li><strong>Juli/August:</strong> Hoechstpreise, oft 30% ueber dem Jahresdurchschnitt. Fruehzeitige Buchung essentiell.</li>
+<li><strong>Juni, September:</strong> Moderate Preise, gute Verfuegbarkeit.</li>
+<li><strong>Oktober bis Mai:</strong> Guenstigste Preise, Empty Legs haeufig verfuegbar.</li>
+</ul>
+<h2>Empty Legs Muenchen-Ibiza</h2>
+<p>In der Sommersaison entstehen viele Empty Legs: Jets die Passagiere nach Ibiza geflogen haben und leer zurueck nach Muenchen muessen. Diese werden zu 50 bis 75 Prozent Rabatt angeboten und sind auf Villiers Jets unter "Empty Legs" gelistet.</p>
+<h2>Buchung</h2>
+<a href="https://www.villiersjets.com/?utm_source=privatjet-vergleich&amp;utm_medium=ratgeber&amp;utm_campaign=muenchen-ibiza" rel="sponsored noopener" target="_blank">Angebote Muenchen-Ibiza vergleichen bei Villiers Jets</a>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Was kostet ein Privatjet von Muenchen nach Ibiza?","acceptedAnswer":{"@type":"Answer","text":"Ein Privatjet von Muenchen nach Ibiza kostet 2026 ab 8.000 Euro fuer einen Very Light Jet bis zu 21.000 Euro fuer einen Heavy Jet. Der Preis gilt fuer das gesamte Flugzeug."}},{"@type":"Question","name":"Wie lange fliegt man mit dem Privatjet von Muenchen nach Ibiza?","acceptedAnswer":{"@type":"Answer","text":"Die Flugzeit von Muenchen nach Ibiza betraegt rund 2 Stunden und 10 Minuten."}}]}<\/script>`,
   },
 
 ];

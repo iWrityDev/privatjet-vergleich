@@ -8549,6 +8549,28 @@ Ideal für: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichweit
 <h2>Buchungshinweise</h2>
 <p>Auf der Strecke Frankfurt-Paris gibt es regelmaessig Empty-Leg-Angebote, da viele Privatjets fuer Messen (z.B. Buchmesse, IAA) oder Geschaeftsveranstaltungen gebucht werden und leer zurueckfliegen. Ein frueher Recherchebeginn lohnt sich, wenn der Termin flexibel ist.</p>`,
   },
+  {
+    slug: "privatjet-muenchen-london-kosten",
+    title: "Privatjet Muenchen London: Kosten, Flugzeit und Anbieter 2026",
+    description: "Was kostet ein Privatjet von Muenchen nach London? Kosten ab 10.500 Euro, Flugzeit rund 2 Stunden, alle Optionen im Ueberblick.",
+    category: "strecken",
+    publishedAt: "2026-06-09",
+    readTime: 5,
+    content: `<h2>Privatjet Muenchen nach London: Kosten und Flugzeit</h2>
+<p>Ein Privatjet von Muenchen (MUC) nach London (LCY/LHR/LTN) kostet je nach Flugzeugtyp und Abflugshafen zwischen 10.500 und 20.000 Euro. Die Strecke betraegt rund 1.300 Kilometer, die Flugzeit liegt bei etwa 1 Stunde 55 Minuten bis 2 Stunden 20 Minuten.</p>
+
+<h2>Kosten nach Flugzeugkategorie</h2>
+<p>Ein Light Jet (Embraer Phenom 300, Cessna Citation CJ3) eignet sich fuer bis zu vier Passagiere und liegt auf dieser Strecke bei 10.500 bis 14.000 Euro. Ein Midsize Jet bietet mehr Gepaeuck- und Passagierkapazitaet und kostet 15.000 bis 18.000 Euro. Heavy Jets und Ultra-Long-Range-Jets fuer groessere Gruppen liegen bei 18.000 bis 25.000 Euro.</p>
+
+<h2>Flughafen-Optionen London</h2>
+<p>London City Airport (LCY) liegt am naechsten zur Londoner Innenstadt (ca. 20 Minuten per DLR). Er hat einen separaten Business Aviation Terminal und ist fuer Privatjet-Passagiere, die in die City of London oder Canary Wharf muessen, die beste Option. Farnborough Airport (FAB) suedwestlich von London ist beliebt bei Privatjet-Passagieren und hat exzellente FBO-Einrichtungen. Heathrow (LHR) wird seltener fuer Privatjets gewaehlt wegen der Slot-Beschraenkungen.</p>
+
+<h2>Alternative: Direktzug mit Umstieg</h2>
+<p>Es gibt keine Direktverbindung per Zug von Muenchen nach London. Mit ICE nach Paris (ca. 5,5 Stunden) und Eurostar nach London (ca. 2,5 Stunden) betraegt die Reisezeit etwa 8 bis 9 Stunden. Fuer Gruppen oder Geschaeftsreisende mit engem Zeitplan und Gepaeck ist der Privatjet konkurrenzlos.</p>
+
+<h2>Buchung und Empty Legs</h2>
+<p>Muenchen-London gehoert zu den meistgebuchten Privatjet-Strecken in Europa. Entsprechend haeufig gibt es Empty-Leg-Angebote. Plattformen wie JetClass, PrivateFly und Wheels Up listen regelmaessig guenstigere Angebote auf dieser Strecke. Fruehzeitig anfragen lohnt sich, da die Preise bei hoher Nachfrage (Messen, Spielzeiten) deutlich steigen.`,
+  },
 export function getArticleBySlug(slug: string): Article | undefined {
   return articles.find((a) => a.slug === slug);
 }

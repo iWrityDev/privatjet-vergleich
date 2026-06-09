@@ -1,4 +1,4 @@
-export interface Article {
+﻿export interface Article {
   slug: string;
   title: string;
   description: string;
@@ -8502,6 +8502,30 @@ Ideal für: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichweit
 <p>Nutzung einer Buchungsplattform wie Villiers Jets ermoeglichst den Preisvergleich zwischen mehreren Anbietern gleichzeitig. Fuer die Route Koeln Mailand gibt es regelmaessig empty-leg-Moeglichkeiten, da viele Geschaeftsreisende auf dieser Strecke unterwegs sind und Flugzeuge oft in eine Richtung leer zurueckfliegen muessen.</p>`,
   },
 
+  {
+    slug: "privatjet-berlin-wien-kosten",
+    title: "Privatjet Berlin Wien: Kosten, Dauer und Anbieter 2026",
+    description: "Was kostet ein Privatjet von Berlin nach Wien? Kosten ab 8.500 Euro, Flugzeit 1,5 Stunden, Vergleich der besten Anbieter.",
+    category: "strecken",
+    publishedAt: "2026-06-09",
+    readTime: 6,
+    content: `<h2>Privatjet Berlin nach Wien: Was kostet die Strecke?</h2>
+<p>Ein Privatjet von Berlin (TXL/BER) nach Wien (VIE) kostet je nach Flugzeugtyp zwischen 8.500 und 18.000 Euro fuer den gesamten Flug. Die Strecke betraegt rund 680 Kilometer, die Flugzeit liegt bei etwa 1 Stunde 20 Minuten bis 1 Stunde 45 Minuten.</p>
+
+<h2>Kosten nach Flugzeugkategorie</h2>
+<p>Ein Light Jet wie die Cessna Citation CJ2 oder Embraer Phenom 300 liegt fuer diese Strecke bei 8.500 bis 11.000 Euro. Midsize Jets wie der Learjet 60 oder Hawker 800 kosten 12.000 bis 15.000 Euro. Eine Super Midsize-Kategorie wie der Citation XLS oder Challenger 300 wird mit 15.000 bis 18.000 Euro berechnet.</p>
+<p>Fuer bis zu vier Personen ist ein Light Jet ausreichend und die kostenguenstigste Wahl. Ab sechs Personen empfiehlt sich ein Midsize Jet.</p>
+
+<h2>Flughafen-Optionen</h2>
+<p>Ab Berlin stehen Berlin Brandenburg (BER) und historisch Tegel (TXL, mittlerweile geschlossen) zur Verfuegung. Die meisten Privatjet-Operatoren nutzen den General Aviation Terminal am BER. In Wien ist der Flughafen Wien-Schwechat (VIE) die Standardoption, mit einem separaten Business Aviation Terminal.</p>
+<p>Alternativ kann Wien-Schwechat durch kleinere Airports wie Wiener Neustadt ersetzt werden, falls die finale Destination in Niederoesterreich liegt. Heli-Transfers sind von beiden Airports moeglich.</p>
+
+<h2>Wann lohnt sich ein Privatjet auf dieser Strecke?</h2>
+<p>Berlin und Wien sind auch per Zug gut verbunden. Der Railjet benoetigt rund 9 Stunden. Fuer Geschaeftsreisende, die morgens in Wien ein Meeting haben und abends zurueck muessen, ist der Privatjet die einzige Option die das schafft. Auch fuer kleine Gruppen, die Gepaeck oder Ausruestung mitfuehren, rechnet sich der Aufpreis gegenueber Businessclass schnell.</p>
+
+<h2>Buchung und Anbieter</h2>
+<p>Fuer diese Strecke sind Villers, Luxaviation und Air Hamburg regelmaessig vertreten. Anfragen sollten mindestens 24 bis 48 Stunden im Voraus gestellt werden; kurzfristige Buchungen sind moeglich, aber teurer. Empty-Leg-Angebote auf dieser Strecke erscheinen regelmaessig und koennen den Preis um 40 bis 60 Prozent senken.</p>`,
+  },
 export function getArticleBySlug(slug: string): Article | undefined {
   return articles.find((a) => a.slug === slug);
 }

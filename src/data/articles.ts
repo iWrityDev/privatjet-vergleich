@@ -1,5 +1,14 @@
 ex,
   {
+    slug: 'privatjet-hamburg-london-kosten',
+    title: 'Privatjet Hamburg nach London: Kosten und Abflugoptionen',
+    description: 'Ein Privatjet von Hamburg nach London kostet zwischen 12.000 und 22.000 Euro. Die Nordsee-Route ist beliebt bei Hanseaten und internationalen Geschäftsreisenden.',
+    date: '2026-06-09',
+    category: 'routen',
+    readingTime: '4 min',
+    content: '<h2>Hamburg-London: Nordseeüberquerung per Privatjet</h2><p>Hamburg ist nach Frankfurt und München Deutschlands drittgrößter Privatjet-Markt. London Heathrow, London City und Farnborough sind die drei wichtigsten Zielanflüge. Für Geschäftsreisende, die ins Finanzzentrum London müssen, ist London City der praktischste Flughafen: zentral gelegen und mit kürzeren Check-in-Zeiten für Privatjets.</p><h2>Kosten nach Jet-Klasse</h2><p>Die Strecke Hamburg nach London misst ca. 930 Kilometer. Ein Light Jet (Phenom 300, Citation CJ4) kostet 12.000 bis 16.000 Euro. Ein Midsize Jet (Hawker 800, Citation XLS) liegt bei 15.000 bis 20.000 Euro für vier bis sechs Passagiere. Super Midsize Jets mit mehr Gepäckraum und Komfort: 18.000 bis 22.000 Euro. Leerflüge zwischen der Metropolregion Hamburg und London kommen häufig vor und lassen sich über Villiers Jets anfragen.</p>'\n  }
+,
+  {
     slug: 'privatjet-frankfurt-zurich-kosten',
     title: 'Privatjet Frankfurt nach Zürich: Kosten, Zeitersparnis und Buchungstipps',
     description: 'Ein Privatjet von Frankfurt nach Zürich kostet zwischen 7.500 und 14.000 Euro und bringt Sie in 50 Minuten ans Ziel. Hier alle Details zur beliebtesten Finanzmetropolen-Verbindung im DACH-Raum.',

@@ -1,5 +1,14 @@
 ex,
   {
+    slug: 'privatjet-muenchen-london-kosten',
+    title: 'Privatjet Muenchen nach London: Kosten und Optionen 2026',
+    description: 'Ein Privatjet von Muenchen nach London kostet je nach Flugzeugtyp zwischen 9.000 und 25.000 Euro. Hier sind die Details und welche Option sich lohnt.',
+    date: '2026-06-09',
+    category: 'strecken',
+    readTime: '5 min',
+    content: `<h2>Streckeninformation</h2><p>Muenchen (MUC/EDDM oder EDMO) nach London City (LCY), Heathrow (LHR) oder Farnborough (FAB) sind Luftlinie etwa 1.320 Kilometer. Flugzeit: 1 Stunde 55 Minuten bis 2 Stunden 30 Minuten je nach Flugzeug und Zielflughafen. Farnborough ist bei Privatjet-Charterern beliebt, da es zentraler liegt als Heathrow und keine Slots-Beschraenkungen hat.</p><h2>Kosten nach Flugzeugtyp</h2><p>Leichtjets (Cessna Citation CJ3, Phenom 300) kosten fuer Muenchen-London 9.000 bis 13.000 Euro. Midsize Jets (Citation XLS, Hawker 800) kosten 14.000 bis 20.000 Euro. Heavy Jets werden fuer diese Strecke selten gebucht, aber bei Gruppengroessen ab acht Personen ab 25.000 Euro verfuegbar. Leerflugpreise, wenn das Flugzeug sowieso in die Richtung fliegt, koennen 30 bis 50 Prozent guenstiger sein.</p><h2>Einreisebestimmungen</h2><p>Nach dem Brexit gilt fuer EU-Buerger bei der Einreise in das Vereinigte Koenigreich das neue ETA-System (Electronic Travel Authorisation). Seit Januar 2025 benoetigen EU-Buerger eine ETA-Genehmigung fuer Kurzaufenthalte. Diese muss vor dem Abflug beantragt werden und kostet 10 Pfund. Bei Charteroperatoren werden Passagierdaten vor dem Flug geteilt. Stellen Sie sicher, dass die ETA-Beantragung im Buchungsprozess besteht oder selbst rechtzeitig erfolgt.</p><h2>Warum Farnborough waehlen</h2><p>Farnborough (FAB) ist 40 Kilometer suedwestlich von London und fuer Privatjets deutlich unkomplizierter als Heathrow. Eincheck dauert unter 10 Minuten, kein Warten an Sicherheitskontrollen, direkte Limo-Verbindungen in die Innenstadt. Fuer Businessreisende mit Terminen im Westen von London ist Farnborough oft die schnellere Gesamtreiseoption als Heathrow mit regulaerer Fluglinie.</p>`  }
+,
+  {
     slug: 'privatjet-muenchen-barcelona-kosten',
     title: 'Privatjet Muenchen-Barcelona: Kosten und Flugzeit',
     description: 'Was kostet ein Privatjet von Muenchen nach Barcelona? Preise, Flugzeit, Flughaefen und Buchungsoptionen fuer die populaere Strecke zwischen Bayern und Katalonien.',

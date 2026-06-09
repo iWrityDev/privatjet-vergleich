@@ -8526,6 +8526,29 @@ Ideal für: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichweit
 <h2>Buchung und Anbieter</h2>
 <p>Fuer diese Strecke sind Villers, Luxaviation und Air Hamburg regelmaessig vertreten. Anfragen sollten mindestens 24 bis 48 Stunden im Voraus gestellt werden; kurzfristige Buchungen sind moeglich, aber teurer. Empty-Leg-Angebote auf dieser Strecke erscheinen regelmaessig und koennen den Preis um 40 bis 60 Prozent senken.</p>`,
   },
+  {
+    slug: "privatjet-frankfurt-paris-kosten",
+    title: "Privatjet Frankfurt Paris: Kosten, Flugzeit und Anbieter 2026",
+    description: "Ein Privatjet von Frankfurt nach Paris kostet ab 7.500 Euro. Alles zu Flugzeit, Flughafen-Optionen und den besten Anbietern.",
+    category: "strecken",
+    publishedAt: "2026-06-09",
+    readTime: 5,
+    content: `<h2>Privatjet Frankfurt nach Paris: Kosten und Flugzeit</h2>
+<p>Ein Privatjet von Frankfurt (FRA/HHN) nach Paris (CDG/LBG) kostet je nach Flugzeugtyp zwischen 7.500 und 14.000 Euro fuer den gesamten Flug. Die Strecke betraegt rund 490 Kilometer Luftlinie, die Flugzeit liegt bei etwa 55 Minuten bis 1 Stunde 15 Minuten.</p>
+
+<h2>Kosten nach Flugzeugkategorie</h2>
+<p>Ein Light Jet (Cessna Citation CJ2, Embraer Phenom 300) ist fuer diese kurze Strecke die sinnvollste Wahl und liegt bei 7.500 bis 10.000 Euro. Ein Midsize Jet bietet mehr Komfort und Platz, kostet aber 11.000 bis 14.000 Euro. Fuer bis zu vier Personen ist ein Light Jet vollkommen ausreichend.</p>
+
+<h2>Flughafen-Optionen</h2>
+<p>Ab Frankfurt stehen Frankfurt-Rhein-Main (FRA, mit separatem Business Aviation Terminal) und Frankfurt-Hahn (HHN) zur Auswahl. Fuer Privatjets ist der FRA Business Aviation Terminal am bequemsten, da er nahe am Stadtzentrum liegt und schnelle Ab- und Anreise ermoeglicht.</p>
+<p>In Paris sind Paris-Le Bourget (LBG) und Paris-CDG die Hauptoptionen. Le Bourget ist Europas geschaeftigster Business Aviation Flughafen und bietet exzellente FBO-Services. CDG ist naeher an bestimmten Pariser Stadtteilen, aber operativ weniger reibungslos fuer Privatjets.</p>
+
+<h2>Frankfurt-Paris: Privatjet oder Bahn?</h2>
+<p>Der TGV von Frankfurt nach Paris benoetigt rund 3 Stunden 40 Minuten. Fuer Passagiere, die Flexibilitaet in der Abfahrtszeit brauchen, die Paris-Innenstadt direkt anfliegen wollen oder Gepaeck mitfuehren, lohnt sich der Privatjet. Fuer Alleinreisende, die zentral in Frankfurt und Paris wohnen, ist der TGV preislich ueblicherweise guenstiger.</p>
+
+<h2>Buchungshinweise</h2>
+<p>Auf der Strecke Frankfurt-Paris gibt es regelmaessig Empty-Leg-Angebote, da viele Privatjets fuer Messen (z.B. Buchmesse, IAA) oder Geschaeftsveranstaltungen gebucht werden und leer zurueckfliegen. Ein frueher Recherchebeginn lohnt sich, wenn der Termin flexibel ist.</p>`,
+  },
 export function getArticleBySlug(slug: string): Article | undefined {
   return articles.find((a) => a.slug === slug);
 }

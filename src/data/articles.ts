@@ -9271,6 +9271,42 @@ Ideal fÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å
     author: 'Privatjet Vergleich Redaktion',
     readingTime: 5,
     image: '/images/blog/privatjet-muenchen-new-york.jpg',
+  },
+  {
+    slug: 'privatjet-frankfurt-new-york-kosten',
+    title: 'Privatjet Frankfurt nach New York: Kosten, Flugzeit und Buchungstipps 2026',
+    description: 'Preisuebersicht fuer den Privatjet-Charter von Frankfurt nach New York, alle Flugzeugoptionen und was die Einreise in die USA erfordert.',
+    date: '2026-06-09',
+    category: 'routen',
+    content: `
+<h2>Privatjet von Frankfurt nach New York</h2>
+<p>Frankfurt (FRA) ist der groesste Privatjet-Hub Deutschlands und bietet die breiteste Auswahl an verfuegbaren Flugzeugen fuer Transatlantikfluege. Nach New York (JFK oder Teterboro TEB) sind es rund 6.200 Kilometer Luftlinie, was die Strecke fuer Ultra Long Range Jets nonstop erreichbar macht.</p>
+
+<h2>Flugzeugoptionen und Reichweite</h2>
+<p>Nonstop Frankfurt nach New York ist nur mit Ultra Long Range Jets moeglich:</p>
+<ul>
+<li><strong>Gulfstream G650ER:</strong> Reichweite bis 13.890 km, kann FRA-JFK komfortabel auch mit Gegenwind nonstop fliegen</li>
+<li><strong>Bombardier Global 7500:</strong> Die Maschine mit der groessten Reichweite auf dem Markt (14.260 km), plus groesste Kabine in der Klasse</li>
+<li><strong>Dassault Falcon 8X / 10X:</strong> Franzosische Alternativen mit aehnlicher Reichweite</li>
+</ul>
+<p>Large Jets wie der Global 5500 oder G550 koennen Frankfurt-New York in den meisten Faellen schaffen, sind aber bei starkem Gegenwind (besonders im Winter) auf einen kurzen Tankstopp in Shannon (SNN) oder Reykjavik angewiesen.</p>
+
+<h2>Preisspannen</h2>
+<ul>
+<li><strong>Ultra Long Range Jet nonstop:</strong> ca. 95.000 bis 150.000 Euro</li>
+<li><strong>Large Jet mit eventuellem Zwischenstopp:</strong> ca. 60.000 bis 90.000 Euro</li>
+<li><strong>Leerpositionsflug:</strong> ab ca. 45.000 Euro (stark variierend)</li>
+</ul>
+<p>Frankfurt hat das beste Angebot an Leerpositionen aller deutschen Abflughaefen, da viele Maschinen nach Geschaeftsreisen leer zurueck Richtung USA fliegen.</p>
+
+<h2>Teterboro statt JFK</h2>
+<p>Privatjetpassagiere wahl oft Teterboro Airport (TEB) in New Jersey statt JFK oder Newark. TEB ist ausschliesslich fuer die allgemeine Luftfahrt (keine kommerziellen Airlines), was Wartezeiten am Boden auf ein Minimum reduziert. Der Transfer nach Manhattan dauert ca. 30 Minuten, aehnlich wie von JFK ohne Stau.</p>
+
+<h2>ESTA und Einreiseformalitateen</h2>
+<p>EU-Staatsangehoerige benoetigen eine gueltige ESTA-Genehmigung fuer die Einreise in die USA. ESTA-Antrag online stellen, mindestens 72 Stunden vor Abflug. Zollabwicklung erfolgt bei Privatjets direkt am FBO-Terminal, was den Prozess deutlich beschleunigt.`,
+    author: 'Privatjet Vergleich Redaktion',
+    readingTime: 5,
+    image: '/images/blog/privatjet-frankfurt-new-york.jpg',
   }
 
 ];

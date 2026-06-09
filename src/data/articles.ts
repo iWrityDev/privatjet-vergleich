@@ -1,5 +1,15 @@
 ex,
   {
+    slug: 'privatjet-hamburg-berlin-kosten',
+    title: 'Privatjet Hamburg nach Berlin: Kosten und Alternativen fuer die kuerzeste Route',
+    description: 'Hamburg nach Berlin sind es 250 Kilometer. Ein Privatjet braucht 40 Minuten, kostet aber 5.000 bis 8.000 Euro. Wann ist das sinnvoll und welche Alternativen gibt es?',
+    date: '2026-06-09',
+    category: 'routen',
+    readTime: 4,
+    content: `<h2>Ist ein Privatjet Hamburg-Berlin sinnvoll?</h2><p>Hamburg und Berlin liegen 250 Kilometer auseinander. Der ICE braucht 1 Stunde 50 Minuten und kostet 70 bis 150 Euro. Ein Privatjet braucht 40 Minuten Flugzeit plus An- und Abfahrt zum Privatjet-Terminal, was die Zeitersparnis gegenueber der Bahn auf etwa 30 bis 60 Minuten reduziert. Der Aufpreis liegt bei 5.000 bis 8.000 Euro fuer die Gruppe.</p><h2>Wann ein Privatjet trotzdem sinnvoll ist</h2><p>Fuer Einzelpersonen ist der ICE fast immer sinnvoller. Fuer Gruppen, besonders Unternehmensgruppen, aendert sich die Rechnung: 6 Business-Reisende, die jeweils 4 Stunden Arbeitszeit verlieren (Bahnhof, ICE, Hotel-Check-in) koennen mit einem Privatjet produktiver reisen. Das Flugzeug ist mobiles Buro, und die Zeitersparnis fuer die Gruppe zusammengenommen kann den Preis rechtfertigen.</p><p>Ausserdem: Vertraulichkeit. Auf einem Privatflug finden keine Geschaeftsgespraeche statt, bei denen Mitreisende zuhoeren. Fuer Verhandlungen und sensitive Besprechungen ist das ein realer Vorteil.</p><h2>Preise und Flugzeugtypen</h2><p>Auf der kurzen Strecke Hamburg-Berlin sind sehr kleine Turboprops oder kleine Leichtjets die effizientesten Optionen. Piper Meridian oder Pilatus PC-12 fuer 4 bis 5 Personen: 4.500 bis 6.000 Euro. Leichtjet (Citation CJ2 oder aehnlich): 6.000 bis 8.000 Euro. Groessere Jets sind auf dieser Distanz ineffizient, da sie kaum Zeit haben die optimale Reisehoehe zu erreichen.`,
+  },
+,
+  {
     slug: 'privatjet-muenchen-rom-kosten',
     title: 'Privatjet Muenchen nach Rom: Kosten, Flugzeugoptionen und Buchungstipps',
     description: 'Von Muenchen nach Rom sind es 690 Kilometer. Ein Privatjet benoetigt rund 1 Stunde 20 Minuten. Was kostet der Flug und welche Flugzeugtypen sind auf dieser Strecke sinnvoll?',

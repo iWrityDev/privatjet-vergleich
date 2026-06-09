@@ -1,5 +1,15 @@
 ex,
   {
+    slug: 'privatjet-wien-zurich-kosten',
+    title: 'Privatjet Wien nach Zuerich: Kosten und Optionen fuer die Alpine Route',
+    description: 'Wien nach Zuerich sind 730 Kilometer. Ein Privatjet braucht rund 1 Stunde 20 Minuten. Was kostet der Flug und welche Optionen gibt es auf dieser gut frequentierten Route?',
+    date: '2026-06-09',
+    category: 'routen',
+    readTime: 4,
+    content: `<h2>Strecke Wien - Zuerich</h2><p>Von Wien (Schwechat/VIE) nach Zuerich (Kloten/ZRH) sind es 730 Kilometer. Flugzeit: je nach Flugzeugtyp 1 Stunde 10 bis 1 Stunde 30 Minuten. Zuerich ist einer der wichtigsten Privatjet-Standorte in Europa mit exzellenter FBO-Infrastruktur. Wien hat gutes Privatjet-Terminal (Vienna Airport Handling).</p><h2>Kosten</h2><p>Leichtjet (4 Passagiere): 9.000 bis 13.000 Euro. Midsize Jet (6 bis 8 Passagiere): 14.000 bis 19.000 Euro. Die Strecke wird oft durch Finanzmarkt-Kunden (Wien und Zuerich als Finanzplaetze) stark frequentiert, was die Verfuegbarkeit von Leerflügen erhoeht. Besonders haeufig sind Leerflüge nach Jahresanfang (Konferenz-Saison) und nach grossen Finanzmarkt-Ereignissen.`,
+  },
+,
+  {
     slug: 'privatjet-frankfurt-madrid-kosten',
     title: 'Privatjet Frankfurt nach Madrid: Kosten und Optionen fuer die Iberische Route',
     description: 'Von Frankfurt nach Madrid sind es 1.800 Kilometer. Ein Privatjet braucht etwa 2 Stunden 30 Minuten. Welche Flugzeugtypen sind sinnvoll und was kostet der Flug?',

@@ -8432,6 +8432,41 @@ Ideal für: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichweit
 <p>Ein Privatjet Hamburg London kostet ab ca. 8.000 EUR fuer kleine Gruppen. Ab vier Reisenden wird der Kostenunterschied zu Business Class deutlich kleiner, der Zeitgewinn bleibt erheblich. Fuer Geschaeftsreisende, die mehrmals pro Quartal diese Route fliegen, kann die Kalkulation klar fuer den Privatjet sprechen.</p>`,
   },
 
+  {
+    id: "privatjet-duesseldorf-ibiza-kosten",
+    slug: "privatjet-duesseldorf-ibiza-kosten",
+    title: "Privatjet Duesseldorf Ibiza Kosten 2026: Preise, Anbieter und Buchungstipps",
+    description: "Was kostet ein Privatjet von Duesseldorf nach Ibiza? Vergleich der Kosten, Flugzeugtypen und praktische Tipps fuer die Buchung auf dieser Sommerstrecke.",
+    category: "strecken",
+    author: "Privatjet Vergleich Redaktion",
+    publishedAt: "2026-06-09",
+    readTime: "6 min",
+    content: `<h2>Duesseldorf nach Ibiza per Privatjet</h2>
+<p>Ibiza ist im Sommer eine der meistgefragten Privatjet-Destinationen aus Deutschland. Die Entfernung von Duesseldorf International (DUS) nach Ibiza Airport (IBZ) betraegt etwa 1.800 km Luftlinie. Flugzeit: ca. 2 Stunden 30 Minuten bis 3 Stunden, je nach Flugzeugtyp und Route.</p>
+<p>Linienfluge von Duesseldorf nach Ibiza dauern mit Zwischenstopp und Wartezeit oft 5 bis 7 Stunden. Ein Direktflug per Privatjet ab DUS oder dem Businessjet-Satelliten in Duesseldorf spart erheblich Zeit und Nerven, besonders in der Hochsaison wenn Linienflugzeuge verspaetenbedingt sind.</p>
+
+<h2>Kosten im Ueberblick</h2>
+<p>Richtwerte fuer einen One-Way-Flug Duesseldorf Ibiza:</p>
+<ul>
+<li><strong>Leichtflugzeug (Phenom 300, Citation CJ3)</strong>: ab 14.000 bis 20.000 EUR. Bis 6 Personen.</li>
+<li><strong>Mittelgrosse Kabine (Hawker 800, Citation XLS)</strong>: ab 18.000 bis 28.000 EUR. Bis 8 Personen.</li>
+<li><strong>Grossraeumige Kabine (Falcon 2000, Challenger 350)</strong>: ab 28.000 bis 40.000 EUR. Bis 10 Personen.</li>
+</ul>
+<p>Hin- und Rueckflug im Paket kostet etwa 20 bis 30 Prozent weniger als zwei separate One-Way-Buchungen, wenn der Anbieter das Flugzeug auf Ibiza stationieren kann.</p>
+
+<h2>Saisonale Preisschwankungen</h2>
+<p>Die Strecke Duesseldorf Ibiza ist im Sommer (Juni bis September) deutlich teurer als in der Nebensaison. Privatjet-Verfuegbarkeit auf Ibiza ist im Juli und August begrenzt, weil viele Flugzeuge bereits dort stationiert sind oder fuer Festplatzbuchungen reserviert wurden. Wer im Hochsommer fliegen moechte, sollte 4 bis 6 Wochen im Voraus buchen.</p>
+
+<h2>Empty Legs als Sparmoeglickheit</h2>
+<p>Empty Legs sind Leerfluge, bei denen ein Privatjet ohne Passagiere ans Ziel fliegen muss. Auf Strecken wie Duesseldorf Ibiza entstehen im Sommer viele Empty Legs, weil Gruppen nur in eine Richtung fliegen. Diese koennen 40 bis 60 Prozent guenstiger sein. Einschraenkung: Datum und Uhrzeit sind weitgehend festgelegt.</p>
+
+<h2>Alternative Startflughaefen</h2>
+<p>Wer in der Naehe von Koeln oder Dortmund wohnt, kann auch von Koeln/Bonn (CGN) oder Dortmund (DTM) starten. Diese Flughaefen sind fuer Privatjets zugaenglich und koennen bei guenstigerer Lage Fahrtzeit einsparen. Die Flugzeugverfuegbarkeit ist etwas geringer als in Duesseldorf, aber auf gefragten Sommerstrecken in der Regel kein Problem.</p>
+
+<h2>Buchungsempfehlung</h2>
+<p>Villiers Jets ist ein Broker, der weltweit bei Tausenden von Charterunternehmen anfragt und Ihnen das beste Angebot unterbreitet. Fuer Strecken wie Duesseldorf Ibiza lohnt sich eine Anfrage 3 bis 6 Wochen im Voraus, um Verfuegbarkeit und Preis zu sichern.</p>`,
+  },
+
 export function getArticleBySlug(slug: string): Article | undefined {
   return articles.find((a) => a.slug === slug);
 }

@@ -8646,6 +8646,42 @@ Ideal für: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichweit
 <h2>Kostenvergleich mit Linienfluegen</h2>
 <p>Business-Class-Direktfluege Koeln/Duesseldorf nach Madrid kosten 800 bis 1.600 Euro pro Person je nach Buchungszeitraum. Fuer eine Gruppe von 10 Personen sind das 8.000 bis 16.000 Euro, schon nah an einem Leichtjet-Preis, ohne die Zeitersparnis durch Privatjet-Abfertigung einzurechnen. Ab Gruppengroessen von 6 bis 8 Personen lohnt der direkte Kostenvergleich.</p>`,
   },
+  {
+    slug: "privatjet-frankfurt-london-kosten",
+    title: "Privatjet Frankfurt London Kosten 2026: Was zahlen Sie wirklich?",
+    description: "Privatjet Frankfurt nach London mieten: Light Jet ab 6.500 Euro, Midsize ab 9.500 Euro. Echte Kostenaufstellung mit allen Nebenkosten und Spartipps fuer die Strecke FRA-LHR.",
+    category: "Strecken",
+    readingMinutes: 7,
+    publishedDate: "2026-06-09",
+    content: `<h1>Privatjet Frankfurt London Kosten 2026</h1>
+<p>Die Strecke Frankfurt (FRA) nach London (LHR, LCY oder Farnborough) ist eine der meistgebuchten Privatjet-Routen in Europa. Flugzeit liegt je nach Abflughafen und Ziel zwischen 1:40 und 2:10 Stunden. Auf dieser Distanz kommen fast alle Jet-Klassen in Frage, von Very Light Jet bis Heavy Jet, was die Preisspanne vergleichsweise gross macht.</p>
+
+<h2>Kostenübersicht: Frankfurt nach London 2026</h2>
+<table>
+<thead><tr><th>Jet-Klasse</th><th>Preis (einfach)</th><th>Passagiere</th><th>Beispielmodell</th></tr></thead>
+<tbody>
+<tr><td>Very Light Jet</td><td>5.500-7.000 EUR</td><td>3-4</td><td>Phenom 100, Eclipse 500</td></tr>
+<tr><td>Light Jet</td><td>6.500-9.000 EUR</td><td>5-7</td><td>Citation CJ3, Learjet 45</td></tr>
+<tr><td>Midsize Jet</td><td>9.500-13.000 EUR</td><td>7-9</td><td>Citation XLS, Hawker 800</td></tr>
+<tr><td>Super Midsize</td><td>13.000-18.000 EUR</td><td>8-10</td><td>Citation Sovereign, Challenger 300</td></tr>
+<tr><td>Heavy Jet</td><td>18.000-26.000 EUR</td><td>10-14</td><td>Challenger 604, Falcon 900</td></tr>
+</tbody>
+</table>
+<p>Diese Preise gelten fuer einen einfachen Flug ohne Positionierungsgebuehren. Auf der Strecke Frankfurt-London ist das Angebot gut genug, dass oft Leerfluge verfuegbar sind, was die Kosten um 25-50 Prozent senken kann.</p>
+
+<h2>Welcher Londoner Flughafen lohnt sich?</h2>
+<p>London hat mehrere Flughafen fuer Privatjets. Farnborough (FAB) ist der exklusivste Privatjet-Hub, liegt suedwestlich der Stadt und eignet sich am besten fuer Geschaeftsreisen nach West- und Suedwest-London. London City (LCY) liegt direkt in der Stadt, Landebeschraenkungen machen ihn nur fuer kleinere Jets geeignet (bis Midsize). Biggin Hill liegt suedostlich, guenstiger in den Gebuehren, aber weiter vom Zentrum. Luton (LTN) und Stansted (STN) haben separate Privatjet-Terminals und sind die kostenguenstigsten Optionen, aber mit laengerer Fahrtzeit in die Stadt.</p>
+<p>Fuer eine Geschaftsreise nach City of London ist London City oder Farnborough am effizientesten. Der Zeitgewinn gegenueber einem kommerziellen Flug von FRA nach LHR (Warteschlangen, Check-in, Security) liegt bei 2-3 Stunden, was bei einem Tagestrip den Unterschied ausmacht.</p>
+
+<h2>Nebenkosten, die Sie einplanen muessen</h2>
+<p>Der Basis-Charterpreis enthaelt Flugzeug, Crew, Treibstoff und Standardversicherung. Zusaetzlich kommen: Landegebuehren am Zielflughafen (Farnborough: 800-1.500 EUR, London City: 500-900 EUR), Passagiergebuehren (UK Air Passenger Duty, ca. 80 EUR pro Person Business Class Equivalent), Catering nach Wunsch (50-300 EUR), Positionierungsgebuehren wenn das Flugzeug von ausserhalb FRA kommen muss (variabel), und moeglicher Overnight-Zuschlag wenn die Crew am Zielort uebernachten muss.</p>
+
+<h2>Spartipp: Leerfluge Frankfurt-London</h2>
+<p>Die Strecke Frankfurt-London hat hohes Leerflug-Aufkommen. Da viele Charter-Kunden nur in eine Richtung fliegen, muss das Flugzeug oft leer repositionieren. Plattformen wie Victor, JetSmarter-Nachfolger oder direkte Anbieter wie Air Charter Service und Chapman Freeborn bieten solche Leerfluge zu 40-60 Prozent unter dem normalen Preis an. Einzige Bedingung: Flexibilitaet bei Uhrzeit (plus/minus 3 Stunden).</p>
+
+<h2>Wann buchen?</h2>
+<p>Kurzfristige Buchungen (24-48 Stunden vorher) sind auf dieser Strecke in der Regel kein Problem, da das Angebot gross ist. Fuer Montagfrueh-Fluege und Donnerstagabend-Rueckfluege (die beliebtesten Zeiten fuer Geschaeftsreisende) sollten Sie 5-7 Tage im Voraus buchen, um die beste Auswahl zu haben. Unter der Woche sind die Preise moderater als am Wochenende.</p>`
+  },
 export function getArticleBySlug(slug: string): Article | undefined {
   return articles.find((a) => a.slug === slug);
 }

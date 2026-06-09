@@ -1,5 +1,15 @@
 ex,
   {
+    slug: 'privatjet-amsterdam-paris-kosten',
+    title: 'Privatjet Amsterdam nach Paris: Die schnellste Verbindung zwischen zwei Wirtschaftszentren',
+    description: 'Amsterdam (AMS) nach Paris (LBG/CDG) per Privatjet. Flugzeit unter einer Stunde, Kosten ab 8.000 Euro, Leerflugoptionen und Alternativen zum Linienflug auf dieser gut gebuchten Route.',
+    date: '2026-06-09',
+    category: 'routen',
+    readTime: 4,
+    content: `<h2>Route Amsterdam - Paris</h2><p>Luftlinie Amsterdam nach Paris: 430 Kilometer. Flugzeit per Privatjet: 45 bis 55 Minuten. Die Route verbindet zwei der geschaeftlich aktivsten Staedte Europas. Linienflug dauert mit Transfer und Wartezeiten oft laenger als der Privatjet ohne Wartezeiten.</p><h2>Kosten</h2><p>Leichtjet (3 bis 4 Passagiere): 8.000 bis 11.000 Euro. Midsize Jet (6 bis 7 Passagiere): 12.000 bis 17.000 Euro. Paris hat mehrere Privatjet-Zielflughaefen: Le Bourget (LBG) ist der bevorzugte Businessjet-Airport, naehe Paris-Zentrum etwa 40 Minuten. CDG hat eigenes FBO-Terminal. Orly ist weniger gebraucht fuer Privatjets.</p><h2>Leerflüge</h2><p>Durch das hohe Aufkommen auf dieser Route gibt es regelmaessig Leerflüge in beide Richtungen. Besonders Montag frueh (Richtung Paris) und Freitag abend (Richtung Amsterdam) sind produktiv fuer Leerflugsuche. Plattformen wie JetSmarter oder Empty Legs aggregieren diese Angebote.`,
+  },
+,
+  {
     slug: 'privatjet-wien-zurich-kosten',
     title: 'Privatjet Wien nach Zuerich: Kosten und Optionen fuer die Alpine Route',
     description: 'Wien nach Zuerich sind 730 Kilometer. Ein Privatjet braucht rund 1 Stunde 20 Minuten. Was kostet der Flug und welche Optionen gibt es auf dieser gut frequentierten Route?',

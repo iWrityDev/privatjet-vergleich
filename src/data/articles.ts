@@ -1,5 +1,14 @@
 ex,
   {
+    slug: 'privatjet-barcelona-london-kosten',
+    title: 'Privatjet Barcelona nach London: Kosten und Buchungsoptionen',
+    description: 'Ein Privatjet von Barcelona nach London kostet zwischen 18.000 und 32.000 Euro. Die Route verbindet zwei der beliebtesten Privatjet-Destinationen Europas.',
+    date: '2026-06-09',
+    category: 'routen',
+    readingTime: '4 min',
+    content: '<h2>Barcelona-London: Kosmopolitische Verbindung</h2><p>Barcelona und London sind zwei der meistgeflogenen Privatjet-Routen in Europa. Barcelona El Prat und Barcelona El Prat General Aviation Terminal sind die primären Abflugoptionen. London Heathrow, Stansted und Farnborough sind die wichtigsten Zielanflüge. Farnborough wird von vielen Privatjet-Passagieren bevorzugt, da es näher am Zentrum Londons liegt und keine Slots wie Heathrow hat.</p><h2>Kosten</h2><p>Die Strecke beträgt ca. 1.150 Kilometer. Ein Midsize Jet (Citation XLS, Hawker 800) kostet für diese Strecke 18.000 bis 24.000 Euro. Ein Super Midsize Jet (Challenger 300, Citation Latitude) liegt bei 22.000 bis 30.000 Euro. Für bis zu 14 Passagiere bieten sich Heavy Jets wie der Bombardier Global 5000 an: 28.000 bis 32.000 Euro. Leerflüge zwischen Spanien und Großbritannien sind auf Plattformen wie Villiers Jets regelmäßig verfügbar.</p>'\n  }
+,
+  {
     slug: 'privatjet-amsterdam-frankfurt-kosten',
     title: 'Privatjet Amsterdam nach Frankfurt: Kurzstrecke mit maximaler Flexibilität',
     description: 'Ein Privatjet von Amsterdam Schiphol nach Frankfurt kostet zwischen 7.000 und 13.000 Euro. Für Geschäftsreisende zwischen den zwei größten nordwesteuropäischen Finanzzentren eine beliebte Option.',

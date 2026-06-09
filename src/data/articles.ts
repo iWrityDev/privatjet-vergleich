@@ -1,4 +1,4 @@
-﻿export interface Article {
+export interface Article {
   slug: string;
   title: string;
   description: string;
@@ -8142,6 +8142,55 @@ Ideal für: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichweit
 <p>Hauptsächlich Barcelona-El Prat (LEBL) mit separatem FBO-Terminal für Privatluftfahrt. Alternativ kann Girona (GRO) für bestimmte Charter genutzt werden, liegt aber 100 km nördlich der Stadt.</p>
 <h3>Wann sind die Preise für Privatjet Barcelona am günstigsten?</h3>
 <p>Günstigste Zeiten: November bis März (außer Weihnachten und Silvester). Teuerste Zeiten: Juli/August, Formel-1-Wochenenden, und Messen wie Mobile World Congress (Februar/März) und Sónar Festival (Juni).</p>
+</article>`,
+  },
+  {
+    slug: "privatjet-lissabon-kosten",
+    title: "Privatjet Lissabon mieten: Kosten, Flugzeiten und Tipps 2026",
+    description: "Privatjet nach Lissabon mieten: Was kostet ein Charter ab Frankfurt, München oder Zürich? Aktuelle Preise, Flugzeugtypen und Tipps für Leerfluege nach Lissabon.",
+    category: "Kosten",
+    readingMinutes: 7,
+    publishedDate: "2026-06-09",
+    content: `<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Privatjet Lissabon mieten: Kosten 2026","datePublished":"2026-06-09","dateModified":"2026-06-09","author":{"@type":"Organization","name":"Privatjet-Vergleich"},"description":"Privatjet nach Lissabon mieten 2026: Kosten ab Frankfurt, München und Zürich. Aktuelle Marktpreise und Buchungstipps.","url":"https://www.privatjet-vergleich.de/ratgeber/privatjet-lissabon-kosten","inLanguage":"de-DE"}</script>
+<article>
+<div style="background:#f3f0e6;border-left:4px solid #c9a84c;padding:16px 20px;margin-bottom:24px;border-radius:8px;">
+<strong>Kurzfazit:</strong> Ein Privatjet nach Lissabon kostet ab Frankfurt oder München zwischen 9.000 € und 24.000 € (einfacher Flug, je nach Flugzeugklasse). Leerflüge können den Preis auf 4.500 bis 10.000 € senken. Flugzeit: ca. 2:30 bis 3 Stunden ab dem DACH-Raum.
+</div>
+<h2>Privatjet Lissabon: Kosten 2026</h2>
+<p>Lissabon hat sich in den letzten Jahren zu einem der attraktivsten Ziele für Privatjet-Charter aus dem DACH-Raum entwickelt. Die portugiesische Hauptstadt ist beliebt für Geschäftsreisen (Unternehmensverlagerungen nach Portugal, Tech-Sektor), Hochzeiten, und Kurztrips zur Atlantikküste. Lissabon Humberto Delgado Airport (LPPT) hat einen dedizierten FBO-Bereich für Privatluftfahrt.</p>
+<h2>Kosten nach Startort und Flugzeugklasse</h2>
+<table>
+<thead><tr><th>Route</th><th>Flugzeit</th><th>Light Jet (4-6 Pax)</th><th>Midsize Jet (6-8 Pax)</th><th>Heavy Jet (8-12 Pax)</th></tr></thead>
+<tbody>
+<tr><td>Frankfurt → Lissabon</td><td>ca. 2:45 h</td><td>9.500–13.500 €</td><td>14.500–20.000 €</td><td>20.000–28.000 €</td></tr>
+<tr><td>München → Lissabon</td><td>ca. 2:30 h</td><td>9.000–13.000 €</td><td>14.000–19.500 €</td><td>19.500–27.000 €</td></tr>
+<tr><td>Zürich → Lissabon</td><td>ca. 2:20 h</td><td>8.500–12.500 €</td><td>13.500–18.500 €</td><td>18.500–26.000 €</td></tr>
+<tr><td>Wien → Lissabon</td><td>ca. 3:00 h</td><td>10.500–15.000 €</td><td>16.000–22.000 €</td><td>22.000–30.000 €</td></tr>
+<tr><td>Düsseldorf → Lissabon</td><td>ca. 2:50 h</td><td>9.500–13.500 €</td><td>14.500–20.000 €</td><td>20.000–28.000 €</td></tr>
+</tbody>
+</table>
+<p>Alle Preise sind Marktrichtwerte für 2026 (einfacher Flug, exklusive Leerflug-Rabatt). Buchungsvorlauf, Saison und Verfügbarkeit beeinflussen den Preis erheblich. Hochsaison (Juni bis September) liegt 15-25% über den angegebenen Werten.</p>
+<h2>Leerflüge Lissabon: Sparmöglichkeit</h2>
+<p>Lissabon ist ein beliebtes Endziel für Privatjet-Charter aus Nordeuropa: Geschäftsreisende fliegen hin, der Jet kehrt leer zurück. Diese Leerflüge (Empty Legs) werden stark rabattiert angeboten. Typische Leerflug-Preise für Light Jets auf der Strecke Frankfurt oder München nach Lissabon: 4.500 bis 7.500 €. Das ist 40-60% unter dem regulären Charter-Preis.</p>
+<p>Plattformen wie Villiers Jets zeigen verfügbare Leerflüge für Lissabon-Routen in Echtzeit. Auf Benachrichtigungen setzen lohnt sich, wenn die Reise flexibel planbar ist.</p>
+<h2>Welcher Flugzeugtyp für Lissabon?</h2>
+<p>Die Flugzeit von 2:20 bis 3 Stunden macht Lissabon zu einem typischen Light-Jet-Ziel: die Strecke ist bequem, eine Stehhöhe ist nicht zwingend notwendig. Midsize Jets bieten mehr Komfort und Gepäckraum für Reisen mit mehreren Personen.</p>
+<ul>
+<li><strong>Light Jet (Phenom 300, Citation CJ3+):</strong> 2-5 Personen, effizienteste Option für kleinere Gruppen</li>
+<li><strong>Midsize Jet (Citation XLS, Learjet 75):</strong> 6-8 Personen, Stehhöhe, mehr Gepäckraum</li>
+<li><strong>Heavy Jet:</strong> Für Gruppen über 8 Personen oder wenn Bordarbeitsbereich wichtig ist</li>
+</ul>
+<h2>Warum Privatjet nach Lissabon?</h2>
+<p>Linienflüge Frankfurt-Lissabon dauern ca. 3 Stunden, plus Anfahrt, Check-in und Wartezeiten. Ein Privatjet ab einem kleinen Regionalflughafen in der Nähe spart im Vergleich oft 2-4 Stunden Gesamtreisezeit. Für Geschäftsreisende mit engem Zeitplan oder Gruppen, die zusammen reisen, lässt sich der Mehrpreis leicht rechtfertigen.</p>
+<p>Anfrage für Lissabon-Charter über Villiers Jets:</p>
+<p><a href="https://www.villiersjets.com/?lp=1&id=57596" target="_blank" rel="noopener sponsored">Privatjet Lissabon jetzt anfragen via Villiers Jets</a></p>
+<h2>Häufige Fragen</h2>
+<h3>Wie lange dauert ein Privatjet-Flug nach Lissabon?</h3>
+<p>Ab Frankfurt ca. 2:45 Stunden, ab München ca. 2:30 Stunden, ab Zürich ca. 2:20 Stunden. Gesamtreisezeit (Portal bis Innenstadt) bei Privatjet: ca. 3:30-4 Stunden ab Frankfurt.</p>
+<h3>Gibt es Leerflüge nach Lissabon?</h3>
+<p>Ja, regelmäßig. Lissabon ist ein Endziel für viele Charter aus dem DACH-Raum; Rückflüge sind häufig leer. Plattformen wie Villiers Jets zeigen aktuelle Leerflüge in Echtzeit.</p>
+<h3>Wann sind Privatjetpreise nach Lissabon am günstigsten?</h3>
+<p>Oktober bis April (außer Weihnachten und Silvester) bieten die niedrigsten Preise. Hochsaison: Juni bis September und Neujahr.</p>
 </article>`,
   },
 export function getArticleBySlug(slug: string): Article | undefined {

@@ -1,5 +1,15 @@
 ex,
   {
+    slug: 'privatjet-lissabon-madrid-kosten',
+    title: 'Privatjet Lissabon nach Madrid: Iberische Halbinsel per Privatjet verbinden',
+    description: 'Lissabon (LIS) nach Madrid (MAD) per Privatjet: 500 Kilometer, etwa 55 Minuten Flugzeit. Kosten, Alternativen zur guenstigen Linienverbindung und wann ein Privatjet hier Sinn macht.',
+    date: '2026-06-09',
+    category: 'routen',
+    readTime: 4,
+    content: `<h2>Route Lissabon - Madrid</h2><p>Luftlinie Lissabon nach Madrid: 500 Kilometer. Flugzeit per Privatjet: 50 bis 60 Minuten. Diese Route ist eine der wenigen, bei der der Linienflug (ebenfalls unter 1 Stunde) preislich sehr kompetitiv ist. Ein Privatjet rechtfertigt sich hier vor allem bei Gruppen (4+ Personen), Zeitkritikalitaet oder Start/Ziel ausserhalb der Hauptstaedte.</p><h2>Kosten</h2><p>Leichtjet: 7.500 bis 11.000 Euro. Aufgeteilt auf 4 Personen sind das 1.875 bis 2.750 Euro pro Person, was sich mit First-Class-Linienflug vergleichen laesst. Turboprops (Pilatus PC-12, TBM) koennen auf dieser kurzen Strecke guenstiger sein: ab 5.000 Euro fuer bis zu 8 Personen.`,
+  },
+,
+  {
     slug: 'privatjet-rom-paris-kosten',
     title: 'Privatjet Rom nach Paris: Die Verbindung zwischen zwei Kulturhauptstadten Europas',
     description: 'Rom (Ciampino/Fiumicino) nach Paris (Le Bourget) per Privatjet: 1.100 Kilometer, etwa 1 Stunde 50 Minuten. Kosten, Flugoptionen und Buchungshinweise fuer diese suedeuropaeische Premium-Route.',

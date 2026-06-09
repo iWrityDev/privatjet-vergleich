@@ -1,5 +1,14 @@
 ex,
   {
+    slug: 'privatjet-dubai-london-kosten',
+    title: 'Privatjet Dubai nach London: Kosten, Flugzeit und Optionen',
+    description: 'Ein Privatjet von Dubai nach London kostet zwischen 45.000 und 85.000 Euro, je nach Flugzeugklasse und Buchungszeitpunkt. Wir erklären, worauf es ankommt.',
+    date: '2026-06-09',
+    category: 'routen',
+    readingTime: '5 min',
+    content: '<h2>Die Strecke Dubai-London</h2><p>Dubai nach London Heathrow sind rund 5.500 Kilometer. Mit einem Privatjet dauert der Flug je nach Flugzeugtyp zwischen 6,5 und 8 Stunden. Das ist für Langstrecken-Privatflüge eine anspruchsvolle Strecke, die Großkabinen-Jets erfordert.</p><h2>Kosten nach Flugzeugklasse</h2><p>Ein Large Jet wie der Gulfstream G550 oder Bombardier Global 6000 kostet für diese Strecke zwischen 55.000 und 75.000 Euro. Ultra-Long-Range Jets (Gulfstream G700, Bombardier Global 7500) liegen bei 70.000 bis 90.000 Euro, bieten aber mehr Komfort und Reichweite ohne Tankstopp. Ein Heavy Jet wie die Dassault Falcon 2000 kann die Strecke für etwa 45.000 bis 60.000 Euro schaffen, eventuell mit Tankstopp.</p><h2>Wichtige Faktoren</h2><p>Leerflüge zwischen Dubai und London kommen vor, da viele Business-Passagiere in eine Richtung fliegen. Eine Leerfluganfrage kann den Preis um 30 bis 40 Prozent reduzieren. Buchungen über Villiers Jets ermöglichen den Zugang zu gesamten globalen Flotten, inklusive Leerflugoptionen auf dieser Hochfrequenzstrecke.</p>'\n  }
+,
+  {
     slug: 'privatjet-stockholm-helsinki-kosten',
     title: 'Privatjet Stockholm nach Helsinki: Nordische Hauptstaedte per Business-Jet verbinden',
     description: 'Stockholm (ARN/BMA) nach Helsinki (HEL) per Privatjet: 400 Kilometer, unter einer Stunde Flugzeit. Kosten, Flughafen-Optionen und Leerflugchancen auf der wichtigsten nordischen Businessroute.',

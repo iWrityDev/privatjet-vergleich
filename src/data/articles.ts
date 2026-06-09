@@ -1,5 +1,14 @@
 ex,
   {
+    slug: 'privatjet-frankfurt-zurich-kosten',
+    title: 'Privatjet Frankfurt nach Zürich: Kosten, Zeitersparnis und Buchungstipps',
+    description: 'Ein Privatjet von Frankfurt nach Zürich kostet zwischen 7.500 und 14.000 Euro und bringt Sie in 50 Minuten ans Ziel. Hier alle Details zur beliebtesten Finanzmetropolen-Verbindung im DACH-Raum.',
+    date: '2026-06-09',
+    category: 'routen',
+    readingTime: '4 min',
+    content: '<h2>Frankfurt-Zürich: Eine Business-Schlüsselstrecke</h2><p>Frankfurt und Zürich sind die zwei wichtigsten Finanzzentren im deutschsprachigen Raum. Geschäftsreisende, die regelmäßig zwischen den Städten pendeln, nutzen Privatjets vor allem wegen der Flexibilität: kein fester Abflugplan, eigene Boarding-Zeit, Ankommen am Flughafen 15 Minuten vor Abflug.</p><h2>Kosten nach Flugzeugtyp</h2><p>Für diese kurze Strecke (knapp 300 km) eignen sich Very Light Jets am besten: 7.500 bis 10.000 Euro. Light Jets wie der Pilatus PC-24 kosten 9.000 bis 12.500 Euro. Midsize Jets sind auf dieser kurzen Distanz unwirtschaftlich, außer bei größeren Gruppen ab 5 Personen: 11.000 bis 14.000 Euro. Leerflüge auf dieser Strecke sind häufig, da sie zu den meistbuchten Privatjet-Verbindungen Europas gehört. Über Villiers Jets lassen sich Leerflug-Optionen direkt filtern.</p>'\n  }
+,
+  {
     slug: 'privatjet-wien-berlin-kosten',
     title: 'Privatjet Wien nach Berlin: Kosten und Alternativen',
     description: 'Ein Privatjet von Wien nach Berlin kostet zwischen 10.000 und 18.000 Euro. Ob das sinnvoll ist, hängt von Ihren Anforderungen an Flexibilität und Komfort ab.',

@@ -1,5 +1,15 @@
 ex,
   {
+    slug: 'privatjet-muenchen-rom-kosten',
+    title: 'Privatjet Muenchen nach Rom: Kosten, Flugzeugoptionen und Buchungstipps',
+    description: 'Von Muenchen nach Rom sind es 690 Kilometer. Ein Privatjet benoetigt rund 1 Stunde 20 Minuten. Was kostet der Flug und welche Flugzeugtypen sind auf dieser Strecke sinnvoll?',
+    date: '2026-06-09',
+    category: 'routen',
+    readTime: 5,
+    content: `<h2>Strecke Muenchen - Rom</h2><p>Von Muenchen (MUC) nach Rom Ciampino (CIA) oder Fiumicino (FCO) sind es knapp 700 Kilometer Luftlinie. Die Flugzeit betraegt je nach Flugzeug 1 Stunde 10 bis 1 Stunde 30 Minuten. Beide Roemer Flughaefen haben gute Privatjet-Infrastruktur, Ciampino liegt naeher an der Innenstadt.</p><h2>Preise fuer Privatjet Muenchen - Rom</h2><p>Leichtjet (3 bis 4 Passagiere): 9.000 bis 13.000 Euro. Midsize Jet (6 bis 8 Passagiere): 14.000 bis 20.000 Euro. Grossraumjet: ab 22.000 Euro. Die Strecke ist laenger als viele inneralpinen Routen, daher sind Midsize-Jets effizienter als ganz kleine Leichtjets. Empfehlenswert: Embraer Phenom 300 oder Citation XLS fuer 4 bis 6 Passagiere.</p><h2>Leerflüge auf der Route</h2><p>Muenchen und Rom sind beide stark frequentierte Destinationen im europaeischen Privatjet-Netzwerk. Leerflüge zwischen beiden Staedten kommen regelmaessig vor und koennen bis zu 60 Prozent unter dem Normalpreis liegen. Platforms wie Victor und PrivateFly zeigen aktuelle Verfuegbarkeiten. Haeufig entstehen Leerflüge nach Messen und Kongress-Perioden (besonders nach Veranstaltungen in Muenchen wie dem Oktoberfest oder der Messe Muenchen).</p><h2>Buchungsempfehlung</h2><p>Fuer Standardtermine: 1 bis 2 Wochen Vorlauf gibt die beste Auswahl. Fuer Messe-Wochen in Muenchen (IAA, Bauma, BAU): mindestens 4 bis 6 Wochen vorher buchen, da Privatjet-Nachfrage in diesen Perioden stark ansteigt und Preise entsprechend steigen.`,
+  },
+,
+  {
     slug: 'privatjet-berlin-wien-kosten',
     title: 'Privatjet Berlin nach Wien: Kosten, Optionen und Buchungshinweise',
     description: 'Berlin nach Wien mit dem Privatjet dauert etwa 1 Stunde. Welche Flugzeugtypen sind sinnvoll, was kostet der Flug, und wie bucht man am guenstigsten?',

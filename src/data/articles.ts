@@ -1,5 +1,15 @@
 ex,
   {
+    slug: 'privatjet-london-genf-kosten',
+    title: 'Privatjet London nach Genf: Die klassische Finanzroute der Alpen',
+    description: 'London (Farnborough/Luton) nach Genf per Privatjet: 730 Kilometer, 1 Stunde 15 Minuten. Die wichtigste Finanzroute zwischen britischem und Schweizer Kapitalmarkt. Kosten, Flugplaetze und Leerflugoptionen.',
+    date: '2026-06-09',
+    category: 'routen',
+    readTime: 4,
+    content: `<h2>Route London - Genf</h2><p>Luftlinie London nach Genf: 730 Kilometer. Flugzeit per Privatjet: 1 Stunde 10 bis 1 Stunde 25 Minuten. London hat mehrere Privatjet-Flughaefen: Farnborough (FAB) ist der Premier-Businessjet-Airport. Luton (LTN) und Stansted (STN) haben starkes Privatjet-Aufkommen. Biggin Hill fuer kleinere Maschinen. Genf International (GVA) hat exzellente FBO-Fazilit aeten.</p><h2>Kosten</h2><p>Leichtjet: 8.500 bis 12.500 Euro. Midsize Jet: 14.000 bis 19.000 Euro. Die Route ist eine der meistgeflogenen Privatjet-Strecken Europas. Wochentliche Pendler im Finanzsektor (Hedge Funds, Private Banking) halten das Aufkommen konstant hoch. Dadurch sind Leerflüge in beide Richtungen haeufig verfuegbar.`,
+  },
+,
+  {
     slug: 'privatjet-barcelona-mailand-kosten',
     title: 'Privatjet Barcelona nach Mailand: Verbindung zwischen zwei Wirtschaftsmetropolen',
     description: 'Barcelona (BCN) nach Mailand (MXP/LIN) per Privatjet: 760 Kilometer, etwa 1 Stunde 20 Minuten Flugzeit. Kosten, Optionen und Leerflugchancen auf dieser gut frequentierten Suedeuropa-Route.',

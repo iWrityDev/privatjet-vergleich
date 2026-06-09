@@ -1,5 +1,14 @@
 ex,
   {
+    slug: 'privatjet-paris-london-kosten',
+    title: 'Privatjet Paris-London: Kosten, Flugzeit und Buchung',
+    description: 'Was kostet ein Privatjet von Paris nach London? Alle Informationen zu Preisen, Flugzeugkategorien, Flugzeit und der besten Buchungsmethode.',
+    date: '2026-06-09',
+    category: 'strecken',
+    content: `<h2>Die Strecke Paris-London</h2><p>Paris und London sind die beiden groessten Wirtschaftszentren Westeuropas und zwei der meistgeflogenen Privatjetstrecken der Welt. Die Entfernung betraegt rund 340 Kilometer, die Flugzeit liegt je nach Flugzeugtyp zwischen 60 und 75 Minuten. Zum Vergleich: Der Eurostar benoetigt mehr als zwei Stunden, Sicherheits- und Check-in-Zeit nicht eingerechnet.</p><h2>Preise im Ueberblick</h2><p>Ein Very Light Jet wie die Phenom 100 kostet fuer diese Strecke typischerweise zwischen 5.000 und 7.000 Euro. Ein Light Jet wie die Citation CJ3 liegt zwischen 7.000 und 10.000 Euro. Wer einen Mid-Size Jet bucht, zahlt 12.000 bis 18.000 Euro. Empty-Leg-Angebote koennen den Preis auf 2.000 bis 4.000 Euro senken, sind aber nicht immer auf dieser Route verfuegbar.</p><h2>Welche Flughaefen</h2><p>Auf der Londoner Seite sind Farnborough, Biggin Hill und Luton die beliebtesten Privatjetflughaefen. In Paris dominieren Le Bourget und Toussus-le-Noble. Le Bourget liegt naeher am Pariser Zentrum als Charles de Gaulle und hat deutlich kuerzere Bodenzeiten.</p><h2>Buchungsoptionen</h2><p>Villiers Jets vergleicht Angebote von ueber 10.000 Chartergesellschaften und zeigt Empty-Leg-Verfuegbarkeiten auf dieser Route in Echtzeit. Wer die Strecke regelmaessig fliegt, profitiert von Jet Cards, die feste Stundenpreise ohne Leerflugkosten bieten.</p>`
+  }
+,
+  {
     slug: 'privatjet-barcelona-london-kosten',
     title: 'Privatjet Barcelona nach London: Kosten und Buchungsoptionen',
     description: 'Ein Privatjet von Barcelona nach London kostet zwischen 18.000 und 32.000 Euro. Die Route verbindet zwei der beliebtesten Privatjet-Destinationen Europas.',

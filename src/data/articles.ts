@@ -1,5 +1,14 @@
 ex,
   {
+    slug: 'privatjet-wien-berlin-kosten',
+    title: 'Privatjet Wien nach Berlin: Kosten und Alternativen',
+    description: 'Ein Privatjet von Wien nach Berlin kostet zwischen 10.000 und 18.000 Euro. Ob das sinnvoll ist, hängt von Ihren Anforderungen an Flexibilität und Komfort ab.',
+    date: '2026-06-09',
+    category: 'routen',
+    readingTime: '4 min',
+    content: '<h2>Wien-Berlin: Eine populäre Businessstrecke</h2><p>Wien und Berlin verbindet eine rege Geschäftsbeziehung. Die kommerzielle Flugverbindung dauert knapp zwei Stunden, aber mit An- und Abreise, Check-in und Wartezeiten werden daraus schnell fünf Stunden. Ein Privatjet von Wien-Schwechat oder Wien-Wiener Neustadt nach Berlin-Tegel oder Berlin-Schönefeld bringt Sie in 60 bis 75 Minuten ans Ziel.</p><h2>Kosten im Überblick</h2><p>Ein Very Light Jet für diese Distanz von etwa 680 Kilometern kostet zwischen 10.000 und 13.000 Euro. Ein Light Jet wie der Embraer Phenom 300 liegt bei 12.000 bis 16.000 Euro. Für 6 bis 8 Passagiere empfiehlt sich ein Midsize Jet: 14.000 bis 18.000 Euro. Die Kosten pro Person sinken erheblich, wenn die Kapazität voll genutzt wird.</p><h2>Leerflüge nutzen</h2><p>Auf der Wien-Berlin-Strecke gibt es regelmäßig Leerflüge, da viele Chartermaschinen nach Absolvierung einer Reise leer zurückfliegen müssen. Villiers Jets zeigt diese Optionen direkt auf der Anfrageplattform an. Preisabschläge von 30 bis 40 Prozent sind auf Leerflügen durchaus möglich.</p>'\n  }
+,
+  {
     slug: 'privatjet-muenchen-mailand-kosten',
     title: 'Privatjet München nach Mailand: Kosten und Flugoptionen',
     description: 'Ein Privatjet von München nach Mailand kostet zwischen 8.000 und 18.000 Euro je nach Flugzeugklasse. Eine der meistgefragten Kurzstrecken im Alpenraum.',

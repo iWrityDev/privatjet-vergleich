@@ -1,5 +1,14 @@
 ex,
   {
+    slug: 'privatjet-muenchen-barcelona-kosten',
+    title: 'Privatjet Muenchen-Barcelona: Kosten und Flugzeit',
+    description: 'Was kostet ein Privatjet von Muenchen nach Barcelona? Preise, Flugzeit, Flughaefen und Buchungsoptionen fuer die populaere Strecke zwischen Bayern und Katalonien.',
+    date: '2026-06-09',
+    category: 'strecken',
+    content: `<h2>Die Strecke Muenchen-Barcelona</h2><p>Muenchen und Barcelona verbinden zwei der wirtschaftlich staerksten Regionen Mitteleuropas. Die Flugstrecke betraegt rund 1.100 Kilometer, die Flugzeit im Privatjet liegt zwischen 90 Minuten und 2 Stunden je nach Flugzeugtyp und Wind. Linienfluge sind haeufig, aber oft mit langen Umwegen oder Umsteigen in Frankfurt verbunden.</p><h2>Preise nach Kategorie</h2><p>Ein Light Jet wie die Citation CJ3 oder Phenom 300 kostet fuer diese Strecke 11.000 bis 16.000 Euro. Ein Mid-Size Jet liegt bei 18.000 bis 26.000 Euro. Wer groessere Gruppen befoerdert oder mehr Gepaeck mitbringt, waehlt einen Super Mid oder Heavy Jet ab 28.000 Euro. Bei einer Gruppe von vier bis sechs Personen ist Privatjet oft aehnlich teuer wie Business Class Linienflug auf Vergleichsbasis.</p><h2>Flughaefen</h2><p>Muenchen International (MUC) hat ein Business-Aviation-Terminal. Alternativ liegt Muenchen Oberpfaffenhofen (OBF) naeher an der Innenstadt und ist ausschliesslich Privatluftfahrt. In Barcelona ist El Prat (BCN) der Hauptflughafen mit eigenem Businessjet-Terminal; Sabadell (QSA) liegt naeher an der Stadt und bietet kuerzere Abfertigungszeiten.</p><h2>Buchung und Empty Legs</h2><p>Villiers Jets zeigt Echtzeit-Angebote und Empty-Leg-Verfuegbarkeiten auf dieser Route. Empty Legs auf Muenchen-Barcelona oder umgekehrt erscheinen regelmaessig und koennen den Preis auf 4.000 bis 8.000 Euro reduzieren.</p>`
+  }
+,
+  {
     slug: 'privatjet-duesseldorf-genf-kosten',
     title: 'Privatjet Duesseldorf-Genf: Kosten und Buchungstipps',
     description: 'Was kostet ein Privatjet von Duesseldorf nach Genf? Alle Informationen zu Preisen, Flugzeit und den besten Buchungsoptionen fuer die Strecke ins Schweizer Finanzzentrum.',

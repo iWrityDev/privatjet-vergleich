@@ -8571,6 +8571,32 @@ Ideal für: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichweit
 <h2>Buchung und Empty Legs</h2>
 <p>Muenchen-London gehoert zu den meistgebuchten Privatjet-Strecken in Europa. Entsprechend haeufig gibt es Empty-Leg-Angebote. Plattformen wie JetClass, PrivateFly und Wheels Up listen regelmaessig guenstigere Angebote auf dieser Strecke. Fruehzeitig anfragen lohnt sich, da die Preise bei hoher Nachfrage (Messen, Spielzeiten) deutlich steigen.`,
   },
+  {
+    slug: "privatjet-zuerich-dubai-kosten",
+    title: "Privatjet Zuerich nach Dubai: Kosten, Flugzeugtypen und Buchungstipps",
+    description: "Was kostet ein Privatjet von Zuerich nach Dubai? Komplette Kostenanalyse fuer Leichtflugzeuge, Midsize Jets und Grossraumjets auf dieser beliebten Businessstrecke.",
+    date: "2026-06-09",
+    category: "Streckenanalyse",
+    readTime: "7 min",
+    content: `<h2>Die Strecke Zuerich - Dubai im Ueberblick</h2>
+<p>Zuerich nach Dubai ist eine der meistgefragten Privatjet-Strecken zwischen Europa und dem Nahen Osten. Die Flugdistanz betraegt rund 5.100 Kilometer, die Flugzeit liegt je nach Flugzeugtyp zwischen 6 und 7,5 Stunden. Dubai ist ein zentraler Hub fuer Geschaeftsreisen in die MENA-Region, und der DXB-Flughafen bietet exzellente Privatjet-Infrastruktur.</p>
+
+<h2>Kosten nach Flugzeugtyp</h2>
+<p>Ein Leichtjet (Citation XLS, Phenom 300) schafft die Strecke nicht nonstop und benoetigt einen Zwischenstopp, was die Reisezeit erhoeht. Die Gesamtkosten liegen hier bei rund 35.000 bis 45.000 Euro pro Flug fuer bis zu 7 Passagiere.</p>
+<p>Ein Midsize Jet (Citation Latitude, Learjet 75) benoetigt ebenfalls oft einen Tankstopp. Kosten: 50.000 bis 70.000 Euro. Ein Super-Midsize oder Large Cabin Jet (Challenger 350, Falcon 2000) schafft die Strecke nonstop problemlos. Kosten: 70.000 bis 100.000 Euro fuer bis zu 8-12 Passagiere.</p>
+<p>Ein Grossraumjet (Global 6000, Gulfstream G650, Falcon 7X) bietet maximalen Komfort auf dieser Langstrecke mit Stehhoehe, separaten Schlafzonen und voller Bewirtungsmoeglichkeit. Kosten: 100.000 bis 150.000 Euro.</p>
+
+<h2>Warum Passagiere diese Strecke privat fliegen</h2>
+<p>Dubai hat drei relevante Geschaeftsbereiche: das DIFC (Dubai International Financial Centre), Jebel Ali als Freihandelszone und den Dubai Airport Freezone. Geschaeftspersonen, die mehrere Meetings in einem Tag halten und dann weiterreisen, brauchen die Flexibilitaet eines Privatjets. Die Linienflugverbindung ist gut (Swiss fliegt direkt), aber die Terminkontrolle fehlt.</p>
+<p>Ein weiterer Faktor: Dubai ist oft nur der erste Halt einer Tour in den Golfstaaten. Ein Privatjet kann Tage spaeter weiter nach Abu Dhabi, Riad oder Doha, was mit Linienfliegern an flexiblen Terminen schwieriger ist.</p>
+
+<h2>Buchungstipps fuer die Strecke</h2>
+<p>Leere-Beine-Fluege (Empty Legs) sind auf dieser Strecke regelmaessig verfuegbar, da viele Privatjets aus der Golfregion nach Europa positioniert werden muessen. Wer einen Suchagenten bei einem Broker wie Villiers Jets einrichtet, kann die Kosten um 40 bis 60 Prozent reduzieren. Die Einschraenkung: Zeitfenster und manchmal Zwischenstopps sind vorgegeben.</p>
+<p>Fuer Gruppenreisen ab 6 Personen lohnt ein Kostenvergleich mit Business Class auf Swiss oder Emirates. Ab rund 80.000 Euro fuer 6 Business-Class-Rueckflugtickets beginnt der Privatjet wettbewerbsfaehig zu werden, insbesondere wenn Terminflexibilitaet hinzukommt.</p>
+
+<h2>Wichtige Einreisehinweise</h2>
+<p>Dubai benoetigt fuer EU-Buerger kein Visum fuer Aufenthalte bis zu 30 Tagen. Privatjet-Passagiere landen am Dubai World Central (Al Maktoum International) oder am Dubai International Airport, je nach verfuegbarem Slot. Die Zollabwicklung fuer Privatjet-Passagiere dauert in der Regel unter 15 Minuten.</p>`,
+  },
 export function getArticleBySlug(slug: string): Article | undefined {
   return articles.find((a) => a.slug === slug);
 }

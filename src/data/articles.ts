@@ -9144,6 +9144,64 @@ Ideal für: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichweit
     content: `<h2>Strecke und Flugzeit</h2><p>Wien (VIE) nach New York (TEB, FRG oder JFK) ist eine transatlantische Strecke von ca. 7.200 km. Flugzeit im Privatjet: 9 bis 10 Stunden, je nach Gegenwind. Fuer diese Distanz sind ausschliesslich Grossraumjets geeignet: Gulfstream G550/G650, Bombardier Global 6000/7500, Dassault Falcon 7X/8X.</p><h2>Kosten: Typische Preisspannen</h2><p>One-Way Wien nach New York im Charter: 120.000 bis 200.000 Euro, je nach Flugzeugmuster und Buchungszeitpunkt. Der Grossteil der Kosten besteht aus Treibstoff (ca. 40-50% bei Langstreckenflug), Crew-Kosten, Landegebuehren in TEB/FRG (die teuersten Business-Airports in der Naehe von New York), und Handling-Gebuehren. Ein Rueckflug innerhalb von 2-3 Tagen kann die Gesamtkosten erheblich steigern, da das Flugzeug vor Ort stationiert oder ein Leerflug berechnet wird.</p><h2>Leerfluge: Wie Sie 30-50% sparen</h2><p>Wenn ein Operator ein Flugzeug nach Wien oder aus New York leer zurueckfliegen muss, bietet er diesen Flug haeufig mit 30-50% Rabatt an. Plattformen wie JetBlack, JetEdge und PrivateFly zeigen verfuegbare Leerfluege. Der Nachteil: Abflugzeit und exakter Abflugort sind weniger flexibel als bei einem direkten Charter.</p><h2>Visum und Einreise</h2><p>Privatjet-Passagiere reisen durch US-Zoll und muessen eine ESTA-Genehmigung (Visa Waiver Program) oder ein gueltiges Visum haben. Der Prozess ist identisch mit Linienflugpassagieren. Der Vorteil: Privatjet-Terminals haben separate CBP-Abfertigung, die deutlich schneller ist als im internationalen Terminal.</p>`,
   },
   {
+    slug: "privatjet-wien-amsterdam-kosten-2026",
+    title: "Privatjet Wien Amsterdam: Kosten, Flugzeit und Anbieter 2026",
+    description: "Privatjet von Wien nach Amsterdam 2026: Flugzeit ca. 1h 45min, Kosten 8.000 bis 14.000 Euro one-way, Light Jets ab CJ2, Midsize ab Phenom 300. Alle Anbieter und Spartipps.",
+    category: "Kosten",
+    readingMinutes: 7,
+    publishedDate: "2026-06-10",
+    content: `<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Privatjet Wien Amsterdam: Kosten, Flugzeit und Anbieter 2026","datePublished":"2026-06-10","dateModified":"2026-06-10","author":{"@type":"Organization","name":"Privatjet-Vergleich"},"description":"Privatjet Wien nach Amsterdam 2026: Flugzeit 1h 45min, Kosten 8.000 bis 14.000 Euro, Light und Midsize Jets, Empty Legs und Charter-Broker im Vergleich.","url":"https://www.privatjet-vergleich.de/ratgeber/privatjet-wien-amsterdam-kosten-2026","inLanguage":"de-DE"}</script>
+<div style="background:#f3f0e6;border-left:4px solid #c9a84c;padding:16px 20px;margin-bottom:24px;border-radius:8px;">
+<strong>Kurzfazit:</strong> Ein Privatjet von Wien (VIE/VBY) nach Amsterdam (AMS/MST) kostet 2026 zwischen 8.000 und 14.000 Euro one-way. Flugzeit: rund 1 Stunde 45 Minuten. Light Jets wie die Cessna Citation CJ2 sind die guenstigste Option, Midsize Jets wie der Embraer Phenom 300 bieten mehr Komfort. Mit einem Empty-Leg-Angebot sinkt der Preis um bis zu 60 Prozent.
+</div>
+<h2>Strecke und Flugzeit Wien nach Amsterdam</h2>
+<p>Die Luftlinie von Wien Schwechat (ICAO: LOWW) nach Amsterdam Schiphol (ICAO: EHAM) betraegt rund 1.100 km. Im Privatjet bedeutet das eine typische Blockzeit von 1 Stunde 40 bis 1 Stunde 55 Minuten, je nach Flugzeugmuster, Winde und Route. Light Jets fliegen die Strecke in rund 1:50, Midsize Jets in 1:40.</p>
+<p>Alternativ zu Schiphol gibt es den Geschaeftsluftflughafen Amsterdam Lelystad (EHAL) oder Rotterdam The Hague Airport (EHRD), die weniger Verkehr und guenstigere Landegebuehren bieten. Von Wien aus ist neben Schwechat auch Wien Voslau (LOAV) ein optionaler Ausgangspunkt fuer kleinere Jets.</p>
+<p>Im Vergleich zur Linienverbindung: Wien nach Amsterdam per Linienflug dauert ca. 2 Stunden reine Flugzeit plus Bodenzeit. Wer mit dem Privatjet fliegt, spart mindestens zwei Stunden durch kuerzere Bodenabfertigung und direkten Boardingprozess.</p>
+<h2>Flugzeugtypen fuer Wien nach Amsterdam</h2>
+<p>Fuer eine Strecke von gut 1.100 km kommen zwei Jet-Klassen sinnvoll in Frage. Sehr kleine Jets oder Turboprops haben etwas laengere Flugzeiten, grosse Heavy Jets waeren fuer diese Distanz wirtschaftlich ueberdimensioniert.</p>
+<h3>Light Jets: Cessna Citation CJ2 und CJ3</h3>
+<p>Die <strong>Cessna Citation CJ2</strong> ist ein klassischer Light Jet mit Platz fuer bis zu 6 Passagiere und einer Reisegeschwindigkeit von rund 760 km/h. Fuer Wien nach Amsterdam ist sie gut geeignet: Die Reichweite von 2.900 km bietet reichlich Reserve, und die Betriebskosten liegen deutlich unter denen groesserer Typen. Typischer Charterkost fuer diese Strecke: 8.000 bis 10.500 Euro one-way.</p>
+<p>Die <strong>Citation CJ3+</strong> bietet etwas mehr Kabinenlaenge, groesseres Gepaeckfach und eine hoehere Reisegeschwindigkeit (ca. 800 km/h). Preis auf dieser Route: 9.000 bis 11.500 Euro. Beide CJ-Typen landen problemlos auf kleineren Geschaeftsflughaefen, was die Flexibilitaet bei der Airport-Wahl erhoeht.</p>
+<h3>Midsize Jets: Embraer Phenom 300</h3>
+<p>Der <strong>Embraer Phenom 300</strong> ist einer der meistgeflogenen Midsize Jets in Europa. Mit Platz fuer bis zu 8 Passagiere, einer Stand-up-Kabine von 1,49 m Hoehe und einem grossen Gepaeckraum ist er die erste Wahl fuer Gruppen von vier bis sechs Personen, die Komfort auf der Strecke schatzen. Reisegeschwindigkeit: ca. 834 km/h. Typischer Charterkost Wien nach Amsterdam: 11.000 bis 14.000 Euro one-way.</p>
+<p>Der <strong>Phenom 300E</strong> (Enhanced-Version, ab 2020) hat ein verbesserte Kabinenbeleuchtung, ein neues Infotainment-System und einen groesseren Gepaeckraum. Er liegt preislich ca. 500 bis 800 Euro ueber dem Basis-Phenom 300 auf dieser Strecke.</p>
+<h3>Warum kein Heavy Jet?</h3>
+<p>Auf 1.100 km lohnt sich ein Heavy Jet wie ein Gulfstream G450 wirtschaftlich nicht. Die Stundensaetze liegen 80 bis 120 Prozent hoeher als beim Light Jet, aber die Flugzeit verkuerzt sich nur um ca. 10 bis 15 Minuten. Ausnahme: Wenn Sie eine Gruppe von 10 oder mehr Personen fliegen, kann ein groesserer Typ Sinn ergeben.</p>
+<h2>Kosten im Ueberblick: Wien nach Amsterdam 2026</h2>
+<table>
+<thead><tr><th>Jet-Klasse</th><th>Beispielmodell</th><th>Flugzeit</th><th>Kosten one-way</th><th>Passagiere</th></tr></thead>
+<tbody>
+<tr><td>Light Jet</td><td>Cessna Citation CJ2</td><td>ca. 1:50h</td><td>8.000 bis 10.500 Euro</td><td>bis 6</td></tr>
+<tr><td>Light Jet (groesser)</td><td>Citation CJ3+</td><td>ca. 1:45h</td><td>9.000 bis 11.500 Euro</td><td>bis 7</td></tr>
+<tr><td>Midsize Jet</td><td>Embraer Phenom 300</td><td>ca. 1:40h</td><td>11.000 bis 14.000 Euro</td><td>bis 8</td></tr>
+</tbody>
+</table>
+<p>Diese Preise gelten fuer regulaere Charter mit zwei bis vier Tagen Vorlaufzeit und beinhalten Treibstoff, Crew und Versicherung. Hinzu kommen Landegebuehren (je nach Flughafen 800 bis 2.000 Euro), eventuelle Repositionierungskosten und Catering. Eine detaillierte Kostenuebersicht fuer alle Strecken finden Sie in unserem Artikel <a href="/ratgeber/privatjet-kosten-uebersicht">Privatjet Kosten 2026: Die komplette Uebersicht</a>.</p>
+<h2>Nebenkosten: Was kommt noch dazu?</h2>
+<p>Der Charter-Grundpreis deckt den reinen Flug ab. In der Praxis werden folgende Positionen haeufig separat berechnet:</p>
+<ul>
+<li><strong>Landegebuehren Schiphol:</strong> Amsterdam Schiphol (AMS) ist ein stark frequentierter Airport mit entsprechenden Gebuehren. Kalkulieren Sie 1.200 bis 2.000 Euro pro Landung fuer einen Light Jet. Wer nach Lelystad oder Rotterdam ausweicht, zahlt 400 bis 800 Euro.</li>
+<li><strong>Crew-Uebernachtung:</strong> Wenn die Crew in Amsterdam uebernachtet, kommen 1.200 bis 1.800 Euro pro Nacht hinzu. Bei Tagesrueckfluegen entfaellt das.</li>
+<li><strong>Catering:</strong> Standard-Catering (Snacks, Getraenke) liegt bei 50 bis 150 Euro pro Person. Komplette Boardmenus beginnen ab 200 Euro pro Person.</li>
+<li><strong>Repositionierung:</strong> Wenn das Flugzeug erst leer nach Wien fliegen muss, zahlen Sie die Leerflugstunden. Auf kurzen Strecken kann das 1.500 bis 3.000 Euro zusaetzlich bedeuten.</li>
+</ul>
+<h2>Empty Legs: Bis zu 60 Prozent guenstiger</h2>
+<p>Ein Empty Leg entsteht, wenn ein Privatjet nach einem Charterflug leer zurueckfliegen oder zu einem anderen Abflugort umpositionieren muss. Der Operator bietet diesen Flug zu stark reduziertem Preis an, weil er sonst leer fliegt. Auf der Strecke Wien nach Amsterdam oder Amsterdam nach Wien gibt es regelmaessig Empty-Leg-Angebote, besonders in der Sommer- und Herbst-Hochsaison.</p>
+<p>Typische Empty-Leg-Preise fuer diese Strecke: 3.500 bis 6.000 Euro fuer einen Light Jet, 5.500 bis 8.500 Euro fuer einen Midsize Jet. Der Nachteil: Abflugzeit und genaues Datum sind weniger flexibel als bei einem regulaeren Charter. Wer zeitliche Spielraum hat, kann hier erheblich sparen. Mehr dazu in unserem <a href="/ratgeber/leerflug-guenstig-privatjet">Empty-Legs-Ratgeber</a>.</p>
+<h2>Beste Charter-Broker fuer Wien nach Amsterdam</h2>
+<p>Es gibt zwei klare Empfehlungen fuer diese Strecke, je nach Prioritaet:</p>
+<h3>Villiers Jets: Groesste Flugzeugauswahl</h3>
+<p><a href="https://villiers.ai/?id=BTOG3L" target="_blank" rel="nofollow noopener">Villiers Jets</a> ist einer der groessten europaeischen Privatjet-Broker mit Zugang zu ueber 10.000 Flugzeugen. Sie zeigen Empty-Leg-Angebote in Echtzeit und bieten eine transparente Preisstruktur. Fuer die Strecke Wien nach Amsterdam liegen in der Datenbank regelmaessig 15 bis 30 verfuegbare Optionen gleichzeitig. Die Angebotsanfrage ist kostenlos und unverbindlich.</p>
+<h3>PrivateFly: Gut fuer Zeitkritische Buchungen</h3>
+<p>PrivateFly (mittlerweile Teil der ATPI Group) ist bekannt fuer schnelle Angebotsrueckmeldungen, oft innerhalb von zwei Stunden. Das ist vorteilhaft, wenn Sie die Strecke Wien nach Amsterdam mit weniger als 48 Stunden Vorlauf buchen. Die Plattform vergleicht automatisch mehrere Operatoren und zeigt Preise inklusive Gebuehren.</p>
+<h2>Wien nach Amsterdam: Warum per Privatjet?</h2>
+<p>Die Strecke Wien nach Amsterdam ist eine typische Geschaeftsreise-Verbindung. Per Linie brauchen Sie den Abend zuvor oder fruehmorgens abzureisen, um Meetings am Vormittag zu ermoeglichen. Per Privatjet fliegen Sie morgens ab, sind zur Mittagszeit in Amsterdam, und koennen abends zurueck sein, ohne eine Nacht im Hotel zu verbringen.</p>
+<p>Fuer Gruppen von vier bis sechs Personen rechnet sich das besonders schnell: Vier Business-Class-Tickets Wien nach Amsterdam kosten zusammen 3.200 bis 5.000 Euro, dazu kommt der Zeitverlust durch frueheres Erscheinen, regulaere Abfertigung und den Weg ins Stadtzentrum. Ein Light Jet fuer dieselbe Gruppe beginnt ab 8.000 Euro und spart pro Person zwei bis drei Stunden.</p>
+<h2>Jetzt unverbindlich anfragen</h2>
+<p>Bereit fuer Ihre Anfrage fuer die Strecke Wien nach Amsterdam? Vergleichen Sie aktuelle Angebote und Empty-Leg-Optionen bei <a href="https://villiers.ai/?id=BTOG3L" target="_blank" rel="nofollow noopener">Villiers Jets</a> ohne Buchungsgebuehr und ohne Verpflichtung. Fuer allgemeine Fragen zu Privatjet-Kosten empfehlen wir den Ueberblicks-Artikel <a href="/ratgeber/privatjet-kosten-uebersicht">Privatjet Kosten 2026</a> sowie den Ratgeber zu <a href="/ratgeber/leerflug-guenstig-privatjet">Leerflügen und Empty Legs</a>.`,
+  },
+  {
     slug: "privatjet-kosten-pro-person-2026",
     title: "Privatjet Kosten pro Person 2026: Was zahlt jeder Passagier wirklich?",
     description: "Wie viel kostet ein Privatjetflug pro Person? Wir erklaeren, wie die Kosten aufgeteilt werden, wann Privatjet guenstiger als Business Class ist und wie Sie kalkulieren.",

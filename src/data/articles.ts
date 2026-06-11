@@ -10,6 +10,55 @@
 
 export const articles: Article[] = [
   {
+    slug: "paris-london",
+    title: "Privatjet Paris nach London: Warum immer mehr Entscheider den Charter wählen",
+    description: "Privatjet von Paris nach London buchen - Kosten, Optionen und warum sich ein Charter für diesen Kern-Business-Korridor lohnt.",
+    category: "Strecken",
+    readingMinutes: 9,
+    publishedDate: "2026-06-11",
+    content: `<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Privatjet Paris nach London: Warum immer mehr Entscheider den Charter wählen","datePublished":"2026-06-11","author":{"@type":"Organization","name":"Privatjet-Vergleich"},"description":"Privatjet von Paris nach London: Flugdauer 50-60 Minuten, Kosten Light Jet 5.000-12.000 Euro. Die meistgeflogene Privatjet-Route Europas für Finance, Fashion und Media.","url":"https://www.privatjet-vergleich.de/ratgeber/paris-london","inLanguage":"de-DE"}</script>
+<p class="disclosure"><em>Hinweis: Dieser Artikel enthält Partnerlinks zu Villiers Jets. Bei einer Buchung über diese Links erhalten wir eine Provision ohne zusätzliche Kosten für Sie.</em></p>
+<div style="background:#f3f0e6;border-left:4px solid #c9a84c;padding:16px 20px;margin-bottom:24px;border-radius:8px;">
+<strong>Kurzfazit:</strong> Ein Privatjet von Paris nach London kostet 2026 zwischen 5.000 Euro (Light Jet, Minimalbuchung) und 12.000 Euro (Midsize Jet). Die reine Flugzeit beträgt 50-60 Minuten. Le Bourget (Paris) und Farnborough (London) sind die Lieblings-Privatjet-Flughäfen beider Städte. Diese Route zählt zu den Top-3 der europäischen Privatjet-Strecken für Finanzvorstände, Mode-Executives und Medienchefs. Der Vorteil: Kein TSA-Style Security (Schengen-Raum), aber volle Flexibilität beim Flugplan.
+</div>
+<h2>Paris-London: Der Business-Korridor Europas</h2>
+<p>Paris und London sind zwei Wirtschaftszentren auf unterschiedlichen Seiten des Ärmelkanals. Paris ist die Zentrale für französische Banken (BNP Paribas, Societe Generale), Luxusgüter (LVMH, Kering, Hermès) und Pharma (Sanofi). London ist das europäische Finanzherz (City of London, Canary Wharf), ein Mode-Hub (Savile Row, Oxford Street, digitale Agenturen) und das Zentrum für englischsprachige Media und Tech.</p>
+<p>Das bedeutet praktisch: Morgens Vorstand in Paris, nachmittags Bankenmeeting in London, abends zurück in die Pariser Wohnung. Mit Linienflug oder Zug unmöglich. Mit Privatjet erledigt man diese Agenda in einem Tag ohne Zeitverschwendung auf Flughäfen. Deshalb ist die Route eine der meistgebuchten in Westeuropa.</p>
+<h2>Flughäfen: Le Bourget und Farnborough sind die Standards</h2>
+<p><strong>Paris - Le Bourget (LFPB):</strong> Der Privatjet-Flughafen von Paris. Le Bourget liegt 11 km nördlich der Pariser Innenstadt (Métro bis La Défense, dann 15 Minuten Taxi). Die FBO-Infrastruktur ist luxuriös: CIP Lounges, schnelle Zollabfertigung (meist 10-15 Minuten), Wartung, Catering. Charter-Piloten bevorzugen Le Bourget gegenüber Charles de Gaulle (CDG) und Orly, weil die Bodenabfertigung schneller ist und keine Warteschlangen hinter Linienflugverkehr entstehen.</p>
+<p><strong>London - Farnborough (EGLF):</strong> Farnborough ist der de-facto Privatjet-Hub südlich von London. Es liegt 40 km südwestlich des Stadtzentrums (45 Minuten Fahrt zur City of London, je nach Verkehr). Farnborough hat Konkurrenz: Luton, Northolt und Stansted sind alternative Privatjet-Häfen, aber Farnborough hat die beste Infrastruktur (neue Terminals ab 2024, Full-Service FBOs, schnelle britische Zollabfertigung). Für Time-sensitive Business Reisen ist Farnborough Standard.</p>
+<p>Wichtig post-Brexit: Londons Northolt (EGLL, auch EGLW) akzeptiert Privatjets, braucht aber schärfere Zollkontrolle als vor 2020. Farnborough hat dafür schon eingespielt. Empfehlung: Farnborough nehmen und akzeptieren, dass der Transfer 45 Minuten dauert.</p>
+<h2>Flugdauer und Vergleich zu Alternativen</h2>
+<p><strong>Privatjet Light Jet:</strong> Le Bourget (Paris) zu Farnborough (London): 50-60 Minuten reine Flugzeit. Mit Vorlaufzeit (Autos zum Flughafen, Vorlauf, Abflug, Anflug, Bodenhandling): 3,5-4 Stunden von Hotel zu Hotel.</p>
+<p><strong>Eurostar:</strong> Paris Gare du Nord zu London St. Pancras: 2 Stunden 15 Minuten, aber inklusive Anreise zum Bahnhof (30 Minuten) und Ankunft vom St. Pancras ins City-Office (20 Minuten). Realistische Zeit: 3 Stunden 15 Minuten von Hotel zu Hotel. Vorteil: Entspannt arbeiten, günstig. Nachteil: Feste Zeiten, kein Kurzfristiges Umbuchen.</p>
+<p><strong>Linienflug (British Airways, Air France):</strong> Paris CDG zu London LHR: 1 Stunde 15 Minuten Flugzeit, aber Anreise zu CDG 45 Minuten, Security/Boarding 90 Minuten, Baggage/Transfer vom LHR 60 Minuten. Gesamtzeit: 4,5-5 Stunden. Nachteil: Feste Slots, Overshooting auf großen Hubs, keine Privatsphäre.</p>
+<p><strong>Auto (Eurostar mit Auto):</strong> Auto von Paris zur Le Shuttle (Folkestone), Auto auf britischer Seite bis London: 6-7 Stunden mit Warten auf Eurotunnel-Slot. Praktisch nicht nutzbar für Tagesgeschäft.</p>
+<h2>Kosten: Privatjet Paris nach London 2026</h2>
+<table>
+<thead><tr><th>Flugzeugklasse</th><th>Beispiel-Typ</th><th>Passagiere</th><th>Preis Par-Lon (ca.)</th><th>Flugzeit</th></tr></thead>
+<tbody>
+<tr><td>Light Jet</td><td>Citation CJ3, Phenom 300</td><td>bis 7</td><td>5.000-7.000 Euro</td><td>50-55 min</td></tr>
+<tr><td>Midsize Jet</td><td>Citation XLS+, Hawker 900</td><td>bis 9</td><td>8.000-12.000 Euro</td><td>50-55 min</td></tr>
+<tr><td>Super-Midsize</td><td>Citation X, Gulfstream G200</td><td>bis 10</td><td>12.000-16.000 Euro</td><td>45-50 min</td></tr>
+</tbody>
+</table>
+<h2>Empty Legs und Spot-Bookings</h2>
+<p>Empty Legs sind Flüge, die ein Privatjet nach einer vorigen Buchung leer fliegen muss. Wenn die vorherige Buchung von London nach Paris endete, kann der Operator diesen "Rückflug" mit Rabatt anbieten. Durchschnittliche Einsparung: 30-40 Prozent. Villiers Jets und andere Broker haben Empty-Leg-Listen. Die Paris-London-Route hat regelmäßig solche Optionen wegen des hohen Verkehrsaufkommens.</p>
+<h2>Post-Brexit: Was sich für Privatjet-Reisen änderte</h2>
+<p>Nach dem Brexit gelten für britische Privatjet-Ankünfte schärfere Einreisekontrollt als noch 2019. Konkret:</p>
+<ul>
+<li>Reisepass (kein Personalausweis für Briten und umgekehrt) erforderlich</li>
+<li>Zolldeklaration obligatorisch, auch wenn der Jet privat ist</li>
+<li>Mitnahme von Haustieren erfordert zusätzliche Dokumentation (Impfpass, microchip)</li>
+<li>Gepäck-Limits gelten weiterhin nicht (Privatjet), aber Deklaration von verbotenen Waren ist streng</li>
+</ul>
+<p>Im Schengen-Raum (von Paris aus) bleibt die Kontrolle minimal. Beim Landeanflug in London (UK außerhalb Schengen) wird's formaler. Plan: 15-20 Minuten extra für Border-Prozedur einrechnen.</p>
+<h2>Warum Villiers Jets diese Strecke besonders bedient</h2>
+<p>Villiers Jets hat eine starke Operator-Base in Westeuropa. Paris und London sind zwei ihrer Top-20-Ziele. Das bedeutet: regelmäßiges Flugaufkommen, funktionierende Empty-Leg-Pools, und Operatoren, die die Route im Schlaf können. Die Buchung dauert oft nur Stunden statt Tage. Preis-Vergleich zwischen Brokern lohnt sich: manche bieten für häufige Bucher auf dieser Route Rabatte.</p>
+<h2>Konkrete Empfehlung</h2>
+<p>Wenn Sie ein Meeting in beiden Städten an einem Tag haben, kalkulieren Sie mit: Light Jet 5.500-6.500 Euro für die Strecke, plus Crew-Kosten, plus Groundhandling. Gegenüber Eurostar (170 Euro) oder Linienflug (300-600 Euro) mehr teuer, aber die Zeit ist kostbarer als das Geld. Buchen Sie mindestens 48 Stunden voraus. Empty Legs checken (Rabatt möglich). Villiers Jets ist eine sichere erste Anlaufstelle für diese Strecke.</p>`
+  },
+  {
     slug: "munich-vienna-privatjet-2026",
     title: "Privatjet Muenchen-Wien: Die 350-km-Verbindung zwischen zwei Wirtschaftszentren per Charter",
     description: "Privatjet Muenchen nach Wien 2026: Flugzeit 45 Minuten, Kosten ab 3.500 Euro (Turboprop) bis 9.000 Euro (Midsize). Warum BMW-Manager und Finanzvorstände diese Strecke regelmaessig fliegen.",
@@ -32,7 +81,7 @@ export const articles: Article[] = [
 <p><strong>Privatjet:</strong> Light Jet von Oberpfaffenhofen nach Wien Schwechat: Reine Flugzeit 45 Minuten. Mit Vorlaufzeit an der Piste, Abflug, Anflug und Bodenseite zusammen: zwei Stunden von Abfahrt am Hotelzimmer bis Ankunft im Wiener Zentrum.</p>
 <p><strong>ICE/Railjet:</strong> Muenchen Hbf nach Wien Hbf: Fahrzeit 5.5 bis 6.5 Stunden, oft mit einer Umsteigung in Salzburg. Anreise zum Hauptbahnhof braucht 30 Minuten (Taxi, ÖV). Ankunft am Ziel in Wien nochmal 20 Minuten von Wien Hauptbahnhof ins Zentrum. Summe: mindestens 6,5 bis 7,5 Stunden von Hotel zu Hotel.</p>
 <p><strong>Auto:</strong> Mit dem Fahrer oder als Miete: Muenchen zu Wien auf der A1/A8 sind rund 680 km Gesamtstrecke, Fahrtzeit 7 bis 8 Stunden ohne Pausen. Mit Pausen realistische Zeit: 8,5 bis 9 Stunden.</p>
-<p><strong>Linienfluege:</strong> Lufthansa fliegt die Strecke mehrfach taeglich. Fahrzeit zum Flughafen: 30 Minuten (Muenchen zum EDDM hauptstadt). Security und Boarding 90 Minuten. Flugzeit 1h 20 Minuten. Ankunft, Gepaeck, Transfer nach Wien: 45 Minuten. Summe: 4,5 bis 5 Stunden. Aber: feste Abflugzeiten (nicht flexibel fuer den Geschaeftstermin), Gepaeck begrenzt, keine Privatsphaere fuer Gespraeche."</p>
+<p><strong>Linienfluege:</strong> Lufthansa fliegt die Strecke mehrfach taeglich. Fahrzeit zum Flughafen: 30 Minuten (Muenchen zum EDDM hauptstadt). Security und Boarding 90 Minuten. Flugzeit 1h 20 Minuten. Ankunft, Gepaeck, Transfer nach Wien: 45 Minuten. Summe: 4,5 bis 5 Stunden. Aber: feste Abflugzeiten (nicht flexibel fuer den Geschaeftstermin), Gepaeck begrenzt, keine Privatsphaere fuer Gespraeche.</p>
 <p>Der Privatjet ist nicht die schnellste Option (das ist der Linienflug), aber die flexibelste: Abflugzeit kurzfristig aenderbar, Einstiegspunkt direkt vom Geschaeftszentrum, absolute Diskretion fuer vertrauliche Geschaeftstreffen.</p>
 <h2>Preise: Privatjet Muenchen nach Wien 2026</h2>
 <table>

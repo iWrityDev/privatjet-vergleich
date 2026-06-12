@@ -12765,6 +12765,78 @@ export const articleCategories: string[] = [
 <p>Villiers Jets ist ein führender Broker für diese Route. Typische Buchungszeit: 24 bis 48 Stunden. Buchen Sie mindestens 48 Stunden voraus und fragen Sie nach Empty-Leg-Optionen für Einsparungen.</p>
 `
   }
+  {
+    slug: "kopenhagen-stockholm",
+    title: "Privatjet Kopenhagen nach Stockholm: Kosten und Flugzeit 2026",
+    description: "Privatjet von Kopenhagen nach Stockholm chartern 2026. Flugzeit 1h 5min, Kosten Light Jet ab 7.500 Euro, Skandinavien Business-Route.",
+    category: "Strecken",
+    readingMinutes: 5,
+    publishedDate: "2026-06-12",
+    content: `<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Privatjet Kopenhagen nach Stockholm: Kosten und Flugzeit 2026","datePublished":"2026-06-12","author":{"@type":"Organization","name":"Privatjet-Vergleich"},"description":"Privatjet Kopenhagen nach Stockholm: Flugzeit ca. 1h 5min, Kosten ab 7.500 Euro Light Jet. Skandinavische Business-Route zwischen zwei Hauptstädten.","url":"https://www.privatjet-vergleich.de/ratgeber/kopenhagen-stockholm","inLanguage":"de-DE"}</script>
+<p class="disclosure"><em>Hinweis: Dieser Artikel enthält Partnerlinks zu Villiers Jets. Bei einer Buchung über diese Links erhalten wir eine Provision ohne zusätzliche Kosten für Sie.</em></p>
+<div style="background:#f3f0e6;border-left:4px solid #c9a84c;padding:16px 20px;margin-bottom:24px;border-radius:8px;">
+<strong>Kurzfazit:</strong> Ein Privatjet von Kopenhagen nach Stockholm kostet 2026 zwischen 7.500 Euro (Light Jet) und 13.000 Euro (Midsize Jet). Die Flugzeit beträgt etwa 1 Stunde 5 Minuten. Diese skandinavische Route verbindet Dänemarks Hauptstadt mit Schwedens Finanzmetropole und ist beliebt für Nordic Business und VC-Meetings.
+</div>
+
+<h2>Kopenhagen-Stockholm: Die Nordic Business-Route</h2>
+
+<p>Kopenhagen und Stockholm sind Europas Zentren für Nordic Tech und Startup-Ökosysteme. Kopenhagen ist Heimat von Unicorns wie Unity Technologies und Sennheiser, während Stockholm (mit seinem "Silicon Valley"-Bezirk Kista) Home zu Spotify, Klarna und Kings of Leon Studios ist. Geschäftsreisende zwischen Skandinaviens Top-Investoren und Tech-Leadership nutzen Privatjets für diese Strecke regelmäßig.</p>
+
+<h2>Flugzeit und Entfernung</h2>
+
+<p>Die Luftlinie beträgt etwa 360 Kilometer. Ein Light Jet benötigt ungefähr 1 Stunde 5 Minuten reine Flugzeit. Mit Vor- und Nachbereitung (Transfer, Boarding, Landung) dauert die gesamte Reise etwa 2,5 bis 3 Stunden.</p>
+
+<h2>Flugzeugklassen und Preise 2026</h2>
+
+<table>
+<thead><tr><th>Klasse</th><th>Flugzeugtyp</th><th>Passagiere</th><th>Preis</th><th>Flugzeit</th></tr></thead>
+<tbody>
+<tr><td>Light Jet</td><td>Citation CJ3, Phenom 300</td><td>bis 7</td><td>7.500-10.000 Euro</td><td>1h 5min</td></tr>
+<tr><td>Midsize Jet</td><td>Citation XLS+, Hawker 900</td><td>bis 9</td><td>11.000-13.000 Euro</td><td>1h 00min</td></tr>
+</tbody>
+</table>
+
+<h2>Flughäfen Kopenhagen und Stockholm</h2>
+
+<h3>Kopenhagen</h3>
+
+<p>Copenhagen Kastrup (CPH) hat ein modernes Privatjet-Terminal mit schneller Abfertigung. Die FBO "CPH Business Aviation" ist gut organisiert. Vorlaufzeit: 30 Minuten. Transfer zum Zentrum: 20-30 Minuten.</p>
+
+<h3>Stockholm</h3>
+
+<p>Stockholm Arlanda (ARN) ist Schwedens Hauptflughafen mit erstklassiger Privatjet-Infrastruktur. Die FBO "Stockholm Air Charter" kümmert sich um Charter-Abflüge. Transfer zum Zentrum: 20-40 Minuten je nach Verkehr.</p>
+
+<h2>Vergleich zu Alternativen</h2>
+
+<p><strong>Linienflug:</strong> 1 Stunde Flugzeit, aber 3,5-4,5 Stunden total mit An- und Abreise. Preis: 100-200 Euro.</p>
+
+<p><strong>Bahn (SJ, DSB):</strong> 5,5-6 Stunden mit Umsteigen. Nicht praktisch für Tagesreisen.</p>
+
+<p><strong>Privatjet:</strong> 2,5-3 Stunden total, maximale Flexibilität. Kosten ab 7.500 Euro ab 2-3 Personen wirtschaftlich (pro Kopf: ca. 2.500-3.500 Euro).</p>
+
+<h2>Empty Legs und Kostensparen</h2>
+
+<p>Die Kopenhagen-Stockholm-Route hat regelmäßig Empty Legs mit 30-40 Prozent Rabatt. Villiers Jets verwaltet eine aktive Liste für skandinavische Routen. Wenn Sie flexibel mit Timing sind, können Sie erheblich sparen.</p>
+
+<h2>Beste Flugzeugklasse für Kopenhagen-Stockholm</h2>
+
+<p>Der <strong>Light Jet</strong> ist die optimale Wahl. Die Strecke ist kurz genug, dass kein Tankstop nötig ist, und der Light Jet bietet Business-Class-Komfort für bis zu sieben Passagiere. Die Kosten sind 30 Prozent günstiger als Midsize.</p>
+
+<h2>Buchung und Checkliste</h2>
+
+<ol>
+<li>Mindestens 48 Stunden Vorlaufzeit für Pilot und Crew-Scheduling.</li>
+<li>Crew-Kosten: ca. 400-600 Euro extra (oft nicht in der Flugquote enthalten).</li>
+<li>Boarding: maximal 30 Minuten vor Abflug (deutlich schneller als Linienflug).</li>
+<li>Gepäck: keine Limits, solange es in den Jet passt.</li>
+<li>Haustiere: erlaubt mit Voranmeldung.</li>
+<li>Schengen-Flug: minimale Zollabfertigung zwischen Dänemark und Schweden.</li>
+</ol>
+
+<h2>Zusammenfassung</h2>
+
+<p>Kopenhagen nach Stockholm mit dem Privatjet ist ideal für Nordic Tech-Geschäftsreisende, die ihre Zeit maximieren wollen. Bei 1 Stunde 5 Minuten Flugzeit ist die Route wirtschaftlich für Light Jets, und die Zeitersparnis gegenüber Linienflug ist erheblich. Buchen Sie über Villiers Jets und fragen Sie nach Empty-Leg-Optionen für zusätzliche Einsparungen.</p>`
+  }
 ];
 
 export function getArticleBySlug(slug: string) {

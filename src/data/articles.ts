@@ -12978,6 +12978,55 @@ export const articleCategories: string[] = [
 <p>Stockholm und Oslo sind beide Zentren der europäischen Finanzwelt, aber mit unterschiedlichen Schwerpunkten. Stockholm konzentriert sich auf Technologie und Investment Banking. Oslo auf Öl, Gas und nordische Rohstoffe. Das Ergebnis: Finanzvorstände müssen häufig zwischen den Städten wechseln, oft mit enger Tagesplanung. Zug und Linienflug sind zu starr. Der Privatjet bietet absolute Flexibilität bei Abflugzeit und ermöglicht true same-day meetings in beiden Städten.</p>
 <h2>Konkrete Empfehlung</h2>
 <p>Für ein Management-Meeting, das zwischen Stockholm und Oslo pendet, ist der Light Jet (Citation CJ3 oder Phenom 300) die optimale Wahl. Kosten: 4.500-5.000 Euro für die Hinrichtung. Buchen Sie mindestens 48 Stunden vorab. Fragen Sie den Broker nach Empty-Leg-Optionen, besonders wenn flexible Zeiten möglich sind. Villiers Jets deckt diese Route ab, aber lokale skandinavische Charter-Broker (NextJet in Stockholm, Direktfly) kennen die Operatoren persönlich und können manchmal bessere Preise verhandeln. Vergleichen Sie zwei bis drei Angebote parallel und fliegen Sie mit dem Privatjet, der Ihre Tagesplanung ermöglicht. Sie sparen Zeit gegenüber Zug und Linienflug, und die Diskretion für Finanzgespräche ist unbezahlbar.</p>`
+  },
+  {
+    slug: "lissabon-madrid-privatjet",
+    title: "Privatjet Lissabon nach Madrid: Kosten, Flugzeit und Charteroptionen 2026",
+    description: "Privatjet von Lissabon nach Madrid buchen. Flugzeit ca. 1 Stunde, Kosten, beste Flugzeugtypen und Tipps.",
+    category: "Strecken",
+    readingMinutes: 8,
+    publishedDate: "2026-06-12",
+    content: `<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Privatjet Lissabon nach Madrid: Kosten, Flugzeit und Buchung 2026","datePublished":"2026-06-12","author":{"@type":"Organization","name":"Privatjet-Vergleich"},"description":"Privatjet Lissabon nach Madrid chartern 2026: Flugzeit ca. 1h, Kosten, beste Flugzeugtypen und Tipps.","url":"https://www.privatjet-vergleich.de/ratgeber/lissabon-madrid","inLanguage":"de-DE"}</script>
+<p class="disclosure"><em>Hinweis: Dieser Artikel enthält Partnerlinks zu Villiers Jets. Bei einer Buchung über diese Links erhalten wir eine Provision ohne zusätzliche Kosten für Sie.</em></p>
+<div style="background:#f3f0e6;border-left:4px solid #c9a84c;padding:16px 20px;margin-bottom:24px;border-radius:8px;">
+<strong>Kurzfazit:</strong> Ein Privatjet von Lissabon nach Madrid kostet 2026 zwischen 8.000 Euro (Light Jet) und 14.000 Euro (Midsize Jet). Die reine Flugzeit beträgt ca. 60 Minuten. Lissabon (Portela) und Madrid (Barajas oder Torrejon) sind die Standard-Privatjet-Häfen. Diese Strecke ist beliebt bei Geschäftsreisenden und Finanzprofessionals, die zwischen Portugals und Spaniens Wirtschaftszentren pendeln. Kein Schengen-Übergang (beide EU), schnelle Zollabfertigung.
+</div>
+<h2>Lissabon-Madrid: Die Iberian Business Route</h2>
+<p>Lissabon und Madrid sind zwei wichtige Wirtschaftszentren der Iberischen Halbinsel. Lissabon ist das Zentrum für portugiesische Banken, Tech-Startups (bemerkenswert im europäischen Vergleich) und Tourismus-Investments. Madrid ist Spaniens Hauptstadt und größtes Finanz- und Tech-Hub mit Hauptsitzen der IBEX-35-Unternehmen (EDF Energy, Telefonica, Santander-Region).</p>
+<p>Für Executives mit Meetings in beiden Städten ist Lissabon-Madrid eine praktische Route: Morgens in Lissabon, Mittagsmeeting in Madrid, abends zurück oder am nächsten Tag weiter. Mit einem Privatjet sind 2-3 Meetings an einem Tag möglich, was mit Liniflug unmöglich ist.</p>
+<h2>Flughäfen: Humberto Delgado und Torrejon de Ardoz</h2>
+<p><strong>Lissabon (Humberto Delgado, LPPT, auch Portela):</strong> Der Hauptprivatjet-Flughafen Lissabons liegt 7 km nördlich der Stadt. Moderne Infrastruktur, schnelle Zollabfertigung für Schengen-Flüge (meist 10 Minuten). Das FBO (Fixed Base Operator) mit Catering und Lounges ist hochwertig. Anfahrt vom Zentrum: 15-20 Minuten per Taxi.</p>
+<p><strong>Madrid (Torrejon de Ardoz, LEMD, oder Barajas Corporate Terminal):</strong> Torrejon ist der Privatjet-Flughafen südöstlich von Madrid, etwa 25 km vom Zentrum. Kurze Zollabfertigung, weniger Verkehr als Barajas. Der Corporate Terminal in Barajas ist auch möglich, aber teurer. Empfehlung: Torrejon für Speed und Kostenoptimierung.</p>
+<p>Verkehrverbindung Madrid-Zentrum: 35-45 Minuten per Auto vom Flughafen, je nach Zeit. Lissabon ist näher an der Stadt (15-20 Min), was den Transfer angenehmer macht.</p>
+<h2>Flugdauer und praktische Reisezeit</h2>
+<p><strong>Reine Flugzeit:</strong> Ca. 60-70 Minuten für Light Jet oder Turboprop. Super-Midsize Jets schaffen es in unter 1 Stunde.</p>
+<p><strong>Gesamtzeit Hotel zu Hotel:</strong> Mit Vorlaufzeiten (Car zum Flughafen, Handling, Bodenzeiten): 3,5-4 Stunden.</p>
+<p><strong>Vergleich mit Linienflug (TAP Air Portugal, Iberia):</strong> Lissabon-Madrid Flight ist ca. 1 Stunde Flugzeit, aber mit Anreise zu Flughafen (30 Min), Security/Boarding (90 Min), Baggage/Transfer (45 Min) dauert es 4,5-5 Stunden. Der Privatjet ist schneller und flexibler.</p>
+<p><strong>Zugverkehr (AVE - Alta Velocidad Española):</strong> Lissabon nach Madrid gibt es keinen direkten ICE-ähnlichen Zug. Die Verbindung mit Umsteigen dauert 6-8 Stunden. Nicht praktisch für 1-Tages-Trips.</p>
+<h2>Kosten: Privatjet Lissabon nach Madrid 2026</h2>
+<table>
+<thead><tr><th>Flugzeugklasse</th><th>Beispiel-Typ</th><th>Passagiere</th><th>Preis Lisb-Mad (ca.)</th><th>Flugzeit</th></tr></thead>
+<tbody>
+<tr><td>Light Jet</td><td>Citation CJ3, Phenom 300</td><td>bis 7</td><td>8.000-10.000 Euro</td><td>60-65 min</td></tr>
+<tr><td>Midsize Jet</td><td>Citation XLS+, Hawker 900</td><td>bis 9</td><td>11.000-14.000 Euro</td><td>60 min</td></tr>
+<tr><td>Super-Midsize</td><td>Citation X, Gulfstream G200</td><td>bis 10</td><td>14.000-18.000 Euro</td><td>55 min</td></tr>
+</tbody>
+</table>
+<h2>Weitere Kostenelemente</h2>
+<ul>
+<li>Crew-Kosten: Ca. 1.500-2.500 Euro zusätzlich (Overnight-Fees wenn Besatzung übernachtet)</li>
+<li>Bodengebühren: Torrejon ca. 300-500 Euro (Parkplatz, Services)</li>
+<li>Catering: 400-800 Euro (optinal, aber standard für diese Route)</li>
+<li>Treibstoff-Surcharge: Falls Rohölpreis volatil ist, 5-10% Aufschlag</li>
+</ul>
+<p>Gesamtbudget für Hin- und Rückflug mit 2 Pax: 18.000-30.000 Euro, je nach Flugzeugklasse und Zusatzservices.</p>
+<h2>Empty Legs und Rabattoptionen</h2>
+<p>Wegen des stabilen Geschäftsverkehrs zwischen Lissabon und Madrid gibt es regelmäßig Empty Legs. Wenn eine Buchung Madrid nach Lissabon endet, kann ein Operator den Rückflug mit 35-45% Rabatt anbieten. Villiers Jets und andere Broker haben diese Slots.</p>
+<h2>Zeitzone und organisatorische Notizen</h2>
+<p>Keine Zeitzonendifferenz (beide WET/CEST). Das macht Planung einfacher. Visumformalitäten: Schengen-Raum, deutsche Staatsbürger brauchen nur Pass. Gepäck: Privatjet hat großzügige Limits, kein Check-in nötig.</p>
+<h2>Buchung und Empfehlung</h2>
+<p>Für die Lissabon-Madrid-Route kannst du Villiers Jets, NetJets oder andere europäische Charter-Broker nutzen. Die Strecke ist gefragt, daher ist Verfügbarkeit gut. Mindestens 48 Stunden Vorlaufzeit empfohlen.</p>
+<p>Konkrete Preisanfrage: Light Jet, 2-3 Pax, Hinflug Lissabon (LPPT) zu Madrid (LEMD): Budget 9.000-11.000 Euro. Rückflug am selben Tag oder Tag 2 separat anfragen (möglicherweise mit Empty-Leg-Rabatt).</p>`
   }
 
 ];

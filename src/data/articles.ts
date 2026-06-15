@@ -9405,8 +9405,7 @@ Ideal fÃ¼r: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichwe
 
 <h2>Saisonaler Einfluss auf die Preise</h2>
 <p>Dubai hat eine starke Hochsaison (Oktober bis April, wenn das Wetter angenehm ist) und eine relative Nebensaison (Mai bis September, extreme Hitze). In der Hochsaison (besonders Dezember bis Februar) sind Privatjets nach Dubai stark ausgelastet, was die Preise um 15 bis 25 Prozent treibt und die Verfuegbarkeit einschraenkt. Buchungen fuer den Winter idealerweise 2 bis 4 Wochen im Voraus.`
-  }
-,
+  },
   {
     slug: `privatjet-zuerich-dubai-kosten`,
     title: `Privatjet Zuerich Dubai Kosten 2026: Preise und Fluginformationen`,
@@ -12274,17 +12273,13 @@ Ideal fÃ¼r: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichwe
 </ol>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Was kostet ein Privatjet von Hamburg nach Berlin 2026?","acceptedAnswer":{"@type":"Answer","text":"Ein Privatjet von Hamburg nach Berlin kostet 2026 zwischen 4.500 Euro (Turboprop Budget-Option) und 7.500 Euro (Light Jet Premium). Fuer Gruppen von 4-6 Personen liegt der Pro-Kopf-Preis bei etwa 1.100 bis 1.800 Euro."}},{"@type":"Question","name":"Wie lange dauert der Flug Hamburg-Berlin im Privatjet?","acceptedAnswer":{"@type":"Answer","text":"Die reine Flugzeit betraegt etwa 75 Minuten mit Light Jet, 90 Minuten mit Turboprop. Die Gesamtreisezeit von Buero zu Buero betraegt etwa 2,5 bis 3 Stunden."}},{"@type":"Question","name":"Warum Privatjet statt Linienflug Hamburg-Berlin?","acceptedAnswer":{"@type":"Answer","text":"Linienflug dauert 4-5 Stunden mit Anreise, Security und Gepäck. Zug dauert 2,5-3,5 Stunden. Der Privatjet braucht 2,5-3 Stunden, bietet aber flexible Zeiten, keine Sicherheitskontrollen und direkten Citycenter-Transfer. Same-Day-Returns sind mit Privatjet möglich, mit Linienflug unmöglich."}},{"@type":"Question","name":"Welche Flughaefen nutzen Privatjets in Hamburg und Berlin?","acceptedAnswer":{"@type":"Answer","text":"Hamburg: Finkenwerder (EDHF), ideal fuer Business-Jets, 15 km südlich des Zentrums. Berlin: Tempelhof (EDLT) fuer schnelle Abfertigung nah am Zentrum, oder Berlin-Brandenburg (BER) 25 km südöstlich. Empfehlung: Finkenwerder zu Tempelhof."}}]}</script>`
   },
-];
-
-export const articleCategories: string[] = [
-  'Kosten', 'Strecken', 'Reiseziele', 'Ratgeber', 'Anbieter',
-  'Flugzeuge', 'Jet Cards', 'Markt', 'Erlebnis', 'Events',
-  'Nachhaltigkeit', 'Business', 'Spezial', 'Staedte',
-
   {
     slug: "privatjet-frankfurt-new-york",
     title: "Privatjet Frankfurt nach New York: Transatlantik Charter 2026",
     description: "Privatjet Frankfurt nach New York chartern 2026 – Kosten ca. EUR 80.000–EUR 180.000 je nach Jet, Flugzeit 8–9h non-stop.",
+    category: "Strecken",
+    readingMinutes: 8,
+    publishedDate: "2025-06-01",
     content: `<h1>Privatjet Frankfurt nach New York: Transatlantik Charter 2026</h1>
 
 <p>Die Strecke Frankfurt nach New York ist eine der meistgeflogenen Transatlantik-Routen im privaten Luftverkehr. Für Geschäftsreisende, die sich Zeit sparen möchten, und für Gruppen, die Wert auf Komfort und Flexibilität legen, ist die Privatjet-Option attraktiv. Allerdings sind die Kosten erheblich, und die Wahl des richtigen Flugzeugtyps entscheidend für Preis und Erlebnis.</p>
@@ -12382,6 +12377,9 @@ export const articleCategories: string[] = [
     slug: "privatjet-zuerich-london",
     title: "Privatjet Z?rich nach London: Charter und Kosten 2026",
     description: "Privatjet von Z?rich nach London chartern 2026 - Kosten ca. EUR 12.000-22.000, Flugzeit 1h 50min, Z?rich Business Aviation.",
+    category: "Strecken",
+    readingMinutes: 6,
+    publishedDate: "2025-06-01",
     content: `<h2>Privatjet Z?rich nach London: Charter und Kosten</h2>
 
 <p>Die Route von Z?rich nach London ist eine der h?ufigsten Privatjet-Verbindungen in Europa. Mit einer Flugzeit von nur einer Stunde und 50 Minuten ist sie ideal f?r schnelle Gesch?ftsreisen. Z?rich ist eines der gr??ten Finanzzentren Europas, London ist das andere. Banker, Fondsmanager und Unternehmensf?hrer fliegen diese Route regelm??ig und nutzen daf?r Privatjets.</p>
@@ -12438,7 +12436,6 @@ export const articleCategories: string[] = [
     tags: ["privatjet", "z?rich", "london", "charter"],
   },
 
-,
   {
     slug: "privatjet-madrid-paris",
     title: "Privatjet Madrid nach Paris: Charter und Kosten 2026",
@@ -12639,9 +12636,8 @@ export const articleCategories: string[] = [
 <li><strong>Erst vergleichen, dann buchen:</strong> Preise schwanken je nach Wochentag und Vorlaufzeit. Ein Direktvergleich uber Villiers Jets dauert weniger als zwei Minuten.</li>
 </ol>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Wie lange dauert ein Privatjet von Koln nach Berlin?","acceptedAnswer":{"@type":"Answer","text":"Die reine Flugzeit eines Privatjets von Koln/Bonn Airport (CGN) nach Berlin Brandenburg Airport (BER) betragt rund 1 Stunde 15 Minuten. Tur zu Tur, inklusive Transfer zu den Terminals, sind es realistisch 2,5 bis 3 Stunden."}},{"@type":"Question","name":"Was kostet ein Privatjet von Koln nach Berlin?","acceptedAnswer":{"@type":"Answer","text":"Ein Light Jet kostet als Vollcharter auf der Strecke Koln-Berlin rund 3.500 bis 6.000 EUR. Ein Midsize Jet liegt bei 6.000 bis 9.000 EUR. Bei 6 bis 8 Passagieren sinken die Pro-Kopf-Kosten auf 500 bis 1.000 EUR."}},{"@type":"Question","name":"Lohnt sich ein Privatjet von Koln nach Berlin im Vergleich zur Bahn?","acceptedAnswer":{"@type":"Answer","text":"Der ICE benotigt Tur zu Tur rund 5 bis 5,5 Stunden, der Privatjet 2,5 bis 3 Stunden. Fur Gruppen ab 4 Personen mit termingebundenen Reisen ist der Privatjet zeitlich und wirtschaftlich oft die bessere Wahl."}},{"@type":"Question","name":"Welche Flughafen werden fur den Privatjet Koln-Berlin genutzt?","acceptedAnswer":{"@type":"Answer","text":"Abflug erfolgt uber den Koln/Bonn Airport (CGN) mit seinem GA-Terminal, der 24/7 ohne Nachtflugverbote in Betrieb ist. In Berlin landen Privatjets am Berlin Brandenburg Airport (BER) und nutzen dort die FBO-Einrichtungen."}},{"@type":"Question","name":"Gibt es gunstige Empty-Leg-Fluge auf Koln-Berlin?","acceptedAnswer":{"@type":"Answer","text":"Ja. Die Strecke Koln-Berlin gehort zu den am haufigsten gebuchten Privatjet-Routen in Deutschland, was die Verfugbarkeit von Empty-Leg-Angeboten erhoht. Mit Rabatten von 50 bis 75 Prozent sind Buchungen unter 2.000 EUR moglich."}}]}</script>`,
-  }
+  },
 
-,
   {
     slug: "privatjet-muenchen-london-kosten",
     title: "Privatjet München nach London: Kosten, Flugzeit und Buchungsoptionen 2026",
@@ -12853,9 +12849,8 @@ export const articleCategories: string[] = [
 <p>Berlin nach Zürich mit dem Privatjet ist sinnvoll für Geschäftsreisende, die ihre Zeit maximieren wollen. Die Flugzeit ist kurz genug (1h 20min) für wirtschaftliche Light-Jet-Kosten, und die Zeitersparnis gegenüber Linienflug ist erheblich (2-2,5 Stunden pro Strecke). Mit laufenden Empty-Leg-Rabatten können Sie die Kosten auf 6.000-7.000 Euro pro Weg senken.</p>
 
 <p>Für Startup-Gründer mit Series-B-Meetings in Zürich und für UBS-Banker mit Tech-Konferenzen in Berlin ist dieser Privatjet-Flug ein Game-Changer für die Produktivität. Buchen Sie über Villiers Jets und fragen Sie nach Empty-Leg-Optionen, wenn Ihre Agenda flexibel ist.</p>`
-  }
+  },
 
-,
   {
     slug: "wien-zuerich",
     title: "Privatjet Wien nach Zürich: Kosten, Flugzeit und Buchung 2026",
@@ -14095,8 +14090,7 @@ export const articleCategories: string[] = [
 <h2>Privatjet Wien nach Paris anfragen</h2>
 <p>Für eine unverbindliche Preisanfrage empfehlen wir Villiers Jets: <a href="https://villiers.ai/?id=BTOG3L" rel="noopener noreferrer" target="_blank">Privatjet Wien nach Paris jetzt anfragen bei Villiers Jets</a>.</p>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Was kostet ein Privatjet von Wien nach Paris 2026?","acceptedAnswer":{"@type":"Answer","text":"Ein Privatjet von Wien nach Paris kostet 2026 zwischen 12.000 Euro (Light Jet) und 30.000 Euro (Large Cabin Jet). Die Kosten hängen von Flugzeugtyp, Saison und Vorlaufzeit ab. Empty Legs bieten bis zu 30% Rabatt."}},{"@type":"Question","name":"Wie lange dauert der Privatjet von Wien nach Paris?","acceptedAnswer":{"@type":"Answer","text":"Die reine Flugzeit beträgt ca. 2 Stunden. Mit Vorlaufzeit und Bodenhandling insgesamt 3,5-4 Stunden von Büro zu Büro — deutlich schneller als Linienflug (2,5h Flug + 5h Flughafenprozesse)."}},{"@type":"Question","name":"Welcher Flughafen in Wien und Paris ist am besten?","acceptedAnswer":{"@type":"Answer","text":"Wien: Flughafen Schwechat (LOWW) mit privatem Jet-Terminal, 30 km zur Innenstadt. Paris: Le Bourget (LFPB) — führender Privatjet-Flughafen Europas, nur 11 km zur Zentrale."}},{"@type":"Question","name":"Welche Flugzeugtypen fliegen Wien-Paris?","acceptedAnswer":{"@type":"Answer","text":"Light Jets: Cessna Citation XLS (ca. 14-18k Euro), Embraer Phenom 100 (ca. 16-19k Euro). Midsize: Embraer Phenom 300 (ca. 18-22k Euro). Large Cabin: Gulfstream G280 (ca. 25-30k Euro)."}},{"@type":"Question","name":"Gibt es Empty Legs auf der Wien-Paris-Route?","acceptedAnswer":{"@type":"Answer","text":"Ja, regelmäßig 20-30% Rabatt (z.B. 9.000-12.000 Euro statt regulär 15.000 Euro). Nachteil: feste Abflugzeit in den nächsten 3-7 Tagen. Villiers Jets veröffentlicht wöchentliche Empty-Leg-Listen."}}]}<\/script>`
-  }
-,
+  },
   {
     slug: "privatjet-hannover-ibiza-kosten",
     title: "Privatjet Hannover nach Ibiza: Kosten 2026 und Buchungstipps",
@@ -14215,6 +14209,12 @@ export const articleCategories: string[] = [
 </ol>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Was kostet ein Privatjet von Köln nach Barcelona?","acceptedAnswer":{"@type":"Answer","text":"Ein Light Jet kostet 2026 zwischen 12.000 und 16.000 Euro (One-Way). Zum Mobile World Congress im Februar sind Aufschläge von 50-100% üblich. Ein Midsize Jet für 8 Personen liegt bei 18.000-24.000 Euro."}},{"@type":"Question","name":"Wie lange dauert der Flug Köln-Barcelona mit dem Privatjet?","acceptedAnswer":{"@type":"Answer","text":"Die reine Flugzeit beträgt ca. 2 Stunden (Light Jet) bis 1 Stunde 40 Minuten (Heavy Jet). Von Büro zu Büro, inklusive Transfers, ca. 4-5 Stunden, deutlich weniger als Verbindungsflüge über Frankfurt."}},{"@type":"Question","name":"Welcher Flughafen in Barcelona ist besser für Privatjets?","acceptedAnswer":{"@type":"Answer","text":"Barcelona El Prat (LEBL) ist die Standard-Option mit modernem GA-Terminal. Für kleinere Jets bietet Sabadell Airport (QSA), 25 km nordöstlich, schnellere Abfertigung ohne Linienverkehr."}},{"@type":"Question","name":"Wann sollte man für den Mobile World Congress buchen?","acceptedAnswer":{"@type":"Answer","text":"Für den MWC (jährlich im Februar) mindestens 8-12 Wochen im Voraus buchen, also ab November/Dezember. GA-Slots am El-Prat-Airport sind Monate im Voraus ausgebucht. Preise steigen um 50-100%."}},{"@type":"Question","name":"Gibt es Empty-Leg-Flüge Köln-Barcelona?","acceptedAnswer":{"@type":"Answer","text":"Ja, regelmäßig. Empty-Leg-Angebote bieten 20-35% Rabatt. Besonders häufig sind sie nach großen Events, wenn Jets zurück nach Deutschland positioniert werden müssen. Villiers Jets zeigt aktuelle Verfügbarkeiten."}}]}<\/script>`,
   },
+];
+
+export const articleCategories: string[] = [
+  'Kosten', 'Strecken', 'Reiseziele', 'Ratgeber', 'Anbieter',
+  'Flugzeuge', 'Jet Cards', 'Markt', 'Erlebnis', 'Events',
+  'Nachhaltigkeit', 'Business', 'Spezial', 'Staedte',
 ];
 
 export function getArticleBySlug(slug: string) {

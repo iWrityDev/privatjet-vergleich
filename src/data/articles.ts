@@ -15410,7 +15410,98 @@ export const articleCategories: string[] = [
 <p>Weitere Ratgeber: <a href="/ratgeber/privatjet-chartern-kosten">Privatjet chartern: Was kostet das wirklich?</a>, <a href="/ratgeber/privatjet-mieten-kosten-deutschland">Privatjet mieten in Deutschland</a>, <a href="/ratgeber/privatjet-muenchen-ibiza-kosten">Privatjet Munchen nach Ibiza</a></p>
 </div>`
   }
-];
+],
+  {
+    slug: 'business-jet-kosten-pro-stunde',
+    title: 'Business Jet Kosten pro Stunde: Was ein Privatflug wirklich kostet',
+    description: 'Was kostet ein Business Jet pro Stunde? Wir zeigen die realen Stundenkosten fuer Leicht-, Mittel- und Grossraumjets, erklaeren versteckte Gebuehren und helfen dir, das richtige Angebot zu finden.',
+    category: 'Ratgeber',
+    readingMinutes: 8,
+    publishedDate: '2026-06-26',
+    content: `<div class="article-content">
+<p>Wer einen Business Jet chartern moechte, steht schnell vor einer unuebersichtlichen Preislandschaft. Angebote variieren je nach Flugzeugtyp, Route, Saison und Charteranbieter erheblich. Dieser Ratgeber zeigt dir, welche Stundenkosten realistisch sind, was darin enthalten ist, und wo die versteckten Kosten lauern.</p>
+
+<h2>Business Jet Kosten: Die wichtigsten Kategorien</h2>
+
+<h3>Leichtjet (Light Jet)</h3>
+<p>Leichtjets wie der Cessna Citation CJ3, Embraer Phenom 300 oder HondaJet bieten Platz fuer vier bis sechs Passagiere. Sie eignen sich fuer kuerzere Strecken bis etwa 3.500 km und sind die guenstigste Einstiegskategorie im Business-Aviation-Segment.</p>
+<ul>
+<li><strong>Stundenkosten Charterpreis:</strong> ca. 2.500 bis 4.500 Euro</li>
+<li><strong>Beispielstrecke Muenchen nach London:</strong> ca. 9.000 bis 14.000 Euro</li>
+<li><strong>Geeignet fuer:</strong> bis zu 6 Personen, europaeische Kurz- und Mittelstrecken</li>
+</ul>
+
+<h3>Mittelstreckenjet (Midsize Jet)</h3>
+<p>Midsize Jets wie der Cessna Citation XLS, Hawker 800XP oder Bombardier Learjet 75 bieten mehr Platz, hoehere Reichweite und eine vollstaendige Kabine mit Stehhoehe. Sie sind das Arbeitspferd im europaeischen Geschaftsreiseverkehr.</p>
+<ul>
+<li><strong>Stundenkosten Charterpreis:</strong> ca. 4.500 bis 7.000 Euro</li>
+<li><strong>Beispielstrecke Hamburg nach Dubai:</strong> ca. 60.000 bis 85.000 Euro</li>
+<li><strong>Geeignet fuer:</strong> bis zu 9 Personen, interkontinentale Mittelstrecken</li>
+</ul>
+
+<h3>Grossraumjet / Long Range Jet</h3>
+<p>Flugzeuge wie der Gulfstream G650, Bombardier Global 7500 oder Dassault Falcon 8X sind das oberste Segment. Sie erreichen Nonstop-Reichweiten von mehr als 13.000 km und bieten Schlafkojen, Boardkueche und bis zu 19 Sitze.</p>
+<ul>
+<li><strong>Stundenkosten Charterpreis:</strong> ca. 8.000 bis 15.000 Euro</li>
+<li><strong>Beispielstrecke Frankfurt nach New York:</strong> ca. 80.000 bis 130.000 Euro</li>
+<li><strong>Geeignet fuer:</strong> bis zu 14 Personen, interkontinentale Langstrecken</li>
+</ul>
+
+<h2>Was in den Stundenkosten enthalten ist</h2>
+<p>Der Charterpreis pro Flugstunde deckt in der Regel Folgendes ab:</p>
+<ul>
+<li>Kraftstoff fuer die gebuchte Strecke</li>
+<li>Crew (Pilot und Co-Pilot, bei groesseren Maschinen auch Cabin Crew)</li>
+<li>Lande- und Navigationsgebuehren fuer die Hauptstrecke</li>
+<li>Handling am Abflugort</li>
+<li>Standardcatering (Wasser, Softdrinks, leichte Snacks)</li>
+</ul>
+
+<h2>Versteckte Kosten: Was extra berechnet wird</h2>
+<p>Neben dem Stundenpreis gibt es zahlreiche Zusatzkosten, die das Budget erheblich beeinflussen koennen.</p>
+
+<h3>Positionierungsflug (Leerflug)</h3>
+<p>Wenn die Maschine nicht am Abflugort stationiert ist, wird der Anflugweg berechnet. Bei einem Jet, der von Paris nach Zuerich positioniert werden muss, um einen Flug von Zuerich nach London durchzufuehren, zahlst du fuer beide Segmente. Das kann den Gesamtpreis um 30 bis 60 Prozent erhoehen.</p>
+
+<h3>Flughafengebuehren und Nachtlandungen</h3>
+<p>Landungen auf stark frequentierten Flughaefen wie London Heathrow, Genf oder Nice koennen erhebliche Slot- und Landing-Fees verursachen. Nachtlandungen sind in vielen europaeischen Laendern mit Zuschlegen verbunden.</p>
+
+<h3>De-Icing und Sonderhandling</h3>
+<p>Im Winter kann De-Icing (Enteisen der Maschine) bis zu 2.000 Euro kosten, je nach Flugzeuggroesse und Eismenge. Sonderhandling fuer Haustiere, Gepae bei Ubergewicht oder besondere Sicherheitsauflagen werden separat abgerechnet.</p>
+
+<h3>Erweitertes Catering und Luxusausstattung</h3>
+<p>Hochwertige Speisen, Champagner und individuelle Cateringleistungen sind nicht im Standardpreis enthalten. Luxus-Catering fuer einen transatlantischen Flug kann 500 bis 3.000 Euro zusaetzlich kosten.</p>
+
+<h2>Kosten selbst schlagen: Was du tun kannst</h2>
+
+<h3>Leerabfluege (Empty Legs) buchen</h3>
+<p>Wenn ein Privatjet einen Rueckflug ohne Passagiere durchfuehren muss, bieten Charteranbieter diese sogenannten "Empty Legs" zu stark reduzierten Preisen an. Ersparnisse von 50 bis 75 Prozent sind moeglich. Die Einschraenkung: Route, Datum und Uhrzeit sind fix und koennen nicht angepasst werden.</p>
+<p>Villiers ist eine der groessten Plattformen fuer Empty Leg Angebote in Europa: <a href="https://www.villiers.co.uk/?utm_source=privatjet-vergleich" target="_blank" rel="noopener">Villiers Privatjet-Buchungsplattform</a>.</p>
+
+<h3>Vergleich mehrerer Anbieter</h3>
+<p>Preise fuer identische Strecken koennen zwischen Anbietern um 20 bis 40 Prozent variieren, selbst bei gleichem Flugzeugtyp. Ein Vergleich ueber Broker wie Villiers, PrivateFly oder Air Charter Service lohnt sich immer.</p>
+
+<h3>Reisegruppen aufteilen</h3>
+<p>Wenn sechs Personen gemeinsam reisen, ist der Pro-Kopf-Preis eines Leichtjets oft vergleichbar mit oder sogar guenstiger als Business-Class-Tickets auf dem gleichen Weg, mit dem Vorteil eines direkten Abflugs von einem kleineren Flughafen.</p>
+
+<h2>Preistabelle: Typische Business-Jet-Strecken in Europa</h2>
+<table>
+<thead>
+<tr><th>Strecke</th><th>Leichtjet</th><th>Midsize Jet</th><th>Long Range</th></tr>
+</thead>
+<tbody>
+<tr><td>Muenchen nach London</td><td>9.000 - 14.000 EUR</td><td>15.000 - 22.000 EUR</td><td>28.000 - 40.000 EUR</td></tr>
+<tr><td>Frankfurt nach Mallorca</td><td>8.000 - 12.000 EUR</td><td>13.000 - 18.000 EUR</td><td>-</td></tr>
+<tr><td>Zuerich nach Moskau</td><td>18.000 - 26.000 EUR</td><td>22.000 - 35.000 EUR</td><td>40.000 - 60.000 EUR</td></tr>
+<tr><td>Hamburg nach Dubai</td><td>-</td><td>60.000 - 85.000 EUR</td><td>75.000 - 110.000 EUR</td></tr>
+<tr><td>Frankfurt nach New York</td><td>-</td><td>-</td><td>80.000 - 130.000 EUR</td></tr>
+</tbody>
+</table>
+
+<h2>Fazit</h2>
+<p>Business-Jet-Kosten pro Stunde beginnen bei etwa 2.500 Euro fuer Leichtjets und reichen bis 15.000 Euro fuer Grossraumjets. Der eigentliche Preis haengt stark von Strecke, Positionierungsaufwand und Zusatzleistungen ab. Wer flexibel bucht und Leerabfluege nutzt, kann erheblich sparen. Fuer einen Echtzeit-Vergleich empfehlen wir <a href="https://www.villiers.co.uk/?utm_source=privatjet-vergleich" target="_blank" rel="noopener">Villiers</a>, die eine der groessten Datenbanken fuer leere Privatjetfluege in Europa betreiben.</p>
+</div>`
+  };
 
 export function getArticleBySlug(slug: string) {
   return articles.find((a) => a.slug === slug);

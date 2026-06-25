@@ -14724,6 +14724,149 @@ Ideal fÃ¼r: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichwe
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Was kostet ein Privatjet von Köln nach Istanbul?","acceptedAnswer":{"@type":"Answer","text":"Ein Light Jet von Köln nach Istanbul kostet 2026 zwischen 14.500 und 18.000 Euro one-way. Ein Midsize Jet liegt bei 18.000 bis 24.000 Euro, ein Super Midsize Jet bei 24.000 bis 32.000 Euro. Alle Preise gelten pro Flugzeug, nicht pro Person."}},{"@type":"Question","name":"Wie lange dauert der Flug von Köln nach Istanbul im Privatjet?","acceptedAnswer":{"@type":"Answer","text":"Die reine Flugzeit von Köln (CGN) nach Istanbul (IST) beträgt im Light Jet ca. 2 Stunden 50 Minuten, im Midsize Jet ca. 2 Stunden 40 Minuten. Von Tür zu Tür dauert die Reise ca. 4 bis 5 Stunden, verglichen mit 7 bis 9 Stunden per Linienflug mit Umstieg."}},{"@type":"Question","name":"Welchen Flughafen in Istanbul nutzen Privatjets?","acceptedAnswer":{"@type":"Answer","text":"Privatjets landen entweder am neuen Istanbul Airport (IST, LTFM) auf der europäischen Seite oder am Sabiha Gökçen Airport (SAW) auf der asiatischen Seite. IST wird für Ziele in der Istanbuler Innenstadt bevorzugt, SAW für Ziele auf der asiatischen Seite."}},{"@type":"Question","name":"Gibt es Leerflüge auf der Strecke Köln-Istanbul?","acceptedAnswer":{"@type":"Answer","text":"Ja, besonders auf der Rückroute Istanbul-Köln gibt es regelmäßig Empty Legs mit Rabatten von 40 bis 65 Prozent. Aktuelle Verfügbarkeit finden Sie auf Plattformen wie Villiers Jets."}},{"@type":"Question","name":"Ist der Flughafen Düsseldorf eine Alternative zu Köln/Bonn für den Istanbul-Flug?","acceptedAnswer":{"@type":"Answer","text":"Ja. Wer aus dem nördlichen NRW oder dem Großraum Düsseldorf kommt, kann DUS als Abflugsort nutzen. Dort gibt es ebenfalls GAT-Kapazitäten. Die Preise sind vergleichbar, die Anfahrt für Düsseldorfer kürzer."}}]}<\/script>`,
   },
 
+,
+  {
+    slug: "privatjet-mieten-schweiz-kosten",
+    title: "Privatjet mieten Schweiz: Kosten, Flughäfen und Tipps 2026",
+    description: "Was kostet ein Privatjet in der Schweiz 2026? Preise pro Stunde, Streckenkosten Zürich, Genf, Basel, die besten Flughäfen und wie Sie günstig buchen.",
+    category: "Kosten",
+    readingMinutes: 12,
+    publishedDate: "2026-06-25",
+    content: `<p>Ein Privatjet in der Schweiz zu mieten kostet 2026 zwischen 2.400 und 8.500 Euro pro Flugstunde, je nach Flugzeugkategorie. Für einen Kurzflug Zürich-Genf zahlen Sie ab 3.800 Euro, für eine Strecke wie Zürich-London zwischen 11.000 und 18.000 Euro one-way. Die Schweiz verfügt über eine der dichtesten Privatjet-Infrastrukturen Europas, mit Genf und Zürich unter den zehn meistgeflogenen Privatjet-Airports des Kontinents.</p>
+
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Privatjet mieten Schweiz: Kosten, Flughäfen und Tipps 2026","datePublished":"2026-06-25","dateModified":"2026-06-25","author":{"@type":"Organization","name":"Privatjet Vergleich"},"publisher":{"@type":"Organization","name":"Privatjet Vergleich","logo":{"@type":"ImageObject","url":"https://www.privatjet-vergleich.de/logo.png"}},"description":"Was kostet ein Privatjet in der Schweiz 2026? Preise pro Stunde, Streckenkosten Zürich, Genf, Basel, die besten Flughäfen und wie Sie günstig buchen."}<\/script>
+
+<h2>Warum die Schweiz ein Sonderfall ist</h2>
+<p>Die Schweiz ist für die Privatjet-Branche kein normales europäisches Land. Genf und Zürich haben historisch die höchste Privatjet-Dichte pro Einwohner in Europa, bedingt durch den Finanz- und Vermögensverwaltungssektor, die Uhren- und Pharmaindustrie, das Internationale Komitee vom Roten Kreuz und eine Vielzahl internationaler Organisationen. Dazu kommen Wintersportregionen wie Verbier, Courchevel und St. Moritz, die jeden Winter Tausende von Privatjet-Bewegungen erzeugen.</p>
+<p>Das Ergebnis: Das Angebot an Charteroperatoren ist groß, die Verfügbarkeit von Leerflügen hoch, und die FBO-Infrastruktur an den großen Airports ist auf Premium-Niveau. Für Charterbucher bedeutet das in der Regel bessere Preise und kürzere Vorlaufzeiten als in vielen anderen europäischen Ländern.</p>
+
+<h2>Kosten pro Flugstunde: Alle Kategorien im Überblick</h2>
+<p>Die folgende Übersicht zeigt die typischen Stundenpreise für Charter-Privatjets ab Schweizer Flughäfen im Jahr 2026. Die Preise verstehen sich als Gesamtpreis pro Stunde Flugzeit inklusive Crew und Betriebskosten, ohne Flughafengebühren und Überführungskosten.</p>
+<table>
+<thead><tr><th>Kategorie</th><th>Beispiele</th><th>Sitzplätze</th><th>Preis/Stunde (CHF)</th><th>Preis/Stunde (EUR)</th></tr></thead>
+<tbody>
+<tr><td>Very Light Jet</td><td>Cessna Citation M2, Embraer Phenom 100</td><td>4-5</td><td>3.200-4.200</td><td>2.900-3.800</td></tr>
+<tr><td>Light Jet</td><td>Learjet 75, Citation CJ3+, Phenom 300</td><td>6-8</td><td>4.500-6.000</td><td>4.100-5.500</td></tr>
+<tr><td>Midsize Jet</td><td>Hawker 800XP, Citation XLS, Learjet 60</td><td>7-9</td><td>5.500-7.800</td><td>5.000-7.100</td></tr>
+<tr><td>Super Midsize</td><td>Citation Sovereign, Challenger 350</td><td>8-10</td><td>7.500-9.500</td><td>6.800-8.700</td></tr>
+<tr><td>Large Jet</td><td>Challenger 605, Falcon 2000, Gulfstream G450</td><td>10-14</td><td>9.500-13.000</td><td>8.700-11.800</td></tr>
+<tr><td>Ultra Long Range</td><td>Gulfstream G650, Global 7500, Falcon 8X</td><td>12-16</td><td>13.000-18.000</td><td>11.800-16.500</td></tr>
+</tbody>
+</table>
+<p>Wichtiger Hinweis: Diese Stundenpreise sind Basispreise. Der Gesamtpreis für Ihren Flug hängt von der Strecke, den Flughafengebühren, einem möglichen Positionierungsflug und Catering ab. Für ein präzises Angebot empfiehlt sich eine direkte Anfrage bei <a href="https://www.villiersjets.com/?utm_source=privatjet-vergleich&utm_medium=referral" target="_blank" rel="nofollow noopener">Villiers Jets</a>.</p>
+
+<h2>Konkrete Streckenpreise ab Schweizer Flughäfen 2026</h2>
+<p>Stundenpreise helfen beim Einordnen, aber konkrete Streckenpreise sind praktikabler. Die folgende Tabelle zeigt typische Gesamtpreise für beliebte Verbindungen ab der Schweiz, inklusive aller regulären Gebühren.</p>
+<table>
+<thead><tr><th>Strecke</th><th>Flugzeit</th><th>Light Jet</th><th>Midsize Jet</th><th>Large Jet</th></tr></thead>
+<tbody>
+<tr><td>Zürich - Genf</td><td>45 Min.</td><td>3.800-5.200 EUR</td><td>5.500-7.000 EUR</td><td>8.500-11.000 EUR</td></tr>
+<tr><td>Zürich - London</td><td>2h 05 Min.</td><td>11.000-15.000 EUR</td><td>14.000-19.000 EUR</td><td>21.000-28.000 EUR</td></tr>
+<tr><td>Zürich - Paris</td><td>1h 20 Min.</td><td>7.500-10.000 EUR</td><td>9.500-13.000 EUR</td><td>14.000-19.000 EUR</td></tr>
+<tr><td>Genf - Nizza</td><td>40 Min.</td><td>3.500-4.800 EUR</td><td>5.000-6.500 EUR</td><td>7.500-10.000 EUR</td></tr>
+<tr><td>Genf - London</td><td>1h 55 Min.</td><td>10.500-14.000 EUR</td><td>13.500-18.000 EUR</td><td>20.000-26.000 EUR</td></tr>
+<tr><td>Basel - München</td><td>55 Min.</td><td>4.200-5.800 EUR</td><td>6.000-8.000 EUR</td><td>9.000-12.000 EUR</td></tr>
+<tr><td>Zürich - Frankfurt</td><td>50 Min.</td><td>4.000-5.500 EUR</td><td>5.800-7.500 EUR</td><td>8.500-11.500 EUR</td></tr>
+<tr><td>Zürich - Dubai</td><td>6h 30 Min.</td><td>nicht empfohlen</td><td>28.000-38.000 EUR</td><td>38.000-55.000 EUR</td></tr>
+<tr><td>Genf - New York</td><td>8h 10 Min.</td><td>nicht möglich</td><td>nicht empfohlen</td><td>65.000-95.000 EUR</td></tr>
+</tbody>
+</table>
+<p>Alle Preise gelten pro Flugzeug, nicht pro Person. Für weitere Streckendetails lesen Sie auch unseren <a href="/ratgeber/privatjet-genf-nizza-kosten-2026">Genf-Nizza-Guide</a> und den <a href="/ratgeber/privatjet-zuerich-london-kosten">Zürich-London-Kostenvergleich</a>.</p>
+
+<h2>Die wichtigsten Privatjet-Flughäfen der Schweiz</h2>
+<p>Die Schweiz hat fünf Hauptflughäfen für den Privatjet-Verkehr. Jeder hat seine eigene Stärke und eignet sich für unterschiedliche Reisezwecke.</p>
+
+<h3>Flughafen Zürich (ZRH, LSZH)</h3>
+<p>Zürich ist der größte Schweizer Flughafen und Hauptdrehscheibe für Privatjet-Charter in der Deutschschweiz. Das General Aviation Center Zürich (GACZ) bietet umfassende FBO-Services: VIP-Lounges, Zollabfertigung, Catering, Fuel Services und Hangarmöglichkeiten. Die Lage ist zentral für Zürich (14 km zur Innenstadt, 20-25 Minuten), aber auch für Ostschweiz, Vorarlberg und angrenzende Teile Deutschlands und Österreichs gut erreichbar.</p>
+<p>Vorteil Zürich: Als internationaler Großflughafen gibt es hier die breiteste Auswahl an Operatoren und damit mehr Wettbewerb im Preis. Nachteil: Die Betriebsstunden sind reguliert, Nachflüge nach 23:30 Uhr erfordern besondere Genehmigungen.</p>
+
+<h3>Flughafen Genf (GVA, LSGG)</h3>
+<p>Genf ist der wichtigste Privatjet-Hub der frankophonen Schweiz und für viele Europäer der Einstieg in die Alpenregion. Der Flughafen liegt direkt an der französischen Grenze und hat einen eigenen Privatjet-Terminal mit exzellenter FBO-Infrastruktur. Genf ist besonders in der Skisaison (Dezember bis März) stark frequentiert, wenn Reisende nach Verbier, Chamonix, Megève und Courchevel unterwegs sind.</p>
+<p>Für Wintersport-Charter ab Genf lesen Sie unseren detaillierten <a href="/ratgeber/privatjet-genf-nizza-kosten-2026">Genf-Guide</a>. Genf ist auch Ausgangspunkt für viele Mittelmeerflüge, besonders nach Nizza, Monaco und Ibiza im Sommer.</p>
+
+<h3>Flughafen Basel-Mulhouse (BSL/MLH, LFSB)</h3>
+<p>Der EuroAirport Basel-Mulhouse ist ein binationaler Flughafen, der sowohl Schweizer als auch französische Zollabfertigung bietet. Dieser Doppelstatus macht ihn flexibel für internationale Charterbewegungen. Basel ist besonders für Reisende aus dem Dreiländereck (Deutschland, Frankreich, Schweiz) attraktiv. Die Pharmaindustrie rund um Basel (Roche, Novartis) generiert regelmäßigen Geschäftsreisebedarf.</p>
+
+<h3>Flughafen Bern-Belp (BRN, LSZB)</h3>
+<p>Bern-Belp ist ein kleinerer Regionalflughafen südlich von Bern, ideal für direkte Verbindungen in die Bundeshauptstadt ohne Umweg über Zürich oder Genf. Die Infrastruktur ist kleiner, aber für Light Jets und Very Light Jets gut geeignet. Für Geschäftsreisende mit Ziel Berner Innenstadt oder Bundesverwaltung ist BRN die effizienteste Option.</p>
+
+<h3>Lugano Airport (LUG, LSZA)</h3>
+<p>Lugano ist der Hauptflughafen des Tessins und Tor zur italienischsprachigen Schweiz. Der Flughafen hat eine kurze Start- und Landebahn (1.415 Meter), was ihn auf kleinere Flugzeugtypen bis zum Light Jet beschränkt. Für Verbindungen nach Mailand (45 Minuten Fahrzeit von Lugano), in den Comer See oder nach Turin ist LUG eine sinnvolle Option, besonders wenn Zürich oder Genf wegen Wetter oder Verkehr keine Option ist.</p>
+
+<h2>Was kostet ein Privatjet ab Zürich? Konkrete Kalkulation</h2>
+<p>Viele Preisangaben im Netz zeigen nur den reinen Flugpreis. Die tatsächliche Rechnung sieht komplexer aus. Hier eine vollständige Beispielkalkulation für einen Light Jet von Zürich nach London (Farnborough, FAB):</p>
+<table>
+<thead><tr><th>Kostenposition</th><th>Betrag (EUR)</th></tr></thead>
+<tbody>
+<tr><td>Charterbasis: 2h 05 Min. Flugzeit x 4.800 EUR/h</td><td>10.040</td></tr>
+<tr><td>Positionierungsflug (falls Flugzeug nicht in ZRH stationiert)</td><td>0 - 2.500</td></tr>
+<tr><td>Flughafengebühren ZRH + FAB</td><td>600 - 950</td></tr>
+<tr><td>Catering (optional, Basic)</td><td>150 - 300</td></tr>
+<tr><td>Handling-Gebühren (FBO ZRH + FAB)</td><td>400 - 700</td></tr>
+<tr><td>Overflug-Gebühren</td><td>80 - 150</td></tr>
+<tr><td><strong>Gesamt (One-Way)</strong></td><td><strong>11.270 - 14.640</strong></td></tr>
+</tbody>
+</table>
+<p>Diese Kalkulation zeigt: Das Briefing "ab 11.000 Euro" stimmt, aber nur wenn kein Positionierungsflug anfällt. Immer nach dem All-in-Preis fragen, nicht nach dem Stundenpreis multipliziert mit Flugzeit.</p>
+
+<h2>Privatjet Schweiz mit Hund: Was Sie wissen müssen</h2>
+<p>Die Schweiz ist eines der haustierfreundlichsten Länder Europas, und Privatjets sind generell haustierfreundlicher als Linienflüge. Auf einem Linienflug muss ein großer Hund im Frachtraum reisen. Auf einem Privatjet sitzt er neben Ihnen im Kabinensessel.</p>
+<p>Für Haustiere auf dem Privatjet in die oder aus der Schweiz gelten folgende Regeln:</p>
+<ul>
+<li><strong>EU-Heimtierausweis:</strong> Für Fahrten zwischen der Schweiz und EU-Ländern benötigt Ihr Hund oder Ihre Katze einen EU-Heimtierausweis mit gültigem Tollwutimpfschutz.</li>
+<li><strong>Mikrochip:</strong> Das Tier muss mikrochipmarkiert sein (ISO 11784/11785).</li>
+<li><strong>Drittländer (UK, USA):</strong> Für Großbritannien und die USA gelten verschärfte Einreisebedingungen. Für UK benötigen Hunde zusätzlich einen Tapeworm-Treatment-Nachweis. Die Vorlaufzeit für die UK-Einreise mit Tier beträgt mindestens 10 Tage. Planen Sie bei UK-Haustierreisen im Privatjet mindestens 4 Wochen Vorlauf ein.</li>
+<li><strong>Operatorgenehmigung:</strong> Nicht alle Operatoren nehmen Haustiere an Bord. Fragen Sie bei der Buchung explizit nach. Die meisten Schweizer Operatoren genehmigen Hunde unter 25 kg problemlos.</li>
+</ul>
+<p>Für alle Details zur Haustierreise im Privatjet lesen Sie unseren <a href="/ratgeber/privatjet-haustiere">vollständigen Haustier-Guide</a>.</p>
+
+<h2>Privatjet Schweiz mieten mit Pilot: Was ist inbegriffen?</h2>
+<p>Ein Privatjet wird immer mit Pilot gemietet. Das klingt selbstverständlich, aber es gibt tatsächlich eine Verwechslung, die regelmäßig vorkommt: der Unterschied zwischen Charter und Aircraft Rental.</p>
+<p>Beim Charter buchen Sie ein komplettes Paket: Flugzeug, Crew, Betrieb, Versicherung. Der Preis, den Sie zahlen, deckt alles ab. Sie müssen keinen eigenen Pilotenschein haben, Sie sind Passagier.</p>
+<p>Beim Aircraft Rental (Dry Lease) mieten Sie nur das Flugzeug ohne Crew. Das ist nur für Piloten mit gültigem Lizenz und Type Rating relevant, nicht für Privatpersonen oder Geschäftsreisende ohne Flugschein.</p>
+<p>Für 99 Prozent der Leser dieser Seite ist Charter der richtige Weg. Der Pilot ist im Preis inbegriffen. Auf Schweizer Operationen sind zwei Piloten Pflicht für alle Jet-Kategorien. Das erhöht die Sicherheit und ist im Charterpreis bereits einkalkuliert.</p>
+
+<h2>Saisonale Preisschwankungen in der Schweiz</h2>
+<p>Die Privatjet-Preise in der Schweiz schwanken saisonal stärker als in den meisten anderen europäischen Ländern, bedingt durch die ausgeprägte Wintersportsaison:</p>
+<ul>
+<li><strong>Hochsaison Winter (Dezember-März):</strong> Rund Weihnachten und Silvester sowie in den Schulferienwochen Januar und Februar sind Preise bis zu 25 Prozent über dem Jahresdurchschnitt möglich. Besonders Verbindungen ab Genf in Richtung Bergregionen und Côte d'Azur sind betroffen. Buchung 6-8 Wochen im Voraus empfohlen.</li>
+<li><strong>Hochsaison Sommer (Juli-August):</strong> Ibiza, Mykonos und Kroatien-Verbindungen ziehen an. Preisaufschlag 10-15 Prozent. 4-6 Wochen Vorlauf empfohlen.</li>
+<li><strong>Günstigste Monate:</strong> März bis Mai (außerhalb Skiferien) und Oktober bis November bieten die besten Preise und kürzesten Buchungsvorlaufzeiten.</li>
+</ul>
+
+<h2>Leerflüge (Empty Legs) in der Schweiz</h2>
+<p>Die hohe Privatjet-Dichte in der Schweiz bedeutet auch: Es gibt häufig Leerflüge. Ein Empty Leg entsteht, wenn ein Flugzeug nach einer Charterbuchung leer zurückfliegen muss, um den nächsten Kunden abzuholen. Operatoren bieten diese Flüge zu 40 bis 70 Prozent Rabatt an.</p>
+<p>Typische Empty-Leg-Verbindungen in der Schweiz:</p>
+<ul>
+<li>Genf nach London (häufig, besonders außerhalb der Skisaison)</li>
+<li>Zürich nach Paris und zurück</li>
+<li>Genf nach Nizza oder Monaco (sehr häufig im Sommer)</li>
+<li>Zürich nach Wien oder München</li>
+<li>Genf nach Ibiza (Sommer, Frequenz hoch)</li>
+</ul>
+<p>Aktuelle Leerflüge ab Schweizer Flughäfen finden Sie bei <a href="https://www.villiersjets.com/?utm_source=privatjet-vergleich&utm_medium=referral" target="_blank" rel="nofollow noopener">Villiers Jets</a>. Unsere Strategie für Leerflüge erklärt der <a href="/ratgeber/leerflug-guenstig-privatjet">Leerflug-Guide</a>.</p>
+
+<h2>Vergleich: Privatjet vs. Business Class ab der Schweiz</h2>
+<p>Business Class von Swiss Air Lines kostet für Zürich-London etwa 1.200 bis 2.800 Euro pro Person, für Zürich-New York 4.000 bis 8.000 Euro. Ab einer Gruppe von 4-5 Personen auf einer mittellangen Strecke ist der Preisunterschied gering. Für eine Gruppe von 6 Personen in Business Class Zürich-London zahlen Sie 7.200 bis 16.800 Euro, während ein Light Jet dieselbe Strecke für 11.000 bis 15.000 Euro fliegt.</p>
+<p>Der Privatjet ist in diesem Fall nur 30-50 Prozent teurer, bietet aber: keine Flughafenwartezeit, direkter Check-in in 15 Minuten, Ankunft an einem Privatjet-Terminal näher am Ziel und volle Privatsphäre für Meetings oder vertrauliche Gespräche im Flieger. Unser <a href="/ratgeber/privatjet-vs-business-class">Business-Class-Vergleich</a> enthält weitere Szenarien.</p>
+
+<h2>Shared Charter: Privatjet teilen in der Schweiz</h2>
+<p>Shared Charter (auch Semi-Private oder Charter-Sharing) ist ein wachsendes Segment, das besonders in der Schweiz etabliert ist. Dabei teilen sich mehrere Reisende ein Flugzeug und damit die Kosten. Der Unterschied zu einem Linienflug: Das Flugzeug ist kleiner, der Prozess diskreter, die Abfertigung schneller.</p>
+<p>Kosten für Shared Charter ab Schweiz: Je nach Strecke zahlen Sie 600 bis 2.500 Euro pro Person und Strecke. Für Reisende, die alleine oder zu zweit reisen, ist das eine attraktive Option. Mehr Details in unserem <a href="/ratgeber/privatjet-shared-charter">Shared-Charter-Guide</a>.</p>
+
+<h2>Buchungsprozess: So mieten Sie einen Privatjet in der Schweiz</h2>
+<ol>
+<li><strong>Anfrage stellen:</strong> Sie nennen Abflugort, Ziel, Datum, Uhrzeit und Passagierzahl. Online-Plattformen geben Ihnen innerhalb von Minuten erste Preisindikationen.</li>
+<li><strong>Angebot prüfen:</strong> Das Angebot enthält Flugzeugtyp, Stundenpreis, Gesamtpreis, Flughafengebühren und Zahlungsbedingungen. Vergleichen Sie mindestens 2-3 Angebote.</li>
+<li><strong>Buchung bestätigen:</strong> Nach Annahme des Angebots zahlen Sie eine Anzahlung (meist 50 bis 100 Prozent des Charterpreises im Voraus).</li>
+<li><strong>Passagierdaten übermitteln:</strong> Reisepassdaten aller Passagiere werden für Zoll- und Grenzabwicklung benötigt.</li>
+<li><strong>Abflug:</strong> Am Tag des Flugs erscheinen Sie 15 bis 20 Minuten vor Abflugzeit am GAT oder FBO. Keine Sicherheitsschlange, kein langer Check-in.</li>
+</ol>
+<p>Starten Sie Ihren Preisvergleich bei <a href="https://www.villiersjets.com/?utm_source=privatjet-vergleich&utm_medium=referral" target="_blank" rel="nofollow noopener">Villiers Jets</a> und erhalten Sie innerhalb von Minuten erste Angebote für Ihren Schweiz-Flug.</p>
+
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Was kostet ein Privatjet in der Schweiz pro Stunde?","acceptedAnswer":{"@type":"Answer","text":"Ein Privatjet in der Schweiz kostet 2026 zwischen 2.900 und 16.500 Euro pro Flugstunde, je nach Flugzeugkategorie. Very Light Jets kosten 2.900 bis 3.800 Euro pro Stunde, Light Jets 4.100 bis 5.500 Euro, Midsize Jets 5.000 bis 7.100 Euro, Large Jets 8.700 bis 11.800 Euro und Ultra Long Range Jets 11.800 bis 16.500 Euro."}},{"@type":"Question","name":"Was kostet ein Privatjet von Zürich nach London?","acceptedAnswer":{"@type":"Answer","text":"Ein Light Jet von Zürich nach London kostet 2026 zwischen 11.000 und 15.000 Euro one-way. Ein Midsize Jet liegt bei 14.000 bis 19.000 Euro, ein Large Jet bei 21.000 bis 28.000 Euro. Alle Preise gelten pro Flugzeug, nicht pro Person. Die Flugzeit beträgt ca. 2 Stunden 5 Minuten."}},{"@type":"Question","name":"Welche Flughäfen nutzen Privatjets in der Schweiz?","acceptedAnswer":{"@type":"Answer","text":"Die wichtigsten Privatjet-Flughäfen der Schweiz sind Zürich (ZRH), Genf (GVA), Basel-Mulhouse (BSL) und Bern-Belp (BRN). Genf und Zürich sind die meistfrequentierten und haben die beste FBO-Infrastruktur. Lugano (LUG) eignet sich für kleinere Jets in den Tessiner Raum."}},{"@type":"Question","name":"Darf ich meinen Hund im Privatjet in die Schweiz mitnehmen?","acceptedAnswer":{"@type":"Answer","text":"Ja, die meisten Schweizer Privatjet-Operatoren erlauben Hunde und Katzen an Bord. Für Reisen zwischen der Schweiz und EU-Ländern benötigt Ihr Tier einen EU-Heimtierausweis mit gültigem Tollwutimpfschutz und einen Mikrochip (ISO 11784/11785). Für Reisen nach Großbritannien sind zusätzliche Voraussetzungen und mindestens 10 Tage Vorlauf erforderlich."}},{"@type":"Question","name":"Ist der Pilot im Privatjet-Preis inbegriffen?","acceptedAnswer":{"@type":"Answer","text":"Ja, beim Charter eines Privatjets sind immer zwei Piloten inklusive. Auf Schweizer Operationen gilt dies für alle Jet-Kategorien. Sie mieten beim Charter immer das vollständige Paket aus Flugzeug, Crew, Betrieb und Versicherung. Kein Flugschein erforderlich."}},{"@type":"Question","name":"Wann ist ein Privatjet ab der Schweiz günstiger als Business Class?","acceptedAnswer":{"@type":"Answer","text":"Ab einer Gruppe von 4-5 Personen auf mittellangen Strecken wie Zürich-London ist der Preisunterschied gering. Für 6 Personen in Business Class kostet Zürich-London 7.200 bis 16.800 Euro, während ein Light Jet für dieselbe Strecke 11.000 bis 15.000 Euro kostet. Hinzu kommen Zeitersparnis und Privatsphäre."}},{"@type":"Question","name":"Gibt es Leerflüge ab Schweizer Flughäfen?","acceptedAnswer":{"@type":"Answer","text":"Ja, die hohe Privatjet-Dichte in der Schweiz sorgt für ein gutes Angebot an Empty Legs. Besonders häufig sind Leerflüge auf den Routen Genf-London, Genf-Nizza, Genf-Monaco und Zürich-Paris. Empty Legs kosten 40 bis 70 Prozent weniger als ein regulärer Charter, haben aber feste Termine und Routen."}}]}<\/script>`,
+  },
+
 ];
 
 export const articleCategories: string[] = [

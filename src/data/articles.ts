@@ -15315,6 +15315,59 @@ export const articleCategories: string[] = [
 </div>
 </div>
 </div>`
+  },
+  {
+    slug: "privatjet-kroatien-kosten",
+    title: "Privatjet nach Kroatien mieten: Kosten, Strecken und was du wissen musst",
+    description: "Privatjet nach Kroatien buchen 2026: Was kostet ein Charterflug nach Dubrovnik, Split oder Zadar? Alle wichtigen Infos zu Preisen, Flugzeit und Buchung.",
+    category: "Ratgeber",
+    readingMinutes: 7,
+    publishedDate: "2026-06-25",
+    content: `<div class="article-content">
+
+<p><strong>KROATIEN GEHOERT zu den begehrtesten Reisezielen im Mittelmeer</strong>, und wer auf Zeit angewiesen ist oder einfach nicht in der Schlange am Flughafen stehen will, bucht einen Privatjet. Die Adriakueste bietet mehrere gut erschlossene Flughafen, kurze Transferzeiten und eine Infrastruktur, die auch Charter-Passagiere problemlos abwickelt.</p>
+
+<h2>Was kostet ein Privatjet nach Kroatien?</h2>
+<p>Ein Charterflug von Frankfurt nach Dubrovnik dauert rund 1 Stunde 50 Minuten. Je nach Flugzeugtyp liegt der Preis fuer die gesamte Maschine zwischen 5.000 und 15.000 Euro pro Strecke. Bei einer Gruppe von vier bis acht Personen ergibt das einen Pro-Kopf-Preis, der mit Business-Class-Tarifen vergleichbar ist, bei deutlich weniger Aufwand.</p>
+
+<h2>Die wichtigsten Zielflughafen in Kroatien</h2>
+<p>Dubrovnik (DBV) ist der bekannteste und meist gebuchte Flughafen an der dalmatinischen Kueste. Split (SPU) ist die beste Wahl fuer die Inseln Hvar, Brac und Vis. Zadar (ZAD) bedient die Norddalmatien-Region und den Kornati-Nationalpark. Pula (PUY) ist der naechstgelegene Flughafen fuer die istranische Weinregion. Kleinere Privatflugplaetze gibt es auch auf den Inseln selbst, etwa auf Brac und Losinj.</p>
+
+<h2>Welche Flugzeugtypen eignen sich?</h2>
+<p>Fuer die meisten deutschen Abflugorte reicht ein Leichtflugzeug wie die Cessna Citation CJ3 oder eine Embraer Phenom 300. Wer groessere Gruppen transportiert oder maximalen Komfort wuenscht, waehlt einen Midsize Jet wie die Hawker 800 oder Learjet 60. Auf Strecken unter 1.500 km sind Leichtjets fast immer die kostenguenstigste Option.</p>
+
+<h2>Buchung leicht gemacht</h2>
+<p>Ueber <a href="${villiers_url}" target="_blank" rel="noopener">Villiers Jets</a> kannst du Angebote fuer alle kroatischen Ziele anfordern, Preise vergleichen und direkt buchen. Das Buchungssystem zeigt Verfuegbarkeit in Echtzeit und erlaubt auch kurzfristige Buchungen bis 24 Stunden vor Abflug.</p>
+
+<h2>Tipps fuer Kroatien-Charter</h2>
+<p>Die Sommersaison Juni bis August ist stark nachgefragt. Wer in diesem Zeitraum fliegen moechte, bucht am besten 4 bis 6 Wochen im Voraus. Leerflug-Angebote (Empty Legs) sind auf der Adriastrecke im Sommer haeufig verfuegbar und koennen bis zu 70 Prozent guenstiger sein als regulaere Charterpreise. Beachte, dass Kroatien zwar EU-Mitglied ist, aber keine Eurozone-Grossstadt darstellt.</p>
+
+<h2>FAQ: Privatjet Kroatien</h2>
+
+<h3>Was kostet ein Privatjet von Muenchen nach Dubrovnik?</h3>
+<p>Fuer eine Maschine mit 6 bis 8 Sitzplaetzen rechne mit 6.000 bis 10.000 Euro pro Strecke. Die Flugzeit betraegt circa 1 Stunde 40 Minuten.</p>
+
+<h3>Gibt es Privatflugplaetze auf kroatischen Inseln?</h3>
+<p>Ja. Brac (BWK) hat einen funktionsfaehigen Flughafen fuer Kleinflugzeuge. Auf Losinj (LSZ) koennen leichte Propellermaschinen und kleinere Jets landen.</p>
+
+<h3>Kann ich einen Privatjet spontan nach Kroatien buchen?</h3>
+<p>Ja, Buchungen sind bis 24 Stunden vor Abflug moeglich. In der Hochsaison koennen Verfuegbarkeiten jedoch knapp werden.</p>
+
+<h3>Welcher Flughafen ist der beste fuer die Inseln Hvar und Brac?</h3>
+<p>Split (SPU) ist der beste Ausgangspunkt. Von dort gibt es Faehren und Schnellboote auf alle groesseren Inseln. Die Fahrt nach Hvar dauert rund 1 Stunde.</p>
+
+<h3>Wie lange dauert ein Privatflug von Berlin nach Kroatien?</h3>
+<p>Von Berlin Tegel/BER nach Dubrovnik circa 2 Stunden. Nach Split rund 1 Stunde 50 Minuten.</p>
+
+<h3>Was ist ein Empty Leg und wie buche ich einen?</h3>
+<p>Ein Empty Leg ist ein Leerflug, bei dem ein bereits gebuchtes Flugzeug ohne Passagiere zurueckfliegen wuerde. Anbieter wie <a href="${villiers_url}" target="_blank" rel="noopener">Villiers Jets</a> listen diese Fluege mit starken Rabatten an.</p>
+
+<h3>Brauche ich ein Visum fuer Kroatien als EU-Buerger?</h3>
+<p>Nein. Als EU-Buerger reist du nach Kroatien ohne Visum ein. Der Reisepass oder Personalausweis genuegt.</p>
+
+<p>Mehr lesen: <a href="/ratgeber/privatjet-mallorca">Privatjet nach Mallorca</a>, <a href="/ratgeber/privatjet-barcelona-kosten">Privatjet nach Barcelona</a>, <a href="/ratgeber/privatjet-dubai-mieten">Privatjet nach Dubai</a>, <a href="/ratgeber/privatjet-paris-mieten-kosten">Privatjet nach Paris</a></p>
+
+</div>`
   }
 ];
 

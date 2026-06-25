@@ -14998,6 +14998,132 @@ export const articleCategories: string[] = [
 </div>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Was kostet ein Privatjet von Frankfurt nach Dubai?","acceptedAnswer":{"@type":"Answer","text":"Ein Large Jet von Frankfurt nach Dubai kostet 2026 zwischen 28.000 und 40.000 Euro one-way. Ein Heavy Jet liegt bei 40.000 bis 55.000 Euro. Die Preise gelten pro Flugzeug, nicht pro Person, und verstehen sich ohne Mehrwertsteuer."}},{"@type":"Question","name":"Wie lange dauert der Flug von Deutschland nach Dubai im Privatjet?","acceptedAnswer":{"@type":"Answer","text":"Die Flugdauer von Frankfurt oder München nach Dubai beträgt im Privatjet (Large Jet) ca. 5 Stunden 45 Minuten bis 6 Stunden 10 Minuten nonstop. Kleinere Jets benötigen einen Tankstopp, was die Gesamtreisezeit auf 7 bis 8 Stunden erhöht."}},{"@type":"Question","name":"Welcher Flugzeugtyp eignet sich für den Privatjet nach Dubai?","acceptedAnswer":{"@type":"Answer","text":"Für nonstop-Flüge nach Dubai eignen sich Large Jets (Challenger 604, Falcon 900) für Gruppen bis 12 Personen, Heavy Jets (Gulfstream G450, Global 5000) für bis zu 14 Personen und Ultra Long Range Jets (Gulfstream G650) für bis zu 16 Personen in maximalem Komfort."}},{"@type":"Question","name":"Braucht man ein Visum für Dubai mit Privatjet?","acceptedAnswer":{"@type":"Answer","text":"Nein. Deutsche, österreichische und Schweizer Staatsbürger reisen visumfrei in die Vereinigten Arabischen Emirate ein und erhalten bei Ankunft einen kostenlosen Stempel für 30 Tage Aufenthalt."}},{"@type":"Question","name":"Welcher Flughafen in Dubai ist besser für Privatjets?","acceptedAnswer":{"@type":"Answer","text":"Dubai International (DXB) liegt näher an Downtown Dubai (20-30 Minuten). Al Maktoum International (DWC) ist weniger frequentiert. Für erstmalige Besucher empfiehlt sich DXB."}},{"@type":"Question","name":"Gibt es Leerflüge von Deutschland nach Dubai?","acceptedAnswer":{"@type":"Answer","text":"Ja. Dubai ist eine der meistgeflogenen Privatjet-Destinationen weltweit, was ein hohes Aufkommen an Leerflügen erzeugt. Typische Rabatte: 40 bis 60 Prozent gegenüber dem regulären Charterpreis."}},{"@type":"Question","name":"Ab wie vielen Personen lohnt sich ein Privatjet nach Dubai gegenüber Business Class?","acceptedAnswer":{"@type":"Answer","text":"Ab etwa 6 bis 8 Personen ist ein Large Jet nach Dubai preislich mit Business Class vergleichbar. Ab 10 Personen ist der Privatjet oft günstiger als Business Class."}}]}<\/script>`,
   },
+  {
+    slug: "privatjet-mallorca",
+    title: "Privatjet Mallorca Charter: Kosten, Flugzeit und Buchung 2026",
+    description: "Privatjet nach Mallorca chartern 2026: Flugzeit ab 1h 40min, Kosten ab 8.500 Euro (Light Jet), beste Abflugorte und Empty-Leg-Tipps.",
+    category: "Strecken",
+    readingMinutes: 9,
+    publishedDate: "2026-06-25",
+    content: `<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Privatjet Mallorca Charter: Kosten, Flugzeit und Buchung 2026","datePublished":"2026-06-25","author":{"@type":"Organization","name":"Privatjet-Vergleich"},"description":"Privatjet nach Mallorca chartern 2026: Kosten ab 8.500 Euro, Flugzeit ab 1h 40min aus Deutschland. Alle Abflugorte, Flughaefen und Buchungstipps.","url":"https://www.privatjet-vergleich.de/ratgeber/privatjet-mallorca","inLanguage":"de-DE"}</script>
+<p class="disclosure"><em>Hinweis: Dieser Artikel enthält Partnerlinks zu Villiers Jets. Bei einer Buchung über diese Links erhalten wir eine Provision ohne zusätzliche Kosten für Sie.</em></p>
+<div style="background:#f3f0e6;border-left:4px solid #c9a84c;padding:16px 20px;margin-bottom:24px;border-radius:8px;">
+<strong>Kurzfazit:</strong> Ein Privatjet nach Mallorca kostet 2026 zwischen 8.500 Euro (Light Jet ab München) und 28.000 Euro (Heavy Jet ab Hamburg). Die Flugzeit beträgt je nach Abflugort zwischen 1 Stunde 40 Minuten (München) und 2 Stunden 45 Minuten (Hamburg). Der Flughafen Palma de Mallorca (PMI) hat ein eigenes General-Aviation-Terminal mit FBO-Infrastruktur. In der Hochsaison (Juni bis September) sind Empty Legs häufig und ermöglichen Einsparungen von 30 bis 50 Prozent. Buchung über <a href="https://www.villiersjets.com/?ref=privatjet-vergleich" target="_blank" rel="nofollow noopener">Villiers Jets</a> dauert im Schnitt 24 bis 48 Stunden.
+</div>
+<h2>Mallorca als Privatjet-Destination</h2>
+<p>Mallorca ist die meistbesuchte Mittelmeerinsel Europas und eines der Top-Ziele im europäischen Privatjet-Charter. Jährlich landen rund 500.000 Privatjet-Bewegungen auf balearischen Flughäfen, der Löwenanteil davon in Palma de Mallorca. Die Nachfrage kommt vor allem aus Deutschland, Österreich, der Schweiz und Großbritannien: Unternehmerfamilien, Vorstände und Selbstständige, die ein Ferienhaus, eine Yacht oder ein Wochenendprogramm auf der Insel haben.</p>
+<p>Was Mallorca von anderen Ferienzielen unterscheidet, ist die Kombination aus Nähe und Infrastruktur. Von München ist die Insel in knapp zwei Stunden Flugzeit erreichbar, von Frankfurt in rund zwei Stunden. Der Flughafen Palma ist groß genug für alle Jet-Klassen und hat ein dediziertes FBO-Terminal für die Geschäftsluftfahrt. Gleichzeitig bleibt Mallorca ein Freizeitziel, das keine weitläufige Infrastruktur wie Dubai oder New York verlangt. Wer freitagabends landet, ist samstags auf dem Boot.</p>
+<p>Die Privatjet-Route Deutschland nach Mallorca ist zudem bekannt für hohe Empty-Leg-Verfügbarkeit. Da sehr viele Maschinen freitags in eine Richtung und montags in die andere Richtung fliegen, entstehen regelmäßig günstige Leerflug-Angebote. Wer flexibel buchen kann, profitiert besonders. Mehr dazu weiter unten im Abschnitt zu Empty Legs.</p>
+<h2>Flugzeit von Deutschland nach Mallorca</h2>
+<p>Die Flugzeit variiert je nach Abflugort stark. Die folgende Tabelle zeigt realistische Werte für 2026 inklusive typischer Jet-Empfehlung und Preisrahmen:</p>
+<table>
+<thead><tr><th>Abflugort</th><th>Flugzeit (ca.)</th><th>Jet-Typ</th><th>Preis ca. (one-way)</th></tr></thead>
+<tbody>
+<tr><td>München (EDMO / MUC)</td><td>1h 40min</td><td>Light Jet</td><td>8.500 bis 12.500 Euro</td></tr>
+<tr><td>Frankfurt (FRA / HHN)</td><td>2h 00min</td><td>Light Jet</td><td>9.500 bis 14.000 Euro</td></tr>
+<tr><td>Zürich (ZRH / LSZH)</td><td>1h 50min</td><td>Light Jet</td><td>9.000 bis 13.500 Euro</td></tr>
+<tr><td>Düsseldorf (DUS / EDLN)</td><td>2h 15min</td><td>Midsize Jet</td><td>14.000 bis 19.000 Euro</td></tr>
+<tr><td>Berlin (BER / EDDB)</td><td>2h 30min</td><td>Midsize Jet</td><td>15.000 bis 21.000 Euro</td></tr>
+<tr><td>Hamburg (HAM / EDHI)</td><td>2h 45min</td><td>Midsize Jet</td><td>17.000 bis 24.000 Euro</td></tr>
+<tr><td>Wien (VIE / LOWW)</td><td>2h 00min</td><td>Light Jet</td><td>10.000 bis 14.500 Euro</td></tr>
+</tbody>
+</table>
+<p>Die Flugzeiten sind reine Flugzeiten ohne Rollphase, Vorlaufzeit am FBO oder Transfer. Für die Gesamtreisezeit von Haustür zu Strandliege rechnen Sie ab München mit rund 3 bis 3,5 Stunden, ab Hamburg mit 4 bis 4,5 Stunden. Zum Vergleich: Der Linienflug inklusive Anfahrt zum Großflughafen, Security und Transfer am Ziel dauert ab München typisch 4,5 bis 5,5 Stunden. Der Zeitgewinn des Privatjets liegt auf dieser Route bei 1 bis 2 Stunden pro Strecke.</p>
+<p>Auf der Strecke München nach Mallorca ist ein Light Jet die beste Wahl. Die Distanz beträgt knapp 1.400 Kilometer Luftlinie, problemlos ohne Tankstopp für Phenom 300, Citation CJ3 oder ähnliche Typen. Für längere Strecken ab Hamburg oder Berlin empfiehlt sich ein Midsize Jet wie die Citation XLS+ oder Hawker 900.</p>
+<h2>Flughäfen auf Mallorca für Privatjets</h2>
+<p>Auf Mallorca gibt es zwei relevante Optionen für die Privatluftfahrt:</p>
+<p><strong>Flughafen Palma de Mallorca (LEPA / PMI):</strong> Der internationale Flughafen der Insel und die Hauptoption für Privatjet-Charter. Der Flughafen hat ein eigenes General-Aviation-Terminal auf dem östlichen Teil des Geländes, separat vom kommerziellen Linienflugbetrieb. FBO-Infrastruktur ist vorhanden: Lounges, schnelle Zollabfertigung (innereuropäisch ca. 10 bis 15 Minuten), Catering-Service, Tankservice und Hangar-Kapazitäten. In der Hochsaison (Juli und August) ist der Slot-Bedarf hoch. Buchung 48 bis 72 Stunden im Voraus empfohlen, um bevorzugte Abflug- und Ankunftszeiten zu sichern.</p>
+<p>PMI ist zentral gelegen: Das Stadtzentrum von Palma erreichen Sie in 10 bis 15 Minuten per Taxi. Die bekanntesten Resorts im Südwesten der Insel (Port d'Andratx, Santa Ponsa, Portals Nous) sind in 20 bis 35 Minuten erreichbar. Son Amar im Norden benötigt ca. 25 bis 30 Minuten. Wer ein Feriendomizil im Nordosten hat (Pollensa, Alcudia), rechnet mit 40 bis 50 Minuten Transfer.</p>
+<p><strong>Flugplatz Son Bonet (LESB):</strong> Ein kleinerer Flugplatz etwa 8 Kilometer nördlich von Palma. Son Bonet akzeptiert leichte Propeller- und Turboprop-Maschinen sowie sehr kleine Jets. Für Charter-Jets ab Midsize Größe ist Son Bonet in der Regel nicht geeignet. Die Infrastruktur ist für Trainingsflüge und sehr kleine Privatflugzeuge ausgelegt, nicht für kommerziellen Charter mit Catering und FBO-Service. In der Praxis landen alle relevanten Charter-Buchungen in Palma (PMI).</p>
+<p>Empfehlung: Buchen Sie immer PMI. Der FBO-Service dort ist auf hohem Niveau und die Zollabfertigung für EU-interne Flüge aus Deutschland, Österreich oder der Schweiz ist unkompliziert. Für innereuropäische Flüge (Schengen-Raum) entfällt die Zollkontrolle weitgehend; Grenzkontrolle findet durch Passkontrolle am FBO statt, dauert meist unter 10 Minuten.</p>
+<h2>Kosten: Was kostet ein Privatjet nach Mallorca?</h2>
+<p>Die Gesamtkosten für einen Privatjet-Charter nach Mallorca setzen sich aus mehreren Komponenten zusammen. Der Flugpreis, den ein Broker wie <a href="https://www.villiersjets.com/?ref=privatjet-vergleich" target="_blank" rel="nofollow noopener">Villiers Jets</a> kommuniziert, ist in der Regel ein All-in-Preis ohne versteckte Aufschläge. Dennoch lohnt es sich, die Einzelkomponenten zu kennen:</p>
+<p><strong>Flugpreis (Hauptkostenpunkt):</strong> Je nach Jet-Klasse, Abflugort und Saison. Light Jet ab München: 8.500 bis 13.000 Euro. Midsize Jet ab Frankfurt: 14.000 bis 20.000 Euro. Für Tagesreisen (Hin- und Rückflug am selben oder am nächsten Tag) verdoppeln sich die Kosten, außer Sie nutzen einen Leerflug für eine der Strecken.</p>
+<p><strong>Lande- und Handlinggebühren:</strong> Am Flughafen Palma (PMI) liegen die Handling-Gebühren für einen Light Jet bei rund 800 bis 1.500 Euro pro Landung. Bei Tagesreisen mit Rückflug am selben Tag fallen zwei Landungen an. Diese Kosten sind oft im Gesamtpreis des Brokers enthalten, sollten aber aktiv abgefragt werden.</p>
+<p><strong>Crew-Übernachtung:</strong> Wenn Sie mehrere Tage auf Mallorca bleiben und die Crew wartet, fallen Übernachtungskosten an. Typisch sind 1.200 bis 1.800 Euro pro Nacht für zwei Piloten. Bei einem Wochenendaufenthalt (Freitag bis Sonntag) bedeutet das zwei Crew-Nächte: 2.400 bis 3.600 Euro zusätzlich. Viele Buchende entscheiden sich deshalb für einen Hin- und einen Rückflug als separate Einzelbuchungen, statt die Crew die gesamte Zeit warten zu lassen.</p>
+<p><strong>Catering:</strong> Optional. Standardcatering (Snacks, Getränke) kostet 50 bis 150 Euro pro Person. Premium-Catering (Menü an Bord) liegt bei 200 bis 400 Euro pro Person. Auf einer Strecke von unter zwei Stunden verzichten die meisten Reisenden auf warme Mahlzeiten, aber hochwertige Getränke und leichte Snacks sind Standard.</p>
+<p><strong>Repositionierungsflug:</strong> Wenn der gebuchte Jet nicht am Abflugort stationiert ist, entstehen Repositionierungs-Kosten. Bei der Route Deutschland nach Mallorca sind Repositionierungs-Aufwände meist gering, da München, Frankfurt und Zürich starke Basis-Standorte für europäische Charter-Operatoren sind.</p>
+<p>Gesamtbeispiel für eine Gruppe von vier Personen, Freitag München nach Mallorca, Montag zurück:</p>
+<ul>
+<li>Hinflug Light Jet (München PMI): ca. 10.000 Euro</li>
+<li>Crew-Übernachtung 2 Nächte: ca. 3.000 Euro</li>
+<li>Rückflug Light Jet (PMI München): ca. 10.000 Euro</li>
+<li>Catering (einfach, beide Flüge): ca. 500 Euro</li>
+<li>Gesamt: ca. 23.500 Euro, also 5.875 Euro pro Person</li>
+</ul>
+<p>Business Class auf der gleichen Strecke kostet pro Person 400 bis 700 Euro one-way. Der Privatjet kostet pro Person etwa 8 bis 10 Mal so viel. Der Gegenwert liegt im Zeitgewinn, der Privatsphäre und der Flexibilität, nicht im reinen Transport.</p>
+<h2>Empty Legs und Rabatte</h2>
+<p>Mallorca ist eine der besten Destinationen in Europa für Empty-Leg-Buchungen. Der Grund liegt im Reisemuster: Viele Privatjets fliegen freitagsnachmittags und samstags von Deutschland nach Palma und kehren sonntagabends oder montagmorgens zurück. Das schafft strukturell zwei Leerflug-Situationen:</p>
+<ul>
+<li>Der Rückflug einer Freitag-Buchung aus Deutschland (Samstag oder Sonntag, Palma nach Deutschland) ist oft als Empty Leg verfügbar.</li>
+<li>Der Hinflug einer Montag-Buchung aus Mallorca (Sonntag, Deutschland nach Palma, Repositionierung) ist ebenfalls oft ein Leerflug.</li>
+</ul>
+<p>Durchschnittliche Ersparnis bei Empty Legs: 35 bis 55 Prozent gegenüber dem regulären Charterpreis. Ein Light Jet von München nach Mallorca, der regulär 10.000 Euro kostet, kann als Empty Leg für 5.500 bis 6.500 Euro buchbar sein. Der Nachteil: Abflugzeit und -datum stehen fest, Umbuchungen sind meist nicht möglich, und die Anfragen müssen kurzfristig erfolgen (oft 24 bis 72 Stunden vor Abflug).</p>
+<p>Empty-Leg-Listen pflegt <a href="https://www.villiersjets.com/?ref=privatjet-vergleich" target="_blank" rel="nofollow noopener">Villiers Jets</a> in Echtzeit. Sie können direkt anfragen oder eine Alert-Funktion für Ihre gewünschte Strecke einrichten, sodass Sie bei Verfügbarkeit sofort benachrichtigt werden. Wer flexibel ist und nicht auf einen bestimmten Abflugtag festgelegt ist, kann auf dieser Route regelmäßig von Empty-Leg-Preisen profitieren.</p>
+<p>Ein weiterer Weg zur Kostenreduktion: Gruppenreisen. Teilen Sie die Kosten auf sechs oder mehr Personen auf, liegt der Pro-Kopf-Preis eines Light Jets ab München bei ca. 1.700 bis 2.200 Euro. Das ist höher als ein Linienflug-Ticket in der Economy-Klasse, aber die Zeitersparnis, der Komfort und die Möglichkeit, direkt ab einem kleineren Regionalflughafen zu starten, sind für viele Gruppen den Aufpreis wert.</p>
+<h2>Sommer vs. Nebensaison: Preisunterschiede</h2>
+<p>Die Nachfrage nach Privatjet-Charters nach Mallorca ist stark saisonal. Das wirkt sich direkt auf Preise und Verfügbarkeit aus.</p>
+<p><strong>Hochsaison (Juni bis September):</strong> Die Preise liegen 15 bis 25 Prozent über dem Jahresdurchschnitt. Slot-Verfügbarkeit am Flughafen Palma ist eingeschränkt, besonders am Freitag und Sonntag. Buchungen sollten mindestens 72 Stunden im Voraus erfolgen, besser eine Woche. Die Crew-Übernachtungskosten auf der Insel können höher ausfallen, weil Hotels in der Hochsaison teurer sind. Auf der positiven Seite: Empty-Leg-Angebote sind häufiger, da das Verkehrsvolumen insgesamt höher ist.</p>
+<p><strong>Nebensaison (Oktober bis Mai):</strong> Die Preise sind moderater. Verfügbarkeit ist kein Problem. Manche Operatoren bieten in den Wintermonaten Pauschalpreise für die Route an. Mallorca hat im Winter weniger Touristenbetrieb, aber die Insel bleibt beliebt für Radfahrer, Wanderer und Golfspieler, die das milde Klima (15 bis 20 Grad) schätzen. Wer im März oder April fliegt, zahlt oft 20 bis 30 Prozent weniger als im August.</p>
+<p><strong>Besondere Ereignisse:</strong> Das Champions-League-Finale, das Formel-1-Wochenende in Barcelona (nahe genug für Mallorca-Besuche) und große Yachtshows treiben die Privatjet-Nachfrage regional kurzfristig nach oben. In diesen Wochen empfiehlt sich Vorlauf von mindestens einer Woche.</p>
+<h2>Buchung über Villiers Jets</h2>
+<p>Villiers Jets ist einer der führenden Privatjet-Broker in Europa mit Zugang zu über 10.000 Flugzeugen weltweit. Die Route Deutschland nach Mallorca gehört zu den Kernstrecken im Portfolio. Das bedeutet konkret: zahlreiche Operatoren mit Basis in DACH, schnelle Angebotserstellung (oft unter 4 Stunden), und ein aktiver Empty-Leg-Pool für diese Strecke.</p>
+<p>Der Buchungsprozess läuft wie folgt ab:</p>
+<ol>
+<li>Anfrage stellen: Abflugort, Ziel (Palma), Datum, Uhrzeit, Anzahl Passagiere und gewünschte Jet-Klasse angeben.</li>
+<li>Angebote vergleichen: Villiers sendet mehrere Optionen mit unterschiedlichen Jet-Typen und Preisen. In der Regel liegen 3 bis 5 Angebote vor.</li>
+<li>Auswählen und bestätigen: Nach Auswahl wird ein Vertrag ausgestellt. Zahlung erfolgt per Überweisung oder Kreditkarte.</li>
+<li>Vorlauf: 24 bis 48 Stunden vor Abflug erhalten Sie alle Details: Jet-Typ, Tail-Nummer, Crew, FBO-Adresse und Abflugzeit.</li>
+<li>Am Abflugtag: Ankunft am FBO 15 bis 20 Minuten vor Abflug. Passkontrolle, kurze Einweisung durch die Crew, Abflug.</li>
+</ol>
+<p>Villiers bietet auch eine App für schnelle Buchungen und hat einen 24/7-Kundendienst. Für Erstbucher empfiehlt es sich, telefonisch oder per Chat den eigenen Bedarf zu erläutern, damit das Team die passende Jet-Klasse für die Gruppe empfehlen kann. Den Einstieg machen Sie direkt hier: <a href="https://www.villiersjets.com/?ref=privatjet-vergleich" target="_blank" rel="nofollow noopener">Privatjet nach Mallorca via Villiers Jets anfragen</a>.</p>
+<h2>7 häufige Fragen</h2>
+<div itemscope itemtype="https://schema.org/FAQPage">
+<div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">Was kostet ein Privatjet nach Mallorca 2026?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">Ein Privatjet nach Mallorca kostet 2026 je nach Abflugort und Jet-Klasse zwischen 8.500 Euro (Light Jet ab München) und 24.000 Euro (Midsize Jet ab Hamburg). Diese Preise sind Richtwerte für one-way-Buchungen ohne Crew-Übernachtung. In der Hochsaison (Juli und August) sind Aufschläge von 15 bis 25 Prozent üblich.</p>
+</div>
+</div>
+<div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">Wie lange fliegt man von München nach Mallorca im Privatjet?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">Von München nach Palma de Mallorca beträgt die reine Flugzeit im Light Jet ca. 1 Stunde 40 Minuten. Inklusive Anfahrt zum FBO, Vorlauf und Transfer am Ziel liegt die Gesamtreisezeit bei 3 bis 3,5 Stunden von Haustür zu Hotel.</p>
+</div>
+</div>
+<div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">Gibt es Empty Legs nach Mallorca?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">Ja. Mallorca ist eine der besten Destinationen für Empty-Leg-Buchungen in Europa. Wegen der starken Freitagsnachmittags- und Sonntagabend-Bewegungen entstehen strukturell Leerflüge in beiden Richtungen. Typische Ersparnis: 35 bis 55 Prozent gegenüber dem regulären Charterpreis. Villiers Jets hat aktive Empty-Leg-Listen für diese Route.</p>
+</div>
+</div>
+<div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">Welcher Flughafen auf Mallorca eignet sich für Privatjets?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">Praktisch alle Privatjet-Charter landen am Flughafen Palma de Mallorca (PMI / LEPA). Er hat ein eigenes General-Aviation-Terminal mit FBO-Infrastruktur, schnelle Zollabfertigung für EU-interne Flüge und liegt 10 bis 15 Minuten vom Stadtzentrum Palma entfernt. Der kleinere Flugplatz Son Bonet ist nur für sehr leichte Flugzeuge geeignet.</p>
+</div>
+</div>
+<div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">Wann ist die beste Zeit für einen günstigen Privatjet nach Mallorca?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">Die günstigsten Preise gibt es in der Nebensaison (Oktober bis Mai). Im März und April liegt das Preisniveau 20 bis 30 Prozent unter dem Hochsommerpreis. Wer im Sommer buchen will, spart am meisten mit Empty Legs, die bei flexiblem Datum bis zu 55 Prozent günstiger sein können als ein regulärer Charter.</p>
+</div>
+</div>
+<div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">Wie viele Personen passen in einen Privatjet nach Mallorca?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">Ein Light Jet (z.B. Phenom 300, Citation CJ3) bietet Platz für bis zu 7 Personen, ein Midsize Jet (Citation XLS+, Hawker 900) für bis zu 9 Personen. Ab 10 Personen kommen Large Jets oder Heavy Jets in Frage, die aber für die Strecke überdimensioniert und teurer sind. Für die meisten Familienreisen oder kleine Unternehmergruppen ist der Light Jet die beste Wahl.</p>
+</div>
+</div>
+<div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">Brauche ich für Mallorca einen Reisepass im Privatjet?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">Mallorca ist spanisches Staatsgebiet und Teil des Schengen-Raums. Als EU-Bürger aus Deutschland, Österreich oder der Schweiz reichen Sie einen Personalausweis aus. Ein Reisepass ist für EU-Bürger auf innereuropäischen Privatjet-Flügen nach Mallorca nicht zwingend erforderlich, wird aber empfohlen. Das FBO-Personal prüft kurz die Identität vor dem Boarding.</p>
+</div>
+</div>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Was kostet ein Privatjet nach Mallorca 2026?","acceptedAnswer":{"@type":"Answer","text":"Ein Privatjet nach Mallorca kostet 2026 zwischen 8.500 Euro (Light Jet ab München, one-way) und 24.000 Euro (Midsize Jet ab Hamburg, one-way). In der Hochsaison Juli und August sind Aufschlaege von 15 bis 25 Prozent ueblich. Empty Legs ermöglichen Einsparungen von 35 bis 55 Prozent."}},{"@type":"Question","name":"Wie lange fliegt man von München nach Mallorca im Privatjet?","acceptedAnswer":{"@type":"Answer","text":"Die reine Flugzeit von München (EDMO) nach Palma de Mallorca (PMI) beträgt im Light Jet ca. 1 Stunde 40 Minuten. Die Gesamtreisezeit von Haustür zu Hotel liegt bei 3 bis 3,5 Stunden."}},{"@type":"Question","name":"Gibt es Leerflüge nach Mallorca?","acceptedAnswer":{"@type":"Answer","text":"Ja. Mallorca ist eine der besten Destinationen für Empty Legs in Europa. Durch das starke Freitagsnachmittags- und Sonntagabend-Muster entstehen strukturell Leerflüge in beiden Richtungen. Typische Ersparnis: 35 bis 55 Prozent."}},{"@type":"Question","name":"Welcher Flughafen auf Mallorca eignet sich für Privatjets?","acceptedAnswer":{"@type":"Answer","text":"Alle kommerziellen Charter landen am Flughafen Palma de Mallorca (PMI / LEPA) mit eigenem FBO-Terminal, schneller EU-Zollabfertigung und 10 bis 15 Minuten Transfer ins Stadtzentrum."}},{"@type":"Question","name":"Wann sind Privatjets nach Mallorca am günstigsten?","acceptedAnswer":{"@type":"Answer","text":"Günstigste Preise in der Nebensaison Oktober bis Mai, besonders März und April (20 bis 30 Prozent unter Hochsommerpreis). Im Sommer sparen Flexible am meisten mit Empty Legs."}},{"@type":"Question","name":"Wie viele Personen passen in einen Privatjet nach Mallorca?","acceptedAnswer":{"@type":"Answer","text":"Ein Light Jet fasst bis zu 7 Personen, ein Midsize Jet bis zu 9 Personen. Für die meisten Gruppen ist der Light Jet auf dieser Strecke die beste Wahl."}},{"@type":"Question","name":"Brauche ich für Mallorca einen Reisepass im Privatjet?","acceptedAnswer":{"@type":"Answer","text":"Nein. Mallorca liegt im Schengen-Raum. EU-Bürger aus Deutschland, Österreich und der Schweiz können mit Personalausweis einreisen. Ein Reisepass wird aber empfohlen."}}]}<\/script>`,
+  },
 
 ];
 

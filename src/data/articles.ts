@@ -15588,6 +15588,24 @@ Fuer Gruppen ab 4-6 Personen auf Kurzstrecken naehern sich die Kosten manchmal B
 
 <h2>Vertrag und Versicherung</h2>
 <p>Ein serioeser Charter-Anbieter stellt Ihnen einen schriftlichen Chartervertrag aus. Achten Sie auf: Was passiert bei Flugannullierung durch den Operator (Ausweichflugzeug, Erstattung)? Stornierungsbedingungen (typisch: voll erstattungsfaehig bis 72 Stunden vor Abflug, danach Gebuehren). Ist eine Fluggastversicherung inklusive? Die meisten Charterfluge sind durch die Haftpflichtversicherung des Operators gedeckt; eine separate Reiseruecktrittsversicherung fuer den Charterpreis ist sinnvoll bei teuren Buchungen.</p>`
+  },
+  {
+    slug: "privatjet-leerflug-repositionierung-2026",
+    title: "Leerflug und Repositionierungsflug: Wie man guenstigere Privatjet-Fluege findet",
+    description: "Was Leerfluege und Repositionierungsfluege beim Privatjet sind, wie man sie findet, was sie kosten und wie flexibel man dabei sein muss.",
+    date: "2026-06-30",
+    category: "ratgeber",
+    content: `<h2>Was sind Leerfluege?</h2>
+<p>Ein Leerflug entsteht, wenn ein Privatjet ohne zahlende Passagiere fliegt. Das passiert haeufig: Ein Jet bringt Passagiere von Frankfurt nach Nizza, muss aber nach Frankfurt zurueck um den naechsten Auftrag zu erledigen. Dieser Rueckflug ist ein Leerflug. Operatoren bieten Leerfluege oft zu stark reduzierten Preisen an (30-75% unter dem Normalpreis), weil jeder Erloes besser ist als gar keiner -- die Fixkosten (Crew, Betrieb) entstehen so oder so.</p>
+
+<h2>Wie man Leerfluege findet</h2>
+<p>JetFly App und Victor haben spezifische Leerflug-Sektionen in ihren Apps. Charterflug.de und Air Charter Service DE listen Leerfluege unter "Last Minute" oder "Leerflug". Viele Brokerplattformen haben Benachrichtigungen: Strecke und Zeitraum eingeben, Benachrichtigung bei verfuegbarem Leerflug. Social Media: Einige Operatoren veroffentlichen Leerfluege spontan auf LinkedIn und Instagram. Direktkontakt: Mit regionalen Operatoren, die an Ihrem Flughafen stationiert sind, in Kontakt treten und um Benachrichtigung bei Leerfluegen bitten.</p>
+
+<h2>Was man beachten muss</h2>
+<p>Leerfluege haben feste Abflug- und Zielorte -- Sie koennes weder Route noch Flugzeugtyp waehlen. Die Verfuegbarkeit ist stark kurzfristig (meist 24-72 Stunden Vorlauf). Stornierung durch den Operator ist moeglich, wenn der Flug doch anderweitig benoetigt wird. Fuer Reisen mit festem Datum und Route sind Leerfluege unzuverlaessig -- fuer flexible Reisende sind sie eine erhebliche Kostenersparnis.</p>
+
+<h2>Reposistionierungsflug vs. Leerflug</h2>
+<p>Technisch sind beides Leerfluege, aber der Begriff Repositionierungsflug bezeichnet spezifisch den Transfer eines Flugzeuges zum naechsten Einsatzort. Diese Fluege sind oft etwas laenger planbar (1-2 Wochen im Voraus) als reine Leerfluege, die oft ad hoc entstehen. Der Preisunterschied zum Normalpreis ist aehnlich.</p>`
   }
 ];
 

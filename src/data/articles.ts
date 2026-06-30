@@ -1532,6 +1532,25 @@ Fuer Gruppen ab 4-6 Personen auf Kurzstrecken naehern sich die Kosten manchmal B
 
 <h2>Preisunterschied in der Praxis</h2>
 <p>Direktbuchung beim Operator: keine Brokergebuehr, aber auch kein Preisvergleich. Strecken-Richtwert: direkter Operator-Preis. Broker: Operator-Preis + 10-20% Marge. Kann durch Zugang zu guenstigen Leerflug-Slots mehr als kompensiert werden. Faustregel: fuer Standard-Strecken mit gutem Vorlauf direkt beim Operator anfragen und gleichzeitig 2-3 Broker anfragen -- dann sehen Sie, ob der Direktpreis oder ein Broker-Leerflug guenstiger ist.</p>`
+  },
+  {
+    slug: "privatjet-kleinflugzeug-vs-turboprop-2026",
+    title: "Light Jet vs. Turboprop: Wann ist die Propellermaschine die bessere Wahl?",
+    description: "Vergleich Light Jet vs. Turboprop im Privatjet-Charter: Kosten, Reichweite, Reisegeschwindigkeit, Passagierkomfort und wann sich die Propellermaschine wirklich lohnt.",
+    publishedDate: "2026-06-30",
+    category: "flugzeugtypen",
+    readingMinutes: 5,
+    content: `<h2>Was ist ein Turboprop?</h2>
+<p>Ein Turboprop (Turbo-Prop-Flugzeug) wird von Turbinentriebwerken angetrieben, die jedoch nicht direkt Schub erzeugen (wie bei Jets), sondern einen Propeller antreiben. Kombination aus Turbinen-Zuverlaessigkeit und Propeller-Effizienz bei niedrigen Geschwindigkeiten. Typische Turboprops im Charter: Pilatus PC-12 (sehr beliebt), Beechcraft King Air (200/350), Cessna Caravan. Typische Reisegeschwindigkeit: 450-550 km/h. Zum Vergleich Light Jets (Embraer Phenom 100, Cessna Citation M2): 650-750 km/h.</p>
+
+<h2>Wann der Turboprop besser ist</h2>
+<p>Kurze Strecken unter 600 km: Bei sehr kurzen Strecken ist der Zeitvorteil des Jets minimal (Steigflug + Abstieg ueberlappen die gesamte Reisezeit), und der Turboprop ist erheblich guenstiger. Kosten Turboprop (Pilatus PC-12) kurze EU-Strecke: 3.000-5.000 Euro. Light Jet: 6.000-10.000 Euro. Kleine Flugplaetze ohne jetfaehige Landebahn: Turboprops koennen auf deutlich kuerzeren und weniger befestigten Pisten landen -- Zugang zu Flugplaetzen die fuer Jets unzugaenglich sind (Bergregionen, kleine Inseln, laendliche Airstrips). Sehr langsam: Turboprops landen und starten langsamer, was bei bestimmten Flugplaetzen mit Laermbeschraenkungen von Vorteil ist.</p>
+
+<h2>Wann der Light Jet besser ist</h2>
+<p>Strecken ueber 600-800 km: der Zeitvorteil des Jets wird ab dieser Distanz erheblich -- 1-2 Stunden Flugzeit-Differenz. Hoehere Komforterwartungen: Light Jets haben in der Regel etwas mehr Stehoehe, bessere Klimaanlage und repraesentativere Kabinenausstattung. Mehrere Passagiere gleichzeitig: Light Jets (4-7 Sitze) haben vergleichbare Kapazitaet, sind aber schneller. Wenn die Zieldestination einen Jetflughafen erfordert: Sicherung des Flughafens im Voraus, da nicht alle Verstaerkungen Turboprop-Landungen akzeptieren.</p>
+
+<h2>Preis-Richtwerte im Vergleich</h2>
+<p>Turboprop (Pilatus PC-12, 8-9 Pax) kurzstrecke Muenchen-Zuerich: 2.500-4.000 Euro. Light Jet (Citation M2, 6 Pax) gleiche Strecke: 5.000-8.000 Euro. Turboprop Mittelstrecke (800 km): 6.000-9.000 Euro. Light Jet gleiche Strecke: 10.000-16.000 Euro. Faustregel: Turboprop ist 30-50% guenstiger auf vergleichbaren Strecken, aber 15-25% langsamer. Wenn Zeit entscheidet: Jet. Wenn Budget oder kleiner Flughafen entscheiden: Turboprop.`
   }
 ];
 

@@ -1497,6 +1497,22 @@ Fuer Gruppen ab 4-6 Personen auf Kurzstrecken naehern sich die Kosten manchmal B
 
 <h2>Wann sich der Privatjet lohnt</h2>
 <p>Gleiche Kriterien wie bei anderen Langstrecken: grosse Gruppen (10+), Terminzwang, Flexibilitaet beim Abflugzeitpunkt, Reisen zu Industrieanlagen oder Projekten ausserhalb der normalen Airline-Routen. Dubai ist von allen Grossstaedten Europas gut mit Direktfluegen bedient (Emirates, Lufthansa, KLM, British Airways) -- Business Class ist fuer 1-4 Personen fast immer die wirtschaftlichere Wahl. Der Privatjet rechtfertigt sich durch Gruppengroesse, Flexibilitaet und Zeit.</p>`
+  },
+  {
+    slug: "privatjet-gruppe-charter-tipps-2026",
+    title: "Privatjet fuer Gruppen: Ab wann rechnet es sich und wie bucht man richtig",
+    description: "Ab welcher Gruppengroesse ein Privatjet wirtschaftlich wird im Vergleich zu Business Class, welche Flugzeugklasse fuer Gruppen passt und worauf bei der Buchung zu achten ist.",
+    publishedDate: "2026-06-30",
+    category: "planung",
+    readingMinutes: 5,
+    content: `<h2>Die Kernfrage: Wann wird der Privatjet guenstiger als Business Class?</h2>
+<p>Business Class kostet fuer Langstreckenfl\u00fcge (z.B. Frankfurt-New York) typisch 3.000-6.000 Euro pro Person und Richtung. Ein Large Jet (8-10 Sitze) auf derselben Strecke kostet 80.000-120.000 Euro. Gebrochen auf 10 Personen: 8.000-12.000 Euro pro Person -- vergleichbar mit High-End Business Class, aber mit erheblich mehr Flexibilit\u00e4t und Komfort. F\u00fcr k\u00fcrzere europ\u00e4ische Fl\u00fcge (z.B. Frankfurt-Barcelona, 2,5 Stunden): Business Class ca. 800-1.500 Euro/Person. Light Jet (6-8 Pl\u00e4tze) ca. 12.000-18.000 Euro. Ab 8-10 Personen ergibt sich ein \u00e4hnlicher Pro-Kopf-Preis, aber ohne Flughafenstress und Terminfixierung.</p>
+
+<h2>Welche Flugzeugklasse f\u00fcr welche Gruppengroesse</h2>
+<p>6-8 Personen: Light Jet oder Midsize Jet. Economy of Scale tritt noch nicht stark in Kraft. Gut f\u00fcr europ\u00e4ische Strecken. 8-12 Personen: Large Jet (Global 5500, Challenger 650, Gulfstream G450) -- hier beginnt sich die Kalkulation gg\u00fc. Business Class zu n\u00e4hern. 14-19 Personen: Ultra-Long-Range (Global 7500) oder Turboprop f\u00fcr k\u00fcrzere Strecken. \u00dcber 19 Personen: Business-Jet-Segment \u00fcberschritten -- VIP-konfigurierte Regional-Jets oder Part-91 Charter gr\u00f6\u00dferer Flugzeuge.</p>
+
+<h2>Gruppen-Buchungstipps</h2>
+<p>Leerfl\u00fcge (Empty Legs) pr\u00fcfen: wenn das Flugzeug nach dem Gruppenflug ohnehin umpositionieren muss, sind Preisreduktionen von 30-50% m\u00f6glich. Mehrere Charterbroker anfragen: Preise variieren je nach Verf\u00fcgbarkeit und Leerflug-Konstellationen um 15-30%. Fr\u00fchzeitig buchen f\u00fcr Standardtermine (Wochenendbeginn, Saisonhochpunkte) oder spontan f\u00fcr Leerfl\u00fcge. R\u00fcckflug mitkalkulieren: ist ein Repositionierungs-Leerflug verf\u00fcgbar, k\u00f6nnen Hin- und R\u00fcckfl\u00fcge separat zu g\u00fcnstigen Konditionen gebucht werden. Kein Account-Manager: Gruppen-Charter l\u00e4uft \u00fcber denselben Buchungsprozess wie Einzelbuchungen -- kein spezieller Status notwendig.`
   }
 ];
 

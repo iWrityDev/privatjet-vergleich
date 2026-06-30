@@ -15570,6 +15570,24 @@ Fuer Gruppen ab 4-6 Personen auf Kurzstrecken naehern sich die Kosten manchmal B
 
 <h2>Warum Privatjet auf die Malediven?</h2>
 <p>Auf Strecken, wo Linienverbindungen gut sind (Frankfurt-Male gibt es mit Emirates, Etihad und Qatar), ist der Vorteil des Privatjets nicht Streckenabdeckung, sondern Terminflexibilitaet und Komfort. Wer die gesamte Reisegruppe (Familie oder Geschaeftspartner) zusammenhalten will, ohne Verbindungen und Terminals zu wechseln, findet im Privatjet den direkten Weg. Kosten pro Person: bei 8 Passagieren fuer einen Longrange-Jet liegen die Kosten aehnlich wie eine First-Class-Verbindung auf den Linienfluggesellschaften.</p>`
+  },
+  {
+    slug: "privatjet-buchungsprozess-erklaert-2026",
+    title: "Privatjet buchen: So laeuft der Buchungsprozess ab",
+    description: "Wie man einen Privatjet bucht: Direktbuchung vs. Broker, was man angeben muss, wie lange im Voraus und worauf man bei Vertrag und Versicherung achten sollte.",
+    date: "2026-06-30",
+    category: "ratgeber",
+    content: `<h2>Direktbuchung vs. Charter-Broker</h2>
+<p>Es gibt zwei Wege, einen Privatjet zu buchen: direkt bei einem Operator (der das Flugzeug besitzt und betreibt) oder ueber einen Charter-Broker (der als Vermittler agiert und Zugang zu einer groesseren Flugzeugflotte hat). Direktbuchung Vorteile: transparentere Preise, direkter Ansprechpartner, kein Broker-Aufschlag. Nachteile: begrenzte Flugzeugauswahl, moegliche Verfuegbarkeitsluecken. Broker-Vorteile: Zugang zu hunderten von Flugzeugen weltweit, oft guenstigere Optionen durch Leerfluege und Repositionierungsfluge, einer Ansprechpartner fuer alle Flugzeugtypen. Nachteile: Brokergebuehr (typisch 10-20% des Charterpreises), weniger Transparenz darueber, welcher Operator tatsaechlich fliegt.</p>
+
+<h2>Was Sie bei der Anfrage angeben muessen</h2>
+<p>Fuer eine Preisanfrage benoetigt jeder Operator und Broker: Abflugort und Zielort (ICAO-Code oder Stadtname), Datum und gewuenschte Abflugzeit, Anzahl der Passagiere, etwaige Gepaeck-Besonderheiten (Sportausstattung, Haustiere), und Wuensche zu Catering oder Bordservices. Mit diesen Angaben erhalten Sie in der Regel innerhalb weniger Stunden einen Angebotspreis.</p>
+
+<h2>Wie weit im Voraus buchen?</h2>
+<p>Privatjets koennen oft mit sehr kurzer Vorlaufzeit gebucht werden -- 24-48 Stunden sind regelmaessig moeglich, in Einzelfaellen auch kuerzer. Fuer Hochsaison-Ziele (Ibiza im August, St. Moritz im Februar, grosse Events) sind 2-4 Wochen Vorlauf empfehlenswert. Leerflug-Angebote (repostionierungsbedingt guenstige Fluege) sind per Definition kurzfristig -- meist 48-72 Stunden im Voraus veroeffentlicht.</p>
+
+<h2>Vertrag und Versicherung</h2>
+<p>Ein serioeser Charter-Anbieter stellt Ihnen einen schriftlichen Chartervertrag aus. Achten Sie auf: Was passiert bei Flugannullierung durch den Operator (Ausweichflugzeug, Erstattung)? Stornierungsbedingungen (typisch: voll erstattungsfaehig bis 72 Stunden vor Abflug, danach Gebuehren). Ist eine Fluggastversicherung inklusive? Die meisten Charterfluge sind durch die Haftpflichtversicherung des Operators gedeckt; eine separate Reiseruecktrittsversicherung fuer den Charterpreis ist sinnvoll bei teuren Buchungen.</p>`
   }
 ];
 

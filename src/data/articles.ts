@@ -15310,6 +15310,21 @@ Ideal fÃ¼r: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichwe
 
 <h2>Wann ein Membership sinnvoll ist</h2>
 <p>Unter 25 Flugstunden/Jahr: Einzelcharter ist gunstiger. 25-50 Stunden/Jahr: Jet Cards konnen sich rechnen. Uber 50 Stunden/Jahr: Fractional Ownership oder Membership-Programme haben klare Vorteile durch garantierte Verfugbarkeit und Preissicherheit.`
+  },
+  {
+    slug: "privatjet-charter-schweiz-alpen-2026",
+    title: "Privatjet Charter Schweiz 2026: Alpenflüge, Genf-Zürich und Skireisen per Jet",
+    description: "Privatjet mieten in der Schweiz: Routen zwischen Genf, Zürich, Basel und Alpen-Destinationen wie Samedan, Lugano und Bern. Preise und Anbieter 2026.",
+    date: "2026-06-30",
+    category: "charter",
+    readTime: "5 min",
+    content: `<p>Die Schweiz ist eines der dichtesten Privatjet-Märkte Europas. Genf ist nach London-Luton der zweitgrösste Privatjet-Hub Europas, und Zürich-Kloten hat eine bedeutende Business-Aviation-Infrastruktur. Dazu kommen Hochalpin-Flughäfen wie Samedan (nahe St. Moritz) und Lugano, die mit Linienflügen schwer erreichbar sind.</p>
+
+<h2>Wichtige Routen und typische Preise</h2>
+<p>Genf–Zürich (ca. 45 Minuten): 3.500–6.000 Euro für einen Leichtjet wie Citation CJ2 oder Phenom 300. Als Kurzstrecke wirtschaftlich nur dann sinnvoll, wenn Anschlussflüge oder Meetings an beiden Enden des Tages keinen anderen Modus erlauben. Zürich–London (1h 30 min): 12.000–20.000 Euro für einen Midsize-Jet. Genf–Samedan: Der Flughafen Samedan (LSZS, auf 1.707 Metern Höhe) ist für Skireisen nach St. Moritz das Ziel der Wahl. Flugzeit ca. 20–25 Minuten ab Genf, ca. 15 Minuten ab Zürich. Preise ab 4.000 Euro für Leichtjets. Nicht alle Flugzeugtypen sind für Samedan zugelassen -- der Höhenfaktor und die kurze Piste erfordern spezifische Zertifizierungen.</p>
+
+<h2>Anbieter mit starker Schweiz-Präsenz</h2>
+<p>VistaJet hat seinen Sitz in Malta, aber eine starke Flotte in der Schweiz und bietet Schweizer Kunden dedizierte Flottenkapazität an. TAG Aviation ist in Genf und Zürich einer der grössten FBOs (Fixed Base Operators) und bietet Charter-Buchungen über seine Plattform an. Air Zermatt ist ein spezialisierter Alpen-Operator -- weniger für Privatjet-Charter, aber relevant für Hubschrauber-Transfers zu nicht-angebundenen Alpen-Destinationen. Für digitale Buchungsplattformen: Privatefly, Jettly und Stratajet decken alle grossen Schweizer Flughäfen ab und zeigen Sofortpreise für Leerjfüge.`
   }
 ];
 

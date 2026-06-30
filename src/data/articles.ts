@@ -1478,6 +1478,25 @@ Fuer Gruppen ab 4-6 Personen auf Kurzstrecken naehern sich die Kosten manchmal B
 
 <h2>Was man bei Last-Minute-Buchungen beachten sollte</h2>
 <p>Verfuegbarkeit der bevorzugten Flugzeuggroesse ist eingeschraenkt -- bei Last-Minute bleibt was uebrig ist. Versicherungsnachweis und AOC-Zertifizierung des Betreibers trotz Zeitdruck anfragen -- Sicherheitsstandards gelten auch bei guenstigen Buchungen. Zahlungsbedingungen: manche Leerfluege erfordern sofortige Zahlung per Bankueberweisung. Flexibilitaet: Leerfluege werden manchmal geaendert oder gestrichen, wenn der Hauptauftrag sich aendert. Ein Leerflug der fuer Samstag geplant ist, kann auf Freitag oder Sonntag verschoben werden.</p>`
+  },
+  {
+    slug: "privatjet-dubai-route-2026",
+    title: "Privatjet nach Dubai: Kosten, Strecke und was Sie wissen muessen",
+    description: "Privatjet Dubai Flug 2026: realistische Kosten, Flugzeugklassen fuer die Strecke, Flughafen-Optionen und wann sich der Charterflug gegenueber Business Class lohnt.",
+    publishedDate: "2026-06-30",
+    category: "routen",
+    readingMinutes: 5,
+    content: `<h2>Dubai als Privatjet-Destination</h2>
+<p>Dubai (DXB und DWC) ist eine der meistgeflogenen Interkontinental-Privatjet-Destinationen aus Europa. Der Dubai International Airport (DXB) hat einen dedizierten General Aviation Terminal (Al Majlis), Landmark Aviation am DWC (Al Maktoum International Airport) bietet zusaetzliche FBO-Kapazitaet. Dubai ist besonders attraktiv fuer Winterausweichreisen (November bis Februar) -- wenn Europa grau ist, sind 25 Grad in Dubai ein starker Pull-Faktor.</p>
+
+<h2>Distanz und Flugzeit</h2>
+<p>Frankfurt (EDDF) nach Dubai (OMDB): ca. 5.200 km Strecke, Flugzeit ca. 6-7 Stunden je nach Flugzeugklasse und Winden. Das liegt am oberen Limit eines Midsize Jets und im Komfort-Bereich eines Large Jets. Super Midsize (Challenger 300, Gulfstream G280): moegliche Reichweite, aber oft ohne Spielraum fuer Winde oder Tankstop erforderlich in Muenchen oder Wien. Large Jet (Gulfstream G450/G550, Challenger 605/650, Global 5500): bequem in einem Flug. Ultra-Long-Range (Global 7500, Gulfstream G700): komfortabelste Option, laengere Flugdauer durch die Strecke.</p>
+
+<h2>Realistische Kosten</h2>
+<p>Die Dubai-Strecke ist teurer als europaeische Kurzstrecken wegen der Flugdauer, Treibstoff und Handling-Gebuehren am Zielflughafen. Richtwerte (einfache Richtung, ohne Rueckflug-Repositionierung): Large Jet (8-10 Plaetze): 70.000-100.000 Euro. Ultra-Long-Range (14-19 Plaetze): 100.000-150.000 Euro. Bei Gruppen von 10+ Personen naehert sich der Pro-Kopf-Preis dem eines Business-Class-Tickets (1.500-3.000 Euro pro Person in Business nach Dubai), besonders wenn Leerflug-Optionen verfuegbar sind.</p>
+
+<h2>Wann sich der Privatjet lohnt</h2>
+<p>Gleiche Kriterien wie bei anderen Langstrecken: grosse Gruppen (10+), Terminzwang, Flexibilitaet beim Abflugzeitpunkt, Reisen zu Industrieanlagen oder Projekten ausserhalb der normalen Airline-Routen. Dubai ist von allen Grossstaedten Europas gut mit Direktfluegen bedient (Emirates, Lufthansa, KLM, British Airways) -- Business Class ist fuer 1-4 Personen fast immer die wirtschaftlichere Wahl. Der Privatjet rechtfertigt sich durch Gruppengroesse, Flexibilitaet und Zeit.</p>`
   }
 ];
 

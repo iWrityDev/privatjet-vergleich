@@ -15228,6 +15228,28 @@ Ideal fÃ¼r: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichwe
 
 <h2>Wann sich ein Charterflug lohnt</h2>
 <p>Ab Munchen oder Wien ist der Zeitgewinn gegenuber Bahn oder Auto signifikant: Auto ca. 8-10 Std., Privatjet ca. 1:45 Std. Fur Gruppen von 4-6 Personen wird der Preisunterschied pro Person kleiner. Lastminute-Buchungen fur Wochenendtrips sind bei Privatjets einfacher als Linienfluge -- kein Check-in, keine Anschlussfluge, direkter Transfer vom FBO zum Hotel.`
+  },
+  {
+    slug: "privatjet-charter-lastminute-tipps-2026",
+    title: "Privatjet Last-Minute Charter 2026: Wie man Schnell und Gunstiger Bucht",
+    description: "Last-Minute Privatjet charter: leere Beine (empty legs), Charter-Apps und Plattformen, die kurzfristige Buchungen ermoglichen -- und wie man dabei spart.",
+    category: "tipps",
+    author: "Privatjet Vergleich",
+    publishedAt: "2026-06-30",
+    readingTime: 5,
+    content: `<p>Last-Minute Privatjet-Charter ist nicht nur moglich, sondern kann erheblich gunstiger sein als eine geplante Buchung -- wenn man weiss, wie man sucht und flexibel genug ist. Leere Beine (Empty Legs) und kurzfristige Kapazitaten von Charterunternehmen sind die beiden Hauptwege.</p>
+
+<h2>Leere Beine (Empty Legs)</h2>
+<p>Ein "leeres Bein" entsteht, wenn ein Privatjet fur einen bezahlten Flug von A nach B fliegt, aber leer zuruck nach A fliegen muss (oder zu einem anderen Heimatflughafen). Charterunternehmen bieten diese Fluge haufig zu 25-75% Rabatt an, weil sie sowieso anfallen. Einschrankungen: Abflugort und -zeit sind fix, Datum und Ziel sind nicht flexibel, und Buchungen erfolgen oft erst 24-72 Stunden vorher. Plattformen: JetSmarter (jetzt VistaJet Marketplace), XO (XOJET), Stratosjets, und die Apps von NetJets und VistaJet haben Leere-Beine-Benachrichtigungen.</p>
+
+<h2>Kurzfristige Charter-Buchungen</h2>
+<p>Viele Charterunternehmen haben kurzfristig verfugbare Kapazitaten -- Flugzeuge, die am Boden stehen und gebucht werden konnen. Plattformen wie PrivateFly, Stratos Jets und Victor (UK-basiert) ermoglichen Buchungen mit weniger als 24 Stunden Vorlaufzeit. Preis ist nicht immer gunstiger als bei fruhzeitiger Planung -- aber die Verfugbarkeit ist oft da.</p>
+
+<h2>Apps fur Last-Minute Privatjet</h2>
+<p>JetSuite (jetzt Teil von JSX) war bekannt fur gunstige Last-Minute-Sitze. Blade Air Mobility (US und Europa) bietet Helikopter- und Jet-Sharing fur kurzfristige Buchungen an. Wheels Up hat ein Membership-Modell mit Last-Minute-Optionen. Fur Europa: Victor und VistaJet Membership sind die bekanntesten Plattformen mit kurzfristiger Verfugbarkeit.</p>
+
+<h2>Wie viel Vorlauf braucht man wirklich?</h2>
+<p>4-6 Stunden: moglich bei vielen Charter-Anbietern fur Intrakontinentalfluge, wenn das Flugzeug verfugbar ist. 24 Stunden: komfortabler Puffer fur die meisten Destinationen in Europa. Weniger als 4 Stunden: moglich, aber eingeschrankt auf Anbieter mit Flugzeugen am selben Flughafen. Fur internationale Langstreckenfluge (USA, Asien): mindestens 12-24 Stunden fur Crew-Planung, Slot-Buchung und Einreiseformalitaten.`
   }
 ];
 

@@ -15343,6 +15343,24 @@ Ideal fÃ¼r: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichwe
 
 <h2>Worauf du achten musst</h2>
 <p>Stornierung: Empty Legs koennen vom Operator kurzfristig storniert werden wenn der urspruengliche Charter sich aendert oder ausfaellt. Buche keine lebenswichtigen Termine nur auf Basis eines Empty Legs. Strecken-Flexibilitaet: manche Empty Legs haben leicht abweichende Startpunkte (z.B. der Jet startet technisch in Luxemburg statt Frankfurt -- du kannst trotzdem in Frankfurt einsteigen wenn der Operator zustimmt). Zollabwicklung: auch guenstige Empty Legs fallen unter dieselben Zollregeln wie regulaere Charterfluege.`
+  },
+  {
+    slug: "privatjet-charter-mittelmeer-ibiza-capri-2026",
+    title: "Privatjet Charter Mittelmeer 2026: Ibiza, Capri, Sardinien und die Cote d'Azur",
+    description: "Privatjet nach Ibiza, Capri oder Nizza charter: Routen vom DACH-Raum, typische Preise, Hochsaison-Verfuegbarkeit und beste Buchungszeitpunkte fuer Mittelmeer-Sommerdestinationen.",
+    date: "2026-06-30",
+    category: "charter",
+    readTime: "5 min",
+    content: `<p>Das Mittelmeer ist im Sommer die meistgebuchte Region fuer Privatjet-Charter aus dem DACH-Raum. Ibiza, die franzosische Riviera, Sardinien und die italianische Amalfikuste sind die Top-Destinationen. Hier ist was du ueber Preise, Verfuegbarkeit und Buchungszeitpunkte wissen musst.</p>
+
+<h2>Top-Routen und Preise 2026</h2>
+<p>Frankfurt/Muenchen nach Ibiza (ca. 2h 30 min): 12.000-20.000 Euro fuer einen Midsize-Jet (Learjet 60, Citation XLS). In der Hochsaison (Juli-August) steigen Preise um 30-50%. Zuerich nach Nizza (ca. 1h 45 min): 8.000-15.000 Euro fuer Leicht- bis Midsize-Jets. Nizza ist der Hauptzugang zur Cote d'Azur. Wien nach Olbia (Sardinien, ca. 2h 15 min): 10.000-18.000 Euro Midsize. Sardinien erlebt wachsende Nachfrage, insbesondere Costa Smeralda. Duesseldorf nach Capri (via Neapel-Capodichino, ca. 2h): 12.000-20.000 Euro Midsize. Capri hat keinen eigenen Flughafen -- Helikopter-Transfer ab Neapel ist die Standard-Losung.</p>
+
+<h2>Hochsaison-Buchungstipps</h2>
+<p>Juli und August sind vollstaendig ausgebucht fuer beliebte Leerfluege. Wer in der Hochsaison sicher fliegen will: 3-6 Monate im Voraus buchen. Last-Minute-Leerfluege tauchen auch im Sommer auf, aber fuer beliebte Strecken (Frankfurt-Ibiza, Zuerich-Nizza) sind sie selten. September ist die bessere Option fuer Last-Minute: Preise fallen nach dem 31. August deutlich und Verfuegbarkeit steigt wieder. Fuer Gruppen: ein ganzes Flugzeug zu chartern ist im Sommer wirtschaftlicher als Einzeltickets auf einem Leerflug, da Leerfluege im Hochsommer selten und teuer sind.</p>
+
+<h2>FBOs und Handling an Mittelmeer-Destinationen</h2>
+<p>Ibiza (LEIB): guter FBO-Service, aber im Juli-August extreme Auslastung. Slot-Buchung Monate im Voraus notwendig. Nizza (LFMN): groesster Privatjet-Hub an der Cote d'Azur, exzellente Infrastruktur, mehrere FBOs (Signature, dnata). Olbia (LIEO): gut ausgestatteter Privatjet-Betrieb, aber Kapazitaet begrenzt -- Slots 4-8 Wochen im Voraus buchen.`
   }
 ];
 

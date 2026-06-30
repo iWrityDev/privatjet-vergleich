@@ -1459,6 +1459,25 @@ Fuer Gruppen ab 4-6 Personen auf Kurzstrecken naehern sich die Kosten manchmal B
 
 <h2>Was man beim Buchen fragen sollte</h2>
 <p>Fragen Sie Ihren Charterbroker: Welchen ARGUS-Status hat der Operator? Ist der Operator Wyvern WINGMAN zertifiziert? Wie alt ist das Flugzeug, und wann war die letzte grosse Inspektion? Wie viele Flugstunden haben die Piloten auf diesem Flugzeugtyp? Ein serioeser Broker beantwortet diese Fragen ohne zu zögern. Wer ausweicht, ist kein gutes Zeichen.</p>`
+  },
+  {
+    slug: "privatjet-buchung-last-minute-tipps-2026",
+    title: "Privatjet Last-Minute Buchen: Wie Leerfluege und kurzfristige Charter funktionieren",
+    description: "Wie man einen Privatjet kurzfristig oder als Leerflug bucht in 2026: Ablauf, realistische Ersparnis, Anbieter und was bei Last-Minute-Buchungen zu beachten ist.",
+    publishedDate: "2026-06-30",
+    category: "ratgeber",
+    readingMinutes: 5,
+    content: `<h2>Was ist ein Leerflug?</h2>
+<p>Ein Leerflug (Empty Leg) entsteht, wenn ein Privatjet einen Repositionierungsflug durchfuehren muss. Beispiel: Ein Jet bringt Passagiere von Berlin nach Ibiza und muss dann leer nach Berlin zurueckfliegen, um den naechsten Kunden abzuholen. Dieser Rueckflug ist ein Leerflug -- der Betreiber hat keine Einnahmen daraus, zahlt aber trotzdem Sprit und Crew. Deshalb werden Leerfluege oft mit 40-70% Rabatt gegenueber dem regulaeren Charterpreis angeboten.</p>
+
+<h2>Wo man Leerfluege findet</h2>
+<p>Charterbroker-Datenbanken: JetClass, PrivateFly (Air Partner), AirCharter Service, und viele andere listen verfuegbare Leerfluege auf ihrer Website. Spezialisierte Apps: JetSmarter (eingestellt), aber Nachfolger wie XO oder Jettly aggregieren Leerfluege. Direkter Kontakt mit Betreibern: Wenn Sie regelmaessig charter, kann ein fester Operator-Kontakt Leerfluege anbieten, bevor sie oeffentlich gelistet werden. Einschraenkung: Leerfluege sind nach Route und Datum nicht planbar. Sie passen Ihre Reise an das verfuegbare Angebot an, nicht umgekehrt.</p>
+
+<h2>Last-Minute Charter ohne Leerflug</h2>
+<p>Kurzfristige Buchungen (24-48 Stunden vorher) koennen auch ohne Leerflug-Rabatt attraktive Preise haben, wenn die Nachfrage fuer den betreffenden Slot gering ist. Broker haben manchmal Flugzeuge ohne Buchung und sind zu Preiszugestaendnissen bereit. Aber: In der Hochsaison (Ibiza-Sommer, Ski-Wochenenden in den Alpen, grosse Sportevents) sind kurzfristige Buchungen oft teurer als fruehzeitige, weil die Nachfrage hoch ist.</p>
+
+<h2>Was man bei Last-Minute-Buchungen beachten sollte</h2>
+<p>Verfuegbarkeit der bevorzugten Flugzeuggroesse ist eingeschraenkt -- bei Last-Minute bleibt was uebrig ist. Versicherungsnachweis und AOC-Zertifizierung des Betreibers trotz Zeitdruck anfragen -- Sicherheitsstandards gelten auch bei guenstigen Buchungen. Zahlungsbedingungen: manche Leerfluege erfordern sofortige Zahlung per Bankueberweisung. Flexibilitaet: Leerfluege werden manchmal geaendert oder gestrichen, wenn der Hauptauftrag sich aendert. Ein Leerflug der fuer Samstag geplant ist, kann auf Freitag oder Sonntag verschoben werden.</p>`
   }
 ];
 

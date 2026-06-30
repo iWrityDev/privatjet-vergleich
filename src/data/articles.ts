@@ -15131,6 +15131,27 @@ Ideal fÃ¼r: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichwe
     tags: ["kosten", "privatjet", "preise", "stundensatz"],
     metaTitle: "Privatjet Kosten pro Stunde 2026: Preise und Faktoren",
     metaDescription: "Was kostet ein Privatjet pro Stunde in 2026? Turboprop ab 1.500 Euro, Ultra-Long-Range bis 20.000 Euro. Alle Faktoren, Leerflugoptionen und Abonnements erklaert."
+  },
+  {
+    slug: "privatjet-charter-vs-kauf-2026",
+    category: "kosten",
+    title: "Privatjet Chartern oder Kaufen 2026: Wann sich Chartern rechnet",
+    description: "Wann ist es gunstiger, einen Privatjet zu chartern statt zu kaufen? Kosten, Nutzungshaufigkeit und steuerliche Aspekte im Vergleich.",
+    publishedDate: "2026-06-30",
+    readTime: 6,
+    content: `<p>Ein Privatjet lohnt sich als Kauf ab etwa 200-400 Flugstunden pro Jahr. Wer weniger fliegt, fahrt mit Chartern oder einem Jet-Card-Programm kostengunstiger. Die genaue Schwelle hangt vom Flugzeugtyp, den Betriebskosten und der Abschreibungsdauer ab.</p>
+
+<h2>Kosten beim Kauf eines Privatjets</h2>
+<p>Kaufpreis ist nur der Anfang. Hinzu kommen jahrliche Fixkosten von 500.000 bis 2,5 Millionen Euro je nach Flugzeuggrosse: Crew-Gehalter, Hangarmiete, Versicherung, Wartungsvertrag, Avionik-Updates. Eine Cessna Citation CJ3+ (Leichtjet) kostet 6-8 Millionen Euro neu, aber 800.000 bis 1,2 Millionen Euro jahrliche Fixkosten. Ein Gulfstream G700 (Grossraumjet) kostet 75 Millionen Euro neu und uber 4 Millionen Euro jahrliche Fixkosten.</p>
+
+<h2>Kosten beim Chartern</h2>
+<p>Charterpreise variieren stark: 3.000-6.000 Euro pro Flugstunde fur einen Leichtjet, 8.000-15.000 Euro fur einen Midsize-Jet, 15.000-30.000 Euro fur einen Grossraumjet wie den Gulfstream G650. Dazu kommen Positionierungsfluge (Leerfluge, wenn das Flugzeug erst zum Abflugort fliegen muss) und Ubernachtungskosten der Crew. Leerfluge werden mit 50-80% des normalen Stundensatzes berechnet.</p>
+
+<h2>Die Break-Even-Formel</h2>
+<p>Faustformel: Teilen Sie die jahrlichen Fixkosten durch den Unterschied zwischen dem Stundensatz bei Charter und den variablen Kosten pro Stunde beim eigenen Jet. Fur einen Midsize-Jet ergibt sich typischerweise ein Break-Even bei 250-350 Flugstunden jahrlich. Unter 200 Stunden ist Charter fast immer gunstiger; uber 400 Stunden fast immer Kauf.</p>
+
+<h2>Steuerliche Aspekte (Deutschland)</h2>
+<p>Ein Privatjet kann unter bestimmten Bedingungen als Betriebsvermogen abgeschrieben werden, wenn nachgewiesen wird, dass er uberwiegend (mehr als 50%) fur betriebliche Zwecke genutzt wird. Privatnutzung muss als geldwerter Vorteil versteuert werden. Charterkosten konnen als Betriebsausgaben abgesetzt werden, wenn ein betrieblicher Anlass nachgewiesen wird. Konsultieren Sie einen auf Luftfahrt spezialisierten Steuerberater.</p>`
   }
 ];
 

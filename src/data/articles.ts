@@ -15038,8 +15038,47 @@ Ideal fÃ¼r: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichwe
   ]
 }
 </script>`
+  },
+  {
+    slug: "privatjet-mieten-kosten-guide",
+    title: "Privatjet mieten Kosten 2026: Was kostet ein Privatjet wirklich?",
+    description: "Privatjet mieten Kosten 2026: Stundensaetze, Gesamtpreise und wie du bis zu 50 Prozent mit Leerflug-Angeboten sparst.",
+    category: "Ratgeber",
+    readingMinutes: 9,
+    publishedDate: "2026-06-30",
+    content: `<p>Ein Privatjet mieten kostet 2026 je nach Flugzeugklasse zwischen 2.000 und 15.000 Euro pro Stunde. Ein Light Jet fuer kurze Strecken wie Hamburg-Muenchen kostet ca. 8.000-12.000 Euro gesamt. Die guenstigste Moeglichkeit sind Leerflug-Angebote, die 30-50 Prozent unter den Listenpreisen liegen.</p>
+<h2>Privatjet mieten Kosten: Stundensaetze 2026</h2>
+<table>
+<thead><tr><th>Klasse</th><th>Beispiele</th><th>Passagiere</th><th>Stundensatz</th></tr></thead>
+<tbody>
+<tr><td>Very Light Jet</td><td>Eclipse 500</td><td>bis 4</td><td>2.000-3.500 Euro/h</td></tr>
+<tr><td>Light Jet</td><td>Citation CJ3, Phenom 300</td><td>bis 7</td><td>3.500-5.500 Euro/h</td></tr>
+<tr><td>Midsize Jet</td><td>Citation XLS, Learjet 75</td><td>bis 9</td><td>5.000-7.500 Euro/h</td></tr>
+<tr><td>Heavy Jet</td><td>Gulfstream G550</td><td>bis 16</td><td>10.000-15.000 Euro/h</td></tr>
+</tbody>
+</table>
+<h2>Gesamtkosten: Was du wirklich zahlst</h2>
+<ul>
+<li><strong>Charterpreis:</strong> Stundensatz x Flugzeit. Light Jet 4.500 Euro/h x 1,5h = 6.750 Euro.</li>
+<li><strong>Leerfluggebuehren:</strong> Wenn das Flugzeug leer zum Startort fliegen muss, zahlst du 50-100% dieses Flugs extra.</li>
+<li><strong>Landegebuehren:</strong> 200-2.000 Euro je nach Flughafen.</li>
+<li><strong>Catering:</strong> Standard oft enthalten, Gourmet-Upgrade 100-500 Euro/Person.</li>
+</ul>
+<h2>Wie du beim Privatjet mieten sparst</h2>
+<h3>Leerflug-Angebote (Empty Legs)</h3>
+<p>Wenn ein Jet nach einer Buchung leer zurueckfliegen muss, bieten Anbieter diesen Rueckflug mit 30-60 Prozent Rabatt an. Villiers Jets hat eine der groessten Leerflug-Datenbanken in Europa.</p>
+<h3>Gruppen-Charter</h3>
+<p>Ein Light Jet fuer 6 Personen von Hamburg nach Ibiza (ca. 12.000 Euro) kostet pro Person 2.000 Euro, vergleichbar mit Business Class ohne die Wartezeiten am Flughafen.</p>
+<h2>Wann lohnt sich ein Privatjet?</h2>
+<p>Ein Privatjet rechnet sich bei Gruppen ab 4 Personen auf Strecken von 500-2.000 km, bei Zeitdruck auf Verbindungen ohne Direktflug, und bei Zielen mit kleinen Flughaefen ohne Linienverbindung.</p>
+<h2>Haeufige Fragen zu Privatjet Kosten</h2>
+<h3>Was kostet ein Privatjet von Muenchen nach Berlin?</h3>
+<p>Ca. 8.000-12.000 Euro gesamt fuer einen Light Jet. Flugzeit ca. 1 Stunde 15 Minuten. Bei 6 Personen: 1.300-2.000 Euro pro Person.</p>
+<h3>Gibt es Privatjets unter 5.000 Euro?</h3>
+<p>Auf Kurzstrecken unter 45 Minuten oder per Leerflug-Angebot ja, aber Landegebuehren und Positioning kommen hinzu. Geplante Strecken unter 5.000 Euro sind selten.</p>
+<h3>Wie lange im Voraus muss man buchen?</h3>
+<p>24-48 Stunden sind moeglich, aber mit schlechterer Verfuegbarkeit. Ideal: 1-2 Wochen im Voraus fuer normale Reisen, 3-6 Monate fuer Spitzentermine wie Silvester oder grosse Messen.`
   }
-
 ];
 
 export const articleCategories: string[] = [

@@ -15397,6 +15397,30 @@ Ideal fÃ¼r: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichwe
 
 <h2>Komfort: Fast gleich auf Langstrecke</h2>
 <p>Lufthansa First Class Suite oder Swiss First Class sind objektiv komfortabler fuer Einzelreisende als ein Leicht- oder Midsize-Privatjet. Ein Grossjet (Gulfstream G650, Global 7500) uebertrifft First Class in fast allen Komfortkriterien: mehr Platz, eigene Schlafkabinen, Konferenzbereich. Auf Kurzstrecken fehlt First Class meist komplett -- hier gewinnt der Privatjet punkto Komfort sogar gegen Business Class.`
+  },
+  {
+    slug: "privatjet-mieten-kosten-erklaert-2026",
+    title: "Privatjet mieten: Was kostet es wirklich? (2026)",
+    description: "Die tatsaechlichen Kosten fuer das Mieten eines Privatjets 2026: Stundenpreise nach Flugzeugklasse, versteckte Gebuehren und was den Preis wirklich bestimmt.",
+    excerpt: "Privatjet mieten im Jahr 2026 -- was Stundenpreise bedeuten, welche Gebuehren dazukommen und welche Klasse fuer welche Strecke geeignet ist.",
+    date: "2026-06-30",
+    category: "kosten",
+    readTime: "6 min",
+    content: `## Was kostet ein Privatjet wirklich?
+
+Der Preis fuer einen Privatjet schwankt erheblich je nach Flugzeugtyp, Strecke, Buchungszeitpunkt und Anbieter. Die Stundenpreise, die Charter-Anbieter kommunizieren, sind oft nur ein Teil des echten Preises. Treibstoffzuschlaege, Landegebuehren, Catering, Crew-Uebernachtungen und repositionierungsbedingte Leerfluege kommen fast immer dazu.
+
+## Stundenpreise nach Flugzeugklasse (2026)
+
+Sehr leichte Jets (z.B. Cirrus Vision Jet, HondaJet): ab 2.500 bis 3.500 Euro pro Stunde. Geeignet fuer kurze Strecken bis 1.500 km mit 4-5 Passagieren. Leichte Jets (z.B. Cessna Citation CJ3, Pilatus PC-24): ab 3.500 bis 5.000 Euro pro Stunde. Reichweite bis ca. 2.500 km, 6-7 Passagiere. Mittelgrosse Jets (z.B. Hawker 850XP, Cessna Citation XLS): ab 5.000 bis 7.000 Euro pro Stunde. Transatlantikfluege fuer 8-9 Passagiere moeglich. Schwere Jets (z.B. Gulfstream G450, Bombardier Challenger 605): ab 7.000 bis 12.000 Euro pro Stunde. Nonstop Interkontinentalfluege, 12+ Passagiere.
+
+## Was den Endpreis bestimmt
+
+Repositionierungsgebuehren: Falls die Maschine von einem anderen Ort zu Ihrem Abflughafen fliegen muss, zahlen Sie diesen Leerflug oft anteilig oder vollstaendig. Landegebuehren: Groessere Flughaefen (Zuerich, Frankfurt, London Heathrow) sind teurer als kleinere Business-Aviation-Airports. Catering: Einfaches Catering ist meist inklusive, Premium-Catering wird berechnet. Crew-Kosten bei langen Reisen: Falls die Crew uebernachten muss, kommen Hotel und Tagegeld dazu. Steuern und Gebuehren: VAT in Europa ist je nach Land zu entrichten.
+
+## Wann lohnt sich ein Privatjet?
+
+Fuer Gruppen ab 4-6 Personen auf Kurzstrecken naehern sich die Kosten manchmal Business-Class-Preisen an, wenn man die gesparte Zeit (kein Sicherheits-Check-in, direkter Zugang zu mehr Flughaefen) einrechnet. Auf langen Strecken ist der Privatjet immer deutlich teurer als First Class, aber fuer manche Reisenden ist die absolute Flexibilitaet und Privatsphaere den Aufpreis wert.\`
   }
 ];
 

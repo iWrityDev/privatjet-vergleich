@@ -15361,6 +15361,24 @@ Ideal fÃ¼r: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichwe
 
 <h2>FBOs und Handling an Mittelmeer-Destinationen</h2>
 <p>Ibiza (LEIB): guter FBO-Service, aber im Juli-August extreme Auslastung. Slot-Buchung Monate im Voraus notwendig. Nizza (LFMN): groesster Privatjet-Hub an der Cote d'Azur, exzellente Infrastruktur, mehrere FBOs (Signature, dnata). Olbia (LIEO): gut ausgestatteter Privatjet-Betrieb, aber Kapazitaet begrenzt -- Slots 4-8 Wochen im Voraus buchen.`
+  },
+  {
+    slug: "privatjet-catering-service-was-wird-geboten-2026",
+    title: "Privatjet Catering 2026: Was wird an Bord serviert und wie viel kostet es extra?",
+    description: "Was wird auf Privatjets typischerweise an Bord serviert? Standard-Catering, Extras und wie viel ein spezielles Catering beim Charter kostet.",
+    date: "2026-06-30",
+    category: "erfahrung",
+    readTime: "4 min",
+    content: `<p>Catering ist einer der am haeutigsten ueberschaetzten Aspekte des Privatjet-Erlebnisses. Die Realitaet haengt stark vom Operator, der Flugdauer und dem gebuchten Catering-Level ab. Hier ist was du realistischerweise erwarten kannst.</p>
+
+<h2>Standard-Catering</h2>
+<p>Bei den meisten Privatjet-Chartern ist ein Basis-Catering im Preis enthalten: kalte Getraenke (Wasser, Saft, Softdrinks), Snacks (Nuesse, Kekse, Fruechte) und Kaffee/Tee. Auf Flugstrecken unter 2 Stunden ist das typischerweise das Maximum des Standard-Caterings. Alkohol (Wein, Champagner) ist oft im Standard-Catering enthalten, aber nicht immer -- pruefe das beim Booking.</p>
+
+<h2>Aufwertungen und Extras</h2>
+<p>Warme Mahlzeiten: auf Flugstrecken ueber 2 Stunden koennen warme Mahlzeiten (vorgekocht und an Bord aufgewaermt) hinzugebucht werden. Typische Kosten: 100-300 Euro pro Person je nach Gericht. Champagner-Upgrade: ein hochwertiger Champagner statt des Standard-Sektangebots kostet typischerweise 50-150 Euro Aufpreis pro Flasche. Spezielle Diaeten: vegetarisch, vegan, koscher, halal -- gute Operator erfuellen diese Wuensche auf Anfrage, manchmal gegen Aufpreis. Kinderfreundliches Catering: auf Familienfluge kann auf Anfrage Kinderessen bereitgestellt werden.</p>
+
+<h2>Was realitisch teuer wird</h2>
+<p>Hochqualitativer Kaviar, truffierte Gerichte oder Luxus-Weinkeller-Bestellungen koennen das Catering-Budget erheblich uebersteigen. Fur Business-Charterfluge ist das Standard-Catering meist vollkommen ausreichend. Fuer besondere Anlaesse (Jubilaeum, Hochzeitsflug) empfiehlt es sich, das Catering direkt mit dem Operator zu besprechen und ein Budget vorab zu vereinbaren.`
   }
 ];
 

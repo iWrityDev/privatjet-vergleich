@@ -1437,6 +1437,28 @@ Fuer Gruppen ab 4-6 Personen auf Kurzstrecken naehern sich die Kosten manchmal B
 
 <h2>Buchung und Anbieter</h2>
 <p>Charterbroker: AirCharter Service, Chapman Freeborn, PrivateFly (Air Partner). Beim Buchen: ICAO-Zertifizierung (AOC) des Betreibers anfragen. Fragen nach Landgebuehren und FBO-Handlinggebuehren -- diese koennen im Angebotspreis fehlen. Zahlungsmethode klaeren (Bankueberweisung ueblich, Kreditkarte oft mit 2-3% Aufschlag).</p>`
+  },
+  {
+    slug: "privatjet-sicherheitsstandards-erklaert-2026",
+    title: "Privatjet Sicherheitsstandards: Was ARGUS, Wyvern und IS-BAO bedeuten",
+    description: "Wie Privatjet-Sicherheitsstandards in 2026 funktionieren: ARGUS, Wyvern PASS/WINGMAN und IS-BAO erklaert, und wie man beim Buchen auf Zertifizierungen achtet.",
+    publishedDate: "2026-06-30",
+    category: "ratgeber",
+    readingMinutes: 5,
+    content: `<h2>Warum Sicherheitsstandards beim Privatjet wichtig sind</h2>
+<p>Im Linienflug gibt es strikte staatliche Aufsicht (EASA, FAA) und standardisierte Sicherheitsprozesse. Im Privatjet-Charter ist die Bandbreite groesser: Es gibt seriose, hochzertifizierte Betreiber neben weniger regulierten. Charterbroker vermitteln Flugzeuge von verschiedenen Betreibern -- wer genau das Flugzeug fliegt und welche Sicherheitsstandards der Betreiber hat, ist fuer den Passagier oft nicht sofort ersichtlich. Deshalb gibt es unabhaengige Zertifizierungen.</p>
+
+<h2>ARGUS International</h2>
+<p>ARGUS International bewertet Charteroperatoren in drei Stufen: ARGUS Registered (Basisregistrierung, Verifizierung der Lizenzen), ARGUS Gold (gruendlicheres Audit), und ARGUS Platinum (hoegstes Niveau, tiefgehendes Audit von Betriebsablaeufen, Pilotenqualifikationen, Wartungsprogrammen). Beim Buchen eines Privatjets: nach der ARGUS-Einstufung des Operators fragen. Ein ARGUS Platinum Operator hat nachweislich hohere Sicherheitsstandards als ein nicht-zertifizierter Betreiber.</p>
+
+<h2>Wyvern PASS und WINGMAN</h2>
+<p>Wyvern ist eine weitere unabhaengige Sicherheitsbewertungsorganisation. Wyvern PASS (Pilot and Aircraft Safety Survey) bewertet Piloten und Flugzeuge. Wyvern WINGMAN bewertet den gesamten Charterbetrieb inkl. Sicherheitsmanagement. Viele grosse Unternehmen (Fortune 500) verlangen von ihren Charterbrokers, nur Wyvern-zertifizierte Betreiber zu buchen. Das ist ein gutes Indiz, dass diese Zertifizierung tatsaechlich hohe Standards signalisiert.</p>
+
+<h2>IS-BAO</h2>
+<p>IS-BAO (International Standard for Business Aircraft Operations) ist ein international anerkanntes Sicherheitsmanagementsystem-Framework, entwickelt von der International Business Aviation Council (IBAC). IS-BAO-Zertifizierung bedeutet, dass der Betreiber ein dokumentiertes Sicherheitsmanagementsystem hat. Ebenen: IS-BAO Stage 1 (Grundimplementierung), Stage 2 und Stage 3 (hoehere Reifegrade). IS-BAO wird besonders in Europa und international anerkannt, ARGUS und Wyvern sind staerker in den USA verbreitet.</p>
+
+<h2>Was man beim Buchen fragen sollte</h2>
+<p>Fragen Sie Ihren Charterbroker: Welchen ARGUS-Status hat der Operator? Ist der Operator Wyvern WINGMAN zertifiziert? Wie alt ist das Flugzeug, und wann war die letzte grosse Inspektion? Wie viele Flugstunden haben die Piloten auf diesem Flugzeugtyp? Ein serioeser Broker beantwortet diese Fragen ohne zu zögern. Wer ausweicht, ist kein gutes Zeichen.</p>`
   }
 ];
 

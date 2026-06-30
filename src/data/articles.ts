@@ -15191,6 +15191,24 @@ Ideal fÃ¼r: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichwe
 
 <h2>Gebuhrenuberblick</h2>
 <p>Landege- und Parkgebuhren variieren stark: Farnborough ca. 1.800-3.500 GBP fur einen Midsize-Jet, Genf ca. 800-1.500 CHF, Nice ca. 700-2.000 Euro je nach Flugzeuggewicht und Jahreszeit. Dazu kommen Hangar- oder Abstellgebuhren bei Ubernachtung und Handling-Gebuhren des FBO.`
+  },
+  {
+    slug: "privatjet-sicherheit-statistik-2026",
+    category: "informationen",
+    title: "Privatjet Sicherheit 2026: Statistiken, Risiken und Vergleich mit Linienflug",
+    description: "Ist ein Privatjet sicherer als ein Linienflug? Aktuelle Unfallstatistiken, die haufigsten Risikofaktoren und was die Zahlen wirklich bedeuten.",
+    publishedDate: "2026-06-30",
+    readTime: 5,
+    content: `<p>Privat- und Geschaftsluftfahrt hat eine signifikant hohere Unfallrate als die kommerzielle Linienluftfahrt -- aber der direkte Vergleich ist irreführend ohne Kontext. Pro geflogener Meile ist die kommerzielle Luftfahrt sicherer. Per Flugstunde ist der Unterschied geringer. Und innerhalb der Privatluftfahrt sind grosse Business Jets deutlich sicherer als kleine Propellerflugzeuge.</p>
+
+<h2>Unfallstatistiken</h2>
+<p>Die NTSB (USA) und EASA (Europa) veroffentlichen jahrliche Sicherheitsberichte. Wichtige Zahlen fur die europaische Geschaftsluftfahrt (EASA 2023): die todliche Unfallrate fur Geschaftsluftfahrt (Part-135 in den USA, NCC in Europa) liegt bei ca. 0,1-0,2 Unfallen pro 100.000 Flugstunden -- deutlich hoher als kommerzielle Luftfahrt (unter 0,02), aber deutlich niedriger als General Aviation (Freizeitflieger, uber 1,0). Turbinen-angetriebene Privatjets (also Jets und Turboprops) haben eine wesentlich bessere Bilanz als kolbengetriebene Kleinflugzeuge.</p>
+
+<h2>Die grossten Risikofaktoren</h2>
+<p>Analyse der Unfalle in der Geschaftsluftfahrt zeigt konsistente Muster: Anflug und Landung unter schlechten Wetterbedingungen (Nebel, Eisregen), Ermudung der Crew bei langen Einsatztagen, Kontinuation eines Anflugs trotz Unterschreitung von Mindestsicherheitshohen (CFIT - Controlled Flight Into Terrain), und Wartungsmangel bei alteren Flugzeugen. Qualitatsanbieter adressieren alle vier: moderne Flugzeuge mit TAWS und Enhanced Ground Proximity Warning, strikte Crew-Ruhezeiten, und regulare Audits.</p>
+
+<h2>Was Sie als Passagier beachten konnen</h2>
+<p>Wahl des Operators: Achten Sie auf IS-BAO-Zertifizierung (International Standard for Business Aircraft Operations) oder ARG/US-Bewertung (Platinum oder Gold). Diese unabhangigen Sicherheitsaudits sind fur die Privatluftfahrt das Aquivalent zu IATA IOSA in der Linienfahrt. Fragen Sie Ihren Charter-Broker explizit nach dem Sicherheitsaudit-Status des eingesetzten Operators.`
   }
 ];
 

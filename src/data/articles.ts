@@ -15152,6 +15152,27 @@ Ideal fÃ¼r: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichwe
 
 <h2>Steuerliche Aspekte (Deutschland)</h2>
 <p>Ein Privatjet kann unter bestimmten Bedingungen als Betriebsvermogen abgeschrieben werden, wenn nachgewiesen wird, dass er uberwiegend (mehr als 50%) fur betriebliche Zwecke genutzt wird. Privatnutzung muss als geldwerter Vorteil versteuert werden. Charterkosten konnen als Betriebsausgaben abgesetzt werden, wenn ein betrieblicher Anlass nachgewiesen wird. Konsultieren Sie einen auf Luftfahrt spezialisierten Steuerberater.</p>`
+  },
+  {
+    slug: "privatjet-leerflug-angebote-2026",
+    category: "kosten",
+    title: "Privatjet Leerfluge 2026: Wie Sie gunstige Empty Legs finden und buchen",
+    description: "Leerfluge (Empty Legs) sind Privatjet-Fluge ohne Passagiere, die bis zu 75% gunstiger sind. Hier erfahren Sie, wie Sie Empty Legs finden, was sie kosten und was zu beachten ist.",
+    publishedDate: "2026-06-30",
+    readTime: 5,
+    content: `<p>Ein Leerflug (Empty Leg) entsteht, wenn ein Privatjet nach einer Buchung ohne Passagiere zu seinem Ausgangsort zuruckkehren muss. Diese Fluge werden von Chartergesellschaften zu stark reduzierten Preisen angeboten -- oft 50-75% unter dem normalen Charterpreis. Sie sind die kostengunstigste legale Moglichkeit, einen Privatjet zu chartern.</p>
+
+<h2>Wie Empty Legs entstehen</h2>
+<p>Beispiel: Ein Geschaftsreisender bucht einen One-Way-Flug von Frankfurt nach London. Das Flugzeug muss danach leer nach Frankfurt zuruckfliegen. Diese Ruckflugs-Leerstrecke ist ein Empty Leg, das die Chartergesellschaft zu niedrigem Preis anbietet, weil das Flugzeug ohnehin fliegt.</p>
+
+<h2>Wo man Empty Legs findet</h2>
+<p>Die wichtigsten Plattformen fur Leerfluge in Europa und Deutschland: JetSmarter (jetzt VistaJet), Stratajet, XOJET, Victor und PrivateFly. Viele Chartergesellschaften listen ihre Empty Legs auch direkt auf ihrer Website. NetJets und Air Hamburg (gross in Deutschland) haben eigene Leerflug-Datenbanken. Fur den deutschsprachigen Markt ist airCharterService.com eine gute erste Anlaufstelle.</p>
+
+<h2>Was kostet ein Leerflug</h2>
+<p>Preisbeispiele fur typische Leerfluge: Frankfurt-London (ca. 2h, Leichtjet): 2.000-4.000 Euro statt 8.000-12.000 Euro normal. Hamburg-Zurich (ca. 1,5h, Midsize-Jet): 3.000-6.000 Euro statt 10.000-15.000 Euro normal. Berlin-Mallorca (ca. 2,5h, Leichtjet): 3.500-7.000 Euro statt 12.000-18.000 Euro normal. Diese Preise sind fur das gesamte Flugzeug, nicht pro Person.</p>
+
+<h2>Risiken und Einschrankungen</h2>
+<p>Leerfluge haben wenig Flexibilitat: Datum, Strecke und Abflugzeit sind fix (das Flugzeug muss so oder so fliegen). Kurzfristige Stornierungen durch den Erstbucher konnen den Empty Leg aufheben -- schauen Sie auf die Stornierungsbedingungen. Nicht ideal fur geplante Reisen mit fixen Terminen.</p>`
   }
 ];
 

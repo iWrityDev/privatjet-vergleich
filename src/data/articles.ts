@@ -1570,6 +1570,15 @@ Fuer Gruppen ab 4-6 Personen auf Kurzstrecken naehern sich die Kosten manchmal B
 
 <h2>Fuer wen Leerfluege geeignet sind</h2>
 <p>Leerfluege eignen sich am besten fuer: Flexibilitet vor Zeit (keine absoluten Terminfixierungen), Strecken die haeufig als Leerfluege auftreten (Saisonale Richtungen: Mallorca-Nordeuropa im Herbst, Suedfrankreich im September), Einzelpersonen oder kleine Gruppen die sich die Fixkosten eines normalen Charters nicht teilen koennen. Nicht geeignet fuer: wichtige Geschaftstermine, Gruppen die eine bestimmte Abflugzeit brauchen, Langstreckenreisen wo Leerfluege selten sind.</p>`
+  },
+  {
+    slug: "privatjet-beinhaltet-preis-was-ist-inklusive-2026",
+    title: "Was ist im Privatjet-Preis inklusive? Versteckte Kosten 2026",
+    description: "Was ist beim Privatjet-Charter wirklich im Preis enthalten und was nicht? Flughafengebuehren, Crew-Kosten, Catering, Reposisionierung und Uebernachtungen erklaert.",
+    publishedDate: "2026-06-30",
+    readingMinutes: 5,
+    category: "kosten",
+    content: "<h2>Was normalerweise inklusive ist</h2><p>Ein serioeser Charterpreis enthaelt: Flugzeit (von Abflug bis Landung), Treibstoff, Crew (Pilot, Copilot, bei groesseren Maschinen Kabinenpersonal), grundlegende Flughafengebuehren am Heimatflughafen des Operators, Haftpflichtversicherung und Passagierversicherung. Was als Standard gilt, variiert nach Operator -- immer schriftlich bestaetigen lassen.</p><h2>Was extra kostet</h2><p>Repositionierungsflug (Ferry Flight): Das Flugzeug muss oft von seinem Standort zu Ihrem Abflugort fliegen. Diese Leerflugkosten werden teilweise oder vollstaendig weiterberechnet. Fragen Sie: 'Ist der Ferry Flight inklusive?' Landungsgebuehren und Handling: An vielen Flughaefen fallen Gebuehren fuer Ground Handling, Sicherheitschecks und Abfertigungsgebuehren an -- diese werden oft separat abgerechnet. Catering: Standardgetraenke (Wasser, Kaffee) sind meist inklusive; vollstaendiges Catering und Alkohol sind haeufig kostenpflichtig. Uebernachtungskosten der Crew: Bei Trips, die eine Uebernachtung erfordern, werden die Hotelkosten und Tagessaetze der Crew weitergegeben. De-icing: Im Winter koennen Enteisungsgebuehren anfallen (50-500 EUR je nach Flugzeuggroesse und Flughafen).</p><h2>Einweg vs. Hin- und Rueckflug</h2><p>Bei Einwegfluegen: Das Flugzeug kehrt nach dem Absetzen der Passagiere zum Standort zurueck (Leerflug). Viele Operatoren bieten sogenannte 'Empty Legs' an -- Leerfluege zu stark reduzierten Preisen (bis zu 75% Rabatt). Plattformen wie JetSmarter, PrivateFly oder Victor aggregieren diese Angebote. Nachteil: keine Flexibilitaet bei Zeitplanung oder Destination.</p><h2>Wie man Vergleichsangebote richtig liest</h2><p>Fragen Sie immer nach dem 'all-in' Preis -- inklusive aller Gebuehren und des Repositionierungsflugs. Serioes kalkulierte Angebote enthalten eine Kostenaufstellung. Wenn ein Angebot nur 'Flugpreis ab X EUR' nennt, ohne Zusatzkosten aufzulisten, ist Vorsicht geboten -- der Endpreis kann 20-40% hoeher liegen.</p>",
   }
 ];
 

@@ -15116,6 +15116,21 @@ Ideal fÃ¼r: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichwe
 </ul>
 
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Was macht ein Privatjet Broker?","acceptedAnswer":{"@type":"Answer","text":"Ein Privatjet Broker vermittelt Charter-Fluege zwischen dem Kunden und dem Flugzeugbetreiber. Er hat Zugang zu Netzwerken von Betreibern, prueft Sicherheitszertifikate, verhandelt den Preis und organisiert den Ablauf. Die Provision von 10 bis 20 Prozent ist im Angebotspreis enthalten."}},{"@type":"Question","name":"Was kostet es, einen Privatjet Broker zu nutzen?","acceptedAnswer":{"@type":"Answer","text":"Die Broker-Provision von 10 bis 20 Prozent ist im Angebotspreis enthalten und wird nicht separat berechnet. Lassen Sie immer zwei bis drei Angebote vergleichen, um den Marktpreis zu kennen."}},{"@type":"Question","name":"Welche Privatjet Broker Plattformen sind empfehlenswert?","acceptedAnswer":{"@type":"Answer","text":"Villiers Jets fuer europaweite Vergleiche. XO fuer Mitflugoptionen auf beliebten Strecken. Air Charter Service fuer Gruppenfluge. VistaJet fuer Vielreisende mit Stundenabonnements."}}]}</script>`
+  },
+  {
+    id: "privatjet-kosten-pro-stunde-2026",
+    slug: "privatjet-kosten-pro-stunde-2026",
+    title: "Privatjet Kosten pro Stunde 2026: Was kostet ein Privatflug wirklich?",
+    excerpt: "Die Kosten fuer einen Privatjet liegen 2026 zwischen 1.500 Euro (Turboprop, kurze Strecke) und 20.000 Euro pro Stunde (Ultra-Long-Range Jet). Dieser Artikel erklaert, welche Faktoren den Preis bestimmen.",
+    content: "Die Kosten fuer einen Privatjet pro Stunde haengen von Flugzeugkategorie, Route und Auslastung des Anbieters ab. Als Richtwert fuer 2026:\n\nTurboprop (z.B. Pilatus PC-12): 1.500-2.500 Euro/Stunde. Geeignet fuer kurze Strecken bis 1.500 km, 6-8 Passagiere.\n\nLeichtjet (z.B. Cessna Citation CJ3+): 2.500-4.000 Euro/Stunde. Europa-Strecken, 6-7 Passagiere, bis 3.000 km Reichweite.\n\nMittelgroesser Jet (z.B. Hawker 900XP, Cessna Citation XLS): 4.000-6.000 Euro/Stunde. Interkontinentale Strecken in zwei Etappen, 8 Passagiere.\n\nGrosser Jet (z.B. Bombardier Challenger 650): 6.000-10.000 Euro/Stunde. Direktfluege USA-Europa moeglich, 12-14 Passagiere.\n\nUltra-Long-Range (z.B. Gulfstream G700, Bombardier Global 7500): 10.000-20.000 Euro/Stunde. Non-Stop-Weltfluege, Schlafzimmer und volle Kueche.\n\nDiese Stundenpreise gelten fuer die Flugzeit. Hinzu kommen: Leerflugkosten (sog. Deadhead Legs), wenn das Flugzeug leer zurueckfliegen muss; Landegebuehren und Handling-Gebuehren am Zielflughafen; Catering und Sonderausstattung; sowie Mehrwertsteuer (in Deutschland 19%, in Laendern mit attraktiveren Regelungen weniger).\n\nEin Privatflug Paris-Berlin im Leichtjet kostet damit in der Gesamtrechnung 8.000-12.000 Euro, nicht 2.500 Euro fuer eine Stunde Flugzeit.\n\nWer Privatjet guenstiger buchen moechte, sollte Leerflugboersen (Empty Legs) nutzen. Ein Jet, der nach einem Charter leer zurueckfliegen muss, wird zu 50-80% Rabatt angeboten. Platforms wie JetSmarter, PrivateFly und XO bieten diese an. Der Nachteil: Route und Zeitpunkt sind fix und nicht anpassbar.\n\nPrivatjet-Abonnements sind eine weitere Option: Wheels Up (USA), VistaJet (global) und NetJets bieten Stundenkontingente an, die fuer vielfliegende Unternehmen guenstiger als Einzelcharterpreise sind.",
+    author: "Privatjet Vergleich Redaktion",
+    publishedAt: "2026-06-30",
+    updatedAt: "2026-06-30",
+    category: "ratgeber",
+    readTimeMinutes: 6,
+    tags: ["kosten", "privatjet", "preise", "stundensatz"],
+    metaTitle: "Privatjet Kosten pro Stunde 2026: Preise und Faktoren",
+    metaDescription: "Was kostet ein Privatjet pro Stunde in 2026? Turboprop ab 1.500 Euro, Ultra-Long-Range bis 20.000 Euro. Alle Faktoren, Leerflugoptionen und Abonnements erklaert."
   }
 ];
 

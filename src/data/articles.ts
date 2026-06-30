@@ -15606,6 +15606,24 @@ Fuer Gruppen ab 4-6 Personen auf Kurzstrecken naehern sich die Kosten manchmal B
 
 <h2>Reposistionierungsflug vs. Leerflug</h2>
 <p>Technisch sind beides Leerfluege, aber der Begriff Repositionierungsflug bezeichnet spezifisch den Transfer eines Flugzeuges zum naechsten Einsatzort. Diese Fluege sind oft etwas laenger planbar (1-2 Wochen im Voraus) als reine Leerfluege, die oft ad hoc entstehen. Der Preisunterschied zum Normalpreis ist aehnlich.</p>`
+  },
+  {
+    slug: "privatjet-gastronomie-catering-optionen-2026",
+    title: "Privatjet Catering: Was erwartet Sie an Bord und wie koennen Sie es anpassen?",
+    description: "Was beim Privatjet-Catering Standard ist, was sich individualisieren laesst, und wie sich Gastronomie auf kleinen vs grossen Privatjets unterscheidet.",
+    date: "2026-06-30",
+    category: "ratgeber",
+    content: `<h2>Catering als Teil des Privatjet-Erlebnisses</h2>
+<p>Catering ist einer der deutlichsten Unterschiede zwischen Privatjet und Linienflug auch in der Business Class. Auf einem Privatjet legen Sie fest, was gegessen wird -- keine Menuekarte mit zwei Optionen, keine Wartezeiten. Der Operator oder sein Catering-Partner bereitet die Speisen vor dem Flug zu und liefert sie an Bord. Das Angebot haengt vom Operator, der Flugdauer und dem Charterbudget ab.</p>
+
+<h2>Kleiner Jet (4-6 Sitzplaetze): leichtes Catering</h2>
+<p>Auf kleinen Jets wie Cessna Citation Mustang oder Pilatus PC-24 ist der Kabinenraum begrenzt, und es gibt keinen dedizierten Steward. Standard-Catering besteht aus: kalten Snacks (Kaese, Charcuterie, Oliven, Gebaeck), frischem Obst, Kaltgetraenken (Wasser, Softdrinks, Safte), Alkohol nach Absprache (Wein, Champagner, Spirituosen), und einfachen warmen Getraenken (Kaffee, Tee aus Thermoskannen). Warme Hauptgerichte sind auf kleinen Jets selten und logistisch aufwendig.</p>
+
+<h2>Mittlerer und grosser Jet: Vollservice-Catering</h2>
+<p>Auf groesseren Jets (Global Express, Gulfstream G550, Falcon 7X) mit dedizierten Stewards ist Vollservice-Catering moeglich: mehrgaengige Mahlzeiten, warme Hauptgerichte aus einer Bordkueche (Galley), Weinbegleitung, und individuell zusammengestellte Menuekarten je nach Wunsch der Passagiere. Der Operator bestellst das Catering typischerweise bei spezialisierten Flugcaterern (wie Do & Co oder LSG Sky Chefs fuer privaten Bereich), die auf die Anforderungen von Privatjets ausgerichtet sind.</p>
+
+<h2>Was laesst sich individuell anpassen?</h2>
+<p>Fast alles bei einem guten Operator: Diaetaere Anforderungen (vegan, koscher, glutenfrei), Lieblingsgerichte oder Gerichte aus einem bestimmten Restaurant, bevorzugte Weinkarte oder Spirituosenauswahl, und Kindermenues oder spezielle Wuensche fuer Geschaeftsmeetings an Bord (Konferenzverpflegung statt klassischer Reisegastronomie). Teilen Sie spezifische Wuensche bei der Buchung mit -- Cateringaenderungen kurz vor Abflug sind selten moeglich.</p>`
   }
 ];
 

@@ -1551,6 +1551,25 @@ Fuer Gruppen ab 4-6 Personen auf Kurzstrecken naehern sich die Kosten manchmal B
 
 <h2>Preis-Richtwerte im Vergleich</h2>
 <p>Turboprop (Pilatus PC-12, 8-9 Pax) kurzstrecke Muenchen-Zuerich: 2.500-4.000 Euro. Light Jet (Citation M2, 6 Pax) gleiche Strecke: 5.000-8.000 Euro. Turboprop Mittelstrecke (800 km): 6.000-9.000 Euro. Light Jet gleiche Strecke: 10.000-16.000 Euro. Faustregel: Turboprop ist 30-50% guenstiger auf vergleichbaren Strecken, aber 15-25% langsamer. Wenn Zeit entscheidet: Jet. Wenn Budget oder kleiner Flughafen entscheiden: Turboprop.`
+  },
+  {
+    slug: "privatjet-leerfluege-schnaeppchen-2026",
+    title: "Leerfluege: So buchen Sie Privatjets zu 30-60% Rabatt",
+    description: "Privatjet Leerfluege (Empty Legs) erklaert: was sie sind, wie man sie findet, welche Plattformen anbieten, was die echten Einschraenkungen sind, und fuer wen sie sich eignen.",
+    publishedDate: "2026-06-30",
+    category: "kosten",
+    readingMinutes: 5,
+    content: `<h2>Was sind Leerfluege?</h2>
+<p>Ein Leerflug (Empty Leg oder Dead Leg) entsteht, wenn ein Privatjet nach einem Charter-Flug ohne Passagiere zu einem Ausgangsstandort zurueckfliegen muss, oder wenn ein Flugzeug zur Abholung eines Kunden am neuen Standort positioniert werden muss. Das Flugzeug fliegt so oder so -- der Operator verliert weniger Geld wenn er den Sitz zu einem guenstigeren Preis als den Leerflug-Verlust verkauft. Ergebnis: Passagiere koennen diesen Flug zu 30-60% des normalen Charterpreises buchen. Ein Flug der normalerweise 15.000 Euro kostet, ist als Leerflug fuer 6.000-8.000 Euro buchbar.</p>
+
+<h2>Die echten Einschraenkungen</h2>
+<p>Leerfluege sind keine normalen Flugtickets mit Rabatt. Einschraenkungen: Strecke und Uhrzeit sind fix (das Flugzeug fliegt von A nach B wann es muss -- Sie koennen weder Abflugszeit noch Route aendern). Kurzfristige Verfuegbarkeit: Leerfluege werden oft erst 24-72 Stunden vorher verfuegbar (manchmal noch kurzfristiger). Aenderungen oder Stornierungen: stark eingeschraenkt oder unmoeglich -- das Flugzeug muss zur Startposition fuer den naechsten Auftrag. Keine Garantie fuer Rueckflug: ein Leerflug hin bedeutet nicht, dass es einen Leerflug zurueck gibt. Fuer Business-Reisen mit Terminen ist das Risiko der fehlenden Flexibilitaet erheblich.</p>
+
+<h2>Wo man Leerfluege findet</h2>
+<p>Spezialisierte Plattformen: JetSmarter (jetzt Victor), Globalair.com/empty-legs, AviationIN, Charterflug.de Leerflug-Sektion. Direkte Operator-Newsletter: viele Operatoren senden ihren Stammkunden Leerflug-Benachrichtigungen. Charterbroker: gute Broker mit breitem Netzwerk sehen Leerfluege aller ihrer Operator-Partner. Apps: Victor, JetApp und PrivateFly haben Leerflug-Alertfunktionen.</p>
+
+<h2>Fuer wen Leerfluege geeignet sind</h2>
+<p>Leerfluege eignen sich am besten fuer: Flexibilitet vor Zeit (keine absoluten Terminfixierungen), Strecken die haeufig als Leerfluege auftreten (Saisonale Richtungen: Mallorca-Nordeuropa im Herbst, Suedfrankreich im September), Einzelpersonen oder kleine Gruppen die sich die Fixkosten eines normalen Charters nicht teilen koennen. Nicht geeignet fuer: wichtige Geschaftstermine, Gruppen die eine bestimmte Abflugzeit brauchen, Langstreckenreisen wo Leerfluege selten sind.</p>`
   }
 ];
 

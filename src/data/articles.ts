@@ -15421,6 +15421,26 @@ Repositionierungsgebuehren: Falls die Maschine von einem anderen Ort zu Ihrem Ab
 ## Wann lohnt sich ein Privatjet?
 
 Fuer Gruppen ab 4-6 Personen auf Kurzstrecken naehern sich die Kosten manchmal Business-Class-Preisen an, wenn man die gesparte Zeit (kein Sicherheits-Check-in, direkter Zugang zu mehr Flughaefen) einrechnet. Auf langen Strecken ist der Privatjet immer deutlich teurer als First Class, aber fuer manche Reisenden ist die absolute Flexibilitaet und Privatsphaere den Aufpreis wert.\`
+  },
+  {
+    slug: "leerflug-angebote-privatjet-2026",
+    title: "Leerflug-Angebote beim Privatjet: Wie man guenstig fliegt 2026",
+    description: "Leerfluege bei Privatjets sind deutlich guenstiger als regulaere Charterpreise. Wie das System funktioniert, wo man Angebote findet und worauf man achten muss.",
+    excerpt: "Leerfluege beim Privatjet -- bis zu 75% guenstiger als regulaere Charter. Wie du Leerflug-Plattformen nutzt und worauf du achten solltest.",
+    date: "2026-06-30",
+    category: "tipps",
+    readTime: "5 min",
+    content: `<h2>Was ist ein Leerflug?</h2>
+<p>Ein Leerflug (englisch: empty leg) entsteht, wenn ein Privatjet nach dem Hinflug leer zum Ausgangsort oder zu einem anderen Standort zurueckfliegen muss. Der Charterkunde zahlt nur fuer seinen gebuchten Abschnitt, der Betreiber muss aber das Flugzeug bewegen. Diesen Leerflug bieten Anbieter oft zu stark reduzierten Preisen an -- manchmal 50 bis 75 Prozent unter dem regulaeren Charterpreis.</p>
+
+<h2>Wo man Leerflug-Angebote findet</h2>
+<p>JetSmarter (jetzt aufgegangen in anderen Plattformen), PrivateFly und Victor Aviation veroeffentlichen Leerfluege auf ihren Websites und in Apps. Einige Anbieter haben spezielle Leerflug-Kategorien auf ihrer Buchungsplattform. BAPP (Book a Private Plane) und Fly Victor sind in Europa aktiv. Tipp: Newsletter-Anmeldung bei mehreren Anbietern, da Leerfluege oft kurzfristig und nur kurze Zeit verfuegbar sind.</p>
+
+<h2>Einschraenkungen bei Leerfluegen</h2>
+<p>Route und Zeitpunkt sind vorgegeben: du kannst den Abflugort, das Ziel und die Abflugzeit nicht frei waehlen -- du buchst, was gerade angeboten wird. Oft sind die Buchungsfenster sehr kurz (24-48 Stunden). Umbuchungen oder Aenderungen sind in der Regel nicht moeglich. Die Abflugzeiten koennen ungeleich sein (fruehe Morgen, spaete Abende). Trotzdem: wer flexibel ist und regelmaessig Plattformen beobachtet, kann erheblich sparen.</p>
+
+<h2>Leerflug vs. regulaerer Charter: Wann was</h2>
+<p>Leerflug eignet sich fuer: flexible Reisende die eine Strecke ohnehin planen, kurzfristige Entscheidungen, Erfahrungen mit Privatjet-Reisen sammeln. Regulaerer Charter ist besser fuer: gebuchte Termine (Meetings, Events), Reisen mit mehreren Personen die Abstimmung benoetigen, Strecken ohne passendes Leerflug-Angebot.</p>`
   }
 ];
 

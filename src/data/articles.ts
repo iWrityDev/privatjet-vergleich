@@ -14890,7 +14890,107 @@ Ideal fÃ¼r: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichwe
 <p>Leerfluge (Empty Legs) bieten bis zu 75 Prozent Rabatt. Der Nachteil: Zeitpunkt und Route sind fix.</p>
 <h2>Fazit</h2>
 <p>Mit dem richtigen Anbieter und etwas Planung sind die Kosten pro Person uberschaubar.</p>`
-  },
+  },,
+  {
+    slug: 'privatjet-amsterdam-kosten-2026',
+    title: 'Privatjet ab Amsterdam: Aktuelle Kosten und Strecken 2026',
+    description: 'Privatjet Amsterdam Kosten 2026: Preisrahmen fuer London, Paris, Ibiza und Zuerich, Empty Leg Tipps und Vergleich mit Business Class.',
+    category: 'Ratgeber',
+    readingMinutes: 7,
+    publishedDate: '2026-06-30',
+    content: `<div style="background:#f0f9ff;border-left:4px solid #0ea5e9;padding:14px 18px;margin-bottom:24px;border-radius:4px"><strong>Schnellantwort: Privatjet Amsterdam Kosten</strong><ul style="margin:6px 0 0 0;padding-left:18px"><li>Amsterdam (AMS/EHAM) nach London: ab ca. 8.000 bis 12.000 Euro fuer einen Leichtjet</li><li>Amsterdam nach Paris: ab ca. 6.500 bis 10.000 Euro (ca. 45 Minuten Flugzeit)</li><li>Amsterdam nach Ibiza: ab ca. 15.000 bis 25.000 Euro (Midsize-Jet, ca. 2,5 Stunden)</li><li>Kosten haengen ab von: Jet-Kategorie, Passagierzahl, Leerflug-Situation und Buchungsvorlauf</li></ul></div>
+
+<p>Amsterdam Schiphol (EHAM) ist einer der meistgenutzten Privatjet-Startpunkte in Europa. Die Niederlande haben keine eigene grosse Charterbasis, aber Schiphol und Rotterdam The Hague Airport (EHRD) werden von fuehrenden Operateuren angelogen. Dieser Artikel schlusselt die tatsaechlichen Kostenstrukturen auf, erklaert wann ein Einzel-Charter gegenueber einer Leerkabine (Empty Leg) sinnvoll ist, und nennt konkrete Preisrahmen fuer die wichtigsten Routen ab Amsterdam.</p>
+
+<h2>Wie Privatjet-Preise ab Amsterdam entstehen</h2>
+
+<p>Die Kosten fuer einen Privatjet ab Amsterdam setzen sich aus mehreren Faktoren zusammen:</p>
+<ul>
+<li><strong>Jet-Kategorie:</strong> Leichtjet (4 bis 6 Sitze, z.B. Phenom 300), Midsize (6 bis 8 Sitze, z.B. Citation XLS), Schwerer Jet (10 bis 14 Sitze, z.B. Gulfstream G450)</li>
+<li><strong>Leerflug (Empty Leg):</strong> Wenn ein Jet nach einer Buchung ohne Passagiere zum Startpunkt zurueckfliegen muss, entsteht ein Empty Leg, der bis zu 75 Prozent guenstiger vermarktet wird</li>
+<li><strong>Buchungsvorlauf:</strong> Kurzfristige Buchungen sind teurer, da weniger Empty Legs verfuegbar sind</li>
+<li><strong>Flughafengebuehren:</strong> Schiphol erhebt hoehere Slot-Gebuehren als kleinere Airports; Nutzung von Rotterdam oder Lelystad kann Kosten reduzieren</li>
+</ul>
+
+<p>Fuer einen umfassenden Preisvergleich empfiehlt sich die <a href="https://www.villiersjets.com/?utm_source=privatjet-vergleich&amp;utm_medium=blog&amp;utm_campaign=amsterdam" rel="nofollow noopener" target="_blank">Villiers Jets Plattform</a>, die Empty Legs und Charter-Angebote von ueber 10.000 Operateuren aggregiert und in Echtzeit vergleichbar macht.</p>
+
+<h2>Konkrete Preisrahmen ab Amsterdam (2026)</h2>
+
+<h3>Amsterdam nach London (LCY/EGLL, ca. 400 km)</h3>
+<ul>
+<li>Leichtjet (Phenom 100/300): 8.000 bis 12.000 Euro</li>
+<li>Midsize (Citation XLS): 12.000 bis 18.000 Euro</li>
+<li>Flugzeit: ca. 55 Minuten</li>
+<li>Empty Leg Chance: hoch (eine der meistgeflogenen Business-Aviation-Strecken Europas)</li>
+</ul>
+
+<h3>Amsterdam nach Paris (LFPB/Le Bourget, ca. 430 km)</h3>
+<ul>
+<li>Leichtjet: 6.500 bis 10.000 Euro</li>
+<li>Midsize: 10.000 bis 16.000 Euro</li>
+<li>Flugzeit: ca. 45 Minuten</li>
+<li>Hinweis: Le Bourget ist der Privatjet-Hauptflughafen Paris; Orly und CDG haben deutlich hoehere Slot-Kosten</li>
+</ul>
+
+<h3>Amsterdam nach Ibiza (LEIB, ca. 1.650 km)</h3>
+<ul>
+<li>Midsize (Citation XLS, Hawker 800): 15.000 bis 25.000 Euro</li>
+<li>Schwerer Jet: 28.000 bis 45.000 Euro</li>
+<li>Flugzeit: ca. 2,5 bis 3 Stunden</li>
+<li>Sommersaison: Preise steigen durch hohe Nachfrage um 20 bis 40 Prozent</li>
+</ul>
+
+<h3>Amsterdam nach Zuerich (LSZH, ca. 750 km)</h3>
+<ul>
+<li>Leichtjet: 10.000 bis 14.000 Euro</li>
+<li>Midsize: 14.000 bis 20.000 Euro</li>
+<li>Flugzeit: ca. 1 Stunde 20 Minuten</li>
+</ul>
+
+<h2>Empty Legs ab Amsterdam: Wo suchen?</h2>
+
+<p>Empty Legs entstehen taeglich durch Positionierungsfluge. Fuer Routen ab Amsterdam sind folgende Quellen nuetzlich:</p>
+<ul>
+<li><a href="https://www.villiersjets.com/?utm_source=privatjet-vergleich&utm_medium=blog&utm_campaign=amsterdam-empty" rel="nofollow noopener" target="_blank">Villiers Jets Empty Leg-Suche</a> mit Echtzeit-Verfuegbarkeit</li>
+<li>JETTLY und PrivateFly (ebenfalls grosse Aggregatoren mit Amsterdam-Abdeckung)</li>
+<li>Direkte Operateure wie Air Hamburg oder Luxaviation, die Basen in Norddeutschland und den Niederlanden betreiben</li>
+</ul>
+
+<p>Wichtig: Empty Legs haben feste Strecken und sind an einen engen Zeitrahmen gebunden. Sie passen nicht fuer Reisende mit variablen Terminen, sind aber fuer Flexibilitaet eine echte Kostenersparnis.</p>
+
+<h2>Privatjet ab Amsterdam versus Linienflug: Wann rechnet es sich?</h2>
+
+<p>Ein Privatjet lohnt sich ab Amsterdam dann, wenn mehrere dieser Faktoren zutreffen:</p>
+<ul>
+<li>Gruppe von 4 oder mehr Personen (Kostenverteilung auf Passagiere)</li>
+<li>Zielflughafen ohne direkte Linienverbindung (z.B. Ibiza im Winter, suedfranzoesoische Kleinstaedte)</li>
+<li>Zeitkritische Reise mit wenig Puffer (Eigecheck: 15 Minuten statt 2 Stunden)</li>
+<li>Notwendigkeit fuer Vertraulichkeit (Business-Meetings an Bord)</li>
+<li>Kombination mehrerer Ziele an einem Tag (Multi-Leg-Reise)</li>
+</ul>
+
+<p>Fuer Solo-Reisende oder Duos auf Standardstrecken nach London oder Paris ist ein Premium-Business-Class-Ticket oft guenstiger. Der Break-Even liegt bei den meisten Leichtjet-Routen ab Amsterdam bei 3 bis 4 Passagieren.</p>
+
+<h2>Haufig gestellte Fragen</h2>
+
+<details><summary><strong>Welcher Flughafen in Amsterdam wird fuer Privatjets genutzt?</strong></summary><p>Hauptsaechlich Amsterdam Schiphol (EHAM), der ueber ein dediziertes General Aviation Terminal verfuegt. Fuer kuerzere Strecken und niedrigere Slot-Gebuehren wird auch Rotterdam The Hague Airport (EHRD) genutzt.</p></details>
+
+<details><summary><strong>Wie buche ich einen Privatjet ab Amsterdam?</strong></summary><p>Ueber einen Broker wie Villiers Jets, PrivateFly oder JETTLY, die Angebote von hunderten Operateuren vergleichen. Direkte Buchungen bei Operateuren sind moeglich, aber ohne Vergleichsmoeglichkeit oft teurer.</p></details>
+
+<details><summary><strong>Was ist ein Empty Leg und wie spare ich damit Geld?</strong></summary><p>Ein Empty Leg ist ein Leerflug, den ein Operateur durchfuehrt, um einen Jet nach einer Buchung zum naechsten Startpunkt zu bringen. Diese Fluege werden zu Rabatten von 50 bis 75 Prozent angeboten. Nachteil: feste Strecke und zeitlich wenig flexibel.</p></details>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {"@type": "Question", "name": "Was kostet ein Privatjet ab Amsterdam nach London?", "acceptedAnswer": {"@type": "Answer", "text": "Ein Leichtjet ab Amsterdam nach London kostet zwischen 8.000 und 12.000 Euro. Midsize-Jets liegen bei 12.000 bis 18.000 Euro. Empty Legs auf dieser Strecke sind haeufig und koennen 50 bis 75 Prozent guenstiger sein."}},
+    {"@type": "Question", "name": "Welcher Flughafen in Amsterdam wird fuer Privatjets genutzt?", "acceptedAnswer": {"@type": "Answer", "text": "Hauptsaechlich Amsterdam Schiphol (EHAM) mit eigenem General Aviation Terminal. Alternativ Rotterdam The Hague Airport (EHRD) mit niedrigeren Gebuehren."}},
+    {"@type": "Question", "name": "Wie viel kostet ein Privatjet von Amsterdam nach Ibiza?", "acceptedAnswer": {"@type": "Answer", "text": "Ein Midsize-Jet von Amsterdam nach Ibiza kostet zwischen 15.000 und 25.000 Euro. In der Sommersaison steigen die Preise um 20 bis 40 Prozent durch hoehere Nachfrage."}}
+  ]
+}
+</script>`
+  }
 ];
 
 export const articleCategories: string[] = [

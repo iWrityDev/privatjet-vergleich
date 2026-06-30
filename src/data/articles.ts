@@ -1513,6 +1513,25 @@ Fuer Gruppen ab 4-6 Personen auf Kurzstrecken naehern sich die Kosten manchmal B
 
 <h2>Gruppen-Buchungstipps</h2>
 <p>Leerfl\u00fcge (Empty Legs) pr\u00fcfen: wenn das Flugzeug nach dem Gruppenflug ohnehin umpositionieren muss, sind Preisreduktionen von 30-50% m\u00f6glich. Mehrere Charterbroker anfragen: Preise variieren je nach Verf\u00fcgbarkeit und Leerflug-Konstellationen um 15-30%. Fr\u00fchzeitig buchen f\u00fcr Standardtermine (Wochenendbeginn, Saisonhochpunkte) oder spontan f\u00fcr Leerfl\u00fcge. R\u00fcckflug mitkalkulieren: ist ein Repositionierungs-Leerflug verf\u00fcgbar, k\u00f6nnen Hin- und R\u00fcckfl\u00fcge separat zu g\u00fcnstigen Konditionen gebucht werden. Kein Account-Manager: Gruppen-Charter l\u00e4uft \u00fcber denselben Buchungsprozess wie Einzelbuchungen -- kein spezieller Status notwendig.`
+  },
+  {
+    slug: "privatjet-flugvermittler-vs-direktbuchung-2026",
+    title: "Privatjet-Vermittler vs. Direktbuchung beim Operator: Was ist der Unterschied?",
+    description: "Charterbroker vs. Direktbuchung beim Flugzeugbetreiber: wann sich welcher Weg lohnt, was Broker verdienen, wie die Preisunterschiede entstehen und welche Sicherheit welcher Weg bietet.",
+    publishedDate: "2026-06-30",
+    category: "buchung",
+    readingMinutes: 5,
+    content: `<h2>Zwei Wege zum Privatjet</h2>
+<p>Wenn Sie einen Privatjet chartern, gibt es grundsaetzlich zwei Wege: direkt beim Operator buchen (dem Unternehmen, dem das Flugzeug gehoert oder das es operiert) oder ueber einen Charterbroker (einem Vermittler, der Zugang zu mehreren Operatoren hat). Beide Wege haben Vor- und Nachteile. Die Wahl haengt davon ab, was Sie priorisieren: Preis, Einfachheit, Auswahl oder Vertrauensbeziehung.</p>
+
+<h2>Direktbuchung beim Operator</h2>
+<p>Vorteile: kein Brokeraufschlag, direkte Kommunikation mit dem Operator, klare Verantwortlichkeit. Nachteile: Sie sind auf das Flugzeugportfolio dieses einen Operators beschraenkt -- kein Zugang zu Leerflug-Opportunitaeten anderer Operator-Flotten, und kein einfacher Preisvergleich. Gut fuer: wenn Sie regelmaessig aehnliche Strecken fliegen und eine Stammbeziehung mit einem spezifischen Operator aufbauen -- dann koennen Sie bevorzugte Verfuegbarkeit und bessere Konditionen als Stammkunde verhandeln. Wie finden: in Deutschland und Oesterreich gelistete Operatoren finden Sie ueber das LBA (Luftfahrt-Bundesamt) oder die Branchenverzeichnisse wie air-charter-guide.com.</p>
+
+<h2>Charterbroker</h2>
+<p>Vorteile: Zugang zu hunderten von Flugzeugen verschiedener Operator, Leerflug-Datenbanken, Preisvergleich ueber mehrere Operatoren, oft eine Anlaufstelle fuer komplexe Reisen. Nachteile: Brokeraufschlag (typisch 10-20% auf den Operator-Preis), und Sie wissen nicht immer, welcher Operator den Flug tatsaechlich durchfuehrt -- Qualitaetskontrolle liegt beim Broker. Wie erkenne ich einen seriosen Broker: Mitglied bei BACA (British Air Charter Association), NBAA oder ICCAIA, klare schriftliche Vertraege, ausfuehren per ACMI-Vertrag mit benanntem Operator, kein Prepayment ohne Treuhandkonto-Optionen.</p>
+
+<h2>Preisunterschied in der Praxis</h2>
+<p>Direktbuchung beim Operator: keine Brokergebuehr, aber auch kein Preisvergleich. Strecken-Richtwert: direkter Operator-Preis. Broker: Operator-Preis + 10-20% Marge. Kann durch Zugang zu guenstigen Leerflug-Slots mehr als kompensiert werden. Faustregel: fuer Standard-Strecken mit gutem Vorlauf direkt beim Operator anfragen und gleichzeitig 2-3 Broker anfragen -- dann sehen Sie, ob der Direktpreis oder ein Broker-Leerflug guenstiger ist.</p>`
   }
 ];
 

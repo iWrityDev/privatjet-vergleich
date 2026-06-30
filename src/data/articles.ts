@@ -1418,6 +1418,25 @@ Fuer Gruppen ab 4-6 Personen auf Kurzstrecken naehern sich die Kosten manchmal B
 
 <h2>Fuer wen der Privatjet besser ist</h2>
 <p>Gruppen von 6-14 Personen auf mittleren Strecken (Kosten pro Person naehern sich Business Class an), Reisende zu Zielen ohne gute Liniendirektverbindung (Alpen-Skiresorts, kleine Inseln, Industriestandorte), und alle bei denen Zeitkritikalitaet und absolute Flexibilitaet den Aufpreis rechtfertigen.</p>`
+  },
+  {
+    slug: "privatjet-ibiza-charter-sommer-2026",
+    title: "Privatjet Ibiza Charter im Sommer: Kosten, Buchung und was Sie wissen muessen",
+    description: "Privatjet nach Ibiza chartern im Sommer 2026: realistische Kosten, wann man buchen sollte, Flughafen-Optionen und wann der Charterflug gegenueber Business Class Sinn macht.",
+    publishedDate: "2026-06-30",
+    category: "charter",
+    readingMinutes: 5,
+    content: `<h2>Ibiza als Privatjet-Destination</h2>
+<p>Ibiza (IBZ) ist eine der meistgeflogenen Privatjet-Destinationen in Europa im Sommer (Juni bis September). Der Flughafen hat einen separaten FBO-Bereich fuer General Aviation mit direktem Vorfeld-Zugang. In der Hochsaison (Juli-August) sind FBO-Parkplaetze knapp -- Buchung 6-8 Wochen im Voraus empfohlen.</p>
+
+<h2>Realistische Kosten fuer Privatjet Ibiza</h2>
+<p>Beispielroute Frankfurt (EDDF) nach Ibiza (LEIB), ca. 1.700 km, ca. 2:30h Flugzeit. Light Jet (6 Plaetze): 12.000-18.000 Euro. Midsize Jet (8 Plaetze): 18.000-25.000 Euro. Sommer-Aufschlag Juli-August: 20-40% ueber dem Basispreis durch hohe Nachfrage. Bei 6 Personen mit Light Jet (15.000 Euro) = 2.500 Euro pro Person. Business Class Frankfurt-Ibiza: ca. 800-1.500 Euro. Der Privatjet kostet pro Kopf also 1,5-3x mehr als Business Class.</p>
+
+<h2>Wann rechnet sich der Privatjet?</h2>
+<p>Gruppen von 6+ Personen: Pro-Kopf-Differenz zur Business Class wird kleiner, waehrend die Vorteile (eigene Abflugzeit, kein Terminal-Stress) konstant bleiben. Kurzaufenthalte (Wochenende): Zeitgewinn am Flughafen ist relativ groesser bei kurzem Gesamtaufenthalt. Termingebundene Reisen: kein Verpaetungs- oder Anschlussrisiko.</p>
+
+<h2>Buchung und Anbieter</h2>
+<p>Charterbroker: AirCharter Service, Chapman Freeborn, PrivateFly (Air Partner). Beim Buchen: ICAO-Zertifizierung (AOC) des Betreibers anfragen. Fragen nach Landgebuehren und FBO-Handlinggebuehren -- diese koennen im Angebotspreis fehlen. Zahlungsmethode klaeren (Bankueberweisung ueblich, Kreditkarte oft mit 2-3% Aufschlag).</p>`
   }
 ];
 

@@ -15552,6 +15552,24 @@ Fuer Gruppen ab 4-6 Personen auf Kurzstrecken naehern sich die Kosten manchmal B
 
 <h2>Kostenrahmen fuer europaeische Kurzstrecken</h2>
 <p>Light Jet Frankfurt-London (etwa 1h45 Flugzeit): 8.000-12.000 Euro einfach. Business Class Linienflug: 800-1.500 Euro pro Person. Bei 3 Personen und Gegenwert von 2.400-4.500 Euro in Business Class versus 8.000-12.000 Euro Privatjet: Der Privatjet kostet das 2-4-fache. Ob der Komfort- und Zeitvorteil das rechtfertigt, ist eine individuelle Abwaegung.</p>`
+  },
+  {
+    slug: "privatjet-malediven-route-2026",
+    title: "Privatjet auf die Malediven: Routen, Kosten und was man wissen muss",
+    description: "Mit dem Privatjet auf die Malediven: moegliche Routen, realistische Kosten 2026, Besonderheiten bei der Ankunft und welche Flugzeuge geeignet sind.",
+    date: "2026-06-30",
+    category: "ziele",
+    content: `<h2>Warum die Malediven per Privatjet eine besondere Herausforderung sind</h2>
+<p>Die Malediven sind kein einzelner grosser Flughafen -- der internationale Verkehr landet auf Velana International Airport (MLE) auf Male Atoll. Von dort gelangen Gaeste auf die einzelnen Atolle und Inseln per Wasserflugzeug oder Schnellboot. Direktfluege von Europa aus dauern 9-11 Stunden je nach Abflugort. Fuer Privatjets aus Zentraleuropa bedeutet das einen Zwischenstopp, da die meisten Midsize-Jets die Strecke nicht nonstop zuruecklegen koennen.</p>
+
+<h2>Moegliche Routen von Europa</h2>
+<p>Option 1: Nonstop mit einem Long-Range Jet (Bombardier Global 6000/7500, Gulfstream G650). Frankfurt-Male: etwa 9 Stunden Flugzeit, nonstop moeglich. Kosten: 120.000-180.000 Euro fuer den einfachen Flug. Option 2: Zwischenstopp mit einem Midsize oder Large Jet (Citation XLS, Falcon 2000). Frankfurt-Dubai oder Abu Dhabi (4h), Tankstop, dann Dubai-Male (4h weitere). Kosten: 60.000-90.000 Euro, laengere Gesamtreisezeit. Option 3: Midsize-Jet bis Colombo (Sri Lanka) oder Mumbai, dann Anschluss auf die Malediven. Konfigurierbar, aber aufwendig.</p>
+
+<h2>Ankunft und Transfer auf den Atollen</h2>
+<p>Velana International Airport (MLE) hat eine FBO (Fixed Base Operator) fuer Privatjets: Trans Maldivian Airways Ground Handling und AeroCare Maldives. Die Infrastruktur ist vorhanden, aber es ist nicht der luxurioeseste FBO weltweit. Von MLE geht es per Wasserflugzeug (Trans Maldivian Airways) oder Schnellboot zum Resort. Wasserflugzeuge fliegen nur tagsuebers und bei gutem Wetter. Fruehankunft wird empfohlen.</p>
+
+<h2>Warum Privatjet auf die Malediven?</h2>
+<p>Auf Strecken, wo Linienverbindungen gut sind (Frankfurt-Male gibt es mit Emirates, Etihad und Qatar), ist der Vorteil des Privatjets nicht Streckenabdeckung, sondern Terminflexibilitaet und Komfort. Wer die gesamte Reisegruppe (Familie oder Geschaeftspartner) zusammenhalten will, ohne Verbindungen und Terminals zu wechseln, findet im Privatjet den direkten Weg. Kosten pro Person: bei 8 Passagieren fuer einen Longrange-Jet liegen die Kosten aehnlich wie eine First-Class-Verbindung auf den Linienfluggesellschaften.</p>`
   }
 ];
 

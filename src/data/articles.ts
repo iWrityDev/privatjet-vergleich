@@ -15325,6 +15325,24 @@ Ideal fÃ¼r: Mittelstrecken 2.000 bis 5.500 km, Gruppen die Komfort und Reichwe
 
 <h2>Anbieter mit starker Schweiz-Präsenz</h2>
 <p>VistaJet hat seinen Sitz in Malta, aber eine starke Flotte in der Schweiz und bietet Schweizer Kunden dedizierte Flottenkapazität an. TAG Aviation ist in Genf und Zürich einer der grössten FBOs (Fixed Base Operators) und bietet Charter-Buchungen über seine Plattform an. Air Zermatt ist ein spezialisierter Alpen-Operator -- weniger für Privatjet-Charter, aber relevant für Hubschrauber-Transfers zu nicht-angebundenen Alpen-Destinationen. Für digitale Buchungsplattformen: Privatefly, Jettly und Stratajet decken alle grossen Schweizer Flughäfen ab und zeigen Sofortpreise für Leerjfüge.`
+  },
+  {
+    slug: "privatjet-leerflug-schnappschuss-guenstig-2026",
+    title: "Privatjet Leerflug 2026: Wie man guenstige Empty Legs findet und bucht",
+    description: "Empty Legs sind Privatjet-Leerfluge die 50-75% unter dem Normalpreis angeboten werden. Wie man sie findet, was die Einschraenkungen sind, und welche Plattformen die besten Angebote haben.",
+    date: "2026-06-30",
+    category: "guenstig-fliegen",
+    readTime: "5 min",
+    content: `<p>Ein Empty Leg (oder Leerflug) entsteht wenn ein Privatjet einen Flug ohne Passagiere absolvieren muss -- entweder um zum Abflugort zu gelangen oder um nach einem Charter-Flug zum Heimatflughafen zurueckzukehren. Da diese Fluge ohnehin stattfinden, verkaufen Operatoren die Sitze zu stark reduzierten Preisen: typischerweise 50-75% unter dem Normalpreis.</p>
+
+<h2>Wie Empty Legs funktionieren</h2>
+<p>Beispiel: Ein Kunde chartert einen Jet von Hamburg nach Monaco. Der Jet muss danach leer von Monaco nach Hamburg zurueckfliegen. Der Operator bietet diesen Rueckflug als Empty Leg an -- wer ihn bucht zahlt einen Bruchteil des regulaeren Monaco-Hamburg-Preises. Die Einschraenkung: Datum, Route und Abflugzeit stehen fest. Empty Legs sind ideal fuer Reisende mit Flexibilitaet, nicht fuer geplaante Geschaeftsreisen.</p>
+
+<h2>Wo Empty Legs finden</h2>
+<p>Spezialisierte Plattformen: PrivateFly und JetSmarter (jetzt Teil von Blade) haben eigene Empty-Leg-Sektionen mit Echtzeitverfuegbarkeit. XO (ehemals JetSuite) zeigt Empty Legs in seiner App. Victor Aircraft hat eine oeffentliche Empty-Leg-Suche ohne Registrierung. Direkt bei Operatoren: viele regionale Operatoren haben eigene Empty-Leg-Newsletter -- abonnieren lohnt sich wenn du haeufig spezifische Routen fliegst. WhatsApp-Gruppen: in der Branche gibt es inoffizielle Gruppen wo Broker Last-Minute-Leerfluege teilen.</p>
+
+<h2>Worauf du achten musst</h2>
+<p>Stornierung: Empty Legs koennen vom Operator kurzfristig storniert werden wenn der urspruengliche Charter sich aendert oder ausfaellt. Buche keine lebenswichtigen Termine nur auf Basis eines Empty Legs. Strecken-Flexibilitaet: manche Empty Legs haben leicht abweichende Startpunkte (z.B. der Jet startet technisch in Luxemburg statt Frankfurt -- du kannst trotzdem in Frankfurt einsteigen wenn der Operator zustimmt). Zollabwicklung: auch guenstige Empty Legs fallen unter dieselben Zollregeln wie regulaere Charterfluege.`
   }
 ];
 

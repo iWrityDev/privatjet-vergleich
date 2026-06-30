@@ -15495,6 +15495,27 @@ Fuer Gruppen ab 4-6 Personen auf Kurzstrecken naehern sich die Kosten manchmal B
 
 <h2>Praktische Einsatzszenarien</h2>
 <p>Typische Geschaeftsszenarien mit gutem Privatjet-ROI: CEO-Roadshows (5-7 Staedte in 3 Tagen, nur mit Privatjet effizient), medizinische Fachpersonen auf Kongressreise (6-8 Personen, koordinierter Zeitplan), M&A Due Diligence (Team muss gleichzeitig an einem abgelegenen Produktionsstandort sein), und Sporteventgruppen (mehrere VIPs mit unterschiedlichen Abflugorten).</p>`
+  },
+  {
+    slug: "privatjet-sicherheitsstandards-zertifizierungen-2026",
+    title: "Privatjet Sicherheitsstandards: IS-BAO, WYVERN und was sie bedeuten",
+    description: "Welche Sicherheitszertifizierungen serioeser Privatjet-Charter hat: IS-BAO, WYVERN Wingman, ARG/US und wie man den Sicherheitsstandard eines Operators prueft.",
+    date: "2026-06-30",
+    category: "ratgeber",
+    content: `<h2>Warum Sicherheitsstandards im Privatjet-Charter wichtig sind</h2>
+<p>Der Privatjet-Markt ist weniger stark reguliert als die kommerzielle Luftfahrt. Zwischen einem zertifizierten Operator mit Safety-Management-System und einem ohne Sicherheitskultur kann ein erheblicher Unterschied bestehen. Die Basiszertifizierung (Air Operator Certificate, AOC) reicht als Mindeststandard, sagt aber wenig ueber die Sicherheitskultur aus.</p>
+
+<h2>IS-BAO: International Standard for Business Aviation Operations</h2>
+<p>IS-BAO ist der weltweit anerkannte Safety-Standard der International Business Aviation Council (IBAC). Registrierte Operatoren durchlaufen ein Safety-Audit alle 2 Jahre. IS-BAO hat drei Stages: Stage 1 (SMS eingerichtet), Stage 2 (SMS in Betrieb), Stage 3 (SMS voll etabliert). Die meisten serioeser Operator-Firmen halten mindestens IS-BAO Stage 1. Liste aller registrierten Operatoren: online bei IS-BAO/IBAC abrufbar.</p>
+
+<h2>WYVERN Wingman</h2>
+<p>WYVERN bewertet Operatoren auf Basis von Flugsicherheit, Piloten-Qualifikationen und Unfallhistorie. Viele grosse Unternehmensflotten verlangen WYVERN Wingman als Mindestanforderung fuer Charter-Anbieter. Das Rating gibt es als Registered und Wingman (Wingman = hoehere Anforderungen).</p>
+
+<h2>ARG/US: Aviation Research Group/US</h2>
+<p>ARG/US bewertet Operatoren in den Kategorien Gold, Platinum und Platinum+. Es prueft Piloten-Qualifikationen, Wartungshistorie, Unfallhistorie und Operations-Handbuecher. In Europa weniger verbreitet als WYVERN, in den USA breit anerkannt.</p>
+
+<h2>Praktische Pruefung vor dem Charter</h2>
+<p>Fragen Sie Ihren Charter-Broker oder -Operator: Welches AOC haben Sie? Haben Sie IS-BAO-, WYVERN- oder ARG/US-Zertifizierung? Wann war das letzte externe Safety-Audit? Serioeser Operator beantworten diese Fragen ohne Zogern.</p>`
   }
 ];
 

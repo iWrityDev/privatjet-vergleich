@@ -2724,6 +2724,30 @@ Fuer Gruppen ab 4-6 Personen auf Kurzstrecken naehern sich die Kosten manchmal B
 <h2>Wie Sie bis zu 60 Prozent sparen koennen</h2>
 <p>Empty Legs auf der Strecke Muenchen - London werden regelmaessig angeboten, weil viele Geschaeftsreisende in eine Richtung fliegen und das Flugzeug leer zurueckfliegt. Plattformen wie JetSmarter, PrivatFly oder direkte Anfragen bei lokalen Charteranbietern zeigen verfuegbare Empty Legs. Der Nachteil: Sie sind nicht flexibel im Timing und der Flug kann kurzfristig gecancelt werden, wenn der urspruengliche Charter storniert wird.</p>
 <p>Eine weitere Option sind Jet Cards mit Pre-Purchase-Guthaben. Anbieter wie VistaJet oder Air Charter Service bieten Einstiegsoptionen ab 50 Stunden auf einer bestimmten Jet-Kategorie. Fuer regelmaessige Reisende auf Strecken wie Muenchen - London amortisiert sich das gegenueber Einzelchartern innerhalb von wenigen Fluegen.</p>`,
+
+  {
+    slug: "privatjet-wien-new-york-kosten-2026",
+    title: "Privatjet Wien nach New York: Was kostet der Transatlantikflug wirklich?",
+    description: "Ein Privatjet von Wien nach New York ist ein Langstreckenflug. Wir zeigen die realen Kosten, welche Maschinen geeignet sind und wann ein solcher Flug sinnvoll ist.",
+    category: "Kosten",
+    readingMinutes: 7,
+    publishedDate: "2026-07-02",
+    content: <script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Was kostet ein Privatjet von Wien nach New York?","acceptedAnswer":{"@type":"Answer","text":"Ein Privatjet von Wien (VIE) nach New York kostet zwischen 120.000 und 280.000 Euro fuer einen Einwegflug. Ultra-Long-Range-Jets koennen die Strecke non-stop fliegen."}},{"@type":"Question","name":"Welche Privatjet-Kategorie eignet sich fuer Wien nach New York?","acceptedAnswer":{"@type":"Answer","text":"Fuer den Transatlantikflug kommen nur Heavy Jets und Ultra-Long-Range Jets in Frage. Mid-Size Jets haben keine ausreichende Reichweite."}}]}
+</script>
+
+<h2>Die Strecke Wien nach New York als Privatjet-Flug</h2>
+<p>Wien (VIE) nach New York ist eine Transatlantikstrecke von rund 6.800 Kilometern Luftlinie. Fuer Privatjets liegt die reine Flugzeit je nach Maschine zwischen 9,5 und 12 Stunden fuer Non-stop-Verbindungen. Heavy Jets mit laengerer Tankreserve-Anforderung koennen die Strecke guenstiger absolvieren, waehrend kleinere Maschinen einen Stopp einlegen muessen.</p>
+
+<h2>Geeignete Flugzeugkategorien</h2>
+<p>Ultra-Long-Range Jets wie der Gulfstream G650ER, Bombardier Global 7500 oder Dassault Falcon 8X sind die richtigen Maschinen fuer diese Strecke. Sie haben eine Reichweite von 12.000 bis 14.800 Kilometern und koennen Wien nach New York non-stop mit voller Passagierkapazitaet fliegen. Heavy Jets wie der Gulfstream G450 oder Falcon 900LX koennen die Strecke ebenfalls absolvieren, gelegentlich mit technischem Stopp bei voller Besetzung.</p>
+
+<h2>Kostenuebersicht fuer Wien nach New York</h2>
+<p>Die Kosten umfassen Charterpreis, Landegebuehren, Passagiergebuehren, Flugzeugpositionierung und Treibstoffzuschlaege. Fuer eine Gruppe von 8 Personen liegt der Preis pro Person bei 15.000 bis 35.000 Euro, was mit Premium-Business-Class-Tickets vergleichbar ist, aber volle Zeitflexibilitaet und deutlich groesseren Komfort bietet.</p>
+
+<h2>Warum Wien als Abflugsort</h2>
+<p>Wien hat mehrere Vorteile als Privatjet-Abflugsort. Der Flughafen Wien-Schwechat hat gut ausgebaute FBO-Infrastruktur. Die Steuer- und Gebuehrenstruktur fuer Privatluftfahrt in Oesterreich ist guenstiger als in der Schweiz. Wien liegt zentral genug, dass es als Hub fuer Fluege aus Budapest, Prag oder Ljubljana genutzt werden kann.</p>,
+  }
   }];
 
 export function getArticleBySlug(slug: string): Article | undefined {

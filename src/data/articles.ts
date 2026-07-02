@@ -2869,6 +2869,52 @@ Fuer Gruppen ab 4-6 Personen auf Kurzstrecken naehern sich die Kosten manchmal B
 
 <p>Auf DACH-Schweiz-Strecken entstehen viele Leerflug-Positionen, weil Operators Flugzeuge nach Kundenflueegen ohne Passagiere zurueckfliegen muessen. Wer flexibel ist, kann diese Repositionierungsfluege 30-60% guenstiger buchen als normale One-Way-Charter. Plattformen wie JetSmarter (jetzt VistaJet) oder Avinode zeigen verfuegbare Leerflug-Positionen an.`
   }
+  },
+  {
+    slug: "privatjet-leerflug-guenstig-buchen-2026",
+    title: "Privatjet Leerflug guenstig buchen (2026): 50-75% sparen",
+    description: "Privatjet-Leerfluge kosten 50 bis 75 Prozent weniger als regulaere Charter. So finden und buchen Sie Empty-Leg-Positionen auf DACH-Strecken 2026.",
+    category: "Kosten",
+    readingMinutes: 9,
+    publishedDate: "2026-07-02",
+    content: `<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Was ist ein Privatjet-Leerflug?","acceptedAnswer":{"@type":"Answer","text":"Ein Leerflug (englisch: Empty Leg) entsteht, wenn ein Privatjet nach einem Charterflug ohne Passagiere zum Heimatflughafen oder zum naechsten Auftrag zurueckfliegen muss. Da der Operator fuer diese Strecke ohnehin Crew, Treibstoff und Landegebuehren zahlt, werden diese Positionen zu stark reduzierten Preisen angeboten, typisch 50 bis 75 Prozent unter dem regulaeren Charter-Preis. Leerfluge sind datums- und streckengebunden: Sie koennen nicht veraendert werden und fallen weg, wenn der Hinflug storniert wird."}},{"@type":"Question","name":"Wo kann ich Privatjet-Leerfluge buchen?","acceptedAnswer":{"@type":"Answer","text":"Die wichtigsten Plattformen fuer Leerfluge im DACH-Raum sind: Avinode (B2B, nur ueber Broker), VistaJet Empty Legs (Direktbuchung), Wheels Up (US-Fokus), JetSuite (US), Air Charter Service Empty Legs, und regionale Broker wie Lux-Air oder CharterAir. In Deutschland arbeiten viele Nutzer mit direkten Kontakten zu regionalen Operatoren wie Hahn Air, Arcus Air oder WDL Aviation, da diese regelmaessig Leerfluge auf DACH-Routen anbieten und schnell auf Anfragen reagieren."}},{"@type":"Question","name":"Wie viel spart man mit einem Leerflug?","acceptedAnswer":{"@type":"Answer","text":"Typische Ersparnis liegt bei 50 bis 70 Prozent gegenueber dem regulaeren One-Way-Charter-Preis. Ein Light Jet von Muenchen nach Hamburg kostet regulaer 7.500 bis 9.000 Euro. Als Leerflug ist dieselbe Strecke haeufig fuer 2.500 bis 4.000 Euro buchbar. Der Haken: Das genaue Datum und die Strecke sind fix. Wer seinen Plan daran anpassen kann, spart erheblich. Wer ein festes Datum braucht, sollte regulaer chartere."}},{"@type":"Question","name":"Sind Leerfluge sicher?","acceptedAnswer":{"@type":"Answer","text":"Ja. Leerfluge werden von denselben zertifizierten Operatoren und Crews durchgefuehrt wie regulaere Charter. Die Sicherheitsstandards sind identisch: gleiche Wartung, gleiche Piloten, gleiche AOC-Zulassung. Das Risiko bei Leerflueegen ist nicht Sicherheit, sondern Planbarkeit: Der Flug kann sich verspaeten oder entfallen, wenn der Hinflug des Operators Probleme hat. Wer darauf angewiesen ist, rechtzeitig anzukommen, sollte eine Rueckversicherung einplanen."}},{"@type":"Question","name":"Welche Routen haben die meisten Leerfluge in Deutschland?","acceptedAnswer":{"@type":"Answer","text":"Im DACH-Raum entstehen Leerfluge am haeufigsten auf diesen Strecken: Berlin-Muenchen, Muenchen-Hamburg, Frankfurt-Zuerich, Frankfurt-Wien, Hamburg-Muenchen, Muenchen-Duesseldorf und Zuerich-Berlin. Saisonale Spitzen bei Leerflueegen gibt es vor und nach Grossveranstaltungen wie dem Oktoberfest, dem Formel-1-GP Oesterreich, der Bauma-Messe in Muenchen und Ferienbeginn in Bayern. In diesen Perioden entstehen besonders viele Ein-Weg-Positionen, weil Gruppen hingeflogen werden und das Flugzeug leer zurueck muss."}}]}</script>
+<div style="background:#f3f0e6;border-left:4px solid #c9a84c;padding:16px 20px;margin-bottom:24px;border-radius:8px;">
+<strong>Kurzfazit:</strong> Privatjet-Leerfluge kosten 50 bis 75 Prozent weniger als regulaere Charter. Ein Light Jet von Muenchen nach Hamburg ist als Leerflug ab 2.500 Euro buchbar, regulaer zahlen Sie 7.500 bis 9.000 Euro. Der Haken: Datum und Strecke sind fix, und der Flug kann entfallen, wenn der Hinflug storniert wird.
+</div>
+<h2>Was ist ein Leerflug genau?</h2>
+<p>Wenn ein Privatjet einen Passagier von Berlin nach Muenchen fliegt und dann ohne Passagiere nach Berlin zurueckfliegen muss, entsteht ein Leerflug. Der Operator zahlt ohnehin fuer Crew, Treibstoff, Landegebuehren und Wartung. Statt das Flugzeug leer zu bewegen, bieten viele Operators diese Positionen stark reduziert an.</p>
+<p>Leerfluge sind an ein konkretes Datum, eine konkrete Strecke und eine konkrete Abflugzeit gebunden. Sie koennen nicht veraendert, verlegt oder auf anderen Strecken genutzt werden. Wenn der urspruengliche Charterkunde des Operators seinen Flug storniert, faellt auch der Leerflug weg. Das ist das einzige echte Risiko.</p>
+<h2>Wie gross ist die Ersparnis wirklich?</h2>
+<p>Leerfluge im DACH-Raum werden typisch mit 50 bis 70 Prozent Rabatt gegenueber dem regulaeren One-Way-Preis angeboten. Konkrete Vergleiche fuer haeufige Strecken 2026:</p>
+<table>
+<thead><tr><th>Strecke</th><th>Regulaerer One-Way</th><th>Leerflug-Preis</th><th>Ersparnis</th></tr></thead>
+<tbody>
+<tr><td>Muenchen-Hamburg (Light Jet)</td><td>7.500 bis 9.000 Euro</td><td>2.500 bis 3.800 Euro</td><td>ca. 60%</td></tr>
+<tr><td>Frankfurt-Zuerich (Light Jet)</td><td>4.850 bis 6.500 Euro</td><td>1.800 bis 2.800 Euro</td><td>ca. 55%</td></tr>
+<tr><td>Berlin-Muenchen (Light Jet)</td><td>5.500 bis 7.000 Euro</td><td>2.000 bis 3.200 Euro</td><td>ca. 57%</td></tr>
+<tr><td>Wien-Frankfurt (Midsize)</td><td>9.500 bis 12.000 Euro</td><td>3.500 bis 5.000 Euro</td><td>ca. 58%</td></tr>
+<tr><td>Zuerich-Ibiza (Heavy Jet)</td><td>22.000 bis 27.000 Euro</td><td>8.000 bis 12.000 Euro</td><td>ca. 55%</td></tr>
+</tbody>
+</table>
+<p>Diese Preise sind Richtwerte. Wirklich guenstige Leerfluge tauchen haeufig 24 bis 72 Stunden vor Abflug auf, wenn Operators merken, dass sie die Position sonst leer fliegen muessen. Wer kurzfristig disponieren kann, findet die besten Angebote.</p>
+<h2>Wo findet man Leerfluge im DACH-Raum?</h2>
+<p>Es gibt keine zentrale, oeffentliche Datenbank aller verfuegbaren Leerfluge. Die Positionen sind ueber mehrere Kanaele verteilt:</p>
+<ul>
+<li><strong>Direkt beim Operator:</strong> Regionale Anbieter wie Hahn Air, WDL Aviation oder Arcus Air veroeffentlichen Leerfluge auf ihren Websites oder informieren bestehende Kunden per E-Mail. Eine direkte Beziehung zu einem oder zwei regionalen Operatoren ist oft der zuverlaessigste Weg.</li>
+<li><strong>Broker-Plattformen:</strong> Air Charter Service, Chapman Freeborn und aehnliche Broker haben Zugang zu Avinode und koennen Leerfluge aus dem gesamten europaischen Markt abfragen. Sie nehmen eine Provision, bieten dafuer aber Marktueberblick.</li>
+<li><strong>VistaJet Empty Legs:</strong> VistaJet veroeffentlicht eigene Leerflug-Positionen auf der Website. Da VistaJet eine sehr grosse Flotte betreibt, entstehen regelmaessig Positionen auf DACH-Strecken.</li>
+<li><strong>E-Mail-Alerts:</strong> Mehrere Broker bieten Benachrichtigungen fuer bestimmte Strecken an. Wer regelmaessig eine Route fliegt (z.B. Frankfurt-Zuerich), kann sich in solche Listen eintragen.</li>
+</ul>
+<h2>Wann lohnen sich Leerfluge besonders?</h2>
+<p>Drei Situationen, in denen Leerfluge besonders attraktiv sind:</p>
+<p><strong>Einzel-Passagier auf kurzen DACH-Strecken:</strong> Wer allein oder zu zweit von Berlin nach Muenchen muss und flexibel ist, zahlt als Leerflug weniger als ein Business-Class-Ticket auf bestimmten Routen. Der Komfortunterschied (eigenes Flugzeug, kein Terminal) ist erheblich.</p>
+<p><strong>Kleine Gruppen mit Zeitdruck:</strong> Fuenf Personen von Frankfurt nach Zuerich fuer ein Meeting. Regulaer kostet ein Light Jet 5.500 Euro, macht 1.100 Euro pro Person. Als Leerflug bei 2.200 Euro macht das 440 Euro pro Person. Vergleichbar mit guenstigen Business-Class-Tickets, aber ohne Umbuchen, ohne Warteschlangen, ohne Gepaeckband.</p>
+<p><strong>Saisonal vor und nach Grossveranstaltungen:</strong> Rund um das Oktoberfest, den Salzburger Festspielen, dem Monaco GP oder dem World Economic Forum in Davos entstehen viele Leerfluge, weil Flugzeuge eingeflogen und nach dem Event wieder ausgeflogen werden muessen. In diesen Perioden ist die Leerflug-Verfuegbarkeit am hoechtsten.</p>
+<h2>Risiken und Einschraenkungen</h2>
+<p>Leerfluge haben drei konkrete Nachteile gegenueber regulaerer Charter:</p>
+<p><strong>Strecke und Zeit sind unveraenderlich.</strong> Wer einen Leerflug bucht, fliegt genau diese Strecke zu genau dieser Zeit. Es gibt keine Abweichungen, keine Verlegungen. Wer ein anderes Datum braucht oder einen Zwischenstopp einplanen will, kann keinen Leerflug nutzen.</p>
+<p><strong>Stornierungsrisiko durch den Operator.</strong> Wenn der urspruengliche Charter-Kunde seinen Hinflug storniert, entfaellt die Notwendigkeit des Leerflugs. Gute Operators informieren sofort und bieten Rueckerstattung oder Alternativen an. Wer terminkritisch reist, sollte keine Leerfluge als einzige Option einplanen.</p>
+<p><strong>Kurzfristige Verfuegbarkeit.</strong> Die besten Leerflug-Angebote erscheinen oft 24 bis 48 Stunden vor Abflug. Wer laengerfristig planen muss, findet seltener passende Positionen.</p>`
   }];
 
 export function getArticleBySlug(slug: string): Article | undefined {

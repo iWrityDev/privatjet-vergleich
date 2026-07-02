@@ -3018,6 +3018,42 @@ Fuer Gruppen ab 4-6 Personen auf Kurzstrecken naehern sich die Kosten manchmal B
 </ul>
 <h2>Broker vs. Direktbuchung fuer Gruppen</h2>
 <p>Gruppencharterungen profitieren staerker von Brokern als Einzelbuchungen. Der Broker prueft Flugzeugverfuegbarkeiten quer ueber mehrere Betreiber und findet haeufig Leerflueege, die zufaellig mit dem Streckenprofil der Gruppe uebereinstimmen. Fuer eine Gruppe von 10 Personen, die von Hamburg nach Nizza fliegen moechte, kann ein verfuegbarer Leerflug eines Large-Jets den Preis gegenueber einer Neucharterung halbieren. <a href="/ratgeber/privatjet-leerflug-guenstig-buchen-2026">Mehr zu Leerflueegen.</a></p>`
+  },
+  {
+    slug: 'privatjet-muenchen-mailand-kosten-2026',
+    title: 'Privatjet Muenchen nach Mailand: Kosten, Flugzeit und Flughafen-Optionen 2026',
+    description: 'Privatjet-Charter von Muenchen nach Mailand kostet ab 5.500 Euro fuer einen Leichtjet. Alle Infos zu Flugzeugoptionen, Startflughaefen und dem Unterschied zwischen Linate und Malpensa.',
+    category: 'Strecken',
+    date: '2026-07-02',
+    readTime: 5,
+    image: '/images/privatjet-muenchen-mailand.jpg',
+    content: `<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Was kostet ein Privatjet von Muenchen nach Mailand?","acceptedAnswer":{"@type":"Answer","text":"Ein Privatjet-Charter von Muenchen (EDDM / MUC) nach Mailand (Linate LIN oder Malpensa MXP) kostet je nach Flugzeugtyp zwischen 5.000 und 14.000 Euro fuer den gesamten Flug. Ein Leichtjet wie der Embraer Phenom 300 (bis 8 Passagiere) liegt in der Regel bei 5.500 bis 8.000 Euro pro Strecke. Ein Midsize-Jet (bis 10 Passagiere) kostet 8.000 bis 12.000 Euro. Auf Gruppen ab 5 Personen gerechnet ist das oft mit Business-Class-Preisen auf Linienflueegen vergleichbar, aber ohne Wartezeiten und mit direktem Zugang zu Zielflughaefen wie Mailand Linate, der naeher am Stadtzentrum liegt als Malpensa."}},{"@type":"Question","name":"Welcher Flughafen ist fuer Privatjet-Charter in Mailand der beste?","acceptedAnswer":{"@type":"Answer","text":"Fuer Privatjet-Reisende ist Mailand Linate (LIN) deutlich praktischer als Malpensa (MXP). Linate liegt nur 7 km vom Mailaender Stadtzentrum entfernt (ca. 15-20 Minuten Fahrzeit), Malpensa hingegen 49 km (50-70 Minuten). Linienflueege sind seit den COVID-Einschraenkungen auf Linate limitiert, aber fuer Privatjets ist Linate weiterhin voll zugaenglich. Wer nach Como, den Lago Maggiore oder die Brianza faehrt, findet auch den kleinen Flughafen Lugano (LUG) in der Schweiz als Alternative, der geografisch guenstiger gelegen sein kann."}},{"@type":"Question","name":"Wie lange dauert ein Privatjet-Flug von Muenchen nach Mailand?","acceptedAnswer":{"@type":"Answer","text":"Die Flugzeit von Muenchen (EDDM) nach Mailand Linate (LIN) betraegt in einem Leichtjet oder Midsize-Jet etwa 50 bis 70 Minuten. Die tatsaechliche Blockzeit (von Start bis Landung) haengt von der Routenfreigabe durch Eurocontrol ab. Oft wird eine Route ueber den Brenner oder durch den Schweizer Luftraum zugeteilt. Mit Privatjet entfaellt die Vorlaufzeit am Terminal: Zielzeit am FBO von 15 Minuten vor Abflug ist Standard, gegenueber 90-120 Minuten bei Linienflueegen."}}]}</script>
+<p>Muenchen nach Mailand ist eine der beliebtesten Kurzstrecken fuer Privatjet-Charter in Europa. Die Distanz betraegt knapp 500 Kilometer Luftlinie, die Flugzeit liegt unter 70 Minuten, und beide Staedte sind bedeutende Wirtschaftszentren mit engem Geschaeftsverflechtungen in Mode, Automobil, Finanzen und Maschinenbau. Wer regelmassig zwischen den beiden Staedten pendelt, rechnet den Charter-Preis schnell gegen die eingesparte Zeit und die Vergleichspreis Business Class durch.</p>
+<h2>Flugzeugoptionen und Kosten im Ueberblick</h2>
+<table>
+<thead><tr><th>Flugzeugtyp</th><th>Beispiele</th><th>Passagiere</th><th>Kosten ca.</th></tr></thead>
+<tbody>
+<tr><td>Sehr leichter Jet (VLJ)</td><td>Cirrus Vision Jet</td><td>4-5</td><td>4.000 - 5.500 EUR</td></tr>
+<tr><td>Leichtjet</td><td>Embraer Phenom 300, Cessna CJ4</td><td>6-8</td><td>5.500 - 8.000 EUR</td></tr>
+<tr><td>Midsize Jet</td><td>Cessna Citation XLS, Hawker 800</td><td>7-10</td><td>8.000 - 12.000 EUR</td></tr>
+<tr><td>Super-Midsize Jet</td><td>Cessna Citation Longitude</td><td>8-12</td><td>11.000 - 14.000 EUR</td></tr>
+</tbody>
+</table>
+<p>Preise gelten fuer eine Strecke und koennen je nach Verfuegbarkeit, Buchungszeitpunkt und ob ein Leerflug genutzt wird erheblich variieren. Leerflueege (leere Positionierungsfluege) koennen die Kosten um 30-50% reduzieren.</p>
+<h2>Muenchen: Startoptionen</h2>
+<p>Fuer Privatjets stehen in Muenchen mehrere Abflugoptionen zur Verfuegung:</p>
+<ul>
+<li><strong>Muenchen International (MUC / EDDM):</strong> Grossflughafen mit dediziertem FBO-Bereich fuer allgemeine Luftfahrt. Zugang ueber eigene FBO-Terminals (z.B. Jet Aviation, Signature). Geeignet fuer alle Jetgroessen.</li>
+<li><strong>Oberpfaffenhofen (OBF / EDMO):</strong> Kleiner Flughafen westlich von Muenchen, ohne kommerzielle Linienverbindungen. Kuerze Abfertigungswege, oft guenstigere Landegebuehren. Geeignet fuer Leicht- und Midsize-Jets. Besonders attraktiv fuer Reisende aus dem Raum Starnberg, Gauting, Germering.</li>
+<li><strong>Augsburg (AGB / EDMA):</strong> Alternative fuer Passagiere aus dem Grossraum Augsburg. Leichte und mittelgrosse Jets problemlos moeglich.</li>
+</ul>
+<h2>Mailand: Ankunftsoptionen</h2>
+<p><strong>Milano Linate (LIN):</strong> 7 km vom Stadtzentrum (Piazza del Duomo ca. 20 Fahrminuten). Die klar bevorzugte Option fuer Geschaeftsreisende ins Zentrum. Privatjets haben eigenen Zugang ueber das FBO-Terminal. Kein Linienverkehr von und nach Deutschland (nach COVID-Regelung), aber fuer Privatjets weiterhin voll offen.</p>
+<p><strong>Milano Malpensa (MXP):</strong> 49 km vom Stadtenzentrum, 50-70 Fahrminuten je nach Verkehr. Bevorzugt fuer Ziele in der Lombardei ausserhalb Mailands (Como, Varese, Novara). Hat einen dedizierten Business-Aviation-Terminal.</p>
+<p><strong>Bergamo Orio al Serio (BGY):</strong> Oestlich von Mailand, praktisch fuer Brescia, Bergamo und den Lago d'Iseo. Selten erste Wahl fuer Mailand-Reisende.</p>
+<h2>Wann macht der Charter gegenueber Business Class Sinn?</h2>
+<p>Auf dieser Strecke faengt Charter ab 3-4 Personen an, wirtschaftlich interessant zu werden. Ein Business-Class-Ticket Muenchen-Mailand hin und zurueck (Direktverbindung Lufthansa) liegt typisch bei 500-900 Euro pro Person. Bei 4 Personen sind das 2.000 - 3.600 Euro Gesamtkosten. Ein VLJ-Charter liegt bei 4.000-5.500 Euro, dafuer mit FBO-Abfertigung, ohne Wartezeiten und mit Ankunft an Linate statt Malpensa.</p>
+<p>Fuer Gruppen ab 6 Personen und besonders fuer mehrtaegige Reisen mit Weiterfahrt nach Como, Lugano oder in die Brianza (wo Privatautos sinnvoller sind als Mailaender Taxis) ist Charter fast immer die effizientere Wahl.</p>`
   }];
 
 export function getArticleBySlug(slug: string): Article | undefined {

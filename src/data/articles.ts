@@ -2982,6 +2982,42 @@ Fuer Gruppen ab 4-6 Personen auf Kurzstrecken naehern sich die Kosten manchmal B
 <p>Fuer Gruppen ab 5 bis 6 Personen: Business-Class-Tickets summieren sich auf 7.500 bis 15.000 Euro. Ein Light Jet fuer dieselbe Gruppe beginnt bei 12.000 Euro. Die Differenz ist gering, und der Mehrwert erheblich.</p>
 <h2>Leerfluege Berlin-London</h2>
 <p>Diese Route generiert regelmaessig Leerfluege in beide Richtungen, weil viele Jets einmalig gebucht werden und dann leer zurueckfliegen. Wer das Abflugdatum und die Uhrzeit flexibel haelt, kann Empty-Leg-Positionen ueber Broker oder direkt ueber VistaJet Empty Legs anfragen. Typische Preise: 6.000 bis 10.000 Euro fuer einen Light Jet One-Way. <a href="/ratgeber/privatjet-leerflug-guenstig-buchen-2026">Mehr zu Leerflueegen.</a></p>`
+  },
+  {
+    slug: 'privatjet-chartern-wie-viele-personen-2026',
+    title: 'Privatjet chartern: Wie viele Personen passen in welchen Jet? (2026)',
+    description: 'Privatjet-Charter fuer Gruppen: Kapazitaeten nach Flugzeugklasse, ab wann sich Charter gegenueber Business Class lohnt, und was bei Gruppenreisen zu beachten ist.',
+    category: 'Ratgeber',
+    date: '2026-07-02',
+    readTime: 6,
+    image: '/images/privatjet-gruppe.jpg',
+    content: `<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Wie viele Personen passen in einen Privatjet?","acceptedAnswer":{"@type":"Answer","text":"Die Passagierkapazitaet haengt von der Flugzeugklasse ab: Sehr leichte Jets (Cirrus Vision Jet, Honda HA-420) nehmen 4 bis 6 Passagiere mit, Leichtjets (Cessna Citation CJ4, Embraer Phenom 300) 6 bis 8 Passagiere, Mittelgrosse Jets (Cessna Citation XLS, Hawker 800) 7 bis 10 Passagiere, Grossraumjets (Bombardier Challenger 350, Gulfstream G280) 9 bis 12 Passagiere, und Ultra-Long-Range-Jets (Gulfstream G700, Bombardier Global 7500) bis zu 19 Passagiere. Fuer Gruppen ueber 16 Personen sind Charter-Airliner wie die Dassault Falcon 8X im Salonkonfiguration oder kleinere Turboprops eine Alternative."}},{"@type":"Question","name":"Wann lohnt sich Privatjet-Charter fuer Gruppen?","acceptedAnswer":{"@type":"Answer","text":"Bei Gruppen ab 4 bis 6 Personen wird Privatjet-Charter gegenueber Business-Class-Tickets auf Linienflueegen wirtschaftlich interessant, insbesondere auf Strecken ohne Direktverbindung oder mit ungeckhaften Umsteigezeiten. Auf kuerzeren Strecken (unter 2 Stunden) kommt die Zeitersparnis durch Zubringerflug entfallen und exklusive Terminals besonders zum Tragen. Fuer Geschaeftsreisegruppen, die mehrere Staedte an einem Tag ansteuern muessen, ist ein Tagesplan mit zwei bis drei Stops per Charter fast immer effizienter als Linienflueege."}},{"@type":"Question","name":"Was kostet ein Privatjet fuer eine Gruppe von 8 Personen?","acceptedAnswer":{"@type":"Answer","text":"Fuer 8 Personen auf einer europaeischen Strecke (z. B. Muenchen-Paris, ca. 2 Stunden) kostet ein Midsize-Jet wie der Cessna Citation XLS zwischen 15.000 und 20.000 Euro pro Strecke. Auf den Einzelpreis umgerechnet sind das 1.875 bis 2.500 Euro pro Person, was mit Business-Class-Preisen auf Direktfluegen vergleichbar ist, aber ohne Wartezeiten und mit direktem Zugang zu einem FBO. Auf laengeren Strecken (z. B. London-Dubai, ca. 7 Stunden) steigen die Kosten auf 60.000 bis 90.000 Euro fuer einen Large-Jet."}}]}</script>
+<p>Privatjet-Charter wird haeufig als Einzelreise-Luxus betrachtet. Fuer Gruppen ab 4 bis 6 Personen ist es jedoch oft eine wirtschaftliche und logistische Entscheidung. Wer die Kosten pro Person rechnet, wann die Gruppengroesse ausschlaggebend fuer die Wahl des Flugzeugtyps ist, und wie man das richtige Modell fuer seine Teilnehmerzahl findet: das erklaert dieser Leitfaden.</p>
+<h2>Kapazitaet nach Flugzeugklasse</h2>
+<table>
+<thead><tr><th>Klasse</th><th>Beispiele</th><th>Passagiere</th><th>Reichweite</th></tr></thead>
+<tbody>
+<tr><td>Sehr leichter Jet (VLJ)</td><td>Cirrus Vision Jet, Honda HA-420</td><td>4-6</td><td>bis 2.400 km</td></tr>
+<tr><td>Leichtjet</td><td>Embraer Phenom 300, Cessna Citation CJ4</td><td>6-8</td><td>bis 3.700 km</td></tr>
+<tr><td>Midsize Jet</td><td>Cessna Citation XLS, Hawker 800</td><td>7-10</td><td>bis 5.200 km</td></tr>
+<tr><td>Super-Midsize Jet</td><td>Cessna Citation Longitude, Embraer Praetor 600</td><td>8-12</td><td>bis 7.400 km</td></tr>
+<tr><td>Large Jet</td><td>Bombardier Challenger 350, Gulfstream G280</td><td>9-13</td><td>bis 7.700 km</td></tr>
+<tr><td>Ultra Long Range</td><td>Gulfstream G700, Bombardier Global 7500</td><td>13-19</td><td>bis 14.800 km</td></tr>
+</tbody>
+</table>
+<h2>Ab wann lohnt sich Charter fuer Gruppen wirtschaftlich?</h2>
+<p>Die Rechnung ist einfach: Nehmen Sie den Charter-Preis fuer die gewuenschte Strecke und teilen ihn durch die Anzahl der Reisenden. Auf vielen europaeischen Strecken unter 2 Stunden erreichen Gruppen ab 5 Personen Kosten pro Person, die mit Business-Class-Linienpreisen vergleichbar sind, jedoch ohne Zubringerflug zum Hauptflughafen, ohne Eincheckzeiten und mit Direktverbindungen zu kleineren Airports.</p>
+<p>Entscheidend ist zudem der Wert der eingesparten Zeit: Wer an einem Tag Zuerich, Frankfurt und Amsterdam besuchen muss, benoetigt mit Linienflueegen zwei Tage plus Hotels. Per Privatjet-Charter ist dieser Dreistaedte-Plan an einem einzigen Tag machbar.</p>
+<h2>Gruppen ab 16 Personen: Charter-Airliner</h2>
+<p>Fuer Gruppen jenseits der Kapazitaet eines Ultra-Long-Range-Jets (typisch 16-19 Personen) sind Charter-Airliner die naechste Stufe: Narrow-Body-Maschinen wie Airbus A319 oder Boeing 737-700 in Charter-Konfiguration fassen 50 bis 120 Passagiere und werden von Gesellschaften wie Air Charter Service oder Chapman Freeborn vermittelt. Diese Kategorie eignet sich fuer Unternehmensevents, Mannschaftstransporte und politische Reisedelegationen.</p>
+<h2>Gruppenbuchen: Was bei der Planung zu beachten ist</h2>
+<ul>
+<li><strong>Gepaeck pro Person:</strong> Bei kleineren Jets (VLJ, Leichtjet) ist das Gepaeckraumvolumen begrenzt. Acht Personen mit je einem grossen Koffer sprengen die Kapazitaet eines Leichtjets; ein Midsize-Jet ist dann Pflicht.</li>
+<li><strong>Abweichende Rueckflugtermine:</strong> Gruppenreisen sind selten perfekt synchronisiert. Kommunizieren Sie von Anfang an, wenn Teilnehmer zu unterschiedlichen Zeiten zurueckfliegen, da dies die Charter-Struktur (ein Flieger fuer alle vs. mehrere Einzelbuchungen) grundlegend veraendert.</li>
+<li><strong>Bodenzeiten und Overnights:</strong> Bei mehrtaegigen Gruppenreisen entstehen Kosten fuer die Standzeit des Flugzeugs (positioning, overnight fees). Fragen Sie den Broker, ob ein lokaler Leerflug oder ein Repositionierungsflug guenstiger ist.</li>
+</ul>
+<h2>Broker vs. Direktbuchung fuer Gruppen</h2>
+<p>Gruppencharterungen profitieren staerker von Brokern als Einzelbuchungen. Der Broker prueft Flugzeugverfuegbarkeiten quer ueber mehrere Betreiber und findet haeufig Leerflueege, die zufaellig mit dem Streckenprofil der Gruppe uebereinstimmen. Fuer eine Gruppe von 10 Personen, die von Hamburg nach Nizza fliegen moechte, kann ein verfuegbarer Leerflug eines Large-Jets den Preis gegenueber einer Neucharterung halbieren. <a href="/ratgeber/privatjet-leerflug-guenstig-buchen-2026">Mehr zu Leerflueegen.</a></p>`
   }];
 
 export function getArticleBySlug(slug: string): Article | undefined {

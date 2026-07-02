@@ -2945,6 +2945,43 @@ Fuer Gruppen ab 4-6 Personen auf Kurzstrecken naehern sich die Kosten manchmal B
 <p>Emirates und Lufthansa fliegen Frankfurt-Dubai in 6 bis 6,5 Stunden. First-Class-Tickets kosten 3.000 bis 5.000 Euro pro Person. Fuer vier Personen sind das 12.000 bis 20.000 Euro. Ein Heavy Jet fuer dieselbe Gruppe bietet private Kabine, freie Abflugzeit und kein Terminal-Stress zu einem vergleichbaren Gesamtpreis, sobald die Gruppe gross genug ist.</p>
 <h2>Leerfluge Frankfurt-Dubai</h2>
 <p>Diese Strecke generiert regelmaessig Leerfluge in beide Richtungen. Wer flexibel ist, kann Empty-Leg-Positionen ueber VistaJet Empty Legs oder Broker anfragen. Typische Leerflug-Preise: 25.000 bis 40.000 Euro, rund 40 bis 60 Prozent guenstiger als regulaerer Charter. <a href="/ratgeber/privatjet-leerflug-guenstig-buchen-2026">Mehr zu Leerflueegen und wie man sie bucht.</a></p>`
+  },
+  {
+    slug: "privatjet-berlin-london-kosten-2026",
+    title: "Privatjet Berlin London Kosten 2026: Preise, Flughaefen und Leerfluege",
+    description: "Privatjet von Berlin nach London kostet 2026 zwischen 12.000 und 24.000 Euro One-Way. Flugzeit 2 Stunden. Ankunft Farnborough oder Luton. Preistabelle und Leerflug-Optionen.",
+    category: "Kosten",
+    readingMinutes: 6,
+    publishedDate: "2026-07-02",
+    content: `<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Was kostet ein Privatjet von Berlin nach London?","acceptedAnswer":{"@type":"Answer","text":"Ein Privatjet von Berlin nach London kostet 2026 je nach Jet-Klasse: Light Jet (Phenom 300, Citation CJ3) zwischen 12.000 und 18.000 Euro One-Way. Midsize Jet (Hawker 800, Learjet 60) zwischen 16.000 und 24.000 Euro. Leerfluege auf dieser Strecke sind ab ca. 6.000 Euro buchbar. Die Flugzeit betraegt rund 2 Stunden."}},{"@type":"Question","name":"Welcher Flughafen in Berlin eignet sich fuer Privatjets nach London?","acceptedAnswer":{"@type":"Answer","text":"Fuer Privatjets ab Berlin steht der Flughafen Berlin Brandenburg (BER) mit eigenem General Aviation Terminal (GAT) zur Verfuegung. Kleinere Light Jets koennen auch vom Flugplatz Berlin-Schoenfeld (EDDB) oder dem nahegelegenen Magdeburg starten. In London landen die meisten Privatjets in Farnborough (FAB) oder Luton (LTN), beide mit exzellenten FBO-Services und kuerzerer Transfer-Zeit in die Londoner City als Heathrow."}},{"@type":"Question","name":"Lohnt sich ein Privatjet von Berlin nach London?","acceptedAnswer":{"@type":"Answer","text":"Fuer Einzelreisende ist Berlin-London im Privatjet im Vergleich zu Business Class selten kosteneffizient. Fuer Gruppen ab 4 Personen ist die Rechnung interessanter: Vier Business-Class-Tickets auf Eurowings oder British Airways kosten 2026 zwischen 3.000 und 6.000 Euro. Ein Light Jet fuer vier Personen beginnt bei rund 12.000 Euro One-Way, bietet aber: keine Check-in-Zeiten, flexible Abflugzeit, direkten Zugang zur Kabine ohne Terminal und volle Privatsphare."}}]}</script>
+<div style="background:#f3f0e6;border-left:4px solid #c9a84c;padding:16px 20px;margin-bottom:24px;border-radius:8px;">
+<strong>Kurzfazit:</strong> Berlin nach London im Privatjet kostet 2026 zwischen 12.000 und 24.000 Euro One-Way je nach Jet-Klasse. Flugzeit ca. 2 Stunden. Leerfluege ab ca. 6.000 Euro.
+</div>
+<h2>Berlin-London: Markt und Nachfrage</h2>
+<p>Berlin-London gehoert zu den meistgeflogenen Business-Strecken in Europa. Direktfluege gibt es mehrfach taeglich, und die Linienfluege sind effizient. Warum trotzdem Privatjet? Fuer Unternehmen und Einzelpersonen, die in einem Tag hin und zurueck fliegen wollen, ist die Flexibilitaet beim Abflugzeitpunkt entscheidend: Ein Privatjet wartet auf das Meeting, nicht umgekehrt.</p>
+<h2>Kosten 2026 nach Jet-Klasse</h2>
+<table>
+<thead><tr><th>Jet-Klasse</th><th>Beispiele</th><th>One-Way Berlin-London</th><th>Passagiere</th></tr></thead>
+<tbody>
+<tr><td>Very Light Jet</td><td>Phenom 100, Eclipse 500</td><td>9.000 bis 13.000 Euro</td><td>4-5</td></tr>
+<tr><td>Light Jet</td><td>Phenom 300, Citation CJ3</td><td>12.000 bis 18.000 Euro</td><td>6-8</td></tr>
+<tr><td>Midsize Jet</td><td>Hawker 800, Learjet 60</td><td>16.000 bis 24.000 Euro</td><td>8-9</td></tr>
+<tr><td>Leerflug (Light Jet)</td><td>Je nach Verfuegbarkeit</td><td>6.000 bis 10.000 Euro</td><td>6-8</td></tr>
+</tbody>
+</table>
+<p>Preise sind One-Way-Richtwerte inklusive Crew, Treibstoff und Basishandling. Landing Fees in Farnborough oder Luton sowie Catering kommen hinzu (typisch 1.000 bis 2.000 Euro).</p>
+<h2>Ankunftsoptionen in London</h2>
+<p>Privatjets landen in London an spezialisierten Business-Aviation-Flughaefen, nicht in Heathrow (der fuer Privatjets teuerste und operativ komplexeste Londoner Flughafen). Die besten Optionen:</p>
+<ul>
+<li><strong>Farnborough (FAB):</strong> 45 Minuten suedwestlich der City, exklusive Business-Aviation-Infrastruktur, kurze Abfertigungszeiten. Beliebtester Privatjet-Flughafen Londons.</li>
+<li><strong>Luton (LTN):</strong> 30 Minuten noerdlich der City per Bahn oder Auto. Niedrigere Landing Fees als Farnborough, ebenfalls gute FBO-Services.</li>
+<li><strong>Biggin Hill (BQH):</strong> 30 Minuten suedlich der City, ruhiger und guenstiger. Gut fuer Gruppen, die Suedlondon oder Kent anfliegen.</li>
+</ul>
+<h2>Gegenwert: Privatjet vs. Business Class</h2>
+<p>Fuer zwei Personen: Business Class (Eurowings Discover, British Airways) kostet 1.500 bis 2.500 Euro pro Person, also 3.000 bis 5.000 Euro fuer zwei. Ein Very Light Jet kostet 9.000 bis 13.000 Euro. Der Aufpreis fuer zwei Personen liegt bei 4.000 bis 10.000 Euro und kauft: keine Sicherheitskontrolle, flexibler Abflug, vollstaendige Privatsphare.</p>
+<p>Fuer Gruppen ab 5 bis 6 Personen: Business-Class-Tickets summieren sich auf 7.500 bis 15.000 Euro. Ein Light Jet fuer dieselbe Gruppe beginnt bei 12.000 Euro. Die Differenz ist gering, und der Mehrwert erheblich.</p>
+<h2>Leerfluege Berlin-London</h2>
+<p>Diese Route generiert regelmaessig Leerfluege in beide Richtungen, weil viele Jets einmalig gebucht werden und dann leer zurueckfliegen. Wer das Abflugdatum und die Uhrzeit flexibel haelt, kann Empty-Leg-Positionen ueber Broker oder direkt ueber VistaJet Empty Legs anfragen. Typische Preise: 6.000 bis 10.000 Euro fuer einen Light Jet One-Way. <a href="/ratgeber/privatjet-leerflug-guenstig-buchen-2026">Mehr zu Leerflueegen.</a></p>`
   }];
 
 export function getArticleBySlug(slug: string): Article | undefined {

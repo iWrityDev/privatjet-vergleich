@@ -2748,6 +2748,38 @@ Fuer Gruppen ab 4-6 Personen auf Kurzstrecken naehern sich die Kosten manchmal B
 <h2>Warum Wien als Abflugsort</h2>
 <p>Wien hat mehrere Vorteile als Privatjet-Abflugsort. Der Flughafen Wien-Schwechat hat gut ausgebaute FBO-Infrastruktur. Die Steuer- und Gebuehrenstruktur fuer Privatluftfahrt in Oesterreich ist guenstiger als in der Schweiz. Wien liegt zentral genug, dass es als Hub fuer Fluege aus Budapest, Prag oder Ljubljana genutzt werden kann.</p>,
   }
+
+  {
+    slug: "privatjet-fuer-hochzeiten-kosten-2026",
+    title: "Privatjet fuer Hochzeiten: Was kostet ein Flug fuer das Brautpaar und die Gaeste?",
+    description: "Ein Privatjet fuer die Hochzeit ist das ultimative Luxus-Extra. Wir zeigen, was ein Charterflug fuer Hochzeitsgesellschaften kostet, welche Maschinen geeignet sind und wie man plant.",
+    category: "Erlebnis",
+    readingMinutes: 6,
+    publishedDate: "2026-07-02",
+    content: `<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Was kostet ein Privatjet fuer eine Hochzeitsgesellschaft?","acceptedAnswer":{"@type":"Answer","text":"Ein Privatjet fuer eine Hochzeitsgesellschaft kostet je nach Flugzeuggroesse, Strecke und Anzahl der Gaeste zwischen 3.000 und 50.000 Euro fuer einen Einwegflug innerhalb Europas. Fuer kleine Brautpaare-Fluege auf Kurzstrecken (z.B. Paris nach Cannes) genuegt ein Light Jet ab ca. 4.000 Euro. Fuer groessere Gesellschaften von 10-19 Personen werden Heavy Jets benoetigt, die auf Mittelstrecken 15.000 bis 35.000 Euro kosten."}},{"@type":"Question","name":"Kann man einen Privatjet fuer die Hochzeitsreise chartern?","acceptedAnswer":{"@type":"Answer","text":"Ja. Das Chartern eines Privatjets fuer die Hochzeitsreise ist ein wachsendes Segment im Luxusreisemarkt. Anbieter wie Victor, PrivateFly und Stratajet spezialisieren sich auf solche Buchungen und koennen den Innenraum mit Blumen, Champagner und personalisierten Details ausstatten. Die Buchung sollte mindestens 2-4 Wochen im Voraus erfolgen, bei beliebten Hochzeitsdestinationen wie Santorini oder Malediven deutlich frueher."}},{"@type":"Question","name":"Wie viele Personen passen in einen Hochzeits-Privatjet?","acceptedAnswer":{"@type":"Answer","text":"Light Jets fassen 6-8 Personen und eignen sich fuer das Brautpaar plus engste Familie. Mid-Size Jets fassen 8-10 Personen. Heavy Jets und Ultra-Long-Range Jets fassen 10-19 Personen und ermoegli eine groessere Hochzeitsgesellschaft. Fuer sehr grosse Gruppen ab 20 Personen kommen Charter-Business-Jets wie der Airbus A319 in Frage."}}]}
+</script>
+
+<h2>Privatjet fuer Hochzeiten: Ein wachsender Markt</h2>
+<p>Hochzeitsplanung hat sich in den letzten Jahren immer mehr in Richtung aussergewoehnlicher Erlebnisse verschoben. Ein Privatjet-Flug, ob fuer das Brautpaar alleine oder fuer eine ausgewaehlte Hochzeitsgesellschaft, ist von einem ultra-exklusiven Nischenangebot zu einem verfuegbaren Luxus geworden, den vermoegende Paare ernsthaft in ihre Planung einbeziehen.</p>
+
+<h2>Flugzeugkategorien und was sie fuer Hochzeiten leisten</h2>
+<p><strong>Light Jets (4-8 Personen):</strong> Ideal fuer das Brautpaar alleine oder mit engstem Begleiter. Maschinen wie der Cessna Citation CJ4 oder Embraer Phenom 300 bieten genuegend Komfort fuer kurze bis mittlere Strecken innerhalb Europas. Der Innenraum ist kompakt aber luxurios und kann mit frischen Blumen und Champagner individualisiert werden.</p>
+<p><strong>Mid-Size Jets (8-10 Personen):</strong> Die beliebteste Kategorie fuer Hochzeitsfluge. Maschinen wie der Cessna Citation XLS oder Learjet 60 bieten mehr Stehoehe, groessere Fenster und einen separaten Schlafbereich auf Langstrecken. Gut geeignet fuer Brautpaar plus Trauzeugen oder naechste Familie.</p>
+<p><strong>Heavy Jets (10-14 Personen):</strong> Fuer groessere Hochzeitsgesellschaften. Maschinen wie der Gulfstream G450 oder Challenger 650 haben kabinenartige Bereiche, die fuer einen Champagner-Empfang im Flug geeignet sind. Diese Kategorie ermoeglicht echte Gesellschafts-Atmosphaere in der Luft.</p>
+
+<h2>Kosten und was sie beinhalten</h2>
+<p>Der Charterpreis umfasst in der Regel: den Flug selbst, Landegebuehren, Besatzungskosten und Standard-Catering. Personalisierungen werden extra berechnet: Blumendekoration (200-800 Euro), Champagner-Pakete (ab 150 Euro), personalisierte Menus (500-2.000 Euro), Fotografen-Service an Bord (auf Anfrage).</p>
+<p>Fuer Hochzeitsfluge innerhalb Europas auf Kurzstrecken (unter 2 Stunden) sind Light Jets ab ca. 4.000 Euro verfuegbar. Mitteleuropaeische Strecken (2-4 Stunden) mit Mid-Size Jets kosten 8.000-18.000 Euro. Fluege zu Fernzielen wie Malediven oder Karibik erfordern Heavy Jets oder Ultra-Long-Range-Maschinen und kosten entsprechend mehr.</p>
+
+<h2>Beliebte Hochzeitsdestinationen per Privatjet</h2>
+<p>Santorini (Griechenland), Positano (Italien), Monte Carlo (Monaco), Dubrovnik (Kroatien) und Ibiza (Spanien) sind die gefragtesten europaeischen Hochzeitsdestinationen fuer Privatjet-Reisende. Diese Ziele haben gemeinsam, dass kommerzielle Fluge entweder keine Direktverbindung bieten oder ungelegene Ankunftszeiten haben, was den Privatjet-Vorteil besonders deutlich macht.</p>
+<p>Fuer Fernreise-Hochzeiten (Malediven, Bali, Karibik) ist der Privatjet weniger kosteneffizient als bei Europazielen, aber als Teil eines umfassenden Luxus-Hochzeitspakets buchbar.</p>
+
+<h2>Buchungsablauf und Planung</h2>
+<p>Hochzeitsfluge sollten fruehzeitig gebucht werden, idealerweise 3-6 Monate vor dem Datum fuer Strecken innerhalb Europas. An beliebten Hochzeitswochenenden (Juni bis September) kann die Verfuegbarkeit von passenden Maschinen eingeschraenkt sein.</p>
+<p>Spezialisierte Broker wie Victor, Air Charter Service und Chapman Freeborn haben Erfahrung mit Hochzeitsbuchungen und koennen die Koordination zwischen Charter-Unternehmen und Hochzeitsplanern uebernehmen. Sie stellen auch sicher, dass alle benoetigen Genehmigungen und die notwendige Catering-Koordination im Voraus geklaert sind.</p>`
+  }
   }];
 
 export function getArticleBySlug(slug: string): Article | undefined {

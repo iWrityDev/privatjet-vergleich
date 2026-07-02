@@ -2811,7 +2811,31 @@ Fuer Gruppen ab 4-6 Personen auf Kurzstrecken naehern sich die Kosten manchmal B
 
 <h2>Buchung: Was zu beachten ist</h2>
 <p>Fuer Kleingruppen empfiehlt sich die Buchung ueber einen spezialisierten Broker statt direkt bei einem Charter-Unternehmen. Broker haben Zugang zu einer groesseren Flotte und koennen die guenstigste verfuegbare Maschine fuer Ihre Route finden. Seriöse Broker sind Mitglied bei EBAA oder ARGUS und stellen eine Kopie des Lufttuechtigkeitszeugnisses der gebuchten Maschine zur Verfuegung.</p>`
+
+  {
+    slug: "privatjet-muenchen-london-kosten-2026",
+    title: "Privatjet München London: Was kostet ein Charterflug 2026?",
+    description: "Ein Privatjet von München nach London dauert rund 2 Stunden. Was kostet der Charter, welche Maschinen sind sinnvoll und wie bucht man guenstig? Alle Infos fuer 2026.",
+    category: "Strecken",
+    readingMinutes: 5,
+    publishedDate: "2026-07-02",
+    content: `<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Was kostet ein Privatjet von Muenchen nach London?","acceptedAnswer":{"@type":"Answer","text":"Ein Privatjet von Muenchen (MUC/EDDM oder Muenchen-Oberpfaffenhofen EDMO) nach London (Luton, Farnborough oder Biggin Hill) kostet je nach Maschinenklasse zwischen 8.000 und 22.000 Euro fuer den gesamten Flug. Ein Light Jet (6-8 Sitze) liegt bei 8.000 bis 12.000 Euro, ein Mid-Size Jet bei 12.000 bis 18.000 Euro. Auf Empty-Leg-Angeboten sind Rabatte von 40-60% moeglich, was den Preis auf 4.000 bis 8.000 Euro senken kann."}},{"@type":"Question","name":"Wie lange dauert ein Privatjet von Muenchen nach London?","acceptedAnswer":{"@type":"Answer","text":"Die Flugzeit von Muenchen nach London betraegt im Privatjet ca. 1 Stunde 45 Minuten bis 2 Stunden 10 Minuten, abhaengig von der Maschinenklasse und dem Zielflughafen. Dazu kommt die Anreise: der Vorteil des Privatjets ist, dass Business Aviation Terminals (FBOs) an Regionalflughaefen wie Muenchen-Oberpfaffenhofen oder London Farnborough keine langen Check-in-Zeiten erfordern. Der Zeitvorteil gegenueber Linienflug mit fruehzeitigem Check-in ist fuer diese Strecke erheblich."}},{"@type":"Question","name":"Welcher Londoner Flughafen ist am besten fuer Privatjets?","acceptedAnswer":{"@type":"Answer","text":"Fuer Privatjets nach London sind Farnborough (FAB) und London Luton (LTN) die besten Optionen. Farnborough ist der fuehrende Business Aviation Flughafen suedwestlich von London mit ausgezeichneten FBO-Einrichtungen und direktem Zugang nach Surrey und Zentrallondon in ca. 45 Minuten. London Luton liegt noerdlich der Stadt und ist schneller erreichbar, wenn das Ziel in North London, dem Finanzdistrikt oder den nördlichen Vororten liegt. Biggin Hill im Suedosten ist eine weitere Option fuer Reisende, die nach Canary Wharf oder Kent muessen."}}]}</script>
+
+<h2>Muenchen London per Privatjet: Die Streckenanalyse</h2>
+<p>Muenchen und London gehoeren zu den am haeufigsten gebuchten Privatjet-Strecken in Europa. Die Entfernung betraegt rund 1.380 Kilometer Luftlinie. Mit einem Light Jet ist die Strecke in unter 2 Stunden zurueckzulegen.</p>
+<p>Der Vorteil gegenueber Linienflug liegt vor allem im Zeit- und Komfortfaktor: Abflug von Muenchen-Oberpfaffenhofen (EDMO) statt MUC, kein langer Check-in, Ankunft in Farnborough oder Biggin Hill statt Heathrow oder Gatwick mit anschliessender langer Transferzeit. Fuer Geschaeftsreisende, die mehrere Termine in London wahrnehmen und am selben Tag zurueckfliegen wollen, kann der Zeitvorteil mehrere Stunden betragen.</p>
+
+<h2>Maschinenklassen fuer diese Strecke</h2>
+<p>Fuer 1-3 Passagiere: Ein Very Light Jet (Cirrus Vision Jet, Eclipse 500) ist die kostenguenstigste Option und schafft die Strecke komfortabel. Fuer 4-6 Passagiere: Ein Light Jet (Cessna Citation CJ3, Embraer Phenom 300) bietet gute Kabine und ausreichend Gepaeckraum. Fuer groessere Gruppen oder wenn Komfort priorisiert wird: Mid-Size Jets wie der Cessna Citation XLS bieten mehr Stehoehe und breitere Sitze.</p>
+<p>Die Strecke Muenchen-London liegt an der oberen Grenze der Reichweite vieler Light Jets, je nach Wind und Routenfuehrung. Ein guter Broker prueft, ob ein Non-stop-Flug mit der gewuenschten Maschinenklasse machbar ist oder ob ein kurzer Tankstopp benoetigt wird.</p>
+
+<h2>Flughafen-Optionen in London</h2>
+<p>Farnborough Airport (EGLF): Der praeferred Business Aviation Flughafen fuer London. Excellente FBO-Einrichtungen, kein kommerzieller Flugverkehr, Transfers nach Zentrallondon in 45-60 Minuten. London Luton (EGGW): Kommerzieller Flughafen mit starker Business Aviation Infrastruktur. Gute Option fuer Reisende nach North London oder Hertfordshire. Biggin Hill (EGKB): Kleiner Business Aviation Flughafen im Suedosten Londons. Ideal fuer Reisende nach Canary Wharf oder Kent. Transfer nach Zentrallondon ca. 60-75 Minuten.</p>
+
+<h2>Tipps fuer die Buchung</h2>
+<p>Buchen Sie ueber einen spezialisierten Broker, nicht direkt beim Operator: Broker haben Zugang zu mehreren Flotten und koennen den guenstigsten verfuegbaren Jet fuer Ihre Route finden. Fragen Sie gezielt nach Empty-Leg-Optionen auf der Strecke Muenchen-London oder London-Muenchen: Diese Route hat eine hohe Frequency und Empty Legs tauchen regelmaessig auf. Flexible Abflugzeiten (z.B. fruehmorgens oder abends) erhoehen die Wahrscheinlichkeit, ein guenstiges Empty Leg zu finden.`
   }
+    }
   }];
 
 export function getArticleBySlug(slug: string): Article | undefined {

@@ -2780,6 +2780,38 @@ Fuer Gruppen ab 4-6 Personen auf Kurzstrecken naehern sich die Kosten manchmal B
 <p>Hochzeitsfluge sollten fruehzeitig gebucht werden, idealerweise 3-6 Monate vor dem Datum fuer Strecken innerhalb Europas. An beliebten Hochzeitswochenenden (Juni bis September) kann die Verfuegbarkeit von passenden Maschinen eingeschraenkt sein.</p>
 <p>Spezialisierte Broker wie Victor, Air Charter Service und Chapman Freeborn haben Erfahrung mit Hochzeitsbuchungen und koennen die Koordination zwischen Charter-Unternehmen und Hochzeitsplanern uebernehmen. Sie stellen auch sicher, dass alle benoetigen Genehmigungen und die notwendige Catering-Koordination im Voraus geklaert sind.</p>`
   }
+
+  {
+    slug: "privatjet-mieten-kleingruppe-4-personen-kosten-2026",
+    title: "Privatjet mieten fuer Kleingruppen: Was kostet ein Flug fuer 4 Personen?",
+    description: "Ein Privatjet fuer 4 Personen ist oft erschwinglicher als gedacht. Wir zeigen, was ein Charterflug fuer eine Kleingruppe kostet, welche Maschinen passen und wann sich der Privatjet gegenüber der First Class lohnt.",
+    category: "Ratgeber",
+    readingMinutes: 5,
+    publishedDate: "2026-07-02",
+    content: `<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Was kostet ein Privatjet fuer 4 Personen?","acceptedAnswer":{"@type":"Answer","text":"Ein Privatjet fuer 4 Personen kostet auf europaeischen Kurzstrecken (unter 2 Stunden) zwischen 3.000 und 8.000 Euro fuer den gesamten Flug. Auf Mittelstrecken (2-4 Stunden) kosten Maschinen der Light-Jet-Klasse zwischen 6.000 und 14.000 Euro. Diese Kosten werden auf alle Passagiere aufgeteilt, was pro Person 750 bis 3.500 Euro entspricht. Zum Vergleich: First-Class-Tickets auf denselben Strecken kosten oft 2.000 bis 5.000 Euro pro Person."}},{"@type":"Question","name":"Welcher Privatjet ist am besten fuer 4 Personen?","acceptedAnswer":{"@type":"Answer","text":"Fuer 4 Personen sind Light Jets wie der Cessna Citation CJ4, Embraer Phenom 300 oder Pilatus PC-24 optimal. Diese Maschinen bieten 6-8 Sitze, gute Stehoehe und ausreichend Gepaeckraum fuer Kurztrips. Fuer laengere Fluege (ueber 3 Stunden) oder wenn Schlaf wichtig ist, sind Mid-Size Jets wie der Citation XLS angenehmer."}},{"@type":"Question","name":"Wann lohnt sich ein Privatjet fuer 4 Personen gegenueber der Business Class?","acceptedAnswer":{"@type":"Answer","text":"Ein Privatjet lohnt sich gegenueber der Business Class wenn: der Reisezeitpunkt flexibel ist (Empty Legs koennen 30-60% guenstiger sein), das Ziel von Linienflughafen schlecht erreichbar ist, Zeitersparnis durch direkten Abflug ohne Check-in-Wartezeiten wichtig ist, oder die Gruppe Gepaeck hat das die Airline-Limits uebersteigt. Reine Preis-Vergleiche ergeben selten einen Vorteil fuer den Privatjet."}}]}
+</script>
+
+<h2>Privatjet fuer Kleingruppen: Die Wirtschaftlichkeitsrechnung</h2>
+<p>Die meisten Menschen gehen davon aus, dass ein Privatjet unerschwinglich ist. Fuer Einzelpersonen stimmt das. Fuer eine Gruppe von 4 bis 6 Personen verschiebt sich die Rechnung erheblich. Ein Light Jet auf einer europaeischen Kurzstrecke kostet 4.000 bis 8.000 Euro fuer den gesamten Flug. Geteilt durch vier Passagiere: 1.000 bis 2.000 Euro pro Person. Das ist vergleichbar mit einem Business-Class-Ticket auf derselben Strecke.</p>
+<p>Der Vorteil des Privatjets liegt nicht beim Preis, sondern beim Erlebnis: kein Check-in, kein Sicherheitsbereich mit Schlangen, Abflug nach Ihrem Zeitplan, und direkte Verbindungen zu Regional-Airports ohne Umstieg.</p>
+
+<h2>Die richtige Maschinenklasse fuer 4 Personen</h2>
+<p>Fuer 4 Passagiere ist ein Light Jet die wirtschaftlichste Option. Maschinen wie der Cessna Citation CJ4 (7 Sitze) oder der Embraer Phenom 300 (8 Sitze) bieten genuegend Platz fuer eine Kleingruppe mit Gepaeck.</p>
+<p>Der Phenom 300 ist besonders beliebt: er hat die groesste Kabine in seiner Klasse, eine Toilette an Bord und Stehoehe fuer Personen bis ca. 1,75 Meter. Die Reichweite betraegt rund 3.500 Kilometer, was alle innereuropaeischen Ziele abdeckt und einige interkontinentale Kurzstrecken (z.B. Europa-Marokko oder Europa-Kanaren).</p>
+<p>Fuer laengere Fluege oder wenn 4 Personen bequemer schlafen moechten, lohnt sich der Aufstieg in die Mid-Size-Klasse (Cessna Citation XLS, Learjet 75 Liberty). Diese Maschinen haben mehr Stehoehe, breitere Sitze und koennen weiter fliegen, kosten aber 30-50% mehr.</p>
+
+<h2>Empty Legs: Der guenstigste Weg fuer Kleingruppen</h2>
+<p>Empty Legs sind Rueckfluege oder Positionierungsfluege ohne Passagiere. Charter-Unternehmen bieten diese Fluege mit 30-70% Rabatt an. Fuer flexible Reisende ist das die guenstigste Moeglichkeit, einen Privatjet zu chartern.</p>
+<p>Der Nachteil: Empty Legs sind nicht planbar. Sie tauchen mit kurzer Vorlaufzeit (oft 24-72 Stunden) auf und verbinden spezifische Flughaefen zu spezifischen Zeiten. Apps wie JetSmarter oder die Website von Victor aggregieren Empty-Leg-Angebote in Echtzeit.</p>
+
+<h2>Kostenbeispiele fuer typische Routen</h2>
+<p>Diese Beispiele basieren auf Light-Jet-Preisen fuer 4 Passagiere ohne Empty-Leg-Rabatt:</p>
+<p>Muenchen nach Paris: ca. 5.500 Euro (90 Minuten Flugzeit), pro Person ca. 1.375 Euro. Dusseldorf nach London: ca. 4.800 Euro (75 Minuten), pro Person ca. 1.200 Euro. Frankfurt nach Barcelona: ca. 7.500 Euro (2,5 Stunden), pro Person ca. 1.875 Euro. Hamburg nach Rom: ca. 9.000 Euro (2,5 Stunden), pro Person ca. 2.250 Euro.</p>
+
+<h2>Buchung: Was zu beachten ist</h2>
+<p>Fuer Kleingruppen empfiehlt sich die Buchung ueber einen spezialisierten Broker statt direkt bei einem Charter-Unternehmen. Broker haben Zugang zu einer groesseren Flotte und koennen die guenstigste verfuegbare Maschine fuer Ihre Route finden. Seriöse Broker sind Mitglied bei EBAA oder ARGUS und stellen eine Kopie des Lufttuechtigkeitszeugnisses der gebuchten Maschine zur Verfuegung.</p>`
+  }
   }];
 
 export function getArticleBySlug(slug: string): Article | undefined {
